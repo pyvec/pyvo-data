@@ -1,5 +1,6 @@
 start: 2011-03-30
-name: 'Django-cs #3'
+name: Django-cs
+number: 3
 series: Pražské PyVo
 venue:
   city: Prague

@@ -1,0 +1,30 @@
+start: 2014-03-19
+name: Pražské PyVo
+number: 36
+topic: docs
+series: Pražské PyVo
+venue:
+  city: Prague
+  name: Na Věnečku
+  address: "Ostrovského 38a, Praha 5, Czech Republic, 15000\n\t\t\t\t\n\t\t\t\t\t\
+    - Jedna se o soukromy klub. Takze nastrazte oci a usi, nikde neni zadna (napr\
+    \ pivni) cedule. Kdyz se Ostrovskeho ulice zmeni na chodnik, jdete cca 50m do\
+    \ kopce. Po prave strane narazite na pomerne velkou branu do dvora."
+  location:
+    latitude: '50.0678996'
+    longitude: '14.3953814'
+talks:
+- title: Confluence
+  speakers:
+  - Tomáš Bílek
+  urls:
+  - http://lanyrd.com/2014/praha-pyvo-march/scxqyz/
+  coverage: []
+- title: Dexy
+  speakers:
+  - Martin Putniorz
+  urls:
+  - http://lanyrd.com/2014/praha-pyvo-march/scxdhd/
+  coverage: []
+urls:
+- http://lanyrd.com/2014/praha-pyvo-march/

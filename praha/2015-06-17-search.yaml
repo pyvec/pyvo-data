@@ -1,0 +1,56 @@
+start: 2015-06-17 19:00:00
+name: Pražské PyVo
+number: 51
+topic: search
+series: Pražské PyVo
+venue:
+  city: Prague
+  name: Na Věnečku
+  address: "Ostrovského 38a, Praha 5, Czech Republic, 15000\n\t\t\t\t\n\t\t\t\t\t\
+    - If you're not sure how to get here, meet us 18:30 at Andel metro station in\
+    \ front of the apple store."
+  location:
+    latitude: '50.0678996'
+    longitude: '14.3953814'
+talks:
+- title: (Elastic)search - What is this "search"?
+  speakers:
+  - Honza Král
+  urls:
+  - http://lanyrd.com/2015/praha-pyvo-june/sdprrt/
+  coverage:
+  - video: http://www.youtube.com/watch?v=6NdFFywjEYw
+- title: Vyhledávání v Djangu pro chudé
+  speakers:
+  - Jirka Vejrazka
+  urls:
+  - http://lanyrd.com/2015/praha-pyvo-june/sdpryp/
+  coverage:
+  - video: http://www.youtube.com/watch?v=16xcahoLxbQ
+- title: (Elastic)search - Python DSL
+  speakers:
+  - Honza Král
+  urls:
+  - http://lanyrd.com/2015/praha-pyvo-june/sdpttc/
+  coverage:
+  - video: http://www.youtube.com/watch?v=F2zTjaLtLUE
+- title: 'Lightning Talk: PyLadies Praha'
+  urls:
+  - http://lanyrd.com/2015/praha-pyvo-june/sdptwp/
+  coverage: []
+- title: 'Lightning Talk: Pycon CZ'
+  speakers:
+  - Honza Javorek
+  - Jakub Vysoký
+  urls:
+  - http://lanyrd.com/2015/praha-pyvo-june/sdptwq/
+  coverage:
+  - video: http://www.youtube.com/watch?v=3PJiV-eo9_s
+- title: 'Lightning Talk: BTS in a Pocket'
+  speakers:
+  - Josef Liška
+  urls:
+  - http://lanyrd.com/2015/praha-pyvo-june/sdptwr/
+  coverage: []
+urls:
+- http://lanyrd.com/2015/praha-pyvo-june/

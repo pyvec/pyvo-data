@@ -1,0 +1,37 @@
+start: 2013-07-17
+name: Pražské PyVo
+number: 28
+topic: na grillu
+series: Pražské PyVo
+venue:
+  city: Prague
+  name: Na Věnečku
+  address: Ostrovského 38a, Praha 5, Czech Republic, 15000
+  location:
+    latitude: '50.0678996'
+    longitude: '14.3953814'
+talks:
+- title: intro
+  urls:
+  - http://lanyrd.com/2013/praha-pyvo-july/sckxqf/
+  coverage: []
+- title: collectd-web
+  speakers:
+  - yac
+  urls:
+  - http://lanyrd.com/2013/praha-pyvo-july/sckqdm/
+  coverage: []
+- title: Zato ESB and backend application server
+  speakers:
+  - Dariusz Suchojad
+  urls:
+  - http://lanyrd.com/2013/praha-pyvo-july/sckwwy/
+  coverage: []
+- title: Data-Fu with pandas
+  speakers:
+  - Franta
+  urls:
+  - http://lanyrd.com/2013/praha-pyvo-july/sckwyk/
+  coverage: []
+urls:
+- http://lanyrd.com/2013/praha-pyvo-july/

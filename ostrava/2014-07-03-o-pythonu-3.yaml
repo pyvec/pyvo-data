@@ -1,0 +1,14 @@
+start: 2014-07-03 19:00:00
+name: Červencové
+topic: O Pythonu 3
+series: Ostravské Pyvo s Rubači
+venue:
+  city: Ostrava
+  name: V. R. Levský
+  address: Škroupova 1114/4
+  location:
+    latitude: '49.8362996'
+    longitude: '18.2855466'
+talks: []
+urls:
+- http://lanyrd.com/2014/ostrava-pyvo-july/

@@ -1,0 +1,47 @@
+start: 2015-06-10
+name: Ostravské Pyvo s Rubači
+topic: O projektech
+series: Ostravské Pyvo s Rubači
+venue:
+  city: Ostrava
+  name: V. R. Levský
+  address: Škroupova 1114/4
+  location:
+    latitude: '49.8362996'
+    longitude: '18.2855466'
+talks:
+- title: mozek.it
+  speakers:
+  - Michal Hantl
+  urls:
+  - http://lanyrd.com/2015/ostrava-pyvo-june/sdppyf/
+  coverage:
+  - video: http://www.youtube.com/watch?v=68hwTR5IZ5Q
+- title: openairoffice.cz
+  speakers:
+  - Laco Krčmárik
+  urls:
+  - http://lanyrd.com/2015/ostrava-pyvo-june/sdppyg/
+  coverage:
+  - video: http://www.youtube.com/watch?v=6jpF5BHzwZg
+- title: Dynamic Time Warping & synchronizace videí
+  speakers:
+  - Petr Viktorin
+  urls:
+  - http://lanyrd.com/2015/ostrava-pyvo-june/sdppyh/
+  coverage: []
+- title: Projekty v zahraničí
+  speakers:
+  - Daniel Dimitrov
+  urls:
+  - http://lanyrd.com/2015/ostrava-pyvo-june/sdppyk/
+  coverage:
+  - video: http://www.youtube.com/watch?v=s46A5PfN9rQ
+- title: O velkém ostravském superpočítači
+  speakers:
+  - Lumír Frenzy Balhar
+  urls:
+  - http://lanyrd.com/2015/ostrava-pyvo-june/sdppym/
+  coverage: []
+urls:
+- http://lanyrd.com/2015/ostrava-pyvo-june/

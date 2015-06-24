@@ -1,0 +1,59 @@
+start: 2015-03-18
+name: Pražské PyVo
+number: 48
+topic: Zase Docker
+series: Pražské PyVo
+venue:
+  city: Prague
+  name: Na Věnečku
+  address: "Ostrovského 38a, Praha 5, Czech Republic, 15000\n\t\t\t\t\n\t\t\t\t\t\
+    - If you're not sure how to get here, meet us 18:30 at Andel metro station in\
+    \ front of the apple store."
+  location:
+    latitude: '50.0678996'
+    longitude: '14.3953814'
+talks:
+- title: Docker & Autoscaling
+  speakers:
+  - Tomáš Plešek
+  urls:
+  - http://lanyrd.com/2015/praha-pyvo-march/sdkqfx/
+  coverage:
+  - video: http://www.youtube.com/watch?v=LGzsc3C3J2E
+- title: Optimalizace v Pythonu
+  speakers:
+  - Jan Seifert
+  urls:
+  - http://lanyrd.com/2015/praha-pyvo-march/sdkryc/
+  coverage:
+  - video: http://www.youtube.com/watch?v=u1sweP6FoDo
+- title: 'Lightning talk: Django Girls Praha'
+  speakers:
+  - Honza Javorek
+  urls:
+  - http://lanyrd.com/2015/praha-pyvo-march/sdkrzk/
+  coverage:
+  - video: http://www.youtube.com/watch?v=vgy6BxRN1eQ
+- title: 'Lightning Talk: Knihovnička, EuroPython'
+  speakers:
+  - Petr Viktorin
+  urls:
+  - http://lanyrd.com/2015/praha-pyvo-march/sdkrzm/
+  coverage:
+  - video: http://www.youtube.com/watch?v=Q9CZlv7oCrE
+- title: 'Lightning talk: Docker Meetup 24. 3.'
+  speakers:
+  - Jakub Veverka
+  urls:
+  - http://lanyrd.com/2015/praha-pyvo-march/sdkrzp/
+  coverage:
+  - video: http://www.youtube.com/watch?v=wrYRGyz3uXQ
+- title: 'Lightning talk: PEP 489 draft'
+  speakers:
+  - Petr Viktorin
+  urls:
+  - http://lanyrd.com/2015/praha-pyvo-march/sdpmrf/
+  coverage:
+  - video: http://www.youtube.com/watch?v=10y7Y6kWVkY
+urls:
+- http://lanyrd.com/2015/praha-pyvo-march/

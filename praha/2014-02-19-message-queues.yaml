@@ -1,0 +1,84 @@
+start: 2014-02-19 19:00:00
+name: Pražské PyVo
+number: 35
+topic: message queues
+series: Pražské PyVo
+venue:
+  city: Prague
+  name: Na Věnečku
+  address: "Ostrovského 38a, Praha 5, Czech Republic, 15000\n\t\t\t\t\n\t\t\t\t\t\
+    - Jedna se o soukromy klub. Takze nastrazte oci a usi, nikde neni zadna (napr\
+    \ pivni) cedule. Kdyz se Ostrovskeho ulice zmeni na chodnik, jdete cca 50m do\
+    \ kopce. Po prave strane narazite na pomerne velkou branu do dvora."
+  location:
+    latitude: '50.0678996'
+    longitude: '14.3953814'
+talks:
+- title: RabbitMQ
+  speakers:
+  - Jiří Kubíček
+  urls:
+  - http://lanyrd.com/2014/praha-pyvo-february/scwbrd/
+  coverage:
+  - slides: http://data.kubicek.cz/python-rabbitmq.pdf
+- title: Azure Queue Storage
+  speakers:
+  - Stanislav Prokop
+  urls:
+  - http://lanyrd.com/2014/praha-pyvo-february/scwtmy/
+  coverage:
+  - slides: https://onedrive.live.com/redir?resid=7D9A2DDCD2458629!1899&authkey=!AL3Vn6RS9VJ8kTk&ithint=file,.pptx
+- title: replace orbited with jabber
+  speakers:
+  - Josef Liška
+  urls:
+  - http://lanyrd.com/2014/praha-pyvo-february/scxdrc/
+  coverage: []
+- title: python queues
+  speakers:
+  - Jiri Barton
+  urls:
+  - http://lanyrd.com/2014/praha-pyvo-february/scxdrb/
+  coverage: []
+- title: gravity light
+  speakers:
+  - Jakub Vysoký
+  urls:
+  - http://lanyrd.com/2014/praha-pyvo-february/scxdqz/
+  coverage:
+  - link: http://deciwatt.org/frequently-asked-questions/
+- title: xmonad
+  speakers:
+  - Tomáš Ehrlich
+  urls:
+  - http://lanyrd.com/2014/praha-pyvo-february/scxdqy/
+  coverage:
+  - link: https://github.com/elvard/dotfiles/tree/master/xmonad_de
+- title: what is devops
+  speakers:
+  - Zdenek Janda
+  urls:
+  - http://lanyrd.com/2014/praha-pyvo-february/scxdqx/
+  coverage: []
+- title: faker
+  speakers:
+  - starenka
+  urls:
+  - http://lanyrd.com/2014/praha-pyvo-february/scxdqw/
+  coverage:
+  - link: https://github.com/joke2k/faker
+- title: django dynamic fixture
+  speakers:
+  - Roman Krejčík
+  urls:
+  - http://lanyrd.com/2014/praha-pyvo-february/scxdqt/
+  coverage:
+  - link: https://github.com/paulocheque/django-dynamic-fixture
+- title: Mock
+  speakers:
+  - Stanislav Prokop
+  urls:
+  - http://lanyrd.com/2014/praha-pyvo-february/scxdqr/
+  coverage: []
+urls:
+- http://lanyrd.com/2014/praha-pyvo-february/

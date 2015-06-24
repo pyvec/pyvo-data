@@ -1,0 +1,46 @@
+start: 2013-12-18
+name: Pražské PyVo
+number: 33
+topic: vanoce
+series: Pražské PyVo
+venue:
+  city: Prague
+  name: Na Věnečku
+  address: "Ostrovského 38a, Praha 5, Czech Republic, 15000\n\t\t\t\t\n\t\t\t\t\t\
+    - Jedna se o soukromy klub. Takze nastrazte oci a usi, nikde neni zadna (napr\
+    \ pivni) cedule. Kdyz se Ostrovskeho ulice zmeni na chodnik, jdete cca 50m do\
+    \ kopce. Po prave strane narazite na pomerne velkou branu do dvora."
+  location:
+    latitude: '50.0678996'
+    longitude: '14.3953814'
+talks:
+- title: Topení v Pythonu
+  speakers:
+  - Ales Zoulek
+  urls:
+  - http://lanyrd.com/2013/praha-pyvo-december/scxqqt/
+  coverage:
+  - video: http://www.youtube.com/watch?v=jEEHPPcPx3I
+- title: LED strip
+  speakers:
+  - Petr Viktorin
+  urls:
+  - http://lanyrd.com/2013/praha-pyvo-december/scxqqw/
+  coverage:
+  - video: http://www.youtube.com/watch?v=CHleDarYYZE
+- title: Bezdrátová klávesnice
+  speakers:
+  - Petr Viktorin
+  urls:
+  - http://lanyrd.com/2013/praha-pyvo-december/scxqqx/
+  coverage:
+  - video: http://www.youtube.com/watch?v=Uz8cFgoPb_M
+- title: Micro Python board
+  speakers:
+  - Tomáš Bedřich
+  urls:
+  - http://lanyrd.com/2013/praha-pyvo-december/scxqqy/
+  coverage:
+  - video: http://www.youtube.com/watch?v=G_ZEfD_iyzw
+urls:
+- http://lanyrd.com/2013/praha-pyvo-december/

@@ -1,0 +1,47 @@
+start: 2014-11-06 19:00:00
+name: Ostravské Pyvo s Rubači
+topic: Testovací
+series: Ostravské Pyvo s Rubači
+description: 'Zdá se to téměř neuvěřitelné, ale už je to rok, co se dvojice nadšenců
+  z Brna poprvé rozhodla rozšířit pole působnosti Pyva i do našich luhů a hájů.
+
+  Velký dík patří jim i Vám všem, kteří to s námi již rok táhnete.
+
+  Na výroční Pyvo pro Vás máme jedno velké překvapení. Počínaje listopadem dojde ke
+  spojení srazů příznivců jazyka Python a Ruby do jednoho, kde se tak budete moci
+  dozvídat novinky i mimo Python. Věřím, že to pro obě komunity bude skvělé oživení
+  a příležitost naučit se něco nového.
+
+  Prvním tématem, které si společně vezmeme na paškál, bude testování. Podíváme se
+  na testování nejprve obecně. Zjistíme proč je důležité a co do vývoje aplikací může
+  přinést. Následně si ukážeme jednoduché způsoby testování, které zvládne každý a
+  pak přikročíme ke složitějším a o to komplexnějším metodám.
+
+  Sejdeme se již tradičně v restauraci V. R. Levský nedaleko Stodolní ulice ve čtvrtek
+  6. listopadu v 19:00.
+
+  Těšíme se na Vás.'
+venue:
+  city: Ostrava
+  name: V. R. Levský
+  address: Škroupova 1114/4
+  location:
+    latitude: '49.8362996'
+    longitude: '18.2855466'
+talks:
+- title: Testování obecně
+  speakers:
+  - Daniel Dimitrov
+  urls:
+  - http://lanyrd.com/2014/ostrava-pyvo-november/sdpmpp/
+  coverage:
+  - video: http://www.youtube.com/watch?v=fg2rQAf3ee0
+- title: import pytest
+  speakers:
+  - Petr Viktorin
+  urls:
+  - http://lanyrd.com/2014/ostrava-pyvo-november/sdpmpq/
+  coverage:
+  - video: http://www.youtube.com/watch?v=X9rwiypBZMU
+urls:
+- http://lanyrd.com/2014/ostrava-pyvo-november/

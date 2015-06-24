@@ -1,0 +1,47 @@
+start: 2012-10-17
+name: Django-cs
+number: 19
+topic: async
+series: Pražské PyVo
+venue:
+  city: Prague
+  name: Na Věnečku
+  address: Ostrovského 38a, Praha 5, Czech Republic, 15000
+  location:
+    latitude: '50.0678996'
+    longitude: '14.3953814'
+talks:
+- title: gevent
+  speakers:
+  - Jiri Barton
+  urls:
+  - http://lanyrd.com/2012/djangocs-october/sywqf/
+  coverage:
+  - slides: https://docs.google.com/presentation/d/18LA9RaQ4nzoID9a4_h_6gj5j23YMJDd248g750EuzHk/edit
+  - video: http://www.youtube.com/watch?v=VMvTnMetCLo
+- title: twisted
+  speakers:
+  - yac
+  urls:
+  - http://lanyrd.com/2012/djangocs-october/sywqk/
+  coverage:
+  - slides: http://yaccz.github.com/slides-twisted-intro/
+  - video: http://www.youtube.com/watch?v=KmGIX3JXrZk
+- title: tornado
+  speakers:
+  - Milan Cermak
+  urls:
+  - http://lanyrd.com/2012/djangocs-october/syyzz/
+  coverage:
+  - video: http://www.youtube.com/watch?v=ipKEoneXOJ8
+  - slides: https://dl.dropbox.com/u/1130640/pyvo/tornado.pdf
+- title: node.js
+  speakers:
+  - Almad
+  urls:
+  - http://lanyrd.com/2012/djangocs-october/sywqg/
+  coverage:
+  - slides: https://speakerdeck.com/almad/node-dot-js-zapisky-z-fronty
+  - video: http://www.youtube.com/watch?v=t4FWJnqB0iY
+urls:
+- http://lanyrd.com/2012/djangocs-october/

@@ -1,5 +1,6 @@
 start: 2012-05-16
-name: 'Django-cs #14'
+name: Django-cs
+number: 14
 series: Pražské PyVo
 venue:
   city: Prague
