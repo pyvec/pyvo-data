@@ -1,7 +1,7 @@
+city: Brno
 start: 2012-11-29
 name: Brněnské PyVo
 topic: CLI
-series: Brněnské PyVo + BRUG
 description: 'Python v příkazové řádce: od zpracování argumentů po barevné tabulky'
 venue:
   city: Brno

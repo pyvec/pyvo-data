@@ -1,7 +1,7 @@
+city: Brno
 start: 2012-10-25 19:00:00
 name: Brněnské PyVo
 topic: Deployment
-series: Brněnské PyVo + BRUG
 description: 'Tématem tohoto termínu bude deployment, čili "jak dostat (jakoukoliv)
   svou aplikaci na server". Py balíčky, systémové balíčky, Fabric, Paver, ...
 
