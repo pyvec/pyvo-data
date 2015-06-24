@@ -1,0 +1,50 @@
+start: 2012-06-20 19:00:00
+name: 'Django-cs #15 UX'
+series: Pražské PyVo
+venue:
+  city: Prague
+  name: Na Věnečku
+  address: "Ostrovského 38a, Praha 5, Czech Republic, 15000\n\t\t\t\t\n\t\t\t\t\t\
+    - Ostrovskeho 38a, Praha-Praha 5, Czech Republic - Ostrovskeho ulice se zmeni\
+    \ na chodnik vedouci do kopce. Po 50m je po prave strane brana. Za ni projit pres\
+    \ nadvori, az uslysite hluk."
+  location:
+    latitude: '50.0678996'
+    longitude: '14.3953814'
+talks:
+- title: 'UX: Proč mě to má kurva zajímat? (Programming motherfucker!)'
+  speakers:
+  - Daniel Srb
+  urls:
+  - http://lanyrd.com/2012/djangocs-june/stxkk/
+  coverage:
+  - video: http://www.youtube.com/watch?v=Tu85fUZKy0k
+- title: Design bolí
+  speakers:
+  - Richard Šerý
+  urls:
+  - http://lanyrd.com/2012/djangocs-june/styrb/
+  coverage:
+  - video: http://www.youtube.com/watch?v=U7PFcOFWbqE
+- title: Co nepodělat, když chcete, aby se vám někdo registroval do vaší webové aplikace
+  speakers:
+  - Denisa Lorencová
+  urls:
+  - http://lanyrd.com/2012/djangocs-june/styrc/
+  coverage:
+  - video: http://www.youtube.com/watch?v=Wirk-HCa9MA
+- title: Maximův pozdrav z Kalifornie po Skype (a možná něco navíc)
+  speakers:
+  - Maksim Izmaylov
+  urls:
+  - http://lanyrd.com/2012/djangocs-june/styrd/
+  coverage: []
+- title: Opensourcing projektu Prahou na kole
+  speakers:
+  - Václav Řehák
+  urls:
+  - http://lanyrd.com/2012/djangocs-june/stywy/
+  coverage:
+  - video: http://www.youtube.com/watch?v=WRRSTSp8TXs
+urls:
+- http://lanyrd.com/2012/djangocs-june/

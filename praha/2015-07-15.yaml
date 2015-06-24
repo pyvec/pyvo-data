@@ -1,0 +1,15 @@
+start: 2015-07-15 19:00:00
+name: 'Pražské PyVo #52 summer'
+series: Pražské PyVo
+venue:
+  city: Prague
+  name: Na Věnečku
+  address: "Ostrovského 38a, Praha 5, Czech Republic, 15000\n\t\t\t\t\n\t\t\t\t\t\
+    - If you're not sure how to get here, meet us 18:30 at Andel metro station in\
+    \ front of the apple store."
+  location:
+    latitude: '50.0678996'
+    longitude: '14.3953814'
+talks: []
+urls:
+- http://lanyrd.com/2015/praha-pyvo-july/

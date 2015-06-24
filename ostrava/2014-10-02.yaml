@@ -1,0 +1,32 @@
+start: 2014-10-02 19:00:00
+name: Ostravské Pyvo - Balíš. balím, balíme
+series: Ostravské Pyvo s Rubači
+venue:
+  city: Ostrava
+  name: V. R. Levský
+  address: Škroupova 1114/4
+  location:
+    latitude: '49.8362996'
+    longitude: '18.2855466'
+talks:
+- title: Od obřího skriptu k modulům
+  speakers:
+  - Lumír Frenzy Balhar
+  urls:
+  - http://lanyrd.com/2014/ostrava-pyvo-october/sddtkr/
+  coverage: []
+- title: Jak zveřejnit knihovnu
+  speakers:
+  - Petr Viktorin
+  urls:
+  - http://lanyrd.com/2014/ostrava-pyvo-october/sddtkt/
+  coverage: []
+- title: Jak sbalit webovou appku na requirements.txt a jak ji vzít na romantickou
+    procházku po vřesovištích NP Heroku
+  speakers:
+  - Honza Javorek
+  urls:
+  - http://lanyrd.com/2014/ostrava-pyvo-october/sdfgxq/
+  coverage: []
+urls:
+- http://lanyrd.com/2014/ostrava-pyvo-october/

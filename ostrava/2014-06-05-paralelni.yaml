@@ -1,0 +1,32 @@
+start: 2014-06-05 19:00:00
+topic: Paralelní
+name: Ostravské Pyvo
+series: Ostravské Pyvo s Rubači
+venue:
+  city: Ostrava
+  name: V. R. Levský
+  address: Škroupova 1114/4
+  location:
+    latitude: '49.8362996'
+    longitude: '18.2855466'
+talks:
+- title: Paralelizace v Pythonu
+  urls:
+  - http://lanyrd.com/2014/ostrava-pyvo-june/sdbggf/
+  coverage: []
+- title: Gevent
+  speakers:
+  - Honza Javorek
+  urls:
+  - http://lanyrd.com/2014/ostrava-pyvo-june/sdbggg/
+  coverage: []
+- title: Async & asyncio
+  speakers:
+  - Petr Viktorin
+  urls:
+  - http://lanyrd.com/2014/ostrava-pyvo-june/sdbggh/
+  coverage:
+  - notes: https://gist.github.com/encukou/7013fadae2686d737ccd
+  - video: http://www.youtube.com/watch?v=-UhFUuavujc
+urls:
+- http://lanyrd.com/2014/ostrava-pyvo-june/

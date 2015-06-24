@@ -1,0 +1,13 @@
+start: 2014-08-20 19:11:00
+name: 'Pražské PyVo #41'
+series: Pražské PyVo
+venue:
+  city: Prague
+  name: Cyril's Pub
+  address: Bozděchova 8, Praha 5, 150 00
+  location:
+    latitude: '50.0702602451'
+    longitude: '14.4032549853'
+talks: []
+urls:
+- http://lanyrd.com/2014/praha-pyvo-august/

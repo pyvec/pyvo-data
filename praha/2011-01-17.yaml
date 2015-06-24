@@ -1,0 +1,20 @@
+start: 2011-01-17
+name: 'Prague Python User Group #1'
+series: Pražské PyVo
+venue:
+  city: Prague
+  name: Konvikt
+  address: Bartolomějská 11, 11000
+  location:
+    latitude: '50.0831676'
+    longitude: '14.4177562'
+talks:
+- title: important talks about world, beer and python
+  speakers:
+  - Vlada Macek, Jakub Vysoký, Almad, Jiri Barton, Jirka Vejrazka
+  - Ales Zoulek
+  urls:
+  - http://lanyrd.com/2011/ppug-january/szmdb/
+  coverage: []
+urls:
+- http://lanyrd.com/2011/ppug-january/

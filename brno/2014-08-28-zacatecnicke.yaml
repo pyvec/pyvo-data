@@ -1,0 +1,42 @@
+start: 2014-08-28 19:00:00
+topic: Začátečnické
+name: Brněnské Pyvo + BRUG
+series: Brněnské PyVo + BRUG
+description: 'Začínáte s Pythonem či Ruby? Nebo jste začínali kdysi? Nebo jen chcete
+  začít?
+
+  Jak se nejlíp naučit programovat? Jak nejlíp učit programovat? Co byste vzkázali
+  těm, kteří (pů)jdou po vás? Co byste si přáli, aby bylo jednodušší? Co jste sami
+  zjednodušili?
+
+  Přijďte posedět, pomluvit Python, popít pivo, papat poctivou podkarpatskou polévku,
+  pokecat o programovacích poprvé; plánovat pedagogické postupy, přivítat PyLadies...'
+venue:
+  city: Brno
+  name: Koločava
+  address: Bayerova 10
+  location:
+    latitude: '49.2061889'
+    longitude: '16.6025791'
+talks:
+- title: Jak začalo Pyvo v Brně
+  speakers:
+  - Honza Javorek
+  urls:
+  - http://lanyrd.com/2014/brno-pyvo-august/sdctqw/
+  coverage:
+  - notes: https://gist.github.com/honzajavorek/c5936657609c30071466
+- title: Jak začnou PyLadies v Brně
+  speakers:
+  - Petr Viktorin
+  urls:
+  - http://lanyrd.com/2014/brno-pyvo-august/sdctqx/
+  coverage: []
+- title: Learn python the fun way
+  speakers:
+  - Tomáš Ehrlich
+  urls:
+  - http://lanyrd.com/2014/brno-pyvo-august/sdczhm/
+  coverage: []
+urls:
+- http://lanyrd.com/2014/brno-pyvo-august/

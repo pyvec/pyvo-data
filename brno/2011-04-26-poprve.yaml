@@ -1,0 +1,14 @@
+start: 2011-04-26 20:11:00
+topic: Poprvé
+name: Brněnské PyVo
+series: Brněnské PyVo + BRUG
+venue:
+  city: Brno
+  name: Café Falk
+  address: Gorkého 12
+  location:
+    latitude: '49.200029051'
+    longitude: '16.5992364562'
+talks: []
+urls:
+- http://lanyrd.com/2011/pyvo-april/

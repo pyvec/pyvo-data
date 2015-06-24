@@ -1,0 +1,44 @@
+start: 2013-03-28 19:00:00
+topic: Python na neobvyklých místech
+name: Brněnské PyVo
+series: Brněnské PyVo + BRUG
+venue:
+  city: Brno
+  name: U Dřeváka
+  address: Dřevařská 22, 602 00
+  location:
+    latitude: '49.209095'
+    longitude: '16.6008957'
+talks:
+- title: Python v telefonní ústředně
+  speakers:
+  - Věroš K.
+  urls:
+  - http://lanyrd.com/2013/brnenske-pyvo-python-na-neobvyklych-mistech/scdtbd/
+  coverage:
+  - slides: http://python.cz/talks/brno-2013-03-28-veros-kaplan-telefonni-ustredna.pdf
+  - video: http://www.youtube.com/watch?v=T0tzPBV4Qfk
+- title: Python v Blenderu
+  speakers:
+  - Růženka Janoutová
+  urls:
+  - http://lanyrd.com/2013/brnenske-pyvo-python-na-neobvyklych-mistech/scdtbf/
+  coverage:
+  - slides: http://python.cz/talks/brno-2013-03-28-ruzena-janoutova-python-v-blenderu.pdf
+  - video: http://www.youtube.com/watch?v=JjNQp-M0j0E
+- title: Jython jako silný skriptovací jazyk ve workflow a rules engines
+  speakers:
+  - Václav Tunka
+  urls:
+  - http://lanyrd.com/2013/brnenske-pyvo-python-na-neobvyklych-mistech/scffpg/
+  coverage:
+  - slides: http://www.slideshare.net/vtunka/jython-in-workflow-and-rules-engines
+  - video: http://www.youtube.com/watch?v=bStTzhz-MUI
+- title: 'Když zbude čas: Python jako jazyk pro distribuované build systémy'
+  speakers:
+  - Václav Tunka
+  urls:
+  - http://lanyrd.com/2013/brnenske-pyvo-python-na-neobvyklych-mistech/scffpz/
+  coverage: []
+urls:
+- http://lanyrd.com/2013/brnenske-pyvo-python-na-neobvyklych-mistech/

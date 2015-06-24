@@ -1,0 +1,68 @@
+start: 2015-02-18
+name: 'Pražské PyVo #47'
+series: Pražské PyVo
+venue:
+  city: Prague
+  name: Na Věnečku
+  address: "Ostrovského 38a, Praha 5, Czech Republic, 15000\n\t\t\t\t\n\t\t\t\t\t\
+    - If you're not sure how to get here, meet us 18:30 at Andel metro station in\
+    \ front of the apple store."
+  location:
+    latitude: '50.0678996'
+    longitude: '14.3953814'
+talks:
+- title: Kitchen CI
+  speakers:
+  - Ales Zoulek
+  urls:
+  - http://lanyrd.com/2015/praha-pyvo-february/sdkdrc/
+  coverage:
+  - video: http://www.youtube.com/watch?v=nEINVbP3FpI
+- title: 'Lightning talk: Koučování'
+  urls:
+  - http://lanyrd.com/2015/praha-pyvo-february/sdkdtg/
+  coverage:
+  - video: http://www.youtube.com/watch?v=o7moeWFhuuY
+- title: 'Lightning talk: Pozvánka na seminář o Axaptě'
+  urls:
+  - http://lanyrd.com/2015/praha-pyvo-february/sdkdth/
+  coverage:
+  - video: http://www.youtube.com/watch?v=2maUvTRX9VM
+- title: 'Lightning talk: Nový python.cz'
+  speakers:
+  - Honza Javorek
+  urls:
+  - http://lanyrd.com/2015/praha-pyvo-february/sdkdtk/
+  coverage:
+  - video: http://www.youtube.com/watch?v=OkgftjRzeco
+- title: 'Lightning talk: Pyvařská knihovnička'
+  speakers:
+  - Petr Viktorin
+  urls:
+  - http://lanyrd.com/2015/praha-pyvo-february/sdkdtm/
+  coverage:
+  - video: http://www.youtube.com/watch?v=n-ok_cnTPRs
+- title: 'Lightning talk: film2trello'
+  speakers:
+  - Honza Javorek
+  urls:
+  - http://lanyrd.com/2015/praha-pyvo-february/sdkdtp/
+  coverage:
+  - video: http://www.youtube.com/watch?v=Jq6dpVEfI94
+- title: 'Lightning talk: Benchmarking - Python vs. jiné jazyky'
+  urls:
+  - http://lanyrd.com/2015/praha-pyvo-february/sdkdtq/
+  coverage:
+  - video: http://www.youtube.com/watch?v=v9x7Oz2GVHE
+- title: 'Lightning talk: Python v rozhlase'
+  urls:
+  - http://lanyrd.com/2015/praha-pyvo-february/sdkdtr/
+  coverage:
+  - video: http://www.youtube.com/watch?v=-vjCacCjNlk
+- title: 'Lightning talk: Závěr'
+  urls:
+  - http://lanyrd.com/2015/praha-pyvo-february/sdkdtt/
+  coverage:
+  - video: http://www.youtube.com/watch?v=ZlSnwcUvrCw
+urls:
+- http://lanyrd.com/2015/praha-pyvo-february/

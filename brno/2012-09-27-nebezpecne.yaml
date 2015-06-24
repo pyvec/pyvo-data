@@ -1,0 +1,46 @@
+start: 2012-09-27 19:00:00
+topic: Nebezpečné
+name: Brněnské PyVo
+series: Brněnské PyVo + BRUG
+description: 'Podzimní pyvní sezónu startujeme ve čtvrtek 27. 9. PyVem o bezpečnosti.
+
+  Přednášky se připravují, ale klidně samovolně připište svoji, máte-li co říct o
+  zabezpečování webových aplikací nebo obecně těch, které běží na serveru a na síti,
+  o kryptografii, vesmíru, životě, a vůbec.'
+venue:
+  city: Brno
+  name: U Dřeváka
+  address: Dřevařská 22, 602 00
+  location:
+    latitude: '49.209095'
+    longitude: '16.6008957'
+talks:
+- title: Zákeřný eval()
+  speakers:
+  - Petr Viktorin
+  urls:
+  - http://lanyrd.com/2012/pyvo-september/szbfq/
+  coverage:
+  - slides: https://speakerdeck.com/u/encukou/p/slides
+- title: Základní zabezpečení vlastního serveru
+  speakers:
+  - Jirka Zapletal
+  urls:
+  - http://lanyrd.com/2012/pyvo-september/szcpt/
+  coverage: []
+- title: Úvod do kryptografie
+  speakers:
+  - Kuba Čegan
+  urls:
+  - http://lanyrd.com/2012/pyvo-september/szcpw/
+  coverage:
+  - slides: http://python.cz/talks/brno-2012-22-10-jakub-cegan-kryptografie.pdf
+- title: Bezpečnost webových aplikací
+  speakers:
+  - Michal Špaček
+  urls:
+  - http://lanyrd.com/2012/pyvo-september/szcpx/
+  coverage:
+  - slides: https://speakerdeck.com/u/spaze/p/pyvo2012-michalspacek-bezpecnost-notes
+urls:
+- http://lanyrd.com/2012/pyvo-september/

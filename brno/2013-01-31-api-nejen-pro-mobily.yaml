@@ -1,0 +1,37 @@
+start: 2013-01-31 19:00:00
+topic: API nejen pro mobily
+name: Brněnské PyVo
+series: Brněnské PyVo + BRUG
+venue:
+  city: Brno
+  name: U Dřeváka
+  address: Dřevařská 22, 602 00
+  location:
+    latitude: '49.209095'
+    longitude: '16.6008957'
+talks:
+- title: Apiary.io
+  speakers:
+  - Peter Grilli
+  urls:
+  - http://lanyrd.com/2013/pyvo/sccpqk/
+  coverage:
+  - slides: http://www.slideshare.net/jakub.nesetril/avoiding-api-waterfalls
+  - video: http://www.youtube.com/watch?v=Ajz9ri-BQjw
+- title: HTTP API a Py
+  speakers:
+  - Milan Čermák
+  urls:
+  - http://lanyrd.com/2013/pyvo/sccpqm/
+  coverage:
+  - slides: http://python.cz/talks/brno-2013-01-31-milan-cermak-http-api.pdf
+  - video: http://www.youtube.com/watch?v=bjkKYIS7L00
+- title: Jak vznikalo API pro Slevolapku
+  speakers:
+  - Martin Skala
+  urls:
+  - http://lanyrd.com/2013/pyvo/sccpqp/
+  coverage:
+  - slides: http://prezi.com/dldlojih3ntf/jak-vznikalo-api-pro-slevolapku/?kw=view-dldlojih3ntf&rc=ref-29978685
+urls:
+- http://lanyrd.com/2013/pyvo/

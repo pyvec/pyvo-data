@@ -1,0 +1,44 @@
+start: 2014-04-24 19:00:00
+topic: Překladačové
+name: Brněnské Pyvo + BRUG
+series: Brněnské PyVo + BRUG
+venue:
+  city: Brno
+  name: Koločava
+  address: "Bayerova 10\n\t\t\t\t\n\t\t\t\t\t- Salonek dole"
+  location:
+    latitude: '49.2061889'
+    longitude: '16.6025791'
+talks:
+- title: PEG.js – generátor parserů for JavaScript
+  speakers:
+  - David Majda
+  urls:
+  - http://lanyrd.com/2014/brnenske-pyvo-brug-dubnove/scyxgp/
+  coverage:
+  - slides: https://speakerdeck.com/dmajda/peg-dot-js-generator-parseru-pro-javascript
+- title: Zpětný překlad - jak z binárky dostat zdroják
+  speakers:
+  - Petr Zemek
+  urls:
+  - http://lanyrd.com/2014/brnenske-pyvo-brug-dubnove/scyxgq/
+  coverage:
+  - slides: http://python.cz/talks/brno-2014-04-24-petr-zemek-zpetny-preklad.pdf
+  - video: http://www.youtube.com/watch?v=VszSti9mSlA
+- title: Jak jsem vyráběl Snowcrash
+  speakers:
+  - Z
+  urls:
+  - http://lanyrd.com/2014/brnenske-pyvo-brug-dubnove/sczbgk/
+  coverage:
+  - slides: https://speakerdeck.com/zdne/snow-crash-the-api-blueprint-parser
+  - video: http://www.youtube.com/watch?v=KskNrd3mDYc
+- title: import ast, dis (lightning talk)
+  speakers:
+  - Petr Viktorin
+  urls:
+  - http://lanyrd.com/2014/brnenske-pyvo-brug-dubnove/sczdgh/
+  coverage:
+  - video: http://www.youtube.com/watch?v=oogxF1jq0iI
+urls:
+- http://lanyrd.com/2014/brnenske-pyvo-brug-dubnove/

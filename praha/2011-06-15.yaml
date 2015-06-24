@@ -1,0 +1,48 @@
+start: 2011-06-15
+name: 'Django-cs #5'
+series: Pražské PyVo
+venue:
+  city: Prague
+  name: V LOCHU
+  address: Veletržní 820/73, 17000
+  location:
+    latitude: '50.101726'
+    longitude: '14.424791'
+talks:
+- title: rosti.cz
+  speakers:
+  - Adam Štrauch
+  urls:
+  - http://lanyrd.com/2011/djangocs-june/szmbz/
+  coverage:
+  - video: http://www.youtube.com/watch?v=lK71SWbwJU0
+- title: virtualenv
+  speakers:
+  - Jakub Vysoký
+  urls:
+  - http://lanyrd.com/2011/djangocs-june/szmcb/
+  coverage:
+  - video: http://www.youtube.com/watch?v=Z2qus1sp7cI
+- title: webstack
+  speakers:
+  - Ales Zoulek
+  urls:
+  - http://lanyrd.com/2011/djangocs-june/szmcc/
+  coverage:
+  - video: http://www.youtube.com/watch?v=iN9khgy-PJ0
+- title: static media and nginx
+  speakers:
+  - starenka
+  urls:
+  - http://lanyrd.com/2011/djangocs-june/szmcd/
+  coverage:
+  - video: http://www.youtube.com/watch?v=RcUAVH8XK9s
+- title: usertesting
+  speakers:
+  - Jiri Barton
+  urls:
+  - http://lanyrd.com/2011/djangocs-june/szmcf/
+  coverage:
+  - video: http://www.youtube.com/watch?v=3xAl0e0rkLs
+urls:
+- http://lanyrd.com/2011/djangocs-june/

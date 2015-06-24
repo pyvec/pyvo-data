@@ -1,0 +1,71 @@
+start: 2013-11-28 19:00:00
+name: Brněnské Pyvo + BRUG o PostgreSQL
+series: Brněnské PyVo + BRUG
+venue:
+  city: Brno
+  name: Koločava
+  address: Bayerova 10
+  location:
+    latitude: '49.2061889'
+    longitude: '16.6025791'
+talks:
+- title: PostGIS a SQLite/Spatialite
+  speakers:
+  - Věroš K.
+  urls:
+  - http://lanyrd.com/2013/brno-pyvo-november/sctfgk/
+  coverage:
+  - slides: https://docs.google.com/presentation/d/13PJXNoNVnX4YLyVOGCEyjFaCQYqSWP_Kr7IutZYallY/pub?start=false&loop=false&delayms=60000
+- title: Optimalizace v PostgreSQL
+  speakers:
+  - Michal Huvar
+  urls:
+  - http://lanyrd.com/2013/brno-pyvo-november/sctfrg/
+  coverage: []
+- title: PostgreSQL & Tornado web server
+  speakers:
+  - Michal Šiška
+  urls:
+  - http://lanyrd.com/2013/brno-pyvo-november/sctfgp/
+  coverage:
+  - slides: http://www.515k4.name/pyvo-async.pdf
+- title: hstore, NoSQL v PostgreSQL
+  speakers:
+  - Martin Putniorz
+  urls:
+  - http://lanyrd.com/2013/brno-pyvo-november/sctfgm/
+  coverage:
+  - notes: https://gist.github.com/sputnikus/7690975
+- title: MySQL – ohMyGOD
+  speakers:
+  - Michal Wiglasz
+  urls:
+  - http://lanyrd.com/2013/brno-pyvo-november/sctfgq/
+  coverage:
+  - slides: https://speakerdeck.com/kacer/mysql-ohmygod
+- title: Dodatek k optimalizaci Postgresu
+  speakers:
+  - Martin Povolný
+  urls:
+  - http://lanyrd.com/2013/brno-pyvo-november/sctfyb/
+  coverage: []
+- title: Dataset
+  speakers:
+  - Tomáš Tomeček
+  urls:
+  - http://lanyrd.com/2013/brno-pyvo-november/sctfyc/
+  coverage: []
+- title: Dodatek k Postgisu
+  speakers:
+  - mrpohoda
+  urls:
+  - http://lanyrd.com/2013/brno-pyvo-november/sctfyd/
+  coverage: []
+- title: Postgres Listen/Notify
+  speakers:
+  - Věroš K.
+  urls:
+  - http://lanyrd.com/2013/brno-pyvo-november/sctfyf/
+  coverage: []
+urls:
+- http://lanyrd.com/2013/brno-pyvo-november/

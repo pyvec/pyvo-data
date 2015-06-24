@@ -1,0 +1,25 @@
+start: 2012-07-18 19:00:00
+name: 'Django-cs #16'
+series: Pražské PyVo
+venue:
+  city: Prague
+  name: Cyril's Pub
+  address: Bozděchova 8, Praha 5, 150 00
+  location:
+    latitude: '50.0702602451'
+    longitude: '14.4032549853'
+talks:
+- title: Triky v Django templates
+  speakers:
+  - Daniel Srb
+  urls:
+  - http://lanyrd.com/2012/djangocs-july/swzbc/
+  coverage: []
+- title: ukazka appengine aplikaci
+  speakers:
+  - Martin Kubát
+  urls:
+  - http://lanyrd.com/2012/djangocs-july/swzfq/
+  coverage: []
+urls:
+- http://lanyrd.com/2012/djangocs-july/

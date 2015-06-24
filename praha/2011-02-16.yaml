@@ -1,0 +1,39 @@
+start: 2011-02-16
+name: 'Django-cs #2'
+series: Pražské PyVo
+venue:
+  city: Prague
+  name: Restaurace Jáma
+  address: V Jámě 7, 11000
+  location:
+    latitude: '50.0799497'
+    longitude: '14.4254412'
+talks:
+- title: intro
+  urls:
+  - http://lanyrd.com/2011/djangocs-february/szmdc/
+  coverage:
+  - video: http://www.youtube.com/watch?v=lv25oJmQwWU
+- title: aws & knitting
+  speakers:
+  - Ales Zoulek
+  - Jiri Barton
+  urls:
+  - http://lanyrd.com/2011/djangocs-february/szmct/
+  coverage:
+  - slides: http://www.slideshare.net/whiskybar/aws-ec2
+- title: ses - Amazon Simple Email Service
+  speakers:
+  - Jozef Sevcik
+  urls:
+  - http://lanyrd.com/2011/djangocs-february/szmcx/
+  coverage: []
+- title: rst2pdf
+  speakers:
+  - Jiri Barton
+  urls:
+  - http://lanyrd.com/2011/djangocs-february/szmcy/
+  coverage:
+  - slides: http://www.slideshare.net/whiskybar/creating-a-presentation
+urls:
+- http://lanyrd.com/2011/djangocs-february/

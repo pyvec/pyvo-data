@@ -1,0 +1,28 @@
+start: 2013-02-28 19:00:00
+topic: Únorové
+name: Brněnské PyVo
+series: Brněnské PyVo + BRUG
+venue:
+  city: Brno
+  name: U Dřeváka
+  address: Dřevařská 22, 602 00
+  location:
+    latitude: '49.209095'
+    longitude: '16.6008957'
+talks:
+- title: O dekorátorech
+  speakers:
+  - Martin Čarnogurský
+  urls:
+  - http://lanyrd.com/2013/napyvo/scdpdh/
+  coverage:
+  - video: http://www.youtube.com/watch?v=l8Ny6csE4VU
+- title: Nové vychytávky v Pythonu 3
+  speakers:
+  - Petr Viktorin
+  urls:
+  - http://lanyrd.com/2013/napyvo/scdpfh/
+  coverage:
+  - video: http://www.youtube.com/watch?v=DdcpaH402Fg
+urls:
+- http://lanyrd.com/2013/napyvo/

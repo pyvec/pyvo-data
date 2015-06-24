@@ -1,0 +1,28 @@
+start: 2013-05-30 19:00:00
+topic: GUI
+name: Brněnské PyVo + BRUG
+series: Brněnské PyVo + BRUG
+venue:
+  city: Brno
+  name: U Dřeváka
+  address: Dřevařská 22, 602 00
+  location:
+    latitude: '49.209095'
+    longitude: '16.6008957'
+talks:
+- title: Python a GTK, Getting Things GNOME!
+  speakers:
+  - Izidor Matušov
+  urls:
+  - http://lanyrd.com/2013/brnenske-pyvo-brug-kvetnove/schxdm/
+  coverage:
+  - video: http://www.youtube.com/watch?v=HDmCGUKfe7Y
+- title: PySide & Qt
+  speakers:
+  - Petr Viktorin
+  urls:
+  - http://lanyrd.com/2013/brnenske-pyvo-brug-kvetnove/schxdy/
+  coverage:
+  - video: http://www.youtube.com/watch?v=wXwn0_mb62I
+urls:
+- http://lanyrd.com/2013/brnenske-pyvo-brug-kvetnove/

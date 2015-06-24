@@ -1,0 +1,68 @@
+start: 2013-09-26 19:00:00
+topic: Lightning Talk edition
+name: Brněnské PyVo + BRUG
+series: Brněnské PyVo + BRUG
+venue:
+  city: Brno
+  name: U Dřeváka
+  address: Dřevařská 22, 602 00
+  location:
+    latitude: '49.209095'
+    longitude: '16.6008957'
+talks:
+- title: Deskriptory
+  speakers:
+  - Honza Král
+  urls:
+  - http://lanyrd.com/2013/brno-pyvo/scqkgq/
+  coverage: []
+- title: OpenStack
+  speakers:
+  - Jiří Stránský
+  urls:
+  - http://lanyrd.com/2013/brno-pyvo/scqkgr/
+  coverage: []
+- title: '%YAML'
+  speakers:
+  - Michal Fojtik
+  urls:
+  - http://lanyrd.com/2013/brno-pyvo/scqkgt/
+  coverage: []
+- title: Pyvo včera a dnes
+  speakers:
+  - Petr Viktorin
+  urls:
+  - http://lanyrd.com/2013/brno-pyvo/scqkgw/
+  coverage: []
+- title: Organizace Pyva
+  speakers:
+  - Honza Javorek
+  urls:
+  - http://lanyrd.com/2013/brno-pyvo/scqkgx/
+  coverage: []
+- title: Modules
+  speakers:
+  - Věroš K.
+  urls:
+  - http://lanyrd.com/2013/brno-pyvo/scqkgy/
+  coverage: []
+- title: Fiobank API, Redis Collections, zitkino.cz
+  speakers:
+  - Honza Javorek
+  urls:
+  - http://lanyrd.com/2013/brno-pyvo/scqkgz/
+  coverage: []
+- title: '@reify'
+  speakers:
+  - Petr Viktorin
+  urls:
+  - http://lanyrd.com/2013/brno-pyvo/scqkhb/
+  coverage: []
+- title: Travis CI
+  speakers:
+  - Honza Král
+  urls:
+  - http://lanyrd.com/2013/brno-pyvo/scqkhc/
+  coverage: []
+urls:
+- http://lanyrd.com/2013/brno-pyvo/

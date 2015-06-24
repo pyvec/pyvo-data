@@ -1,0 +1,36 @@
+start: 2012-05-16
+name: 'Django-cs #14'
+series: Pražské PyVo
+venue:
+  city: Prague
+  name: Na Věnečku
+  address: "Ostrovského 38a, Praha 5, Czech Republic, 15000\n\t\t\t\t\n\t\t\t\t\t\
+    - Ostrovskeho ulice se zmeni na chodnik vedouci do kopce. Po 50m je po prave strane\
+    \ brana. Za ni projit pres nadvori, az uslysite hluk."
+  location:
+    latitude: '50.0678996'
+    longitude: '14.3953814'
+talks:
+- title: denormalizace v Redisu
+  speakers:
+  - Honza Král
+  urls:
+  - http://lanyrd.com/2012/djangocs-may/stdtp/
+  coverage:
+  - slides: http://www.honzakral.com/denorm/
+  - video: http://www.youtube.com/watch?v=oqd5sICjKa0
+- title: openshift a openstack
+  speakers:
+  - Marek Jelen
+  urls:
+  - http://lanyrd.com/2012/djangocs-may/stfgp/
+  coverage: []
+- title: Virtualmaster v příkazové řádce
+  speakers:
+  - Adam Kliment
+  urls:
+  - http://lanyrd.com/2012/djangocs-may/stdtr/
+  coverage:
+  - video: http://www.youtube.com/watch?v=oVHJDQfaudQ
+urls:
+- http://lanyrd.com/2012/djangocs-may/

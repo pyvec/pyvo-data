@@ -1,0 +1,28 @@
+start: 2013-11-07 19:00:00
+topic: První
+name: Ostravské Pyvo
+series: Ostravské Pyvo s Rubači
+venue:
+  city: Ostrava
+  name: Ires (SC OSTRAVA)
+  address: Budečská 3214/4, Ostrava, 70200
+  location:
+    latitude: '49.8478498'
+    longitude: '18.2909582'
+talks:
+- title: (Ne)bojím se IPv6
+  speakers:
+  - Lumír Frenzy Balhar
+  urls:
+  - http://lanyrd.com/2013/ostravske-pyvo-prvni/scrtdc/
+  coverage:
+  - slides: https://github.com/pyvec/python.cz/raw/gh-pages/talks/ostrava-2013-11-08-lumir-balhar-ipv6.pdf
+- title: Python funkcionálně
+  speakers:
+  - Martin Putniorz
+  urls:
+  - http://lanyrd.com/2013/ostravske-pyvo-prvni/scrtdf/
+  coverage:
+  - slides: http://sputnikus.github.io/pyvo-ostrava-11-13/
+urls:
+- http://lanyrd.com/2013/ostravske-pyvo-prvni/

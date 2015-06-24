@@ -1,0 +1,20 @@
+start: 2013-12-04
+topic: Druhé
+name: Ostravské Pyvo
+series: Ostravské Pyvo s Rubači
+venue:
+  city: Ostrava
+  name: Sport Club
+  address: Vítězná 2, Moravská Ostrava, 70200
+  location:
+    latitude: '49.8470913'
+    longitude: '18.2862144'
+talks:
+- title: Co že jsou to ty iterátory?
+  speakers:
+  - Petr Viktorin
+  urls:
+  - http://lanyrd.com/2013/ostravske-pyvo-druhe/sctfpy/
+  coverage: []
+urls:
+- http://lanyrd.com/2013/ostravske-pyvo-druhe/

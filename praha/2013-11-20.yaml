@@ -1,0 +1,35 @@
+start: 2013-11-20 19:11:00
+name: 'Pražské PyVo #32 API'
+series: Pražské PyVo
+venue:
+  city: Prague
+  name: Na Věnečku
+  address: "Ostrovského 38a, Praha 5, Czech Republic, 15000\n\t\t\t\t\n\t\t\t\t\t\
+    - Jedna se o soukromy klub. Takze nastrazte oci a usi, nikde neni zadna (napr\
+    \ pivni) cedule. Kdyz se Ostrovskeho ulice zmeni na chodnik, jdete cca 50m do\
+    \ kopce. Po prave strane narazite na pomerne velkou branu do dvora."
+  location:
+    latitude: '50.0678996'
+    longitude: '14.3953814'
+talks:
+- title: Platebni API
+  speakers:
+  - Roman Krejčík
+  urls:
+  - http://lanyrd.com/2013/praha-pyvo-november/scrfkk/
+  coverage:
+  - video: http://www.youtube.com/watch?v=ruYgxVvnezA
+- title: REST API MANUAL
+  speakers:
+  - Honza Javorek
+  urls:
+  - http://lanyrd.com/2013/praha-pyvo-november/sctcqh/
+  coverage:
+  - slides: https://speakerdeck.com/honzajavorek/rest-api-manual
+  - video: http://www.youtube.com/watch?v=t12ai0_RsmY
+- title: lightning talks
+  urls:
+  - http://lanyrd.com/2013/praha-pyvo-november/scthkd/
+  coverage: []
+urls:
+- http://lanyrd.com/2013/praha-pyvo-november/

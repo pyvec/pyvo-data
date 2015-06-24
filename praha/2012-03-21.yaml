@@ -1,0 +1,19 @@
+start: 2012-03-21
+name: 'Django-cs #12'
+series: Pražské PyVo
+venue:
+  city: Prague
+  name: Na Věnečku
+  address: Ostrovského 38a, Praha 5, Czech Republic, 15000
+  location:
+    latitude: '50.0678996'
+    longitude: '14.3953814'
+talks:
+- title: Main session
+  urls:
+  - http://lanyrd.com/2012/djangocs-march/spzkc/
+  coverage:
+  - link: http://groups.google.com/group/django-cs/browse_thread/thread/ece74af4ee950a7
+  - video: http://vimeo.com/39050262
+urls:
+- http://lanyrd.com/2012/djangocs-march/

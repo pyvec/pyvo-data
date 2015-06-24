@@ -1,0 +1,34 @@
+start: 2013-07-25 19:00:00
+topic: Ve 3D
+name: Brněnské PyVo + BRUG
+series: Brněnské PyVo + BRUG
+description: 'Téma pro tento měsíc: Grafika, hry, animace, a vše co s tím souvisí.
+  (Třetí dimenze není podmínkou)'
+venue:
+  city: Brno
+  name: U Dřeváka
+  address: Dřevařská 22, 602 00
+  location:
+    latitude: '49.209095'
+    longitude: '16.6008957'
+talks:
+- title: EuroPython report
+  speakers:
+  - Petr Viktorin
+  urls:
+  - http://lanyrd.com/2013/brnenske-pyvo-brug-cervencove/scmftt/
+  coverage: []
+- title: Základy v Blenderu, modelovaní, texturování a nasvícení
+  speakers:
+  - Martin Schrimpel
+  urls:
+  - http://lanyrd.com/2013/brnenske-pyvo-brug-cervencove/scmdxd/
+  coverage: []
+- title: Python's game libraries
+  speakers:
+  - Petr Viktorin
+  urls:
+  - http://lanyrd.com/2013/brnenske-pyvo-brug-cervencove/scmftw/
+  coverage: []
+urls:
+- http://lanyrd.com/2013/brnenske-pyvo-brug-cervencove/

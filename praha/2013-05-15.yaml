@@ -1,0 +1,39 @@
+start: 2013-05-15
+name: 'Pražské PyVo #26 + CSRUG'
+series: Pražské PyVo
+venue:
+  city: Prague
+  name: Na Věnečku
+  address: "Ostrovského 38a, Praha 5, Czech Republic, 15000\n\t\t\t\t\n\t\t\t\t\t\
+    - Jedna se o soukromy klub. Takze nastrazte oci a usi, nikde neni zadna (napr\
+    \ pivni) cedule. Kdyz se Ostrovskeho ulice zmeni na chodnik, jdete cca 50m do\
+    \ kopce. Po prave strane narazite na pomerne velkou branu do dvora."
+  location:
+    latitude: '50.0678996'
+    longitude: '14.3953814'
+talks:
+- title: AngularJS
+  speakers:
+  - Ladislav Prskavec
+  urls:
+  - http://lanyrd.com/2013/praha-pyvo-may/schdmf/
+  coverage:
+  - slides: http://www.slideshare.net/ladislavprskavec/pywo-angularjs
+  - video: http://www.youtube.com/watch?v=76WgIOCm_Gs
+- title: Espresso
+  speakers:
+  - Josef Pospíšil
+  urls:
+  - http://lanyrd.com/2013/praha-pyvo-may/schdyf/
+  coverage:
+  - video: http://www.youtube.com/watch?v=pF26lPATlW8
+- title: Flask
+  speakers:
+  - starenka
+  urls:
+  - http://lanyrd.com/2013/praha-pyvo-may/schdyg/
+  coverage:
+  - slides: http://junk.starenka.net/flask.pdf
+  - video: http://www.youtube.com/watch?v=6YVXZ30X-o4
+urls:
+- http://lanyrd.com/2013/praha-pyvo-may/

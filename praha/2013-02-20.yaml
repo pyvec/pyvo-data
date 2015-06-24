@@ -1,0 +1,45 @@
+start: 2013-02-20
+name: 'Pražské PyVo #23 lets talk about APIs'
+series: Pražské PyVo
+venue:
+  city: Prague
+  name: Na Věnečku
+  address: Ostrovského 38a, Praha 5, Czech Republic, 15000
+  location:
+    latitude: '50.0678996'
+    longitude: '14.3953814'
+talks:
+- title: HTTP API a Py
+  speakers:
+  - Milan Cermak
+  urls:
+  - http://lanyrd.com/2013/praha-pyvo-february/sccwdz/
+  coverage:
+  - slides: https://speakerdeck.com/milancermak/http-api-and-python
+  - video: http://www.youtube.com/watch?v=w7Neex5FI3A
+- title: tastypie prakticky
+  speakers:
+  - Vladimír Gorej
+  urls:
+  - http://lanyrd.com/2013/praha-pyvo-february/sccwdy/
+  coverage:
+  - slides: http://www.slideshare.net/VladimrGorej/tastypie
+  - video: http://www.youtube.com/watch?v=yhG6DF6cWAQ
+- title: Agile API development with Apiary.io
+  speakers:
+  - Almad
+  urls:
+  - http://lanyrd.com/2013/praha-pyvo-february/scdbkq/
+  coverage:
+  - slides: https://speakerdeck.com/almad/agile-api-development-with-apiary-dot-io
+  - video: http://www.youtube.com/watch?v=RqoH0-4sM5k
+- title: Google Apps API na App Engine
+  speakers:
+  - Jan Killian
+  urls:
+  - http://lanyrd.com/2013/praha-pyvo-february/sccwmk/
+  coverage:
+  - writeup: https://gist.github.com/iki/5004619
+  - video: http://www.youtube.com/watch?v=BofisDzJfyQ
+urls:
+- http://lanyrd.com/2013/praha-pyvo-february/

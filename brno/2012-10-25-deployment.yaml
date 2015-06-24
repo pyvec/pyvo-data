@@ -1,0 +1,42 @@
+start: 2012-10-25 19:00:00
+topic: Deployment
+name: Brněnské PyVo
+series: Brněnské PyVo + BRUG
+description: 'Tématem tohoto termínu bude deployment, čili "jak dostat (jakoukoliv)
+  svou aplikaci na server". Py balíčky, systémové balíčky, Fabric, Paver, ...
+
+  Kapacita salonku je zhruba 25 osob, takže přijďte včas, nemusíte se vlézt.'
+venue:
+  city: Brno
+  name: U Dřeváka
+  address: Dřevařská 22, 602 00
+  location:
+    latitude: '49.209095'
+    longitude: '16.6008957'
+talks:
+- title: Buildout
+  speakers:
+  - Radim Novotny
+  urls:
+  - http://lanyrd.com/2012/pyvo-october/szcyb/
+  coverage:
+  - slides: https://speakerdeck.com/naro/buildout
+  - video: http://www.youtube.com/watch?v=p2pPS84XNg8
+- title: Jak zveřejnit knihovnu
+  speakers:
+  - Petr Viktorin
+  urls:
+  - http://lanyrd.com/2012/pyvo-october/szcpq/
+  coverage:
+  - slides: https://speakerdeck.com/encukou/jak-zverejnit-knihovnu
+  - video: http://www.youtube.com/watch?v=QewvSNYlWlM
+- title: CSS Hat a věci, které jste doteď nemohli vidět
+  speakers:
+  - Viktor Stískala
+  urls:
+  - http://lanyrd.com/2012/pyvo-october/szcpr/
+  coverage:
+  - slides: https://speakerdeck.com/hareevs/css-hat-a-veci-ktere-jste-doted-nemohli-videt
+  - video: http://www.youtube.com/watch?v=gignh1ZNXpQ
+urls:
+- http://lanyrd.com/2012/pyvo-october/

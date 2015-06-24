@@ -1,0 +1,23 @@
+start: 2014-08-07 19:00:00
+name: Ostravské KinoPyvo
+series: Ostravské Pyvo s Rubači
+description: "I uprostřed léta se můžete těšit na oblíbené setkání u Pyva. Zub dovolených\
+  \ se nemilosrdně zakousl i do našich rozvrhů a rozvrhů našich speakrů a tak nestíháme\
+  \ vytvořit vlastní přednášky a ucelený program s jednotným tématem. Nemusíte se\
+  \ ale bát, nuda určitě nebude. Připravili jsme si pro Vás malý výběr toho nejlepšího,\
+  \ co nabízí internetové videoarchívy a tak nám na Pyvu budou přednášet nejzvučnější\
+  \ světová jména a celebrity z oblasti IT.\nUvidíme se opět první čtvrtek v srpnu\
+  \ v restauraci V. R. Levský poblíž Stodolní ulice.\nFantazii a iniciativě se sampzřejmě\
+  \ meze nekladou, takže pokud máte nějaké tipy či nápady na zajímavá témata, neváhejte\
+  \ nám je poslat na ostrava-pyvo@googlegroups.com\nTěšíme se na Vás (a na kolořízek)\n\
+  \    ~Pořadatelé"
+venue:
+  city: Ostrava
+  name: V. R. Levský
+  address: Škroupova 1114/4
+  location:
+    latitude: '49.8362996'
+    longitude: '18.2855466'
+talks: []
+urls:
+- http://lanyrd.com/2014/ostrava-pyvo-august/

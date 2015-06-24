@@ -1,0 +1,19 @@
+start: 2011-09-21
+name: 'Django-cs #7'
+series: Pražské PyVo
+venue:
+  city: Prague
+  name: Na Věnečku
+  address: Ostrovského 38a, Praha 5, Czech Republic, 15000
+  location:
+    latitude: '50.0678996'
+    longitude: '14.3953814'
+talks:
+- title: Inception of content strategy
+  speakers:
+  - Maksim Izmaylov
+  urls:
+  - http://lanyrd.com/2011/djangocs-september/shdzk/
+  coverage: []
+urls:
+- http://lanyrd.com/2011/djangocs-september/

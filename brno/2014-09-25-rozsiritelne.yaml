@@ -1,0 +1,16 @@
+start: 2014-09-25 19:00:00
+topic: Rozšiřitelné
+name: Brněnské Pyvo + BRUG
+series: Brněnské PyVo + BRUG
+description: Tentokrát o pluginech, háčcích, signálech, a jiných možnostech jak dovolit
+  ostatním programátorům doplňovat a rozšiřovat váš kód.
+venue:
+  city: Brno
+  name: Koločava
+  address: Bayerova 10
+  location:
+    latitude: '49.2061889'
+    longitude: '16.6025791'
+talks: []
+urls:
+- http://lanyrd.com/2014/brno-pyvo-september/

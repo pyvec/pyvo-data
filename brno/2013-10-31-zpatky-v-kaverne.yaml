@@ -1,0 +1,29 @@
+start: 2013-10-31 19:00:00
+topic: Zpátky v Kaverně
+name: Brněnské PyVo + BRUG
+series: Brněnské PyVo + BRUG
+description: 'POZOR! Zrušili nám rezervaci, sraz bude v Kaverně.
+
+  ATTENTION! Our reservation was cancelled, the meetup will be in Kaverna!'
+venue:
+  city: Brno
+  name: Restaurace Kaverna
+  address: Veveří 9, 602 00
+  location:
+    latitude: '49.199231'
+    longitude: '16.6024124'
+talks:
+- title: Algebrick
+  speakers:
+  - Petr Chalupa
+  urls:
+  - http://lanyrd.com/2013/brno-pyvo-october/scrkgt/
+  coverage: []
+- title: Učení RoR
+  speakers:
+  - Max
+  urls:
+  - http://lanyrd.com/2013/brno-pyvo-october/scrpmd/
+  coverage: []
+urls:
+- http://lanyrd.com/2013/brno-pyvo-october/

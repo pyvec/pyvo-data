@@ -1,0 +1,14 @@
+start: 2014-02-06
+topic: Únorové
+name: Ostravské Pyvo
+series: Ostravské Pyvo s Rubači
+venue:
+  city: Ostrava
+  name: Sport Club
+  address: Vítězná 2, Moravská Ostrava, 70200
+  location:
+    latitude: '49.8470913'
+    longitude: '18.2862144'
+talks: []
+urls:
+- http://lanyrd.com/2014/napyvo/

@@ -1,0 +1,34 @@
+start: 2011-03-30
+name: 'Django-cs #3'
+series: Pražské PyVo
+venue:
+  city: Prague
+  name: Na Věnečku
+  address: Ostrovského 38a, Praha 5, Czech Republic, 15000
+  location:
+    latitude: '50.0678996'
+    longitude: '14.3953814'
+talks:
+- title: paver
+  speakers:
+  - Almad
+  urls:
+  - http://lanyrd.com/2011/djangocs-march/szmcp/
+  coverage:
+  - video: http://www.youtube.com/watch?v=WR_lyqRD7ow
+- title: django ajax
+  speakers:
+  - Michal Valoušek
+  urls:
+  - http://lanyrd.com/2011/djangocs-march/szmcq/
+  coverage:
+  - video: http://www.youtube.com/watch?v=vDfVBZ4ZVv0
+- title: appengine prakticky
+  speakers:
+  - Roman Krejčík
+  urls:
+  - http://lanyrd.com/2011/djangocs-march/szmcr/
+  coverage:
+  - video: http://www.youtube.com/watch?v=s3R5tg24Cjw
+urls:
+- http://lanyrd.com/2011/djangocs-march/

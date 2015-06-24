@@ -1,0 +1,38 @@
+start: 2014-06-26 19:00:00
+topic: Letní mix
+name: Brněnské Pyvo + BRUG
+series: Brněnské PyVo + BRUG
+description: 'Na červnovém Pyvu+BRUGu uvítáme – mezi pivem a borščem – přednášky o
+  čemkoli, co se nějak týká Pythonu či Ruby.
+
+  Mimo jiné se proslýchá že začíná sezóna letních konferencí. Možná si někdo bude
+  chtít v neformálním prostředí vyzkoušet svou přednášku, než s ní odjede do zahraničí
+  za neznámým publikem.'
+venue:
+  city: Brno
+  name: Koločava
+  address: Bayerova 10
+  location:
+    latitude: '49.2061889'
+    longitude: '16.6025791'
+talks:
+- title: PyCon PL
+  speakers:
+  - Filip Kłębczyk
+  urls:
+  - http://lanyrd.com/2014/brno-pyvo-june/sdbtzm/
+  coverage: []
+- title: Concurrent Ruby
+  speakers:
+  - Petr Chalupa
+  urls:
+  - http://lanyrd.com/2014/brno-pyvo-june/sdbtzp/
+  coverage: []
+- title: RPython a PyPy
+  speakers:
+  - Martin Putniorz
+  urls:
+  - http://lanyrd.com/2014/brno-pyvo-june/sdbwdr/
+  coverage: []
+urls:
+- http://lanyrd.com/2014/brno-pyvo-june/

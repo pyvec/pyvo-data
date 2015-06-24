@@ -1,0 +1,32 @@
+start: 2012-11-29
+topic: CLI
+name: Brněnské PyVo
+series: Brněnské PyVo + BRUG
+description: 'Python v příkazové řádce: od zpracování argumentů po barevné tabulky'
+venue:
+  city: Brno
+  name: U Dřeváka
+  address: Dřevařská 22, 602 00
+  location:
+    latitude: '49.209095'
+    longitude: '16.6008957'
+talks:
+- title: Docopt
+  speakers:
+  - Tomáš Ehrlich
+  urls:
+  - http://lanyrd.com/2012/pyvo-november/sztmf/
+  coverage:
+  - slides: https://github.com/elvard/talks/blob/master/2012/2012-11-29-pyvo-cli/2012-11-29-pyvo-cli.pdf?raw=true
+  - link: https://github.com/elvard/talks/tree/master/2012/2012-11-29-pyvo-cli
+  - video: http://www.youtube.com/watch?v=4AV7NyQj9ZY
+- title: Textová rozhraní
+  speakers:
+  - Petr Viktorin
+  urls:
+  - http://lanyrd.com/2012/pyvo-november/scbfhh/
+  coverage:
+  - slides: https://github.com/encukou/slides/tree/master/2012-11-29-pyvo-cli
+  - video: http://www.youtube.com/watch?v=Rzkv2uwjXAU
+urls:
+- http://lanyrd.com/2012/pyvo-november/

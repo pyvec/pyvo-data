@@ -1,0 +1,48 @@
+start: 2015-01-21
+name: 'Pražské PyVo #46 Docker'
+series: Pražské PyVo
+venue:
+  city: Prague
+  name: Na Věnečku
+  address: "Ostrovského 38a, Praha 5, Czech Republic, 15000\n\t\t\t\t\n\t\t\t\t\t\
+    - Jedna se o soukromy klub. Takze nastrazte oci a usi, nikde neni zadna (napr\
+    \ pivni) cedule. Kdyz se Ostrovskeho ulice zmeni na chodnik, jdete cca 50m do\
+    \ kopce. Po prave strane narazite na pomerne velkou branu do dvora."
+  location:
+    latitude: '50.0678996'
+    longitude: '14.3953814'
+talks:
+- title: Docker
+  speakers:
+  - Vaclav Pavlín
+  urls:
+  - http://lanyrd.com/2015/praha-pyvo-january/sdhmqz/
+  coverage: []
+- title: Docker v roští.cz
+  speakers:
+  - Adam Štrauch
+  urls:
+  - http://lanyrd.com/2015/praha-pyvo-january/sdhmrb/
+  coverage:
+  - video: http://www.youtube.com/watch?v=yMRlhUQ6dD0
+- title: docker-py
+  speakers:
+  - Tomáš Tomeček
+  urls:
+  - http://lanyrd.com/2015/praha-pyvo-january/sdhmrc/
+  coverage:
+  - video: http://www.youtube.com/watch?v=Km6XKBsyiuo
+- title: Docker Mesos Cluster
+  speakers:
+  - Jakub Veverka
+  urls:
+  - http://lanyrd.com/2015/praha-pyvo-january/sdhmrd/
+  coverage:
+  - video: http://www.youtube.com/watch?v=pXJd5kUafDY
+- title: Lightning Talks
+  urls:
+  - http://lanyrd.com/2015/praha-pyvo-january/sdhmrf/
+  coverage:
+  - video: http://www.youtube.com/watch?v=OrRlZpoNdWM
+urls:
+- http://lanyrd.com/2015/praha-pyvo-january/

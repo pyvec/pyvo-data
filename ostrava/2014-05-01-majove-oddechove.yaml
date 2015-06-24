@@ -1,0 +1,13 @@
+start: 2014-05-01 10:00:00
+topic: Májové (oddechové)
+name: Ostravské Pyvo
+series: Ostravské Pyvo s Rubači
+venue:
+  city: Ostrava
+  name: Ostrava
+  location:
+    latitude: '49.839169'
+    longitude: '18.288179'
+talks: []
+urls:
+- http://lanyrd.com/2014/ostrava-pyvo-may/

@@ -1,0 +1,20 @@
+start: 2012-04-27
+topic: Punkové
+name: Brněnské PyVo
+series: Brněnské PyVo + BRUG
+venue:
+  city: Brno
+  name: Brno
+  location:
+    latitude: '49.19426'
+    longitude: '16.60445'
+talks:
+- title: Trocha pythonové magie
+  speakers:
+  - Petr Viktorin
+  urls:
+  - http://lanyrd.com/2012/pyvo-april/szcqd/
+  coverage:
+  - video: http://www.youtube.com/watch?v=EF3dxcGn6to
+urls:
+- http://lanyrd.com/2012/pyvo-april/

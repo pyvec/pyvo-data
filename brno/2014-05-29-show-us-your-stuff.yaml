@@ -1,0 +1,65 @@
+start: 2014-05-29 19:00:00
+topic: Show us your stuff!
+name: Brněnské Pyvo + BRUG
+series: Brněnské PyVo + BRUG
+description: 'Pojď představit svůj projekt! Píšeš po večerech hru, tvoříš si webovky,
+  nebo jsi napsal CLI pro svou banku? Nebo jsi napsal open-source projekt, který teď
+  používají tisíce lidí?
+
+  Na květnovém Pyvu uvítáme, mezi pivkem a borščem, krátké (1-10 min.) prezentace
+  takového toho domácího kódění.'
+venue:
+  city: Brno
+  name: Koločava
+  address: Bayerova 10
+  location:
+    latitude: '49.2061889'
+    longitude: '16.6025791'
+talks:
+- title: Jenkins-Koji integration; Koji Python API - lessons learned
+  speakers:
+  - Václav Tunka
+  urls:
+  - http://lanyrd.com/2014/brnenske-pyvo-kvetnove/sdbcfz/
+  coverage:
+  - slides: http://www.slideshare.net/vtunka/jenkinskoji-plugin-presentation-on-python-ruby-devel-group-brno
+  - video: http://www.youtube.com/watch?v=Kq1W7HR_Biw
+- title: RoCAPTCHA & NajdiMazla.cz
+  speakers:
+  - Vojtěch Oram
+  urls:
+  - http://lanyrd.com/2014/brnenske-pyvo-kvetnove/sdpmpr/
+  coverage:
+  - video: http://www.youtube.com/watch?v=fEZjf0s4rz0
+- title: projekty
+  speakers:
+  - Honza Javorek
+  urls:
+  - http://lanyrd.com/2014/brnenske-pyvo-kvetnove/sdpmpx/
+  coverage:
+  - video: http://www.youtube.com/watch?v=WiQCVjwwV6k
+- title: projekty
+  speakers:
+  - Ivan Nečas
+  urls:
+  - http://lanyrd.com/2014/brnenske-pyvo-kvetnove/sdpmpy/
+  coverage: []
+- title: cestovatel.cz
+  urls:
+  - http://lanyrd.com/2014/brnenske-pyvo-kvetnove/sdpmpz/
+  coverage: []
+- title: tmxlib & gillcup
+  speakers:
+  - Petr Viktorin
+  urls:
+  - http://lanyrd.com/2014/brnenske-pyvo-kvetnove/sdpmqb/
+  coverage:
+  - video: http://www.youtube.com/watch?v=JxAMKy549R8
+- title: actor
+  speakers:
+  - Tomáš Babej
+  urls:
+  - http://lanyrd.com/2014/brnenske-pyvo-kvetnove/sdpmqm/
+  coverage: []
+urls:
+- http://lanyrd.com/2014/brnenske-pyvo-kvetnove/

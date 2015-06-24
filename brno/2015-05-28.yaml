@@ -1,0 +1,32 @@
+start: 2015-05-28 19:00:00
+name: Brněnské Pyvo + BRUG ­– Květnové
+series: Brněnské PyVo + BRUG
+description: Květnové Pyvo je na volné téma. Kdokoliv může přijít a říct něco na téma,
+  jaké se mu zlíbí. Čekáte marně na to, až uděláme Pyvo zrovna s vaším tématem? Nemusíte!
+  V květnu je to pouliční směska, takže neváhejte a přihlašte si svůj talk!
+venue:
+  city: Brno
+  name: U Dřevěného orla
+  address: Orlí 3
+  location:
+    latitude: '49.1931942776'
+    longitude: '16.6101684696'
+talks:
+- title: Windowed Dynamic Time Warping a synchronizace videí
+  speakers:
+  - Petr Viktorin
+  urls:
+  - http://lanyrd.com/2015/brno-pyvo-may/sdmzfh/
+  coverage: []
+- title: Formát řetězce pomocí .format() nebo starým dobrým % operátorem?
+  urls:
+  - http://lanyrd.com/2015/brno-pyvo-may/sdpdqc/
+  coverage: []
+- title: Documentation driven development
+  speakers:
+  - Tomáš Ehrlich
+  urls:
+  - http://lanyrd.com/2015/brno-pyvo-may/sdpdqd/
+  coverage: []
+urls:
+- http://lanyrd.com/2015/brno-pyvo-may/

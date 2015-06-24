@@ -1,0 +1,29 @@
+start: 2014-12-18 19:00:00
+topic: Hardwarové
+name: Brněnské Pyvo + BRUG
+series: Brněnské PyVo + BRUG
+description: 'Tradiční datum Pyva+BRUGu připadá na den po Štědrém dni, takže to posuneme
+  o týden dřív.
+
+  Jako už tradičně, prosinec patří hardwaru. Přineste pípátka, blikátka, točítka,
+  chytré krabičky a jiné zajímavé komponenty a systémy.
+
+  Tradičně uspořádáme i vetešnictví – jestli máte doma nepotřebný kabel, klávesnici
+  či nějaký nesmysl do USB, přineste ho, pomůžeme mu najít nový domov.'
+venue:
+  city: Brno
+  name: Koločava
+  address: Bayerova 10
+  location:
+    latitude: '49.2061889'
+    longitude: '16.6025791'
+talks:
+- title: Micropython demo
+  speakers:
+  - Petr Viktorin
+  urls:
+  - http://lanyrd.com/2014/brno-pyvo-december/sdgygb/
+  coverage:
+  - video: http://www.youtube.com/watch?v=BopiYBx1JOs
+urls:
+- http://lanyrd.com/2014/brno-pyvo-december/

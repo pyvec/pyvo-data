@@ -1,0 +1,47 @@
+start: 2014-11-19
+name: 'Pražské PyVo #44'
+series: Pražské PyVo
+venue:
+  city: Prague
+  name: Na Věnečku
+  address: "Ostrovského 38a, Praha 5, Czech Republic, 15000\n\t\t\t\t\n\t\t\t\t\t\
+    - Jedna se o soukromy klub. Takze nastrazte oci a usi, nikde neni zadna (napr\
+    \ pivni) cedule. Kdyz se Ostrovskeho ulice zmeni na chodnik, jdete cca 50m do\
+    \ kopce. Po prave strane narazite na pomerne velkou branu do dvora."
+  location:
+    latitude: '50.0678996'
+    longitude: '14.3953814'
+talks:
+- title: Towards maintenance
+  speakers:
+  - Jiri Barton
+  urls:
+  - http://lanyrd.com/2014/praha-pyvo-november/sdgqdr/
+  coverage:
+  - slides: https://docs.google.com/presentation/d/17bYoNi4xgFNzanr_2ywpEzmMK7cZaqkST5wpheYnyA0/edit
+  - video: http://www.youtube.com/watch?v=4e_KoMUyTC4
+- title: Animace
+  speakers:
+  - Petr Viktorin
+  urls:
+  - http://lanyrd.com/2014/praha-pyvo-november/sdgqfp/
+  coverage: []
+- title: Python 3
+  speakers:
+  - Petr Viktorin
+  urls:
+  - http://lanyrd.com/2014/praha-pyvo-november/sdgqfq/
+  coverage: []
+- title: Java
+  urls:
+  - http://lanyrd.com/2014/praha-pyvo-november/sdgqfw/
+  coverage: []
+- title: PyCon UK
+  speakers:
+  - Jan Seifert
+  urls:
+  - http://lanyrd.com/2014/praha-pyvo-november/sdgwmw/
+  coverage:
+  - video: http://www.youtube.com/watch?v=RXDo9xwzSIE
+urls:
+- http://lanyrd.com/2014/praha-pyvo-november/

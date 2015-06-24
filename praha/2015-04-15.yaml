@@ -1,0 +1,45 @@
+start: 2015-04-15 19:00:00
+name: 'Pražské PyVo #49'
+series: Pražské PyVo
+venue:
+  city: Prague
+  name: Na Věnečku
+  address: "Ostrovského 38a, Praha 5, Czech Republic, 15000\n\t\t\t\t\n\t\t\t\t\t\
+    - If you're not sure how to get here, meet us 18:30 at Andel metro station in\
+    \ front of the apple store."
+  location:
+    latitude: '50.0678996'
+    longitude: '14.3953814'
+talks:
+- title: <remove this>
+  urls:
+  - http://lanyrd.com/2015/praha-pyvo-april/sdmffk/
+  coverage: []
+- title: 'RAML and Flask for API: the Story'
+  speakers:
+  - Jan Killian
+  urls:
+  - http://lanyrd.com/2015/praha-pyvo-april/sdmfqy/
+  coverage: []
+- title: Django REST framework
+  speakers:
+  - Ales Zoulek
+  urls:
+  - http://lanyrd.com/2015/praha-pyvo-april/sdmffm/
+  coverage:
+  - link: http://www.django-rest-framework.org/
+- title: Django REST framework - moje postřehy
+  speakers:
+  - Jirka Vejrazka
+  urls:
+  - http://lanyrd.com/2015/praha-pyvo-april/sdmffp/
+  coverage: []
+- title: PATCH
+  speakers:
+  - Honza Javorek
+  urls:
+  - http://lanyrd.com/2015/praha-pyvo-april/sdmffq/
+  coverage:
+  - slides: https://speakerdeck.com/honzajavorek/how-to-patch-in-http-apis
+urls:
+- http://lanyrd.com/2015/praha-pyvo-april/

@@ -1,0 +1,14 @@
+start: 2014-04-03
+topic: Dubnové
+name: Ostravské Pyvo
+series: Ostravské Pyvo s Rubači
+venue:
+  city: Ostrava
+  name: V. R. Levský
+  address: Škroupova 1114/4
+  location:
+    latitude: '49.8362996'
+    longitude: '18.2855466'
+talks: []
+urls:
+- http://lanyrd.com/2014/ostravske-pyvo-dubnove/

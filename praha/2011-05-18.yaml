@@ -1,0 +1,32 @@
+start: 2011-05-18
+name: 'Django-cs #4'
+series: Pražské PyVo
+venue:
+  city: Prague
+  name: Na Věnečku
+  address: Ostrovského 38a, Praha 5, Czech Republic, 15000
+  location:
+    latitude: '50.0678996'
+    longitude: '14.3953814'
+talks:
+- title: ella used with open html template
+  speakers:
+  - Robin Gottfried
+  urls:
+  - http://lanyrd.com/2011/djangocs-may/szmch/
+  coverage: []
+- title: django admin customisations
+  speakers:
+  - Honza Král
+  urls:
+  - http://lanyrd.com/2011/djangocs-may/szmck/
+  coverage:
+  - video: http://www.youtube.com/watch?v=JWfCCpycp6M
+- title: pyvec introduction
+  speakers:
+  - PyVec
+  urls:
+  - http://lanyrd.com/2011/djangocs-may/szmcm/
+  coverage: []
+urls:
+- http://lanyrd.com/2011/djangocs-may/

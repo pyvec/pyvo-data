@@ -1,0 +1,13 @@
+start: 2011-11-23
+name: 'Django-cs #9'
+series: Pražské PyVo
+venue:
+  city: Prague
+  name: Na Věnečku
+  address: Ostrovského 38a, Praha 5, Czech Republic, 15000
+  location:
+    latitude: '50.0678996'
+    longitude: '14.3953814'
+talks: []
+urls:
+- http://lanyrd.com/2011/djangocs-november-2/

@@ -1,0 +1,17 @@
+start: 2012-01-18
+name: 'Django-cs #10'
+series: Pražské PyVo
+venue:
+  city: Prague
+  name: Na Věnečku
+  address: Ostrovského 38a, Praha 5, Czech Republic, 15000
+  location:
+    latitude: '50.0678996'
+    longitude: '14.3953814'
+talks:
+- title: What will be new in Paver 1.1
+  urls:
+  - http://lanyrd.com/2012/djangocs-january/spdmf/
+  coverage: []
+urls:
+- http://lanyrd.com/2012/djangocs-january/

@@ -1,0 +1,34 @@
+start: 2014-06-18 19:00:00
+name: 'Pražské PyVo #39 django'
+series: Pražské PyVo
+venue:
+  city: Prague
+  name: Na Věnečku
+  address: "Ostrovského 38a, Praha 5, Czech Republic, 15000\n\t\t\t\t\n\t\t\t\t\t\
+    - Jedna se o soukromy klub. Takze nastrazte oci a usi, nikde neni zadna (napr\
+    \ pivni) cedule. Kdyz se Ostrovskeho ulice zmeni na chodnik, jdete cca 50m do\
+    \ kopce. Po prave strane narazite na pomerne velkou branu do dvora."
+  location:
+    latitude: '50.0678996'
+    longitude: '14.3953814'
+talks:
+- title: What's New in Django 1.7
+  speakers:
+  - Baptiste Mispelon
+  urls:
+  - http://lanyrd.com/2014/praha-pyvo-june/sdbhgb/
+  coverage: []
+- title: django-allauth
+  speakers:
+  - Martin
+  urls:
+  - http://lanyrd.com/2014/praha-pyvo-june/sdbfyw/
+  coverage: []
+- title: Hacks around Django Settings
+  speakers:
+  - Ales Zoulek
+  urls:
+  - http://lanyrd.com/2014/praha-pyvo-june/sdbhqy/
+  coverage: []
+urls:
+- http://lanyrd.com/2014/praha-pyvo-june/

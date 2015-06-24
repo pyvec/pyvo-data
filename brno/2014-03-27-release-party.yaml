@@ -1,0 +1,38 @@
+start: 2014-03-27 19:00:00
+topic: Release Party
+name: Brněnské Pyvo + BRUG
+series: Brněnské PyVo + BRUG
+venue:
+  city: Brno
+  name: Koločava
+  address: "Bayerova 10\n\t\t\t\t\n\t\t\t\t\t- salonek dole"
+  location:
+    latitude: '49.2061889'
+    longitude: '16.6025791'
+talks:
+- title: '3.4: Co je nového v Pythonu'
+  speakers:
+  - Petr Viktorin
+  urls:
+  - http://lanyrd.com/2014/brno-pyvo/scxqpf/
+  coverage: []
+- title: Novinky v Ruby >= 2.1
+  speakers:
+  - Ivan Nečas
+  urls:
+  - http://lanyrd.com/2014/brno-pyvo/scxxkc/
+  coverage: []
+- title: The Software Collections and friends
+  speakers:
+  - Jiří Zapletal
+  urls:
+  - http://lanyrd.com/2014/brno-pyvo/scygpg/
+  coverage: []
+- title: Elasticsearch 1.0 and 1.1
+  speakers:
+  - Honza Král
+  urls:
+  - http://lanyrd.com/2014/brno-pyvo/scykww/
+  coverage: []
+urls:
+- http://lanyrd.com/2014/brno-pyvo/

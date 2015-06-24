@@ -1,0 +1,45 @@
+start: 2014-10-15 19:00:00
+name: 'Pražské PyVo #43 production infrastructure'
+series: Pražské PyVo
+venue:
+  city: Prague
+  name: Na Věnečku
+  address: "Ostrovského 38a, Praha 5, Czech Republic, 15000\n\t\t\t\t\n\t\t\t\t\t\
+    - Jedna se o soukromy klub. Takze nastrazte oci a usi, nikde neni zadna (napr\
+    \ pivni) cedule. Kdyz se Ostrovskeho ulice zmeni na chodnik, jdete cca 50m do\
+    \ kopce. Po prave strane narazite na pomerne velkou branu do dvora."
+  location:
+    latitude: '50.0678996'
+    longitude: '14.3953814'
+talks:
+- title: Sensu on steroids
+  speakers:
+  - Ales Zoulek
+  urls:
+  - http://lanyrd.com/2014/praha-pyvo-october/sdfwdh/
+  coverage: []
+- title: Openshift
+  speakers:
+  - Radek Svarz
+  urls:
+  - http://lanyrd.com/2014/praha-pyvo-october/sdfwdk/
+  coverage:
+  - video: http://www.youtube.com/watch?v=VoyCUDdL84U
+- title: 'ElasticSearch + Logstash + Kibana: the ELK stack'
+  speakers:
+  - Ales Zoulek
+  urls:
+  - http://lanyrd.com/2014/praha-pyvo-october/sdfwdm/
+  coverage: []
+- title: New Relic
+  urls:
+  - http://lanyrd.com/2014/praha-pyvo-october/sdgbfg/
+  coverage:
+  - video: http://www.youtube.com/watch?v=EaSbGaUJB4c
+- title: Fossil
+  urls:
+  - http://lanyrd.com/2014/praha-pyvo-october/sdgbfh/
+  coverage:
+  - video: http://www.youtube.com/watch?v=2gcy6Gpypqw
+urls:
+- http://lanyrd.com/2014/praha-pyvo-october/

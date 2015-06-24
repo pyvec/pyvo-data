@@ -1,0 +1,26 @@
+start: 2014-11-27 19:00:00
+topic: LIstopadové
+name: Brněnské Pyvo + BRUG
+series: Brněnské PyVo + BRUG
+venue:
+  city: Brno
+  name: Koločava
+  address: Bayerova 10
+  location:
+    latitude: '49.2061889'
+    longitude: '16.6025791'
+talks:
+- title: import pytest
+  speakers:
+  - Petr Viktorin
+  urls:
+  - http://lanyrd.com/2014/brnenske-pyvo-brug-devops/sdgqfr/
+  coverage: []
+- title: Report z Django Under the Hood
+  speakers:
+  - Tomáš Ehrlich
+  urls:
+  - http://lanyrd.com/2014/brnenske-pyvo-brug-devops/sdgqft/
+  coverage: []
+urls:
+- http://lanyrd.com/2014/brnenske-pyvo-brug-devops/

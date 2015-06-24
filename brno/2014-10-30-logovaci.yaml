@@ -1,0 +1,31 @@
+start: 2014-10-30 19:00:00
+topic: Logovací
+name: Brněnské Pyvo + BRUG
+series: Brněnské PyVo + BRUG
+description: '(Omlouváme se se za změnu tématu; speakeři na DevOps budou k dispozici
+  až za měsíc).
+
+  Přijďte si pokecat o logování – přivítáme prezentace o věcech jako structlog, redis,
+  kafka, amqp jako log buffers, ELK, Graylog a podobné.'
+venue:
+  city: Brno
+  name: Koločava
+  address: Bayerova 10
+  location:
+    latitude: '49.2061889'
+    longitude: '16.6025791'
+talks:
+- title: Colorlog
+  speakers:
+  - Věroš K.
+  urls:
+  - http://lanyrd.com/2014/brno-pyvo-october/sdghfm/
+  coverage: []
+- title: from systemd import journal
+  speakers:
+  - Petr Viktorin
+  urls:
+  - http://lanyrd.com/2014/brno-pyvo-october/sdghpy/
+  coverage: []
+urls:
+- http://lanyrd.com/2014/brno-pyvo-october/

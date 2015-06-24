@@ -1,0 +1,25 @@
+start: 2014-04-16
+name: 'Pražské PyVo #37 openssl'
+series: Pražské PyVo
+venue:
+  city: Prague
+  name: Prague
+  location:
+    latitude: '50.079079'
+    longitude: '14.43322'
+talks:
+- title: HeartBleed
+  speakers:
+  - Jirka Vejrazka
+  urls:
+  - http://lanyrd.com/2014/praha-pyvo-april/scyygc/
+  coverage: []
+- title: Websocketem do browseru
+  speakers:
+  - Jiří Kaipr
+  - DJ Phokz
+  urls:
+  - http://lanyrd.com/2014/praha-pyvo-april/scyrkt/
+  coverage: []
+urls:
+- http://lanyrd.com/2014/praha-pyvo-april/

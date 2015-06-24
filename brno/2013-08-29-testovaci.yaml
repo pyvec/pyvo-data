@@ -1,0 +1,67 @@
+start: 2013-08-29 19:00:00
+topic: Testovací
+name: Brněnské PyVo + BRUG
+series: Brněnské PyVo + BRUG
+description: Funguje to, co jste napsali? Jste si jistí? Pojďme si popovídat o tom,
+  jak kontrolovat, jestli jsme ňekde neudělali chybu.
+venue:
+  city: Brno
+  name: U Dřeváka
+  address: Dřevařská 22, 602 00
+  location:
+    latitude: '49.209095'
+    longitude: '16.6008957'
+talks:
+- title: Python testing libraries
+  speakers:
+  - Tomáš Ehrlich
+  urls:
+  - http://lanyrd.com/2013/brnenske-pyvo-brug-srpnove/scpdwh/
+  coverage:
+  - slides: https://github.com/elvard/talks/blob/master/2013/2013-08-29-pyvo-testing-tools/2013-08-29-pyvo-testing-tools.pdf?raw=true
+  - link: https://github.com/elvard/talks/tree/master/2013/2013-08-29-pyvo-testing-tools
+  - video: http://www.youtube.com/watch?v=SsIc31vFMa0
+- title: Testing Ruby REST services using minitest and VCR
+  speakers:
+  - Michal Fojtik
+  urls:
+  - http://lanyrd.com/2013/brnenske-pyvo-brug-srpnove/scpcpt/
+  coverage:
+  - video: http://www.youtube.com/watch?v=pJBY2CwSYuY
+- title: Unit Testing (not just) Django Code
+  speakers:
+  - Honza Král
+  urls:
+  - http://lanyrd.com/2013/brnenske-pyvo-brug-srpnove/scpcqf/
+  coverage:
+  - video: http://www.youtube.com/watch?v=E4vlsugpS6U
+- title: Mutation testing
+  speakers:
+  - Petr Blaho
+  urls:
+  - http://lanyrd.com/2013/brnenske-pyvo-brug-srpnove/scpghf/
+  coverage:
+  - video: http://www.youtube.com/watch?v=2jY_mlh92YM
+- title: 'Lightning talk: TryStack'
+  speakers:
+  - Will Foster
+  urls:
+  - http://lanyrd.com/2013/brnenske-pyvo-brug-srpnove/scpkdf/
+  coverage:
+  - video: http://www.youtube.com/watch?v=VpRDW05LucY
+- title: 'Lightning talk: Ventro - centrum pohybu'
+  speakers:
+  - Matúš Svinčák
+  urls:
+  - http://lanyrd.com/2013/brnenske-pyvo-brug-srpnove/scpkdg/
+  coverage:
+  - video: http://www.youtube.com/watch?v=ymYQlHVR800
+- title: 'Lightning talk: py.test'
+  speakers:
+  - Petr Viktorin
+  urls:
+  - http://lanyrd.com/2013/brnenske-pyvo-brug-srpnove/scpkdh/
+  coverage:
+  - video: http://www.youtube.com/watch?v=XM7MGV94MwQ
+urls:
+- http://lanyrd.com/2013/brnenske-pyvo-brug-srpnove/

@@ -1,0 +1,20 @@
+start: 2012-01-27
+topic: NoSQL
+name: Brněnské PyVo
+series: Brněnské PyVo + BRUG
+venue:
+  city: Brno
+  name: Brno
+  location:
+    latitude: '49.19426'
+    longitude: '16.60445'
+talks:
+- title: Povídání o SQLAlchemy
+  speakers:
+  - Petr Viktorin
+  urls:
+  - http://lanyrd.com/2012/pyvo-january/szcqb/
+  coverage:
+  - slides: https://speakerdeck.com/u/encukou/p/povidani-o-sqlalchemy
+urls:
+- http://lanyrd.com/2012/pyvo-january/

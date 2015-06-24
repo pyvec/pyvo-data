@@ -1,0 +1,69 @@
+start: 2015-02-26 19:00:00
+topic: Dokumentační
+name: Brněnské Pyvo + BRUG + CzechiPub
+series: Brněnské PyVo + BRUG
+description: 'POZOR, jiné místo než obvykle – Koločava začíná být příliš malá // NOTICE:
+  We have a different (larger) venue than usual this time.
+
+  python.cz & czechitas.cz present: The docs meetup!
+
+  "Docs or it didn''t happen! Documentation first!" Podobné a někdy ještě skandálnější
+  výkřiky je možné stále časteji slýchat v undergroundových kavárnách a klubech, hnízdech
+  nové, alternativní programátorské vlny. Můžeme se něco od těchto volnomyšlenkářů
+  přiučit? Není to příliš radikální koncept, psát dokumentaci? Není to příliš altruistická
+  aktivita, dávat někomu strukturovanou informaci, jak náš kód použít? A co třeba
+  napsat dokumentaci jako úplně to první, dokonce ještě dřív než testy? To vše, ale
+  možná ještě méně se dovíte na našem spojeném srazu.
+
+  "Docs or it didn''t happen! Documentation first!" You might hear such slogans in
+  underground cafés and clubs, meeting places of a new programming movement. Can we
+  learn from these free-thinkers? Isn''t documentation too radical of a concept? Is
+  giving people structured information about how to use our code too altruistic? And
+  what about writing documentation first, even before tests? This, and maybe even
+  less, you will learn on our merged meetup.'
+venue:
+  city: Brno
+  name: U Dřevěného orla
+  address: Orlí 3
+  location:
+    latitude: '49.1931942776'
+    longitude: '16.6101684696'
+talks:
+- title: Keep it Simple, Present (FOSS Docs 101)
+  speakers:
+  - Mikey Ariel
+  urls:
+  - http://lanyrd.com/2015/brno-pyvo-february/sdpkkw/
+  coverage:
+  - video: http://www.youtube.com/watch?v=yf6OPB-yBOM
+- title: A Few Docs Tools
+  speakers:
+  - Petr Viktorin
+  urls:
+  - http://lanyrd.com/2015/brno-pyvo-february/sdpmfq/
+  coverage:
+  - video: http://www.youtube.com/watch?v=WoVJ-Lf87bg
+- title: Pandoc & Nové python.cz
+  speakers:
+  - Honza Javorek
+  urls:
+  - http://lanyrd.com/2015/brno-pyvo-february/sdpmfx/
+  coverage:
+  - video: http://www.youtube.com/watch?v=8kC2kE8yhHQ
+- title: Knihovnička
+  speakers:
+  - Petr Viktorin
+  urls:
+  - http://lanyrd.com/2015/brno-pyvo-february/sdpmfy/
+  coverage:
+  - video: http://www.youtube.com/watch?v=EeYrOHdqKNU
+- title: DjangoGirls Report
+  speakers:
+  - Mikey Ariel
+  urls:
+  - http://lanyrd.com/2015/brno-pyvo-february/sdpmfz/
+  coverage:
+  - slides: http://python.cz/talks/brno-2015-02-26-mikey-ariel-djangogirls-brno.pdf
+  - video: http://www.youtube.com/watch?v=57TIVdK6FJg
+urls:
+- http://lanyrd.com/2015/brno-pyvo-february/

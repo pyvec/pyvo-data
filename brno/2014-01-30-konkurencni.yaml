@@ -1,0 +1,49 @@
+start: 2014-01-30 19:00:00
+topic: Konkurenční
+name: Brněnské Pyvo + BRUG
+series: Brněnské PyVo + BRUG
+description: Nestačí vám jedno jádro? Paralelizujete, pouštíte vlákna, podprocesy
+  a zelenitky? Zdají se vám noční můry o GILu? Pokukujete po Go, Rust či Erlangu?
+  Přidejte se k aktorům lednového Pyva+BRUGu, popijte asynchronně natočené pivo, a
+  kooperativně se podělte o své zážitky a zkušenosti!
+venue:
+  city: Brno
+  name: Koločava
+  address: "Bayerova 10\n\t\t\t\t\n\t\t\t\t\t- dole"
+  location:
+    latitude: '49.2061889'
+    longitude: '16.6025791'
+talks:
+- title: asyncio
+  speakers:
+  - Petr Viktorin
+  urls:
+  - http://lanyrd.com/2014/brno-pyvo-lednove/scttwp/
+  coverage:
+  - slides: https://speakerdeck.com/encukou/import-asyncio
+  - video: http://www.youtube.com/watch?v=BuwVsVadoy8
+- title: Actor pattern
+  speakers:
+  - Petr Chalupa
+  urls:
+  - http://lanyrd.com/2014/brno-pyvo-lednove/scwgcd/
+  coverage:
+  - slides: http://blog.pitr.ch/presentations/actors.html
+  - video: http://www.youtube.com/watch?v=NnEk1S9c0lQ
+- title: Hledá se ostřílený Python/Django senior (lightning talk)
+  speakers:
+  - Videoflot
+  urls:
+  - http://lanyrd.com/2014/brno-pyvo-lednove/scwgcf/
+  coverage:
+  - video: https://vimeo.com/75782549
+  - slides: http://www.slideshare.net/davidspacil/videoflot-pyvo
+- title: Generator demo
+  speakers:
+  - Petr Viktorin
+  urls:
+  - http://lanyrd.com/2014/brno-pyvo-lednove/sczckd/
+  coverage:
+  - video: http://www.youtube.com/watch?v=pQYVgJfOyk8
+urls:
+- http://lanyrd.com/2014/brno-pyvo-lednove/
