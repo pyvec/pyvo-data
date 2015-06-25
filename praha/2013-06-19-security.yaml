@@ -41,7 +41,11 @@ talks:
   - video: http://www.youtube.com/watch?v=uC1Pg3RhXNk
 - title: lightning talks
   speakers:
-  - Jakub Vysoký, Adam Kliment, dosky, Honza Král, Jiri Barton
+  - Jakub Vysoký
+  - Adam Kliment
+  - dosky
+  - Honza Král
+  - Jiri Barton
   - Ales Zoulek
   urls:
   - http://lanyrd.com/2013/praha-pyvo-june/sckpbd/

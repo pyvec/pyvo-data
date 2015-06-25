@@ -12,7 +12,11 @@ venue:
 talks:
 - title: important talks about world, beer and python
   speakers:
-  - Vlada Macek, Jakub Vysoký, Almad, Jiri Barton, Jirka Vejrazka
+  - Vlada Macek
+  - Jakub Vysoký
+  - Almad
+  - Jiri Barton
+  - Jirka Vejrazka
   - Ales Zoulek
   urls:
   - http://lanyrd.com/2011/ppug-january/szmdb/
