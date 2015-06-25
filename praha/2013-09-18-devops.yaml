@@ -33,6 +33,7 @@ talks:
   - http://lanyrd.com/2013/praha-pyvo-september/sdpmqw/
   coverage: []
 - title: Lightning Talks
+  lightning: true
   urls:
   - http://lanyrd.com/2013/praha-pyvo-september/sdpmqx/
   coverage:

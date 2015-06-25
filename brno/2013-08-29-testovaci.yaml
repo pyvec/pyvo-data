@@ -42,21 +42,24 @@ talks:
   - http://lanyrd.com/2013/brnenske-pyvo-brug-srpnove/scpghf/
   coverage:
   - video: http://www.youtube.com/watch?v=2jY_mlh92YM
-- title: 'Lightning talk: TryStack'
+- title: TryStack
+  lightning: true
   speakers:
   - Will Foster
   urls:
   - http://lanyrd.com/2013/brnenske-pyvo-brug-srpnove/scpkdf/
   coverage:
   - video: http://www.youtube.com/watch?v=VpRDW05LucY
-- title: 'Lightning talk: Ventro - centrum pohybu'
+- title: Ventro - centrum pohybu
+  lightning: true
   speakers:
   - Matúš Svinčák
   urls:
   - http://lanyrd.com/2013/brnenske-pyvo-brug-srpnove/scpkdg/
   coverage:
   - video: http://www.youtube.com/watch?v=ymYQlHVR800
-- title: 'Lightning talk: py.test'
+- title: py.test
+  lightning: true
   speakers:
   - Petr Viktorin
   urls:

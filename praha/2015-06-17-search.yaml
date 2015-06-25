@@ -34,11 +34,13 @@ talks:
   - http://lanyrd.com/2015/praha-pyvo-june/sdpttc/
   coverage:
   - video: http://www.youtube.com/watch?v=F2zTjaLtLUE
-- title: 'Lightning Talk: PyLadies Praha'
+- title: PyLadies Praha
+  lightning: true
   urls:
   - http://lanyrd.com/2015/praha-pyvo-june/sdptwp/
   coverage: []
-- title: 'Lightning Talk: Pycon CZ'
+- title: Pycon CZ
+  lightning: true
   speakers:
   - Honza Javorek
   - Jakub Vysoký
@@ -46,7 +48,8 @@ talks:
   - http://lanyrd.com/2015/praha-pyvo-june/sdptwq/
   coverage:
   - video: http://www.youtube.com/watch?v=3PJiV-eo9_s
-- title: 'Lightning Talk: BTS in a Pocket'
+- title: BTS in a Pocket
+  lightning: true
   speakers:
   - Josef Liška
   urls:

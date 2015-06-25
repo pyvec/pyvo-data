@@ -19,48 +19,56 @@ talks:
   - http://lanyrd.com/2015/praha-pyvo-february/sdkdrc/
   coverage:
   - video: http://www.youtube.com/watch?v=nEINVbP3FpI
-- title: 'Lightning talk: Koučování'
+- title: Koučování
+  lightning: true
   urls:
   - http://lanyrd.com/2015/praha-pyvo-february/sdkdtg/
   coverage:
   - video: http://www.youtube.com/watch?v=o7moeWFhuuY
-- title: 'Lightning talk: Pozvánka na seminář o Axaptě'
+- title: Pozvánka na seminář o Axaptě
+  lightning: true
   urls:
   - http://lanyrd.com/2015/praha-pyvo-february/sdkdth/
   coverage:
   - video: http://www.youtube.com/watch?v=2maUvTRX9VM
-- title: 'Lightning talk: Nový python.cz'
+- title: Nový python.cz
+  lightning: true
   speakers:
   - Honza Javorek
   urls:
   - http://lanyrd.com/2015/praha-pyvo-february/sdkdtk/
   coverage:
   - video: http://www.youtube.com/watch?v=OkgftjRzeco
-- title: 'Lightning talk: Pyvařská knihovnička'
+- title: Pyvařská knihovnička
+  lightning: true
   speakers:
   - Petr Viktorin
   urls:
   - http://lanyrd.com/2015/praha-pyvo-february/sdkdtm/
   coverage:
   - video: http://www.youtube.com/watch?v=n-ok_cnTPRs
-- title: 'Lightning talk: film2trello'
+- title: film2trello
+  lightning: true
   speakers:
   - Honza Javorek
   urls:
   - http://lanyrd.com/2015/praha-pyvo-february/sdkdtp/
   coverage:
   - video: http://www.youtube.com/watch?v=Jq6dpVEfI94
-- title: 'Lightning talk: Benchmarking - Python vs. jiné jazyky'
+- title: Benchmarking - Python vs. jiné jazyky
+  lightning: true
   urls:
   - http://lanyrd.com/2015/praha-pyvo-february/sdkdtq/
   coverage:
   - video: http://www.youtube.com/watch?v=v9x7Oz2GVHE
-- title: 'Lightning talk: Python v rozhlase'
+- title: Python v rozhlase
+  lightning: true
   urls:
   - http://lanyrd.com/2015/praha-pyvo-february/sdkdtr/
   coverage:
   - video: http://www.youtube.com/watch?v=-vjCacCjNlk
-- title: 'Lightning talk: Závěr'
+- title: Závěr
+  lightning: true
   urls:
   - http://lanyrd.com/2015/praha-pyvo-february/sdkdtt/
   coverage:

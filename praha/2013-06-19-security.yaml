@@ -40,6 +40,7 @@ talks:
   - slides: https://docs.google.com/presentation/d/1UOWGi3E5dePEa1s7mhrvUUIhvS4R2Qc4Tb9bgm_DlSg/
   - video: http://www.youtube.com/watch?v=uC1Pg3RhXNk
 - title: lightning talks
+  lightning: true
   speakers:
   - Jakub Vysoký
   - Adam Kliment

@@ -30,6 +30,7 @@ talks:
   - slides: https://speakerdeck.com/honzajavorek/rest-api-manual
   - video: http://www.youtube.com/watch?v=t12ai0_RsmY
 - title: lightning talks
+  lightning: true
   urls:
   - http://lanyrd.com/2013/praha-pyvo-november/scthkd/
   coverage: []

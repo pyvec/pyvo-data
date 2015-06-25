@@ -30,7 +30,8 @@ talks:
   coverage:
   - slides: http://blog.pitr.ch/presentations/actors.html
   - video: http://www.youtube.com/watch?v=NnEk1S9c0lQ
-- title: Hledá se ostřílený Python/Django senior (lightning talk)
+- title: Hledá se ostřílený Python/Django senior
+  lightning: true
   speakers:
   - Videoflot
   urls:
