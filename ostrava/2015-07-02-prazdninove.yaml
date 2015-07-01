@@ -1,0 +1,33 @@
+city: Ostrava
+start: 2015-07-02
+name: Ostravské Pyvo s Rubači
+topic: Prázdninové
+description: 'První čtvrtek je za týden, počasí by se dovtedy mělo vypršet, takže
+  to zkusíme jako openair, tentokrát bez office. Notebooky necháme doma a místo přednášek
+  si něco zahrajeme nebo se projedeme, vždyť jsou prázdniny.
+
+  Místo je dobře dostupné cyklostezkou z centra i z Hrabové. Čistě teoretický se tam
+  dá dostat i vlakem nebo busem (Vratimov) a využít místní půjčovnu (ověřte si možnosti).
+  Je tam občerstvení, pivo, pizza z mrážaku, trávník a branky na fotbal. Několik km
+  dál je cyklopláž, kde podle slov majitele budou po 1.6 i lehátka a steaky na grilu…
+
+  PS: Jestli tam budou jen organizátoři, tak mate celé prázdniny zaracha na p(la)yStation
+  :D
+
+  http://www.mapy.cz/s/j3dF
+
+  https://www.facebook.com/coolarna
+
+  https://www.facebook.com/nastezce
+
+  https://www.facebook.com/cykloplaz'
+venue:
+  city: Ostrava
+  name: Coolárna Vratimov
+  address: Na stezce 973/11
+  location:
+    latitude: '49.7672233'
+    longitude: '18.3025817'
+talks: []
+urls:
+- http://lanyrd.com/2015/ostrava-pyvo-february/

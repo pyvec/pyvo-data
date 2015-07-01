@@ -1,0 +1,34 @@
+city: Brno
+start: 2015-06-25 19:00:00
+name: Brněnské Pyvo + BRUG
+topic: Regulární výrazy (Červnové)
+venue:
+  city: Brno
+  name: U Dřeváka
+  address: Dřevařská 22, 602 00
+  location:
+    latitude: '49.209095'
+    longitude: '16.6008957'
+talks:
+- title: Nový python.cz
+  speakers:
+  - Honza Javorek
+  urls:
+  - http://lanyrd.com/2015/brno-pyvo-june/sdpyzy/
+  coverage:
+  - video: http://www.youtube.com/watch?v=o_EvaJlmQBE
+- title: Nové pyvo.cz
+  lightning: true
+  speakers:
+  - Petr Viktorin
+  urls:
+  - http://lanyrd.com/2015/brno-pyvo-june/sdpyzz/
+  coverage: []
+- title: Dokku
+  speakers:
+  - Igor Hlina
+  urls:
+  - http://lanyrd.com/2015/brno-pyvo-june/sdpzbb/
+  coverage: []
+urls:
+- http://lanyrd.com/2015/brno-pyvo-june/

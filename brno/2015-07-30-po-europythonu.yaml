@@ -1,0 +1,15 @@
+city: Brno
+start: 2015-07-30 19:00:00
+name: Brněnské Pyvo + BRUG
+topic: Po EuroPythonu
+description: Červnové Pyvo bude pár dní po největší evropské pythoní konferenci. Jedete
+  na ni? Přijďte se podělit o zážitky. Nejedete? Přijďte si poslechnout, co se událo!
+venue:
+  city: Brno
+  name: Brno
+  location:
+    latitude: '49.19426'
+    longitude: '16.60445'
+talks: []
+urls:
+- http://lanyrd.com/2015/brno-pyvo-july/
