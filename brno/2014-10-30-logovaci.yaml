@@ -21,6 +21,7 @@ talks:
   urls:
   - http://lanyrd.com/2014/brno-pyvo-october/sdghfm/
   coverage: []
+  description: Colored logs with Python
 - title: from systemd import journal
   speakers:
   - Petr Viktorin

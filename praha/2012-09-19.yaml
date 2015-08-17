@@ -18,5 +18,7 @@ talks:
   coverage:
   - slides: https://docs.google.com/presentation/d/1Fr_NrKj4brGt4JacfBGTRnnhSPL_Ynu1a7DQbyFE4xY/edit
   - notes: https://docs.google.com/spreadsheet/ccc?key=0AquGg8HqMnjHdEh5R1lGNkpTWEJ0QnJ6UFBPQUl3UEE
+  description: serie lightning talku od fanousku naseho oblibeneho jazyka a od ucastniku
+    konferenci
 urls:
 - http://lanyrd.com/2012/djangocs-september/

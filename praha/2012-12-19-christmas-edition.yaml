@@ -21,17 +21,20 @@ talks:
   urls:
   - http://lanyrd.com/2012/praha-pyvo-december/scbddk/
   coverage: []
+  description: je mozne bubnovat na lidi?
 - title: reprap build status
   speakers:
   - Jakub Vysoký
   urls:
   - http://lanyrd.com/2012/praha-pyvo-december/scbddm/
   coverage: []
+  description: uz o tom melu nekolik mesicu, tak schvalne, jak na tom budu pred vanoci..
 - title: arduino tank
   speakers:
   - Jiří Kubíček
   urls:
   - http://lanyrd.com/2012/praha-pyvo-december/scbmmy/
   coverage: []
+  description: snad po nas nebude strilet, ale jezdit urcite
 urls:
 - http://lanyrd.com/2012/praha-pyvo-december/

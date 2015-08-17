@@ -29,10 +29,17 @@ talks:
   coverage:
   - slides: https://speakerdeck.com/honzajavorek/rest-api-manual
   - video: http://www.youtube.com/watch?v=t12ai0_RsmY
+  description: Jak navrhnout API tak, aby bylo opravdu RESTful.
 - title: lightning talks
   lightning: true
   urls:
   - http://lanyrd.com/2013/praha-pyvo-november/scthkd/
   coverage: []
+  description: "mirek - foxpro like open file - https://github.com/zvolsky/vfp/b...\n\
+    \  @tbedrich - vlastni api\n  radim - velka data\n  lubos matl - soap vs rest\
+    \ -> rfc 2616\n  lukas rychtecky - kos api\n  martin @donnmums - facebook api\
+    \ python\n  petr viktorin - pil api or ?\n  honza kral - how to api ES\n  jirkav\
+    \ - domaci router mikrotik\n  jardav - codecademy.com #python #l10n\n  martin\
+    \ putniorz - ostrava pyvo\n  jirka barton -> pyvo #33"
 urls:
 - http://lanyrd.com/2013/praha-pyvo-november/

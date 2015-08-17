@@ -16,6 +16,10 @@ talks:
   urls:
   - http://lanyrd.com/2012/djangocs-july/swzbc/
   coverage: []
+  description: 'O špinavých tricích v šablonách a o mocném tagu umožňující něco jako
+    vícenásobnou dedičnost.
+
+    Programátoři mě následně můžou ukřižovat.'
 - title: ukazka appengine aplikaci
   speakers:
   - Martin Kubát

@@ -47,5 +47,8 @@ talks:
   - http://lanyrd.com/2015/praha-pyvo-january/sdhmrf/
   coverage:
   - video: http://www.youtube.com/watch?v=OrRlZpoNdWM
+  description: "Vašek Chalupníček – Kde už Docker neposlouží\n  Miro Hrončok – Developer\
+    \ Assistant – Django+Docker ve dvou minutách\n  Petr Viktorin – DevConf.cz 2015\n\
+    \  Docker & závislosti na binárce\n  Docker meetup"
 urls:
 - http://lanyrd.com/2015/praha-pyvo-january/

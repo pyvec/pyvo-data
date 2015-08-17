@@ -20,6 +20,7 @@ talks:
   - http://lanyrd.com/2015/praha-pyvo-june/sdprrt/
   coverage:
   - video: http://www.youtube.com/watch?v=6NdFFywjEYw
+  description: Jak funguje fulltext
 - title: Vyhledávání v Djangu pro chudé
   speakers:
   - Jirka Vejrazka
@@ -27,6 +28,7 @@ talks:
   - http://lanyrd.com/2015/praha-pyvo-june/sdpryp/
   coverage:
   - video: http://www.youtube.com/watch?v=16xcahoLxbQ
+  description: aneb jak vyhledávat, pokud je pro vás ElasticSearch příliš velký
 - title: (Elastic)search - Python DSL
   speakers:
   - Honza Král
@@ -34,6 +36,7 @@ talks:
   - http://lanyrd.com/2015/praha-pyvo-june/sdpttc/
   coverage:
   - video: http://www.youtube.com/watch?v=F2zTjaLtLUE
+  description: Jak pouzit Elasticsearch z pythonu
 - title: PyLadies Praha
   lightning: true
   urls:

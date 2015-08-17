@@ -43,5 +43,7 @@ talks:
   coverage:
   - writeup: https://gist.github.com/iki/5004619
   - video: http://www.youtube.com/watch?v=BofisDzJfyQ
+  description: 'Quick overview: Google API verze a knihovny, OAuth 1/2, implementace
+    v GAE tasku, optimalizace, GAE tasku'
 urls:
 - http://lanyrd.com/2013/praha-pyvo-february/

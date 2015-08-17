@@ -49,5 +49,7 @@ talks:
   - http://lanyrd.com/2012/praha-pyvo-november/szyww/
   coverage:
   - slides: http://www.slideshare.net/visgean/trendyou
+  description: How to use Celery and django libraries to download all data from facebook
+    tables.
 urls:
 - http://lanyrd.com/2012/praha-pyvo-november/

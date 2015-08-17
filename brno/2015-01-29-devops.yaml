@@ -16,12 +16,22 @@ talks:
   urls:
   - http://lanyrd.com/2015/brno-pyvo/sdhcyd/
   coverage: []
+  description: 'The Foreman (http://theforeman.org/) is a provisioning and configuration
+    management tool, integrating various providers, both from provisioning (bare-metal,
+    oVirt, VMWare, libvirt, EC2, OpenStack) and configuration management (Puppet,  Chef,
+    Salt) side. Besides other things, it''s plugable. Katello (http://katello.org/)
+    is a plugin, that brings content management into the play as well.
+
+    I would like to go through the concepts and features of this two projects that
+    I happened to work on (with help of other team members that will also be there
+    to support me hopefully :)'
 - title: Ansible - get your hands dirty
   speakers:
   - Věroš K.
   urls:
   - http://lanyrd.com/2015/brno-pyvo/sdhcyf/
   coverage: []
+  description: Quick introduction to Ansible.
 - title: service discovery pro docker cluster
   speakers:
   - Martin Stiborský

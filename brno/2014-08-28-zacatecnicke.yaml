@@ -38,5 +38,7 @@ talks:
   urls:
   - http://lanyrd.com/2014/brno-pyvo-august/sdczhm/
   coverage: []
+  description: Learn Python (or Ruby, Haskell, etc.) by using it. Sources of motivation
+    and programming challenges to help you learn new programming language.
 urls:
 - http://lanyrd.com/2014/brno-pyvo-august/

@@ -22,6 +22,10 @@ talks:
   urls:
   - http://lanyrd.com/2015/praha-pyvo-april/sdmfqy/
   coverage: []
+  description: 'Modelling API in Rest API Markup Language.
+
+    Using RAML model for automatic parameter conversion/validation, and mock-up server
+    in Flask.'
 - title: Django REST framework
   speakers:
   - Ales Zoulek

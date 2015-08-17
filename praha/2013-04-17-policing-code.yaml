@@ -29,5 +29,9 @@ talks:
   - http://lanyrd.com/2013/praha-pyvo-april/scftwg/
   coverage:
   - slides: https://speakerdeck.com/dmajda/code-reviews-ftw-prazske-pyvo-number-25
+  description: V SUSE jsme v některých týmech cca před rokem začali používat code
+    reviews. Jaké jsou naše zkušenosti a jaké vidíme výhody? Jak vlastně vypadá správné
+    code review? Na co by se měl reviewer zaměřit a čemu se naopak vyhnout? A mají
+    code reviews smysl i pro vás? Na tyto otázky zkusíme dát odpověď.
 urls:
 - http://lanyrd.com/2013/praha-pyvo-april/

@@ -24,6 +24,7 @@ talks:
   - http://lanyrd.com/2011/djangocs-march/szmcq/
   coverage:
   - video: http://www.youtube.com/watch?v=vDfVBZ4ZVv0
+  description: plus frkale
 - title: appengine prakticky
   speakers:
   - Roman Krejčík

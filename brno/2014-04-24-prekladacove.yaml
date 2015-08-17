@@ -17,6 +17,8 @@ talks:
   - http://lanyrd.com/2014/brnenske-pyvo-brug-dubnove/scyxgp/
   coverage:
   - slides: https://speakerdeck.com/dmajda/peg-dot-js-generator-parseru-pro-javascript
+  description: Stručné představení PEG.js s ukázkou, doplněné tipy na podobné nástroje
+    pro Ruby a Python.
 - title: Zpětný překlad - jak z binárky dostat zdroják
   speakers:
   - Petr Zemek

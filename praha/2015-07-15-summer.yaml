@@ -12,6 +12,44 @@ venue:
   location:
     latitude: '50.0678996'
     longitude: '14.3953814'
-talks: []
+talks:
+- title: Clojure
+  speakers:
+  - Dom Kiva-Meyer
+  urls:
+  - http://lanyrd.com/2015/praha-pyvo-july/sdqfzz/
+  coverage:
+  - video: https://www.youtube.com/watch?v=D_ySmS1ta9s&feature=youtu.be
+- title: Project Cloudly
+  speakers:
+  - Jan Paricka
+  urls:
+  - http://lanyrd.com/2015/praha-pyvo-july/sdqgqm/
+  coverage: []
+  description: Servers Monitoring in the Cloud.
+- title: PyCon PL
+  speakers:
+  - Filip Kłębczyk
+  urls:
+  - http://lanyrd.com/2015/praha-pyvo-july/sdqtww/
+  coverage:
+  - video: https://www.youtube.com/watch?v=sBDgob0hx4Y&feature=youtu.be
+- title: PyLadies report
+  lightning: true
+  urls:
+  - http://lanyrd.com/2015/praha-pyvo-july/sdqtwx/
+  coverage: []
+- title: Call for Help
+  lightning: true
+  urls:
+  - http://lanyrd.com/2015/praha-pyvo-july/sdqtwy/
+  coverage:
+  - video: https://www.youtube.com/watch?v=rNzjKw68BW0
+- title: .pyc, async/await, EuroPython
+  lightning: true
+  urls:
+  - http://lanyrd.com/2015/praha-pyvo-july/sdqtwz/
+  coverage:
+  - video: https://www.youtube.com/watch?v=km2FqVsRmWc&feature=youtu.be
 urls:
 - http://lanyrd.com/2015/praha-pyvo-july/

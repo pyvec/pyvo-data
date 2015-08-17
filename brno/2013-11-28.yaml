@@ -22,6 +22,8 @@ talks:
   urls:
   - http://lanyrd.com/2013/brno-pyvo-november/sctfrg/
   coverage: []
+  description: 10 - 15 minut, kde bych popsal všechny možné metody, způsoby, rady
+    a postřehy, se kterými jsem se setkal při optimalizaci reálných větších projektů.
 - title: PostgreSQL & Tornado web server
   speakers:
   - Michal Šiška

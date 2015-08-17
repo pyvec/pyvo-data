@@ -21,6 +21,7 @@ talks:
   - slides: https://github.com/elvard/talks/blob/master/2013/2013-08-29-pyvo-testing-tools/2013-08-29-pyvo-testing-tools.pdf?raw=true
   - link: https://github.com/elvard/talks/tree/master/2013/2013-08-29-pyvo-testing-tools
   - video: http://www.youtube.com/watch?v=SsIc31vFMa0
+  description: Comparison of known and unknown Python testing frameworks and libraries.
 - title: Testing Ruby REST services using minitest and VCR
   speakers:
   - Michal Fojtik
@@ -28,6 +29,10 @@ talks:
   - http://lanyrd.com/2013/brnenske-pyvo-brug-srpnove/scpcpt/
   coverage:
   - video: http://www.youtube.com/watch?v=pJBY2CwSYuY
+  description: A very brief introduction into testing REST clients against REST services
+    offline in Ruby, using the minitest (https://github.com/seattlerb/min...) and
+    VCR (https://github.com/vcr/vcr). This presentation will not include any hipster
+    tools, web interfaces or rainbows in console.
 - title: Unit Testing (not just) Django Code
   speakers:
   - Honza Král

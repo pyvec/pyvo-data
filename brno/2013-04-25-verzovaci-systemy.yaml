@@ -44,11 +44,18 @@ talks:
   urls:
   - http://lanyrd.com/2013/brnenske-pyvo-brug-verzovaci-systemy/scgkfk/
   coverage: []
+  description: "I'll try to answer question whether GitLab is usable GitHub replacement\
+    \ for specific use cases or not. I'll briefly describe installation, git setup\
+    \ and other needed admin tatsks. Showcase of main features will follow including\
+    \ comparison with GitHub ones.\nI'll prefer talk in czech but if english is really\
+    \ needed, I can try with my limited czenglish skills.\uFEFF"
 - title: Git workflow in open-source
   speakers:
   - Václav Tunka
   urls:
   - http://lanyrd.com/2013/brnenske-pyvo-brug-verzovaci-systemy/scgkfm/
   coverage: []
+  description: "How git is being used in open-source projects such as JBoss AS, Torquebox,\
+    \ etc.\uFEFF"
 urls:
 - http://lanyrd.com/2013/brnenske-pyvo-brug-verzovaci-systemy/

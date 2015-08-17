@@ -43,6 +43,8 @@ talks:
   urls:
   - http://lanyrd.com/2015/brno-pyvo-april/sdmqmz/
   coverage: []
+  description: Práce na dálku má své specifika, své výhody i nevýhody. Podělím se
+    o svůj pohled na věc, co mi vyhovuje, co ne a, hlavně, jak to řeším.
 - title: Moderování diskuse + vlastní zkušenosti
   speakers:
   - Jiří Zapletal

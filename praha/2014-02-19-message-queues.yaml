@@ -28,6 +28,9 @@ talks:
   - http://lanyrd.com/2014/praha-pyvo-february/scwtmy/
   coverage:
   - slides: https://onedrive.live.com/redir?resid=7D9A2DDCD2458629!1899&authkey=!AL3Vn6RS9VJ8kTk&ithint=file,.pptx
+  description: 'Windows Azure overview, Windows Azure Queue Service usage.
+
+    Python Mock - Mocking and Testing Library.'
 - title: replace orbited with jabber
   speakers:
   - Josef Liška

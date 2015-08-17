@@ -23,8 +23,6 @@ talks:
   - http://lanyrd.com/2015/brno-pyvo-may/sdpdqc/
   coverage: []
 - title: Documentation driven development
-  speakers:
-  - Tomáš Ehrlich
   urls:
   - http://lanyrd.com/2015/brno-pyvo-may/sdpdqd/
   coverage: []

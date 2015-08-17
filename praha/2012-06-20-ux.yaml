@@ -28,6 +28,12 @@ talks:
   - http://lanyrd.com/2012/djangocs-june/styrb/
   coverage:
   - video: http://www.youtube.com/watch?v=U7PFcOFWbqE
+  description: 'Použitelnost není posvátná kráva, při designu uživatelského rozhraní
+    můžeme mít i jiné záměry. Jaké?
+
+    Richard Šerý vám poví, jaké mohou designéři sledovat cíle, jaká dělají rozhodnutí
+
+    a jaké to může mít důsledky. Chuck Norris inside!'
 - title: Co nepodělat, když chcete, aby se vám někdo registroval do vaší webové aplikace
   speakers:
   - Denisa Lorencová
@@ -35,6 +41,10 @@ talks:
   - http://lanyrd.com/2012/djangocs-june/styrc/
   coverage:
   - video: http://www.youtube.com/watch?v=Wirk-HCa9MA
+  description: 'Denisa Lorencová poradí, jak dělat i nedělat registrační formulář,
+    abyste se uživatelů nezbavovali ještě předtím, než jste je vůbec získali.
+
+    Praktický seznam included.'
 - title: Maximův pozdrav z Kalifornie po Skype (a možná něco navíc)
   speakers:
   - Maksim Izmaylov

@@ -19,6 +19,15 @@ talks:
   coverage:
   - slides: https://docs.google.com/presentation/d/18LA9RaQ4nzoID9a4_h_6gj5j23YMJDd248g750EuzHk/edit
   - video: http://www.youtube.com/watch?v=VMvTnMetCLo
+  description: 'eventlet
+
+    gevent
+
+    greenlet
+
+    greenthread
+
+    coroutines'
 - title: twisted
   speakers:
   - yac

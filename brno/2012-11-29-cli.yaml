@@ -20,6 +20,7 @@ talks:
   - slides: https://github.com/elvard/talks/blob/master/2012/2012-11-29-pyvo-cli/2012-11-29-pyvo-cli.pdf?raw=true
   - link: https://github.com/elvard/talks/tree/master/2012/2012-11-29-pyvo-cli
   - video: http://www.youtube.com/watch?v=4AV7NyQj9ZY
+  description: Něco o docopt + malé shrnutí (arg|opt)parse
 - title: Textová rozhraní
   speakers:
   - Petr Viktorin

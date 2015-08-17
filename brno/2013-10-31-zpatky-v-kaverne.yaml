@@ -19,6 +19,7 @@ talks:
   urls:
   - http://lanyrd.com/2013/brno-pyvo-october/scrkgt/
   coverage: []
+  description: Algebraic types and pattern matching.
 - title: Učení RoR
   speakers:
   - Max

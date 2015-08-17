@@ -26,6 +26,7 @@ talks:
   urls:
   - http://lanyrd.com/2013/praha-pyvo-august/scmkmk/
   coverage: []
+  description: what is what
 - title: Golf
   speakers:
   - starenka
@@ -45,6 +46,7 @@ talks:
   urls:
   - http://lanyrd.com/2013/praha-pyvo-august/scpczm/
   coverage: []
+  description: python api for fakturoid.cz
 - title: Zákeřný eval()
   speakers:
   - Petr Viktorin
