@@ -12,6 +12,16 @@ venue:
   location:
     latitude: '50.0678996'
     longitude: '14.3953814'
-talks: []
+talks:
+- title: React JS
+  speakers:
+  - Petr Messner
+  urls:
+  - http://lanyrd.com/2015/praha-pyvo-august/sdrbkq/
+- title: URLjects
+  speakers:
+  - Visgean Skeloru
+  urls:
+  - http://lanyrd.com/2015/praha-pyvo-august/sdrbkr/
 urls:
 - http://lanyrd.com/2015/praha-pyvo-august/
