@@ -1,5 +1,5 @@
 city: Praha
-start: 2015-08-19
+start: 2015-08-19 19:00:00
 name: Pražské PyVo
 number: 53
 topic: more summer
@@ -18,10 +18,23 @@ talks:
   - Petr Messner
   urls:
   - http://lanyrd.com/2015/praha-pyvo-august/sdrbkq/
+  coverage: []
 - title: URLjects
   speakers:
   - Visgean Skeloru
   urls:
   - http://lanyrd.com/2015/praha-pyvo-august/sdrbkr/
+  coverage: []
+- title: Git na backendu
+  speakers:
+  - Petr Viktorin
+  urls: []
+  coverage: []
+- title: Ruby Blocks in Python
+  lightning: true
+  speakers:
+  - Tomás Bedřich
+  urls: []
+  coverage: []
 urls:
 - http://lanyrd.com/2015/praha-pyvo-august/
