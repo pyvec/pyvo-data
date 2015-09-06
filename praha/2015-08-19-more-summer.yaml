@@ -18,23 +18,35 @@ talks:
   - Petr Messner
   urls:
   - http://lanyrd.com/2015/praha-pyvo-august/sdrbkq/
-  coverage: []
-- title: URLjects
-  speakers:
-  - Visgean Skeloru
-  urls:
-  - http://lanyrd.com/2015/praha-pyvo-august/sdrbkr/
-  coverage: []
-- title: Git na backendu
-  speakers:
-  - Petr Viktorin
-  urls: []
-  coverage: []
-- title: Ruby Blocks in Python
+  coverage:
+  - video: https://www.youtube.com/watch?v=gtRZbN2WRE8
+- title: Ruby blocks in Python
   lightning: true
   speakers:
-  - Tomás Bedřich
-  urls: []
+  - Tomáš Bedřich
+  urls:
+  - http://lanyrd.com/2015/praha-pyvo-august/sdrczf/
+  coverage:
+  - video: https://www.youtube.com/watch?v=2nMEgOEw8Cs&feature=youtu.be
+- title: 'pyvo.cz: Data v Gitu'
+  lightning: true
+  speakers:
+  - Petr Viktorin
+  urls:
+  - http://lanyrd.com/2015/praha-pyvo-august/sdrppx/
+  coverage:
+  - video: https://www.youtube.com/watch?v=K3B4r3SdTXo&feature=youtu.be
+- title: Práce v Seznamu
+  lightning: true
+  speakers: []
+  urls:
+  - http://lanyrd.com/2015/praha-pyvo-august/sdrppy/
+  coverage: []
+- title: Fixa
+  lightning: true
+  speakers: []
+  urls:
+  - http://lanyrd.com/2015/praha-pyvo-august/sdrppz/
   coverage: []
 urls:
 - http://lanyrd.com/2015/praha-pyvo-august/

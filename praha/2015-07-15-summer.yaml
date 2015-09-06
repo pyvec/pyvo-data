@@ -36,17 +36,22 @@ talks:
   - video: https://www.youtube.com/watch?v=sBDgob0hx4Y&feature=youtu.be
 - title: PyLadies report
   lightning: true
+  speakers: []
   urls:
   - http://lanyrd.com/2015/praha-pyvo-july/sdqtwx/
   coverage: []
 - title: Call for Help
   lightning: true
+  speakers:
+  - Honza Javorek
   urls:
   - http://lanyrd.com/2015/praha-pyvo-july/sdqtwy/
   coverage:
   - video: https://www.youtube.com/watch?v=rNzjKw68BW0
 - title: .pyc, async/await, EuroPython
   lightning: true
+  speakers:
+  - Petr Viktorin
   urls:
   - http://lanyrd.com/2015/praha-pyvo-july/sdqtwz/
   coverage:
