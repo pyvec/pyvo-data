@@ -1,0 +1,42 @@
+city: Brno
+start: 2015-08-27 19:11:00
+name: Brněnské Pyvo + BRUG
+topic: Clean code
+venue:
+  city: Brno
+  name: Baroko
+  address: Orlí 469/17, Brno, 602 00
+  location:
+    latitude: '49.19403'
+    longitude: '16.612054'
+talks:
+- title: Code Quality Tools
+  speakers:
+  - Pavel Studeník
+  urls:
+  - http://lanyrd.com/2015/brno-pyvo-august/sdrpqy/
+  coverage: []
+- title: PEP 8 vs. pep8
+  speakers:
+  - Petr Viktorin
+  urls:
+  - http://lanyrd.com/2015/brno-pyvo-august/sdrpqz/
+  coverage: []
+- title: Rule-based authorization in Django
+  speakers:
+  - Věroš K.
+  urls:
+  - http://lanyrd.com/2015/brno-pyvo-august/sdrprb/
+  coverage: []
+- title: Django Guardian
+  urls:
+  - http://lanyrd.com/2015/brno-pyvo-august/sdrprd/
+  coverage: []
+- title: PyCon CZ
+  speakers:
+  - Tomáš Ehrlich
+  urls:
+  - http://lanyrd.com/2015/brno-pyvo-august/sdrprf/
+  coverage: []
+urls:
+- http://lanyrd.com/2015/brno-pyvo-august/
