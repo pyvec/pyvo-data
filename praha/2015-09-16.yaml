@@ -1,0 +1,28 @@
+city: Praha
+start: 2015-09-16 19:00:00
+name: Pražské PyVo
+number: 54
+venue:
+  city: Prague
+  name: Na Věnečku
+  address: "Ostrovského 38a, Praha 5, Czech Republic, 15000\n\t\t\t\t\n\t\t\t\t\t\
+    - If you're not sure how to get here, meet us 18:30 at Andel metro station in\
+    \ front of the apple store."
+  location:
+    latitude: '50.0678996'
+    longitude: '14.3953814'
+talks:
+- title: Co je nového v Pythonu 3.5
+  speakers:
+  - Petr Viktorin
+  urls:
+  - http://lanyrd.com/2015/praha-pyvo-september/sdrrdk/
+  coverage: []
+- title: URLjects
+  speakers:
+  - Visgean Skeloru
+  urls:
+  - http://lanyrd.com/2015/praha-pyvo-september/sdrrdm/
+  coverage: []
+urls:
+- http://lanyrd.com/2015/praha-pyvo-september/
