@@ -1,0 +1,17 @@
+city: Brno
+start: 2015-09-24 19:00:00
+name: Brněnské Pyvo
+topic: 3.5 Release Party
+description: 'Pojďte oslavit novou verzi Pythonu!
+
+  (Těm, kteří se těšili na téma CI, se omlouváme – bude za měsíc.)'
+venue:
+  city: Brno
+  name: U Dřevěného orla
+  address: "Orlí 3\n\t\t\t\t\n\t\t\t\t\t- salonek dole"
+  location:
+    latitude: '49.1931942776'
+    longitude: '16.6101684696'
+talks: []
+urls:
+- http://lanyrd.com/2015/brno-pyvo-september/

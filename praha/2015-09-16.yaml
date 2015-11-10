@@ -23,6 +23,15 @@ talks:
   - Visgean Skeloru
   urls:
   - http://lanyrd.com/2015/praha-pyvo-september/sdrrdm/
-  coverage: []
+  coverage:
+  - slides: https://drive.google.com/file/d/0B8UWMc25OB-2VGZoVXlLRGVkV2c/view?usp=sharing
+- title: Barman
+  speakers:
+  - Viktor Stískala
+  urls:
+  - http://lanyrd.com/2015/praha-pyvo-september/sdrxcy/
+  coverage:
+  - slides: http://www.slideshare.net/ViktorStskala/barman-53005770
+  description: Point-In-Time Recovery v PostgreSQL a Barman (http://www.pgbarman.org/)
 urls:
 - http://lanyrd.com/2015/praha-pyvo-september/

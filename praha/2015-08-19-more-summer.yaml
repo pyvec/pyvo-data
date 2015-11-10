@@ -20,6 +20,12 @@ talks:
   - http://lanyrd.com/2015/praha-pyvo-august/sdrbkq/
   coverage:
   - video: https://www.youtube.com/watch?v=gtRZbN2WRE8
+- title: URLjects
+  speakers:
+  - Visgean Skeloru
+  urls:
+  - http://lanyrd.com/2015/praha-pyvo-august/sdrbkr/
+  coverage: []
 - title: Ruby blocks in Python
   lightning: true
   speakers:
