@@ -1,0 +1,21 @@
+city: Brno
+start: 2015-11-26 19:00:00
+name: Brněnské Pyvo
+topic: Listopadové
+venue:
+  city: Brno
+  name: Koločava
+  address: Bayerova 10
+  location:
+    latitude: '49.2061889'
+    longitude: '16.6025791'
+talks:
+- title: Event-Sourced Domain Models in python
+  speakers:
+  - Michal Ovčiarik
+  urls:
+  - http://lanyrd.com/2015/brno-pyvo-november/sdxbht/
+  coverage: []
+  description: Rekapitulacia z PyCon workshopu
+urls:
+- http://lanyrd.com/2015/brno-pyvo-november/

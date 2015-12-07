@@ -1,0 +1,19 @@
+city: Brno
+start: 2015-12-17 19:00:00
+name: Brněnské Pyvo
+topic: Hardware Bazar
+description: 'Chystá se Vánoční hardwarové Pyvo!
+
+  Přineste hardware, co se vám doma válí v šuplíku, a darujte nebo vyměňujte s ostatními!
+
+  Nebo přineste ukázat zajímavý hardware (nejlépe poháněný Pythonem).'
+venue:
+  city: Brno
+  name: Koločava
+  address: Bayerova 10
+  location:
+    latitude: '49.2061889'
+    longitude: '16.6025791'
+talks: []
+urls:
+- http://lanyrd.com/2015/brno-pyvo-december/

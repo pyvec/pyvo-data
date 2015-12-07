@@ -1,0 +1,37 @@
+city: Praha
+start: 2015-12-16 19:00:00
+name: Pražské PyVo
+number: 57
+venue:
+  city: Prague
+  name: Na Věnečku
+  address: "Ostrovského 38a, Praha 5, Czech Republic, 15000\n\t\t\t\t\n\t\t\t\t\t\
+    - If you're not sure how to get here, meet us 18:30 at Andel metro station in\
+    \ front of the apple store."
+  location:
+    latitude: '50.0678996'
+    longitude: '14.3953814'
+talks:
+- title: 'e-Nable: 3D print a helping hand'
+  speakers:
+  - Miro Hrončok
+  urls:
+  - http://lanyrd.com/2015/praha-pyvo-december/sdxdmx/
+  coverage: []
+  description: e-Nable is a community project about open source 3D printed upper limb
+    prosthetic donated to kids. Let's see how it works and how does the plastic hand
+    look like.
+- title: Interfacing NFC smartcards in Python
+  speakers:
+  - Ondrej Mikle
+  urls:
+  - http://lanyrd.com/2015/praha-pyvo-december/sdxdtk/
+  coverage: []
+  description: 'We will show a daemon that wraps libnfc via swig. This daemon authenthicates
+    user either via ISO14443A UID or Yubikey HMAC-SHA1 over NFC. The sample shows
+    how the authenthication can be used to unlock door with WiringPi.
+
+    Raspberry Pi (Raspbian) was the original target platform, but it can work on any
+    platform that libnfc supports, including x86.'
+urls:
+- http://lanyrd.com/2015/praha-pyvo-december/
