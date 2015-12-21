@@ -1,0 +1,24 @@
+city: Ostrava
+start: 2016-01-06 19:00:00
+name: Ostravské Pyvo s Rubači
+topic: Paralelní
+description: 'Po proflákaných Vánocích se všem jistě bude hodit způsob, jak toho v
+  co nejkratším čase stihnout co nejvíce. A protože to nebude dlouho trvat, než se
+  vícejádrové procesory přesunou z notebooků a mobilů do ledniček a kávovarů, mrkneme
+  se společně na paralelní programování v našem oblíbeném jazyce.
+
+  Nejdříve si připomeneme programování ve vláknech, následovat bude programování samostatných
+  procesů a na závěr omrkneme velmi užitečný modul – Parallel Python, který toho umí
+  celou řadu a umožní nám využít moderní výpočetní prostředky.
+
+  Na Vás a Vaše příspěvky se těší organizátoři.'
+venue:
+  city: Ostrava
+  name: V. R. Levský
+  address: Škroupova 1114/4
+  location:
+    latitude: '49.8362996'
+    longitude: '18.2855466'
+talks: []
+urls:
+- http://lanyrd.com/2016/ostrava-pyvo/
