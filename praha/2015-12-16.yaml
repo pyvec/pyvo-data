@@ -26,7 +26,8 @@ talks:
   - Ondrej Mikle
   urls:
   - http://lanyrd.com/2015/praha-pyvo-december/sdxdtk/
-  coverage: []
+  coverage:
+  - slides: https://qabs.cz/o/Pyvo57.pdf
   description: 'We will show a daemon that wraps libnfc via swig. This daemon authenthicates
     user either via ISO14443A UID or Yubikey HMAC-SHA1 over NFC. The sample shows
     how the authenthication can be used to unlock door with WiringPi.
