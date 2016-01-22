@@ -2,7 +2,12 @@ city: Brno
 start: 2016-01-28 19:00:00
 name: Brněnské Pyvo
 topic: JAK začít
-description: 'Každý někdy začínal – a většina z nás začíná stále znovu.
+description: 'POZOR: Pro velký zájem měníme místo! Pyvo bude u Skypickeru, na adrese
+  Hlinky 40/102, Brno.
+
+  ----
+
+  Každý někdy začínal – a většina z nás začíná stále znovu.
 
   Jak začít s Pythonem? S programováním obecně? Nebo s novou knihovnou či frameworkem?
   A jak začínání usnadnit ostatním?
@@ -10,11 +15,11 @@ description: 'Každý někdy začínal – a většina z nás začíná stále z
   Pyvo samotné letos začíná sérii "JAK". Přijďte začít s námi!'
 venue:
   city: Brno
-  name: Koločava
-  address: Bayerova 10
+  name: Skypicker
+  address: Hlinky 40/102
   location:
-    latitude: '49.2061889'
-    longitude: '16.6025791'
+    latitude: '49.19041'
+    longitude: '16.5814139'
 talks: []
 urls:
 - http://lanyrd.com/2016/brno-pyvo/
