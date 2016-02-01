@@ -20,6 +20,33 @@ venue:
   location:
     latitude: '49.19041'
     longitude: '16.5814139'
-talks: []
+talks:
+- title: Jak se naučit programovat (v Pythonu)
+  speakers:
+  - Honza Javorek
+  urls:
+  - http://lanyrd.com/2016/brno-pyvo/sdybqc/
+  coverage:
+  - slides: https://speakerdeck.com/honzajavorek/jak-se-naucit-programovat-v-pythonu
+  - video: https://www.youtube.com/watch?v=B8DYsKDz63Y
+  description: Jak začít s programováním? Kde najít informace, kde odstartovat? Proč
+    to vůbec dělat? A proč zrovna v Pythonu?
+- title: What might surprise you when you start to learn Python
+  speakers:
+  - David Kašpar
+  urls:
+  - http://lanyrd.com/2016/brno-pyvo/sdxyfr/
+  coverage: []
+- title: Czechitas
+  lightning: true
+  speakers:
+  - Eva Bližňáková
+  urls:
+  - http://lanyrd.com/2016/brno-pyvo/sdycgb/
+  coverage:
+  - video: https://www.youtube.com/watch?v=uOLA0Yl4HR4
+- title: Python + VS (Code) + Azure
+  speakers:
+  - David Bureš
 urls:
 - http://lanyrd.com/2016/brno-pyvo/
