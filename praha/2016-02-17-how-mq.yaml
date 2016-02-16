@@ -2,7 +2,7 @@ city: Praha
 start: 2016-02-17 19:00:00
 name: Pražské PyVo
 number: 59
-topic: HOW
+topic: HOW MQ
 venue:
   city: Prague
   name: Na Věnečku
@@ -12,6 +12,25 @@ venue:
   location:
     latitude: '50.0678996'
     longitude: '14.3953814'
-talks: []
+talks:
+- title: Message Queues
+  speakers:
+  - Jiri Barton
+  urls:
+  - http://lanyrd.com/2016/praha-pyvo-february/sdyktb/
+  coverage: []
+  description: lehky uvod
+- title: rq
+  speakers:
+  - starenka
+  urls:
+  - http://lanyrd.com/2016/praha-pyvo-february/sdyktc/
+  coverage: []
+- title: django-q
+  speakers:
+  - Jiri Barton
+  urls:
+  - http://lanyrd.com/2016/praha-pyvo-february/sdyktd/
+  coverage: []
 urls:
 - http://lanyrd.com/2016/praha-pyvo-february/
