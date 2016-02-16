@@ -4,10 +4,11 @@ name: Brněnské PyVo
 topic: Punkové
 venue:
   city: Brno
-  name: Brno
+  name: Restaurace Kaverna
+  address: Veveří 9, 602 00
   location:
-    latitude: '49.19426'
-    longitude: '16.60445'
+    latitude: '49.199231'
+    longitude: '16.6024124'
 talks:
 - title: Trocha pythonové magie
   speakers:

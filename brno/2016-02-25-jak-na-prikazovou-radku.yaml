@@ -1,0 +1,24 @@
+city: Brno
+start: 2016-02-25 19:00:00
+name: Brněnské Pyvo
+topic: Jak na příkazovou řádku
+description: 'Píše se rok 2016 a každý pořádný program má webové rozhraní. Ale ti,
+  kdo ono webové rozhraní vytváří a spravují, stále píšou textové příkazy, tak jako
+  se to dělá už od sedmdesátých let.
+
+  Proč to tak je? Jak je na tom příkazová řádka jako uživatelské rozhraní – potřebuje
+  pečlivý design, nebo její popularita spočívá v nepřívětivosti? Co je na ní dobré,
+  co se dá vylepšit, čím se dá nahradit? To budou témata pro další setkání Pythonistů.
+
+  Úvodní přednáška všechno osvětlí i nováčkům, takže se nebojte přijít!
+
+  Místo bude upřesněno podle zájmu.'
+venue:
+  city: Brno
+  name: Brno
+  location:
+    latitude: '49.2061889'
+    longitude: '16.6025791'
+talks: []
+urls:
+- http://lanyrd.com/2016/brno-pyvo-february/
