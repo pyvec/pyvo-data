@@ -2,9 +2,15 @@ city: Brno
 start: 2016-02-25 19:00:00
 name: Brněnské Pyvo
 topic: Jak na příkazovou řádku
-description: 'Píše se rok 2016 a každý pořádný program má webové rozhraní. Ale ti,
-  kdo ono webové rozhraní vytváří a spravují, stále píšou textové příkazy, tak jako
-  se to dělá už od sedmdesátých let.
+description: 'POZOR: pokud se chcete zúčastnit, potvrďte prosím do pondělí 22. 6.
+  účast buď na Lanyrdu (http://lanyrd.com/2016/brno-pyvo-february/) nebo Facebooku (https://www.facebook.com/events/543920205792409).
+  Díky!
+
+  ---
+
+  Píše se rok 2016 a každý pořádný program má webové rozhraní. Ale ti, kdo ono webové
+  rozhraní vytváří a spravují, stále píšou textové příkazy, tak jako se to dělá už
+  od sedmdesátých let.
 
   Proč to tak je? Jak je na tom příkazová řádka jako uživatelské rozhraní – potřebuje
   pečlivý design, nebo její popularita spočívá v nepřívětivosti? Co je na ní dobré,
