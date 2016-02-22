@@ -2,11 +2,7 @@ city: Brno
 start: 2016-02-25 19:00:00
 name: Brněnské Pyvo
 topic: Jak na příkazovou řádku
-description: 'POZOR: pokud se chcete zúčastnit, potvrďte prosím do pondělí 22. 6.
-  účast buď na Lanyrdu (http://lanyrd.com/2016/brno-pyvo-february/) nebo Facebooku (https://www.facebook.com/events/543920205792409).
-  Díky!
-
-  ---
+description: 'POZOR: naplnili jsme kapacitu; nejte-li přihlášení, tak prosím nechoďte.
 
   Píše se rok 2016 a každý pořádný program má webové rozhraní. Ale ti, kdo ono webové
   rozhraní vytváří a spravují, stále píšou textové příkazy, tak jako se to dělá už
@@ -21,10 +17,11 @@ description: 'POZOR: pokud se chcete zúčastnit, potvrďte prosím do pondělí
   Místo bude upřesněno podle zájmu.'
 venue:
   city: Brno
-  name: Brno
+  name: U Dřeváka
+  address: Dřevařská 22, 602 00
   location:
-    latitude: '49.2061889'
-    longitude: '16.6025791'
+    latitude: '49.209095'
+    longitude: '16.6008957'
 talks: []
 urls:
 - http://lanyrd.com/2016/brno-pyvo-february/
