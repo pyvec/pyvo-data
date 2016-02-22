@@ -18,7 +18,8 @@ talks:
   - Jiri Barton
   urls:
   - http://lanyrd.com/2016/praha-pyvo-february/sdyktb/
-  coverage: []
+  coverage:
+  - slides: https://docs.google.com/presentation/d/1KJ-QHWxHKoYPANw1XQscZVCtINC-NKGQteyoO_TlGC8/edit?usp=sharingcZVCtINC-NKGQteyoO_TlGC8
   description: lehky uvod
 - title: rq
   speakers:
@@ -31,6 +32,15 @@ talks:
   - Jiri Barton
   urls:
   - http://lanyrd.com/2016/praha-pyvo-february/sdyktd/
-  coverage: []
+  coverage:
+  - slides: https://docs.google.com/presentation/d/1RadqH0jwR0ek0Z5FpWPZw7rBz57_U0pWhY19prc23hA/
+- title: ZeroMQ
+  speakers:
+  - Tomáš Bedřich
+  urls:
+  - http://lanyrd.com/2016/praha-pyvo-february/sdymtt/
+  coverage:
+  - link: https://gist.github.com/tomasbedrich/446eac05ad24e63dd08e
+  - link: https://learning-0mq-with-pyzmq.readthedocs.org/en/latest/
 urls:
 - http://lanyrd.com/2016/praha-pyvo-february/

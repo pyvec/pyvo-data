@@ -1,5 +1,5 @@
 city: Praha
-start: 2016-01-20
+start: 2016-01-20 19:00:00
 name: Pražské PyVo
 number: 58
 topic: How Auth
@@ -12,6 +12,21 @@ venue:
   location:
     latitude: '50.0678996'
     longitude: '14.3953814'
-talks: []
+talks:
+- title: Auth*
+  speakers:
+  - Jiri Barton
+  - Jakub Vysoký
+  urls:
+  - http://lanyrd.com/2016/praha-pyvo-january/sdytgk/
+  coverage:
+  - video: https://www.youtube.com/watch?v=MSpg0j712E4&feature=youtu.be
+- title: Auth-Neauth
+  speakers:
+  - Ales Zoulek
+  urls:
+  - http://lanyrd.com/2016/praha-pyvo-january/sdytgm/
+  coverage:
+  - video: https://www.youtube.com/watch?v=0cQ8_QmJ_OU&feature=youtu.be
 urls:
 - http://lanyrd.com/2016/praha-pyvo-january/
