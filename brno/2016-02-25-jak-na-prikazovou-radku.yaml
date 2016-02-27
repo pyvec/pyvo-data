@@ -2,7 +2,9 @@ city: Brno
 start: 2016-02-25 19:00:00
 name: Brněnské Pyvo
 topic: Jak na příkazovou řádku
-description: 'POZOR: naplnili jsme kapacitu; nejte-li přihlášení, tak prosím nechoďte.
+description: 'POZOR: pokud se chcete zúčastnit, potvrďte prosím do pondělí 22. 6.
+  účast buď na Lanyrdu (http://lanyrd.com/2016/brno-pyvo...) nebo Facebooku (https://www.facebook.com/events/...).
+  Díky!
 
   Píše se rok 2016 a každý pořádný program má webové rozhraní. Ale ti, kdo ono webové
   rozhraní vytváří a spravují, stále píšou textové příkazy, tak jako se to dělá už
@@ -22,6 +24,13 @@ venue:
   location:
     latitude: '49.209095'
     longitude: '16.6008957'
-talks: []
+talks:
+- title: Jak na příkazovou řádku
+  speakers:
+  - Petr Viktorin
+  urls:
+  - http://lanyrd.com/2016/brno-pyvo-february/sdyyhr/
+  coverage:
+  - video: https://www.youtube.com/watch?v=260R2UpF76A
 urls:
 - http://lanyrd.com/2016/brno-pyvo-february/
