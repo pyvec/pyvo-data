@@ -11,10 +11,11 @@ description: 'Pracuješ na nějakém zajímavém projektu, ať už v práci nebo
   Plus: první Pyvo proběhlo před pěti lety! Pojďme to oslavit :)'
 venue:
   city: Brno
-  name: Brno
+  name: Skypicker
+  address: Hlinky 40/102
   location:
-    latitude: '49.19426'
-    longitude: '16.60445'
+    latitude: '49.19041'
+    longitude: '16.5814139'
 talks: []
 urls:
 - http://lanyrd.com/2016/pyvo/
