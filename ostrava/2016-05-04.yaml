@@ -1,0 +1,29 @@
+city: Ostrava
+start: 2016-05-04 19:00:00
+name: Ostravské Pyvo
+number: 28
+description: 'Milí přátelé, ve středu 4.5. se bude v Ostravě konat již #28 PyVo nebo-li
+  sraz všech příznivců programovacích jazyků Python a Ruby. Sraz začíná v 19:00 v
+  restaurantu V.R. Levský (www.levsky.cz) a je volně přístupný pro všechny, kteří
+  si chtějí poslechnout zajímavé mini-přednášky, potkat nové, či známé tváře nebo
+  se zastavit jen tak na kus řeči.
+
+  Večerní program začíná rychlým představovacím kolečkem, na které navazují tři přednáškové
+  bloky v délce okolo 30ti minut a následná diskuze.
+
+  Témata přednášek budou upřesněny během následujících 14 dnů.
+
+  Svou účast nemusíte nikam předem hlásit, stačí jen přijít, ideálně potvrdit zájem
+  na Facebooku/Lanyrdu.
+
+  Těšíme se na Vás!'
+venue:
+  city: Ostrava
+  name: V. R. Levský
+  address: Škroupova 1114/4
+  location:
+    latitude: '49.8362996'
+    longitude: '18.2855466'
+talks: []
+urls:
+- http://lanyrd.com/2016/ostrava-pyvo-may/
