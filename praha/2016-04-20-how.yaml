@@ -12,6 +12,39 @@ venue:
   location:
     latitude: '50.0678996'
     longitude: '14.3953814'
-talks: []
+talks:
+- title: Hardware password manager
+  speakers:
+  - Ondrej Mikle
+  urls:
+  - http://lanyrd.com/2016/praha-pyvo-april/sfbgpd/
+  coverage:
+  - slides: http://qabs.cz/o/Pyvo61.pdf
+  - link: https://github.com/hiviah/TrezorPass
+  description: Most password managers have one intrinsic vulnerability - once you
+    unlock them with passphrase, they can be scraped from memory - all the passwords
+    at once. With Trezor-backed password manager, only one password group is unlocked
+    at a time. And it requires physical access to Trezor token.
+- title: Cython talk/video sneak peek
+  speakers:
+  - Miro Hrončok
+  urls:
+  - http://lanyrd.com/2016/praha-pyvo-april/sfbgpk/
+  coverage: []
+  description: Jestli se chcete naučit něco o Cythonu, koukněte na [video](https://www.youtube.com/watch?v=Ksv4RA6yhkY),
+    kde o Cythonu hoďku a půl povídám.
+- title: (Nejen) algoritmické obchodování v Pythonu
+  speakers:
+  - Vita Smid
+  urls:
+  - http://lanyrd.com/2016/praha-pyvo-april/sfbhrc/
+  coverage: []
+  description: Lightning talk o dosud tajném projektu, který vedu. Vyvíjíme polo-automatickou
+    platformu na obchodování na finančních trzích + spoustu infrastruktury kolem.
+    Financuje nás investiční banka, ale jedeme jako startup na bleeding edge verzích,
+    open source, a každodenních deployích. Stavíme vše na asyncio, máme UI v Reactu,
+    data skladujeme v PostgreSQL a analyzujeme s Pandas a Scipy. Machine learning
+    modely nám počítají GPU farmy na AWS. Pokud vás to zajímá, klidně mi napište na
+    vita.smid@wood.cz.
 urls:
 - http://lanyrd.com/2016/praha-pyvo-april/
