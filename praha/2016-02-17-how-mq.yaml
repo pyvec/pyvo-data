@@ -20,13 +20,15 @@ talks:
   - http://lanyrd.com/2016/praha-pyvo-february/sdyktb/
   coverage:
   - slides: https://docs.google.com/presentation/d/1KJ-QHWxHKoYPANw1XQscZVCtINC-NKGQteyoO_TlGC8/edit?usp=sharingcZVCtINC-NKGQteyoO_TlGC8
+  - video: https://www.youtube.com/watch?v=HlC8bsVce8w
   description: lehky uvod
 - title: rq
   speakers:
   - starenka
   urls:
   - http://lanyrd.com/2016/praha-pyvo-february/sdyktc/
-  coverage: []
+  coverage:
+  - video: https://www.youtube.com/watch?v=YIQAgumudmI
 - title: django-q
   speakers:
   - Jiri Barton
@@ -34,6 +36,7 @@ talks:
   - http://lanyrd.com/2016/praha-pyvo-february/sdyktd/
   coverage:
   - slides: https://docs.google.com/presentation/d/1RadqH0jwR0ek0Z5FpWPZw7rBz57_U0pWhY19prc23hA/
+  - video: https://www.youtube.com/watch?v=7F6VNdy73d4
 - title: ZeroMQ
   speakers:
   - Tomáš Bedřich
@@ -42,5 +45,22 @@ talks:
   coverage:
   - link: https://gist.github.com/tomasbedrich/446eac05ad24e63dd08e
   - link: https://learning-0mq-with-pyzmq.readthedocs.org/en/latest/
+  - video: https://www.youtube.com/watch?v=uoQ8A6Mk7RQ
+- title: Retask
+  lightning: true
+  speakers:
+  - Miro Hrončok
+  urls:
+  - http://lanyrd.com/2016/praha-pyvo-february/sfbyhm/
+  coverage:
+  - video: https://www.youtube.com/watch?v=_qCroYhTQpg
+- title: Grafový editor
+  lightning: true
+  speakers:
+  - Timothy Hobbs
+  urls:
+  - http://lanyrd.com/2016/praha-pyvo-february/sfbyhq/
+  coverage:
+  - video: https://www.youtube.com/watch?v=pJOMVkc0D2k
 urls:
 - http://lanyrd.com/2016/praha-pyvo-february/
