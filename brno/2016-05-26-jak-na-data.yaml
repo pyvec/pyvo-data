@@ -1,0 +1,14 @@
+city: Brno
+start: 2016-05-26
+name: Brněnské Pyvo
+topic: Jak na data
+venue:
+  city: Brno
+  name: Skypicker
+  address: Hlinky 40/102
+  location:
+    latitude: '49.19041'
+    longitude: '16.5814139'
+talks: []
+urls:
+- http://lanyrd.com/2016/brno-pyvo-may/
