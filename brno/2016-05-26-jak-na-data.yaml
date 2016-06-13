@@ -2,6 +2,9 @@ city: Brno
 start: 2016-05-26
 name: Brněnské Pyvo
 topic: Jak na data
+description: Květnový sraz Python programátorů v Brně, tentokráte o tom, jak na data.
+  Přednášky, zlobu, lásku a nejistotu miřte na Tomáše Ehrlicha, který má květnové
+  Pyvo na starosti.
 venue:
   city: Brno
   name: Skypicker

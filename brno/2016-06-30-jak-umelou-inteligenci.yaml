@@ -1,0 +1,23 @@
+city: Brno
+start: 2016-06-30 19:00:00
+name: Brněnské Pyvo
+topic: Jak umělou inteligenci
+description: 'Červnový sraz Python programátorů v Brně, tentokráte o tom, jak na umělou
+  inteligenci.
+
+  Jako obvykle hledáme ideálně jednu nějakou úvodní přednášku do tématu a jednu nějakou
+  pokročilejší. Přednášky hlašte sem na event nebo dejte vědět kterémukoliv ze čtyř
+  organizátorů.
+
+  S blížícím se létem nesmíme zapomínat na péči o naši den co den slunci vystavenou
+  pokožku. Každý správný programátor ví, že by ji měl pravidelně schovávat z dosahu
+  paprsků, aby si odpočinula. Nejlépe každý poslední čtvrtek v měsíci.'
+venue:
+  city: Brno
+  name: Brno
+  location:
+    latitude: '49.19426'
+    longitude: '16.60445'
+talks: []
+urls:
+- http://lanyrd.com/2016/pyvo-cerven/
