@@ -1,0 +1,14 @@
+city: Ostrava
+start: 2016-07-06
+name: Ostravské Pyvo
+number: 29
+venue:
+  city: Vratimov
+  name: Coolárna Vratimov
+  address: Na stezce 973/11
+  location:
+    latitude: '49.7672233'
+    longitude: '18.3025817'
+talks: []
+urls:
+- http://lanyrd.com/2016/ostrava-pyvo-july/
