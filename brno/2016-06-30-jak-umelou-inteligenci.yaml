@@ -14,10 +14,11 @@ description: 'Červnový sraz Python programátorů v Brně, tentokráte o tom, 
   paprsků, aby si odpočinula. Nejlépe každý poslední čtvrtek v měsíci.'
 venue:
   city: Brno
-  name: Brno
+  name: U Dřeváka
+  address: Dřevařská 22, 602 00
   location:
-    latitude: '49.19426'
-    longitude: '16.60445'
+    latitude: '49.209095'
+    longitude: '16.6008957'
 talks: []
 urls:
 - http://lanyrd.com/2016/pyvo-cerven/
