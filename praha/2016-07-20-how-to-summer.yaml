@@ -1,8 +1,8 @@
 city: Praha
-start: 2016-06-15 19:00:00
+start: 2016-07-20 19:00:00
 name: Pražské PyVo
-number: 63
-topic: HOW (to container?)
+number: 64
+topic: HOW to SUMMER
 venue:
   city: Prague
   name: Na Věnečku
@@ -14,4 +14,4 @@ venue:
     longitude: '14.3953814'
 talks: []
 urls:
-- http://lanyrd.com/2016/praha-pyvo-june/
+- http://lanyrd.com/2016/praha-pyvo-july/
