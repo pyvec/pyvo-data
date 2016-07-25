@@ -1,0 +1,20 @@
+city: Brno
+start: 2016-07-28 19:10:00
+name: Brněnské Pyvo
+topic: červencový outdoor punk
+description: 'Príďte si posediet či poležať do parku a stretnúť svojich starých a
+  získať nových známych zpomedzi krotiteľov hadov. So sebou deky, stoličky, stany,
+  poľné nemocnice, a čokoľvek potrebujete na piknik. Jedlo a pitie so sebou :) Na
+  mieste je verejný gril, nie je ale isté, či bude voľný.
+
+  Tentokrát bez oficiálneho programu - program je vo vašich rukách. Len park, poslucháči
+  a Tvoj lightning talk na ľubovoľnú python tému.'
+venue:
+  city: Brno
+  name: Brno
+  location:
+    latitude: '49.19426'
+    longitude: '16.60445'
+talks: []
+urls:
+- http://lanyrd.com/2016/napyvo/
