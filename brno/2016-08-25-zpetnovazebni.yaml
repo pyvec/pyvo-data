@@ -5,16 +5,14 @@ topic: Zpětnovazební
 description: 'Druhé outdoor Pyvo tohto leta. Príďte si posedieť a pokecať so starými známymi i novými kamarátmi pythonistami.
 
     Tohtomesačnou témou budiž spätná väzba od Vás, ľudí tvoriacich komunitu (hlavne) Brna a blízkeho či vzdialeného okolia.
-    Podeľte sa s nami o Vaše názory, pocity, návrhy, jedlo, pitie, ... smile emoticon
-    Po naznaní, že debát bolo dosť sa presunieme do blízkych či vzdialených podnikov k pivu. smile emoticon Tento krát znova nečakajte dlhé prednášky. Možno Honza Javorek porozpráva o svojej Pyvnej vízii, ale hlavným bodom programu ste Vy. Pythoním lightning talkom však brániť nebudeme.
-
-    Miesto bude upresnené v priebehu dňa.'
+    Podeľte sa s nami o Vaše názory, pocity, návrhy, jedlo, pitie, ... :)
+    Po naznaní, že debát bolo dosť sa presunieme do blízkych či vzdialených podnikov k pivu. :) Tento krát znova nečakajte dlhé prednášky. Možno Honza Javorek porozpráva o svojej Pyvnej vízii, ale hlavným bodom programu ste Vy. Pythoním lightning talkom však brániť nebudeme.'
 venue:
   city: Brno
-  name: Brno
+  name: Tyršův sad
   location:
-    latitude: '49.19426'
-    longitude: '16.60445'
+    latitude: '49.2027681'
+    longitude: '16.6027344'
 talks: []
 urls:
 - http://lanyrd.com/2016/napyvo/
