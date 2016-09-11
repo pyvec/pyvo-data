@@ -1,0 +1,24 @@
+city: Ostrava
+start: 2016-10-05 19:00:00
+name: Ostravské Pyvo
+topic: Jak začít s programováním
+description: 'Na základě nečekaně velkého zájmu o první začátečnický kurz PyLadies
+  v Ostravě jsme se rozhodli zaměřit následující Pyva rovněž na začátečníky.
+
+  Jste naprostý laik, který o programování zatím slyšel jen v televizi nebo četl ve
+  sci-fi literatuře? Tak to je první Pyvo z nové série určeno právě pro Vás.
+
+  Těšit se můžete na zajímavé přednášky o tom, jak s programováním začít, na co si
+  dát pozor a kde hledat pomoc s překonáním začátečnických obtíží.
+
+  Těšíme se na Vás.'
+venue:
+  city: Ostrava
+  name: V. R. Levský
+  address: Škroupova 1114/4
+  location:
+    latitude: '49.8362996'
+    longitude: '18.2855466'
+talks: []
+urls:
+- http://lanyrd.com/2016/ostrava-pyvo-october/
