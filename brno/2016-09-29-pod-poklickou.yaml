@@ -1,0 +1,50 @@
+city: Brno
+start: 2016-09-29
+name: Brněnské Pyvo
+topic: Pod pokličkou
+description: 'V září se – samozřejmě kromě piva a jídla – podíváme pod kapotu technologiím,
+  které denně používáme.
+
+  Dnešní programátor to v podstatě vědět nepotřebuje – na seřazení seznamu máme funkci
+  sort(), o rušení nepotřebných objektů se nám stará garbage collector, na nakreslení
+  grafu určitě existuje nějaká webová služba s pěkným API. Ale pak přijde problém
+  – vestavěný algoritmus přestává stačit, spotřeba paměti z nějakého důvodu roste,
+  hezké API zdražuje nebo rovnou přestává fungovat. A v těchto případech je dobré
+  technologie znát do větší hloubky, než je popsáno v dokumentaci.
+
+  Uvítáme všechny přednášky, které odhalí víc než potřebuje typický uživatel. Víš-li
+  jak procesor využívá polovodiče, Numpy objektový model, nebo Docker kernelovou izolaci,
+  přijď nám o tom povědět!
+
+  Přednášky prosím oznam na Facebooku nebo na mailu (brno-pyvo@googlegroups.com).
+
+  Místo bude upřesněno, a to hlavně podle předpokládané účasti. Chceš-li přijít, označ
+  se prosím na Facbooku, Lanyrdu či mailu.
+
+  JAK už je dnes na Pyvu zvykem, uvodní přednáška bude vhodná i pro začátečníky.'
+venue:
+  city: Brno
+  name: Brno
+  location:
+    latitude: '49.19426'
+    longitude: '16.60445'
+talks:
+- title: Jak postavit slovník z nul a jedniček
+  speakers:
+  - Petr Viktorin
+  urls:
+  - http://lanyrd.com/2016/brno-pyvo-september/sfmmmq/
+  coverage: []
+  description: 'Python je "vysokoúrovňový programovací jazyk": programy v něm jsou
+    čitelné pro lidi, spíš než aby odpovídaly tomu, jak je provádí počítač. A tak
+    ačkoli se tak nějak ví, že v počítači jsou jenom samé nuly a jedničky, není úplně
+    jasné, kde se vzaly ostatní čísla – a navíc i řetězce, seznamy, slovníky a ostatní
+    objekty.
+
+    Pojďte se něco dozvědět o tom, jak funguje počítačová paměť, a jakým způsobem
+    jsou v ní uloženy základní objekty Pythonu.
+
+    Přednáška bude přístupná každému, kdo někdy v Pythonu použil slovník. Ale i pokročilí
+    Pythonisti se pravděpodobně dozví něco nového.'
+urls:
+- http://lanyrd.com/2016/brno-pyvo-september/
