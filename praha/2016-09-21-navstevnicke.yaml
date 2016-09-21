@@ -1,0 +1,17 @@
+city: Praha
+start: 2016-09-21 19:00:00
+name: Pražské PyVo
+number: 66
+topic: návštěvnické
+venue:
+  city: Prague
+  name: Na Věnečku
+  address: "Ostrovského 38a, Praha 5, Czech Republic, 15000\n\t\t\t\t\n\t\t\t\t\t\
+    - If you're not sure how to get here, meet us 18:30 at Andel metro station upstairs\
+    \ in front of Equa Bank (former iStyle Apple Store) - https://goo.gl/maps/tyQuwpy35tE2"
+  location:
+    latitude: '50.0678996'
+    longitude: '14.3953814'
+talks: []
+urls:
+- http://lanyrd.com/2016/praha-pyvo-september/

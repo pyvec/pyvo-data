@@ -1,7 +1,7 @@
 city: Praha
-start: 2016-09-21 19:00:00
+start: 2016-10-19 19:00:00
 name: Pražské PyVo
-number: 66
+number: 67
 venue:
   city: Prague
   name: Na Věnečku
@@ -13,4 +13,4 @@ venue:
     longitude: '14.3953814'
 talks: []
 urls:
-- http://lanyrd.com/2016/praha-pyvo-september/
+- http://lanyrd.com/2016/praha-pyvo-october/
