@@ -24,10 +24,11 @@ description: 'V září se – samozřejmě kromě piva a jídla – podíváme 
   JAK už je dnes na Pyvu zvykem, uvodní přednáška bude vhodná i pro začátečníky.'
 venue:
   city: Brno
-  name: Brno
+  name: Sklípek kiwi.com
+  address: Hlinky 40/102
   location:
-    latitude: '49.19426'
-    longitude: '16.60445'
+    latitude: '49.19041'
+    longitude: '16.5814139'
 talks:
 - title: Jak postavit slovník z nul a jedniček
   speakers:
