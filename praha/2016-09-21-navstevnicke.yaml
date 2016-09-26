@@ -12,6 +12,18 @@ venue:
   location:
     latitude: '50.0678996'
     longitude: '14.3953814'
-talks: []
+talks:
+- title: How to Talk to Non-Technical People
+  speakers:
+  - Jeanne Trojan
+  urls:
+  - http://lanyrd.com/2016/praha-pyvo-september/sfmqdb/
+  coverage: []
+- title: Introduction to Sphinx & Read the Docs
+  speakers:
+  - Eric Holscher
+  urls:
+  - http://lanyrd.com/2016/praha-pyvo-september/sfmqdc/
+  coverage: []
 urls:
 - http://lanyrd.com/2016/praha-pyvo-september/
