@@ -35,7 +35,8 @@ talks:
   - Petr Viktorin
   urls:
   - http://lanyrd.com/2016/brno-pyvo-september/sfmmmq/
-  coverage: []
+  coverage:
+  - slides: https://speakerdeck.com/encukou/jak-postavit-slovnik-z-jednicek-a-nul
   description: 'Python je "vysokoúrovňový programovací jazyk": programy v něm jsou
     čitelné pro lidi, spíš než aby odpovídaly tomu, jak je provádí počítač. A tak
     ačkoli se tak nějak ví, že v počítači jsou jenom samé nuly a jedničky, není úplně
@@ -47,5 +48,11 @@ talks:
 
     Přednáška bude přístupná každému, kdo někdy v Pythonu použil slovník. Ale i pokročilí
     Pythonisti se pravděpodobně dozví něco nového.'
+- title: Náhled pod sukni síťové komunikace
+  speakers:
+  - Lumír Frenzy Balhar
+  urls:
+  - http://lanyrd.com/2016/brno-pyvo-september/sfmrdy/
+  coverage: []
 urls:
 - http://lanyrd.com/2016/brno-pyvo-september/
