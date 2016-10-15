@@ -35,11 +35,29 @@ talks:
   urls:
   - http://lanyrd.com/2013/praha-pyvo-november/scthkd/
   coverage: []
-  description: "mirek - foxpro like open file - https://github.com/zvolsky/vfp/b...\n\
-    \  @tbedrich - vlastni api\n  radim - velka data\n  lubos matl - soap vs rest\
-    \ -> rfc 2616\n  lukas rychtecky - kos api\n  martin @donnmums - facebook api\
-    \ python\n  petr viktorin - pil api or ?\n  honza kral - how to api ES\n  jirkav\
-    \ - domaci router mikrotik\n  jardav - codecademy.com #python #l10n\n  martin\
-    \ putniorz - ostrava pyvo\n  jirka barton -> pyvo #33"
+  description: |
+    mirek - foxpro like open file - https://github.com/zvolsky/vfp
+
+     @tbedrich - vlastni api
+
+     radim - velka data
+
+     lubos matl - soap vs rest -> rfc 2616
+
+     lukas rychtecky - kos api
+
+     martin @donnmums - facebook api python
+
+     petr viktorin - pil api or ?
+
+     honza kral - how to api ES
+
+     jirkav - domaci router mikrotik
+
+     jardav - codecademy.com #python #l10n
+
+     martin putniorz - ostrava pyvo
+
+     jirka barton -> pyvo #33
 urls:
 - http://lanyrd.com/2013/praha-pyvo-november/

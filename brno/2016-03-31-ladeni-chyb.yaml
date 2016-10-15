@@ -2,13 +2,14 @@ city: Brno
 start: 2016-03-31 19:00:00
 name: Brněnské Pyvo
 topic: Ladění chyb
-description: 'Když si přečtete na Wikipedii co je programování, tak se dovíte samé
+description: |
+  Když si přečtete na Wikipedii co je programování, tak se dovíte samé
   vznešené řeči, ale ve skutečnosti všichni víme, že programování se skládá hlavně
   z nevěřícného koukání do obrazovky, škrábání se na hlavě a provádění nejrůznějších
   rituálů, které by nás alespoň trochu mohly posunout k prozření proč nám něco, co
   jsme napsali, vůbec nefunguje.
 
-  Tentokrát Pyvo bude přesně o tomto - o ladění chyb v našich Python programech.'
+  Tentokrát Pyvo bude přesně o tomto - o ladění chyb v našich Python programech.
 venue:
   city: Brno
   name: U Dřeváka

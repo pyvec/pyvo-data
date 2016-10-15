@@ -2,9 +2,10 @@ city: Brno
 start: 2015-09-24 19:00:00
 name: Brněnské Pyvo
 topic: 3.5 Release Party
-description: 'Pojďte oslavit novou verzi Pythonu!
+description: |
+  Pojďte oslavit novou verzi Pythonu!
 
-  (Těm, kteří se těšili na téma CI, se omlouváme – bude za měsíc.)'
+  (Těm, kteří se těšili na téma CI, se omlouváme – bude za měsíc.)
 venue:
   city: Brno
   name: U Dřevěného orla

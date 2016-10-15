@@ -2,11 +2,12 @@ city: Brno
 start: 2014-10-30 19:00:00
 name: Brněnské Pyvo + BRUG
 topic: Logovací
-description: '(Omlouváme se se za změnu tématu; speakeři na DevOps budou k dispozici
+description: |
+  (Omlouváme se se za změnu tématu; speakeři na DevOps budou k dispozici
   až za měsíc).
 
   Přijďte si pokecat o logování – přivítáme prezentace o věcech jako structlog, redis,
-  kafka, amqp jako log buffers, ELK, Graylog a podobné.'
+  kafka, amqp jako log buffers, ELK, Graylog a podobné.
 venue:
   city: Brno
   name: Koločava

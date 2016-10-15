@@ -2,7 +2,8 @@ city: Ostrava
 start: 2016-04-06 19:00:00
 name: Ostravské Pyvo
 number: 27
-description: 'Středeční PyVo #27
+description: |
+  Středeční PyVo #27
 
   Milí přátelé, ve středu 6.4. se bude v Ostravě konat již #27 PyVo nebo-li sraz všech
   příznivců programovacích jazyků Python a Ruby. Sraz začíná v 19:00 v restaurantu
@@ -16,9 +17,9 @@ description: 'Středeční PyVo #27
   Témata přednášek budou upřesněny během následujících 14 dnů.
 
   Svou účast nemusíte nikam předem hlásit, stačí jen přijít, ideálně potvrdit zájem
-  zde na Facebooku.
+  na Facebooku.
 
-  Těšíme se na Vás!'
+  Těšíme se na Vás!
 venue:
   city: Ostrava
   name: V. R. Levský

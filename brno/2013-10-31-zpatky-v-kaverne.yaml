@@ -2,9 +2,10 @@ city: Brno
 start: 2013-10-31 19:00:00
 name: Brněnské PyVo + BRUG
 topic: Zpátky v Kaverně
-description: 'POZOR! Zrušili nám rezervaci, sraz bude v Kaverně.
+description: |
+  POZOR! Zrušili nám rezervaci, sraz bude v Kaverně.
 
-  ATTENTION! Our reservation was cancelled, the meetup will be in Kaverna!'
+  ATTENTION! Our reservation was cancelled, the meetup will be in Kaverna!
 venue:
   city: Brno
   name: Restaurace Kaverna

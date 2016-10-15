@@ -2,7 +2,8 @@ city: Ostrava
 start: 2015-09-02 18:00:00
 name: Ostravské Pyvo s Rubači
 topic: Ukončení prázdnin
-description: '!!! Pozor !!! Změna dne konání – nyní bude Ostravské Pyvo s Rubači každou
+description: |
+  !!! Pozor !!! Změna dne konání – nyní bude Ostravské Pyvo s Rubači každou
   první středu v měsíci
 
   Zatímco školáci se už budou druhý den trápit vidinou deseti měsíců mučení ve školní
@@ -12,7 +13,7 @@ description: '!!! Pozor !!! Změna dne konání – nyní bude Ostravské Pyvo s
   Vítání jsou všichni příznivci čerstvého vzduchu a pohybu.
 
   V případě špatného počasí bude zde na stránce srazu oznámeno buď zrušení nebo změna
-  destinace.'
+  destinace.
 venue:
   city: Vratimov
   name: Coolárna Vratimov

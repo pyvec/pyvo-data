@@ -52,7 +52,8 @@ talks:
   - http://lanyrd.com/2013/praha-pyvo-june/sckpbd/
   coverage:
   - video: http://www.youtube.com/watch?v=up_nNaClJlc&list=PLv71wFBVCTqEwSyQ3M2NQ5sS3w0CaBsbx&index=4
-  description: 'honza kral - ella/django security notes
+  description: |
+    honza kral - ella/django security notes
 
     dosky - ctete security notes
 
@@ -62,6 +63,6 @@ talks:
 
     jiri barton - nejacatejsi hesla
 
-    jakub vysoky - zizalarium, aneb jak vybudovat zizalovnik'
+    jakub vysoky - zizalarium, aneb jak vybudovat zizalovnik
 urls:
 - http://lanyrd.com/2013/praha-pyvo-june/

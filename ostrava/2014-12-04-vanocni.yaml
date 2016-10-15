@@ -2,7 +2,8 @@ city: Ostrava
 start: 2014-12-04 19:00:00
 name: Ostravské Pyvo s Rubači
 topic: Vánoční
-description: 'Přes Vánoce nás, těžké workoholiky, nikdo nepustí do práce a tak si
+description: |
+  Přes Vánoce nás, těžké workoholiky, nikdo nepustí do práce a tak si
   jistě stejně jako my připravujete nějaké vlastní projekty, kterými se jako malé
   děti budete bavit v přestávkách mezi pojídáním cukroví a rozbalováním dárků. Proto
   tímto směrem zaměříme i následující Pyvo s Rubači.
@@ -11,7 +12,7 @@ description: 'Přes Vánoce nás, těžké workoholiky, nikdo nepustí do práce
   a hledáte pomocníky? Přišli jste při tvorbě vlastních aplikací na něco, o co se
   chcete podělit s ostatními? Pak přijďte mezi nás.
 
-  Těší se na Vás tým pořadatelů.'
+  Těší se na Vás tým pořadatelů.
 venue:
   city: Ostrava
   name: V. R. Levský

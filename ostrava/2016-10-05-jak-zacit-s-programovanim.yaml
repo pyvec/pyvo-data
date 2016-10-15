@@ -2,7 +2,8 @@ city: Ostrava
 start: 2016-10-05 19:00:00
 name: Ostravské Pyvo
 topic: Jak začít s programováním
-description: 'Na základě nečekaně velkého zájmu o první začátečnický kurz PyLadies
+description: |
+  Na základě nečekaně velkého zájmu o první začátečnický kurz PyLadies
   v Ostravě jsme se rozhodli zaměřit následující Pyva rovněž na začátečníky.
 
   Jste naprostý laik, který o programování zatím slyšel jen v televizi nebo četl ve
@@ -11,7 +12,7 @@ description: 'Na základě nečekaně velkého zájmu o první začátečnický 
   Těšit se můžete na zajímavé přednášky o tom, jak s programováním začít, na co si
   dát pozor a kde hledat pomoc s překonáním začátečnických obtíží.
 
-  Těšíme se na Vás.'
+  Těšíme se na Vás.
 venue:
   city: Ostrava
   name: V. R. Levský

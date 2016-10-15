@@ -2,7 +2,8 @@ city: Brno
 start: 2014-08-28 19:00:00
 name: Brněnské Pyvo + BRUG
 topic: Začátečnické
-description: 'Začínáte s Pythonem či Ruby? Nebo jste začínali kdysi? Nebo jen chcete
+description: |
+  Začínáte s Pythonem či Ruby? Nebo jste začínali kdysi? Nebo jen chcete
   začít?
 
   Jak se nejlíp naučit programovat? Jak nejlíp učit programovat? Co byste vzkázali
@@ -10,7 +11,7 @@ description: 'Začínáte s Pythonem či Ruby? Nebo jste začínali kdysi? Nebo 
   zjednodušili?
 
   Přijďte posedět, pomluvit Python, popít pivo, papat poctivou podkarpatskou polévku,
-  pokecat o programovacích poprvé; plánovat pedagogické postupy, přivítat PyLadies...'
+  pokecat o programovacích poprvé; plánovat pedagogické postupy, přivítat PyLadies...
 venue:
   city: Brno
   name: Koločava

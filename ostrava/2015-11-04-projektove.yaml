@@ -2,7 +2,8 @@ city: Ostrava
 start: 2015-11-04 19:00:00
 name: Ostravské Pyvo s Rubači
 topic: Projektové
-description: 'Prázdniny jsou obdobím nabírání energie a inspirace a protože už je
+description: |
+  Prázdniny jsou obdobím nabírání energie a inspirace a protože už je
   máme dávno za sebou a před námi jsou dlouhé zimní večery, je nejvyšší čas vrhnout
   se do implementace nových projektů.
 
@@ -12,7 +13,7 @@ description: 'Prázdniny jsou obdobím nabírání energie a inspirace a protož
   Těšit se můžete na ukázku využití informací z minulého Pyva a také na pozvánku na
   první Pycon v ČR.
 
-  Těšíme se na Vás.'
+  Těšíme se na Vás.
 venue:
   city: Ostrava
   name: V. R. Levský

@@ -2,14 +2,15 @@ city: Ostrava
 start: 2015-02-05 19:00:00
 name: Ostravské Pyvo s Rubači
 topic: Editory
-description: 'V lednovém termínu se naše společné setkání bohužel nekonalo a při pohledu
+description: |
+  V lednovém termínu se naše společné setkání bohužel nekonalo a při pohledu
   do kalendáře jistě všem dojde, proč tomu tak bylo. Udělat někde sraz většího množství
   lidí z oboru IT by v tomto datu bylo těmi střízlivými z nás jistě považováno za
   nějakou provokaci a ti pod vlivem by si jej stejně nepamatovali.
 
   Nicméně se nám blíží únor a sním i všichni v plné síle.
 
-  !!! POZOR změna tématu !!!
+  ** POZOR změna tématu **
 
   Vzhledem k neúčasti jednoho z hlavním prezentujících jsme byli nuceni změnit téma
   následujícího setkání – nové téma jsou „Editory pro vývoj“. Připomínáme, že anketa
@@ -18,7 +19,7 @@ description: 'V lednovém termínu se naše společné setkání bohužel nekona
   Jste-li zkušenější uživatel některého z populárních editorů, přijďte si nejen poslechnout
   ostatní, ale také se podělit o své znalosti.
 
-  Máte se na co těšit. Tým organizátorů se těší na Vás.'
+  Máte se na co těšit. Tým organizátorů se těší na Vás.
 venue:
   city: Ostrava
   name: V. R. Levský

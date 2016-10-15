@@ -2,12 +2,13 @@ city: Brno
 start: 2014-05-29 19:00:00
 name: Brněnské Pyvo + BRUG
 topic: Show us your stuff!
-description: 'Pojď představit svůj projekt! Píšeš po večerech hru, tvoříš si webovky,
+description: |
+  Pojď představit svůj projekt! Píšeš po večerech hru, tvoříš si webovky,
   nebo jsi napsal CLI pro svou banku? Nebo jsi napsal open-source projekt, který teď
   používají tisíce lidí?
 
   Na květnovém Pyvu uvítáme, mezi pivkem a borščem, krátké (1-10 min.) prezentace
-  takového toho domácího kódění.'
+  takového toho domácího kódění.
 venue:
   city: Brno
   name: Koločava

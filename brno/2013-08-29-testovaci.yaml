@@ -29,9 +29,10 @@ talks:
   - http://lanyrd.com/2013/brnenske-pyvo-brug-srpnove/scpcpt/
   coverage:
   - video: http://www.youtube.com/watch?v=pJBY2CwSYuY
-  description: A very brief introduction into testing REST clients against REST services
-    offline in Ruby, using the minitest (https://github.com/seattlerb/min...) and
-    VCR (https://github.com/vcr/vcr). This presentation will not include any hipster
+  description: |
+    A very brief introduction into testing REST clients against REST services
+    offline in Ruby, using the [minitest](https://github.com/seattlerb/minitest) and
+    [VCR](https://github.com/vcr/vcr). This presentation will not include any hipster
     tools, web interfaces or rainbows in console.
 - title: Unit Testing (not just) Django Code
   speakers:

@@ -2,11 +2,12 @@ city: Brno
 start: 2015-12-17 19:00:00
 name: Brněnské Pyvo
 topic: Hardware Bazar
-description: 'Chystá se Vánoční hardwarové Pyvo!
+description: |
+  Chystá se Vánoční hardwarové Pyvo!
 
   Přineste hardware, co se vám doma válí v šuplíku, a darujte nebo vyměňujte s ostatními!
 
-  Nebo přineste ukázat zajímavý hardware (nejlépe poháněný Pythonem).'
+  Nebo přineste ukázat zajímavý hardware (nejlépe poháněný Pythonem).
 venue:
   city: Brno
   name: Koločava

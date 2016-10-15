@@ -2,12 +2,13 @@ city: Brno
 start: 2014-06-26 19:00:00
 name: Brněnské Pyvo + BRUG
 topic: Letní mix
-description: 'Na červnovém Pyvu+BRUGu uvítáme – mezi pivem a borščem – přednášky o
+description: |
+  Na červnovém Pyvu+BRUGu uvítáme – mezi pivem a borščem – přednášky o
   čemkoli, co se nějak týká Pythonu či Ruby.
 
   Mimo jiné se proslýchá že začíná sezóna letních konferencí. Možná si někdo bude
   chtít v neformálním prostředí vyzkoušet svou přednášku, než s ní odjede do zahraničí
-  za neznámým publikem.'
+  za neznámým publikem.
 venue:
   city: Brno
   name: Koločava

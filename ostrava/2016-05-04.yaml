@@ -2,7 +2,8 @@ city: Ostrava
 start: 2016-05-04 19:00:00
 name: Ostravské Pyvo
 number: 28
-description: 'Milí přátelé, ve středu 4.5. se bude v Ostravě konat již #28 PyVo nebo-li
+description: |
+  Milí přátelé, ve středu 4.5. se bude v Ostravě konat již #28 PyVo nebo-li
   sraz všech příznivců programovacích jazyků Python a Ruby. Sraz začíná v 19:00 v
   restaurantu V.R. Levský (www.levsky.cz) a je volně přístupný pro všechny, kteří
   si chtějí poslechnout zajímavé mini-přednášky, potkat nové, či známé tváře nebo
@@ -16,7 +17,7 @@ description: 'Milí přátelé, ve středu 4.5. se bude v Ostravě konat již #2
   Svou účast nemusíte nikam předem hlásit, stačí jen přijít, ideálně potvrdit zájem
   na Facebooku/Lanyrdu.
 
-  Těšíme se na Vás!'
+  Těšíme se na Vás!
 venue:
   city: Ostrava
   name: V. R. Levský

@@ -2,11 +2,12 @@ city: Brno
 start: 2015-03-26 19:00:00
 name: Brněnské Pyvo + BRUG
 topic: Flamewar
-description: 'Co vám na Pythonu/Ruby nejvíc vadí?
+description: |
+  Co vám na Pythonu/Ruby nejvíc vadí?
 
   Všichni máme ty naše dynamické jazyky rádi. Ale vždycky se najde něco, co člověka
   na jeho nástrojích irituje. Pojďte si postěžovat, vylít zlost – a nebo zjistit,
-  že celou dobu existoval lepší způsob jak to napsat.'
+  že celou dobu existoval lepší způsob jak to napsat.
 venue:
   city: Brno
   name: U Dřevěného orla

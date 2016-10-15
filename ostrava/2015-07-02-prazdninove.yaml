@@ -2,7 +2,8 @@ city: Ostrava
 start: 2015-07-02
 name: Ostravské Pyvo s Rubači
 topic: Prázdninové
-description: 'První čtvrtek je za týden, počasí by se dovtedy mělo vypršet, takže
+description: |
+  První čtvrtek je za týden, počasí by se dovtedy mělo vypršet, takže
   to zkusíme jako openair, tentokrát bez office. Notebooky necháme doma a místo přednášek
   si něco zahrajeme nebo se projedeme, vždyť jsou prázdniny.
 
@@ -20,7 +21,7 @@ description: 'První čtvrtek je za týden, počasí by se dovtedy mělo vyprše
 
   https://www.facebook.com/nastezce
 
-  https://www.facebook.com/cykloplaz'
+  https://www.facebook.com/cykloplaz
 venue:
   city: Vratimov
   name: Coolárna Vratimov

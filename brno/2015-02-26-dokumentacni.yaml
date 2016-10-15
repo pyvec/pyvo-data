@@ -2,12 +2,13 @@ city: Brno
 start: 2015-02-26 19:00:00
 name: Brněnské Pyvo + BRUG + CzechiPub
 topic: Dokumentační
-description: 'POZOR, jiné místo než obvykle – Koločava začíná být příliš malá // NOTICE:
-  We have a different (larger) venue than usual this time.
+description: |
+  **POZOR**, jiné místo než obvykle – Koločava začíná být příliš malá //
+  **NOTICE**: We have a different (larger) venue than usual this time.
 
   python.cz & czechitas.cz present: The docs meetup!
 
-  "Docs or it didn''t happen! Documentation first!" Podobné a někdy ještě skandálnější
+  "Docs or it didn't happen! Documentation first!" Podobné a někdy ještě skandálnější
   výkřiky je možné stále časteji slýchat v undergroundových kavárnách a klubech, hnízdech
   nové, alternativní programátorské vlny. Můžeme se něco od těchto volnomyšlenkářů
   přiučit? Není to příliš radikální koncept, psát dokumentaci? Není to příliš altruistická
@@ -15,12 +16,12 @@ description: 'POZOR, jiné místo než obvykle – Koločava začíná být př�
   napsat dokumentaci jako úplně to první, dokonce ještě dřív než testy? To vše, ale
   možná ještě méně se dovíte na našem spojeném srazu.
 
-  "Docs or it didn''t happen! Documentation first!" You might hear such slogans in
+  "Docs or it didn't happen! Documentation first!" You might hear such slogans in
   underground cafés and clubs, meeting places of a new programming movement. Can we
   learn from these free-thinkers? Isn''t documentation too radical of a concept? Is
   giving people structured information about how to use our code too altruistic? And
   what about writing documentation first, even before tests? This, and maybe even
-  less, you will learn on our merged meetup.'
+  less, you will learn on our merged meetup.
 venue:
   city: Brno
   name: U Dřevěného orla

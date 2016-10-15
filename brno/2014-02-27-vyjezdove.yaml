@@ -2,22 +2,43 @@ city: Brno
 start: 2014-02-27
 name: Brněnské Pyvo + BRUG
 topic: Výjezdové
-description: "http://lanyrd.com/2014/rubyslava...\n[English]\nOur friends in Bratislava\
-  \ are celebrating three years of meetups. Join us in joining them at the Rubyslava\
-  \ + PyVo #36 (International MiniConference Edition)!\nWe will leave by train at\
-  \ 16:22, and return at 0:52. The ticket will cost you about 500 CZK. Slovakia is\
-  \ in the Eurozone so remember to bring appropriate currency for drinks & food.\n\
-  [Czech]\nV Bratislavě se koná Rubyslava + PyVo #36 (International MiniConference\
-  \ Edition). Zároveň je výročí třech let pořádání Rubyslavy.\nZároveň se tato Rubyslava\
-  \ koná ve stejný den jako brněnské Pyvo. Bratislava je za rohom, padl tedy z naší\
-  \ strany nápad, že bychom udělali kamarádský výjezd 8-)\nJano potvrdil, že místa\
-  \ bude dost, takže jsme se nakonec opravdu rozhodli přilít olej do ohně a přivézt\
-  \ do Bratislavy celé únorové Pyvo!\n\n  jede se vlakem, společně\n  vyjíždíme o\
-  \ půl páté, vrátíme se zhruba v jednu ráno (při troše štěstí to bude akorát navazovat\
-  \ na rozjezd)\n  celá sranda by měla přijít na zhruba 500 Kč (cesta) + co propijete\
-  \ a projíte (nezapomeňte si vzít nějaká eura!)\n\n[Geektrains]\n✩ 16:22 - 17:50\
-  \ ✩\nBrno - (Břeclav) - Bratislava [EC 173 Vindobona, EC 131 Varsovia]\n✩ 22:58\
-  \ - 0:52 ✩\nBratislava - Brno [476 Metropol]"
+description: |
+  http://lanyrd.com/2014/rubyslava...
+
+  **[English]**:
+  Our friends in Bratislava
+  are celebrating three years of meetups. Join us in joining them at the
+  [Rubyslava + PyVo #36 (International MiniConference
+  Edition)](https://www.facebook.com/events/272048649638872/)!
+
+  We will leave by train at
+  16:22, and return at 0:52. The ticket will cost you about 500 CZK. Slovakia is
+  in the Eurozone so remember to bring appropriate currency for drinks & food.
+
+  **[Czech]**:
+  V Bratislavě se koná [Rubyslava + PyVo #36 (International MiniConference
+  Edition)](https://www.facebook.com/events/272048649638872/).
+  Zároveň je výročí třech let pořádání Rubyslavy.
+
+  Zároveň se tato Rubyslava
+  koná ve stejný den jako brněnské Pyvo. Bratislava je za rohom, padl tedy z naší
+  strany nápad, že bychom udělali kamarádský výjezd 8-)
+
+  Jano potvrdil, že místa
+  bude dost, takže jsme se nakonec opravdu rozhodli přilít olej do ohně a přivézt
+  do Bratislavy celé únorové Pyvo!
+
+  Jede se vlakem, společně. vyjíždíme o
+  půl páté, vrátíme se zhruba v jednu ráno (při troše štěstí to bude akorát navazovat
+  na rozjezd)
+
+  Celá sranda by měla přijít na zhruba 500 Kč (cesta) + co propijete
+  a projíte (nezapomeňte si vzít nějaká eura!)
+
+  **[Geektrains]**:
+
+  * 16:22 - 17:50 - Brno - (Břeclav) - Bratislava [EC 173 Vindobona, EC 131 Varsovia]
+  * 22:58 - 0:52 ✩\nBratislava - Brno [476 Metropol]
 venue:
   city: Brno
   name: Hlavní nádraží, Brno

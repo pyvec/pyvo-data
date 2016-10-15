@@ -2,7 +2,8 @@ city: Brno
 start: 2016-09-29
 name: Brněnské Pyvo
 topic: Pod pokličkou
-description: 'V září se – samozřejmě kromě piva a jídla – podíváme pod kapotu technologiím,
+description: |
+  V září se – samozřejmě kromě piva a jídla – podíváme pod kapotu technologiím,
   které denně používáme.
 
   Dnešní programátor to v podstatě vědět nepotřebuje – na seřazení seznamu máme funkci
@@ -21,7 +22,7 @@ description: 'V září se – samozřejmě kromě piva a jídla – podíváme 
   Místo bude upřesněno, a to hlavně podle předpokládané účasti. Chceš-li přijít, označ
   se prosím na Facbooku, Lanyrdu či mailu.
 
-  JAK už je dnes na Pyvu zvykem, uvodní přednáška bude vhodná i pro začátečníky.'
+  JAK už je dnes na Pyvu zvykem, uvodní přednáška bude vhodná i pro začátečníky.
 venue:
   city: Brno
   name: Sklípek kiwi.com
@@ -37,7 +38,8 @@ talks:
   - http://lanyrd.com/2016/brno-pyvo-september/sfmmmq/
   coverage:
   - slides: https://speakerdeck.com/encukou/jak-postavit-slovnik-z-jednicek-a-nul
-  description: 'Python je "vysokoúrovňový programovací jazyk": programy v něm jsou
+  description: |
+    Python je "vysokoúrovňový programovací jazyk": programy v něm jsou
     čitelné pro lidi, spíš než aby odpovídaly tomu, jak je provádí počítač. A tak
     ačkoli se tak nějak ví, že v počítači jsou jenom samé nuly a jedničky, není úplně
     jasné, kde se vzaly ostatní čísla – a navíc i řetězce, seznamy, slovníky a ostatní
@@ -47,7 +49,7 @@ talks:
     jsou v ní uloženy základní objekty Pythonu.
 
     Přednáška bude přístupná každému, kdo někdy v Pythonu použil slovník. Ale i pokročilí
-    Pythonisti se pravděpodobně dozví něco nového.'
+    Pythonisti se pravděpodobně dozví něco nového.
 - title: Náhled pod sukni síťové komunikace
   speakers:
   - Lumír Frenzy Balhar

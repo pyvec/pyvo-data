@@ -2,7 +2,8 @@ city: Brno
 start: 2013-04-25 19:00:00
 name: Brněnské PyVo + BRUG
 topic: Verzovací systémy
-description: 'Vážené milovnice rubínů, a milovníci těchto milovnic, vážení krotitelé
+description: |
+  Vážené milovnice rubínů, a milovníci těchto milovnic, vážení krotitelé
   krajt a krotitelky těchto krotitelů! Již tento čtvrtek v podvečer se bude v šapitó
   na Dřevařské ulici v honosném městě Brně konat velkolepá událost, jež svým věhlasem
   ve světě soupeří i s Čínským cirkusem!
@@ -16,7 +17,7 @@ description: 'Vážené milovnice rubínů, a milovníci těchto milovnic, váž
   nás mezi velbloudy a exotickými otrokyněmi tureckého Bazaaru.
 
   Kdo nepřijde, ten prohloupí a z této hlouposti se už nikdy nevykoupí! Vstup je volný
-  dobrovolný, piva dostatek, nemějte tedy zábran a dostavte se!'
+  dobrovolný, piva dostatek, nemějte tedy zábran a dostavte se!
 venue:
   city: Brno
   name: U Dřeváka
@@ -44,18 +45,18 @@ talks:
   urls:
   - http://lanyrd.com/2013/brnenske-pyvo-brug-verzovaci-systemy/scgkfk/
   coverage: []
-  description: "I'll try to answer question whether GitLab is usable GitHub replacement\
-    \ for specific use cases or not. I'll briefly describe installation, git setup\
-    \ and other needed admin tatsks. Showcase of main features will follow including\
-    \ comparison with GitHub ones.\nI'll prefer talk in czech but if english is really\
-    \ needed, I can try with my limited czenglish skills.\uFEFF"
+  description: |
+    I'll try to answer question whether GitLab is usable GitHub replacement
+    for specific use cases or not. I'll briefly describe installation, git setup
+    and other needed admin tatsks. Showcase of main features will follow including
+    comparison with GitHub ones.
 - title: Git workflow in open-source
   speakers:
   - Václav Tunka
   urls:
   - http://lanyrd.com/2013/brnenske-pyvo-brug-verzovaci-systemy/scgkfm/
   coverage: []
-  description: "How git is being used in open-source projects such as JBoss AS, Torquebox,\
-    \ etc.\uFEFF"
+  description: |
+    How git is being used in open-source projects such as JBoss AS, Torquebox, etc.
 urls:
 - http://lanyrd.com/2013/brnenske-pyvo-brug-verzovaci-systemy/

@@ -2,7 +2,8 @@ city: Brno
 start: 2016-02-25 19:00:00
 name: Brněnské Pyvo
 topic: Jak na příkazovou řádku
-description: 'POZOR: pokud se chcete zúčastnit, potvrďte prosím do pondělí 22. 6.
+description: |
+  POZOR: pokud se chcete zúčastnit, potvrďte prosím do pondělí 22. 6.
   účast buď na Lanyrdu (http://lanyrd.com/2016/brno-pyvo...) nebo Facebooku (https://www.facebook.com/events/...).
   Díky!
 
@@ -16,7 +17,7 @@ description: 'POZOR: pokud se chcete zúčastnit, potvrďte prosím do pondělí
 
   Úvodní přednáška všechno osvětlí i nováčkům, takže se nebojte přijít!
 
-  Místo bude upřesněno podle zájmu.'
+  Místo bude upřesněno podle zájmu.
 venue:
   city: Brno
   name: U Dřeváka

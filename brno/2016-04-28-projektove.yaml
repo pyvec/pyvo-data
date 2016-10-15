@@ -2,13 +2,14 @@ city: Brno
 start: 2016-04-28 19:00:00
 name: Brněnské Pyvo
 topic: Projektové
-description: 'Pracuješ na nějakém zajímavém projektu, ať už v práci nebo ve volném
+description: |
+  Pracuješ na nějakém zajímavém projektu, ať už v práci nebo ve volném
   čase? Přijď se podělit! Na každý projekt bude vyhrazených pět minut, ideální čas
   na to, říct to nejdůležitější a publikum nenudit.
 
   A jestli projekt nemáš, nevadí – přijď a můžeš si nějaký vybrat.
 
-  Plus: první Pyvo proběhlo před pěti lety! Pojďme to oslavit :)'
+  Plus: první Pyvo proběhlo před pěti lety! Pojďme to oslavit :)
 venue:
   city: Brno
   name: Skypicker

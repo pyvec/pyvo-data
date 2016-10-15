@@ -2,10 +2,11 @@ city: Brno
 start: 2012-10-25 19:00:00
 name: Brněnské PyVo
 topic: Deployment
-description: 'Tématem tohoto termínu bude deployment, čili "jak dostat (jakoukoliv)
+description: |
+  Tématem tohoto termínu bude deployment, čili "jak dostat (jakoukoliv)
   svou aplikaci na server". Py balíčky, systémové balíčky, Fabric, Paver, ...
 
-  Kapacita salonku je zhruba 25 osob, takže přijďte včas, nemusíte se vlézt.'
+  Kapacita salonku je zhruba 25 osob, takže přijďte včas, nemusíte se vlézt.
 venue:
   city: Brno
   name: U Dřeváka

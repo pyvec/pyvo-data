@@ -2,13 +2,14 @@ city: Ostrava
 start: 2016-02-03 19:00:00
 name: Ostravské Pyvo s Rubači
 topic: Týmové
-description: 'Vývoj software je jen zřídkakdy one man show a to tím spíše, čím složitější
+description: |
+  Vývoj software je jen zřídkakdy one man show a to tím spíše, čím složitější
   aplikace je. Různé společnosti i nezávislé vývojové týmy používají různé techniky
   a postupy pro spolupráci, vzájemnou kontrolu, udržováni kvality vývoje a výsledného
   produktu a v neposlední řadě také k zajištění zastupitelnosti člen týmu..
 
   Přijďte se pochlubit s postupy, které právě vy považujete za nejlepší a nejefektivnější
-  a/nebo načerpat inspiraci od ostatních.'
+  a/nebo načerpat inspiraci od ostatních.
 venue:
   city: Ostrava
   name: V. R. Levský

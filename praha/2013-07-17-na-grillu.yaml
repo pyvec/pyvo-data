@@ -27,12 +27,11 @@ talks:
   urls:
   - http://lanyrd.com/2013/praha-pyvo-july/sckwwy/
   coverage: []
-  description: 'Zato is a Python-based ESB and backend application server for integrations
-    and API-only aplications running in SOA.
-
-    Tech overview on InfoQ - http://www.infoq.com/articles/zato
-
-    Project''s docs - https://zato.io/docs/index.html'
+  description: |
+    Zato is a Python-based ESB and backend application server for integrations
+    and API-only aplications running in SOA.  
+    [Tech overview on InfoQ](http://www.infoq.com/articles/zato)  
+    [Project's docs](https://zato.io/docs/index.html)
 - title: Data-Fu with pandas
   speakers:
   - Franta

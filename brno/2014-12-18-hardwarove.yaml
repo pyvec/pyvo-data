@@ -2,14 +2,15 @@ city: Brno
 start: 2014-12-18 19:00:00
 name: Brněnské Pyvo + BRUG
 topic: Hardwarové
-description: 'Tradiční datum Pyva+BRUGu připadá na den po Štědrém dni, takže to posuneme
+description: |
+  Tradiční datum Pyva+BRUGu připadá na den po Štědrém dni, takže to posuneme
   o týden dřív.
 
   Jako už tradičně, prosinec patří hardwaru. Přineste pípátka, blikátka, točítka,
   chytré krabičky a jiné zajímavé komponenty a systémy.
 
   Tradičně uspořádáme i vetešnictví – jestli máte doma nepotřebný kabel, klávesnici
-  či nějaký nesmysl do USB, přineste ho, pomůžeme mu najít nový domov.'
+  či nějaký nesmysl do USB, přineste ho, pomůžeme mu najít nový domov.
 venue:
   city: Brno
   name: Koločava

@@ -2,13 +2,14 @@ city: Ostrava
 start: 2015-12-02 19:00:00
 name: Ostravské Pyvo s Rubači
 topic: Vánoční
-description: 'Vánoce jsou sice oficiálně svátky klidu, ale skutečnost, je jak všichni
+description: |
+  Vánoce jsou sice oficiálně svátky klidu, ale skutečnost, je jak všichni
   víme, zcela opačná. Přijďte si proto na chvíli odpočinout a poklábosit na oblíbená
   témata na Pyvo.
 
   Protentokrát se výjimečně sejdeme v zadní části restaurace místo vinárny.
 
-  Těšíme se na Vás.'
+  Těšíme se na Vás.
 venue:
   city: Ostrava
   name: V. R. Levský

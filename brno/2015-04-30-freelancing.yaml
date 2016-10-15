@@ -2,25 +2,26 @@ city: Brno
 start: 2015-04-30 19:00:00
 name: Brněnské Pyvo + BRUG
 topic: Freelancing
-description: 'Už jste někdy uvažovali nad tím, že utečete ze zlaté klece stravenkového
+description: |
+  Už jste někdy uvažovali nad tím, že utečete ze zlaté klece stravenkového
   Matrixu a vydáte se na volné noze do širého moře freelancingu, kde byste statečně
   a hrdě jako kapitán jednočlenné lodi čelili šlehavým větrům vlastní nedisciplinovanosti
   a přízně výdajového paušálu? Nebo jste si tím možná dokonce už i prošli? Dubnový
   sraz brněnských Pythonistů a Rubystů bude přesně o tomto!
 
-  POZOR č. 1! Změna místa!
+  **POZOR č. 1**! Změna místa!
 
   A u té příležitosti se bude odehrávat v novém brněnském Hubu, hnízdě volnonožníků
   a podobné havěti.
 
-  Toto Pyvo nebude v hospodě, a tak objednáme pizzu. Vyberete-li si předem na http://www.fortys-pizza.cz/menu/
+  Toto Pyvo nebude v hospodě, a tak objednáme pizzu. Vyberete-li si předem na
+  [stránkách Fortys](http://www.fortys-pizza.cz/menu/)
   dejte vědět na encukou@gmail.com (nebo Facebook), ať pak tolik nečekáme.
 
-  POZOR č. 2! Překvapení! Toto Pyvo je výroční!
+  **POZOR č. 2**! Překvapení! Toto Pyvo je výroční!
 
   Už je to ..čtyři roky, co chodíte na Pyvo!
 
-  https://www.facebook.com/events/...'
 venue:
   city: Brno
   name: Impact Hub Brno
