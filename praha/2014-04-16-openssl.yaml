@@ -1,14 +1,8 @@
-city: Praha
+city: praha
 start: 2014-04-16
 name: Pražské PyVo
 number: 37
 topic: openssl
-venue:
-  city: Prague
-  name: Prague
-  location:
-    latitude: '50.079079'
-    longitude: '14.43322'
 talks:
 - title: HeartBleed
   speakers:

@@ -1,4 +1,4 @@
-city: Brno
+city: brno
 start: 2015-04-30 19:00:00
 name: Brněnské Pyvo + BRUG
 topic: Freelancing
@@ -22,13 +22,7 @@ description: |
 
   Už je to ..čtyři roky, co chodíte na Pyvo!
 
-venue:
-  city: Brno
-  name: Impact Hub Brno
-  address: Cyrilská 7, 60200
-  location:
-    latitude: '49.18943'
-    longitude: '16.619723'
+venue: impact-hub
 talks:
 - title: '"Keynote" aneb "klíčová poznámka" o tom, jak to s Pyvem bylo a jak to bude
     dál'

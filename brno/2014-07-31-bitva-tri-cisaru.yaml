@@ -1,4 +1,4 @@
-city: Brno
+city: brno
 start: 2014-07-31
 name: Brněnské Pyvo + BRUG
 topic: Bitva tří císařů
@@ -33,12 +33,6 @@ description: |
 
   Místo: u autobusové zastávky Heršpice, zelnice; zaregistrovaní dostanou přesnou
   adresu.
-venue:
-  city: Heršpice
-  name: Heršpice
-  location:
-    latitude: '49.103519'
-    longitude: '16.939251'
 talks: []
 urls:
 - http://lanyrd.com/2014/brnenske-pyvo-brug-bitva-tri-cisaru/

@@ -1,14 +1,10 @@
-city: Brno
+city: brno
 start: 2014-04-24 19:00:00
 name: Brněnské Pyvo + BRUG
 topic: Překladačové
-venue:
-  city: Brno
-  name: Koločava
-  address: "Bayerova 10\n\t\t\t\t\n\t\t\t\t\t- Salonek dole"
-  location:
-    latitude: '49.2061889'
-    longitude: '16.6025791'
+venue: kolocava
+venue-notes: |
+  Salonek dole
 talks:
 - title: PEG.js – generátor parserů for JavaScript
   speakers:

@@ -1,14 +1,8 @@
-city: Praha
+city: praha
 start: 2011-09-21
 name: Django-cs
 number: 7
-venue:
-  city: Prague
-  name: Na Věnečku
-  address: Ostrovského 38a, Praha 5, Czech Republic, 15000
-  location:
-    latitude: '50.0678996'
-    longitude: '14.3953814'
+venue: na-venecku
 talks:
 - title: Inception of content strategy
   speakers:

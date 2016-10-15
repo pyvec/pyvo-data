@@ -1,4 +1,4 @@
-city: Brno
+city: brno
 start: 2014-01-30 19:00:00
 name: Brněnské Pyvo + BRUG
 topic: Konkurenční
@@ -6,13 +6,7 @@ description: Nestačí vám jedno jádro? Paralelizujete, pouštíte vlákna, po
   a zelenitky? Zdají se vám noční můry o GILu? Pokukujete po Go, Rust či Erlangu?
   Přidejte se k aktorům lednového Pyva+BRUGu, popijte asynchronně natočené pivo, a
   kooperativně se podělte o své zážitky a zkušenosti!
-venue:
-  city: Brno
-  name: Koločava
-  address: "Bayerova 10\n\t\t\t\t\n\t\t\t\t\t- dole"
-  location:
-    latitude: '49.2061889'
-    longitude: '16.6025791'
+venue: kolocava
 talks:
 - title: asyncio
   speakers:

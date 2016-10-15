@@ -1,14 +1,8 @@
-city: Praha
+city: praha
 start: 2011-02-16
 name: Django-cs
 number: 2
-venue:
-  city: Prague
-  name: Restaurace Jáma
-  address: V Jámě 7, 11000
-  location:
-    latitude: '50.0799497'
-    longitude: '14.4254412'
+venue: jama
 talks:
 - title: intro
   urls:

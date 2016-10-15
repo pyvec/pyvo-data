@@ -1,4 +1,4 @@
-city: Ostrava
+city: vratimov
 start: 2015-07-02
 name: Ostravské Pyvo s Rubači
 topic: Prázdninové
@@ -22,13 +22,7 @@ description: |
   https://www.facebook.com/nastezce
 
   https://www.facebook.com/cykloplaz
-venue:
-  city: Vratimov
-  name: Coolárna Vratimov
-  address: Na stezce 973/11
-  location:
-    latitude: '49.7672233'
-    longitude: '18.3025817'
+venue: coolarna
 talks: []
 urls:
 - http://lanyrd.com/2015/ostrava-pyvo-february/

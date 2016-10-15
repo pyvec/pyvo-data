@@ -1,4 +1,4 @@
-city: Brno
+city: brno
 start: 2016-01-28 19:00:00
 name: Brněnské Pyvo
 topic: JAK začít
@@ -14,13 +14,7 @@ description: |
   A jak začínání usnadnit ostatním?
 
   Pyvo samotné letos začíná sérii "JAK". Přijďte začít s námi!
-venue:
-  city: Brno
-  name: Skypicker
-  address: Hlinky 40/102
-  location:
-    latitude: '49.19041'
-    longitude: '16.5814139'
+venue: sklipek-kiwi-com
 talks:
 - title: Jak se naučit programovat (v Pythonu)
   speakers:

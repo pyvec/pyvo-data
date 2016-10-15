@@ -1,4 +1,4 @@
-city: Ostrava
+city: ostrava
 start: 2016-02-03 19:00:00
 name: Ostravské Pyvo s Rubači
 topic: Týmové
@@ -10,13 +10,7 @@ description: |
 
   Přijďte se pochlubit s postupy, které právě vy považujete za nejlepší a nejefektivnější
   a/nebo načerpat inspiraci od ostatních.
-venue:
-  city: Ostrava
-  name: V. R. Levský
-  address: Škroupova 1114/4
-  location:
-    latitude: '49.8362996'
-    longitude: '18.2855466'
+venue: vr-levsky
 talks: []
 urls:
 - http://lanyrd.com/2016/ostrava-pyvo-february/

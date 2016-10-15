@@ -1,4 +1,4 @@
-city: Brno
+city: brno
 start: 2015-02-26 19:00:00
 name: Brněnské Pyvo + BRUG + CzechiPub
 topic: Dokumentační
@@ -22,13 +22,7 @@ description: |
   giving people structured information about how to use our code too altruistic? And
   what about writing documentation first, even before tests? This, and maybe even
   less, you will learn on our merged meetup.
-venue:
-  city: Brno
-  name: U Dřevěného orla
-  address: Orlí 3
-  location:
-    latitude: '49.1931942776'
-    longitude: '16.6101684696'
+venue: u-dreveneho-orla
 talks:
 - title: Keep it Simple, Present (FOSS Docs 101)
   speakers:

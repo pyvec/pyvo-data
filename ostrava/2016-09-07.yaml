@@ -1,4 +1,4 @@
-city: Ostrava
+city: ostravice
 start: 2016-09-07 17:00:00
 name: Ostravské Pyvo
 number: 31
@@ -32,13 +32,7 @@ description: |
     **Více info**: na [stránkách pivovárku](http://www.beskydskypivovarek.cz/domu/)
 
     [**Mapa** na Google Maps](https://goo.gl/maps/tLGabNEqhhm)
-venue:
-  city: Ostravice
-  name: Beskydský pivovárek
-  address: Ostravice 449
-  location:
-    latitude: '49.5320561'
-    longitude: '18.3949300'
+venue: beskydsky-pivovarek
 talks: []
 urls:
 - http://srazy.info/pyvo-v-ostrave/6716

@@ -1,4 +1,4 @@
-city: Brno
+city: brno
 start: 2013-04-25 19:00:00
 name: Brněnské PyVo + BRUG
 topic: Verzovací systémy
@@ -18,13 +18,7 @@ description: |
 
   Kdo nepřijde, ten prohloupí a z této hlouposti se už nikdy nevykoupí! Vstup je volný
   dobrovolný, piva dostatek, nemějte tedy zábran a dostavte se!
-venue:
-  city: Brno
-  name: U Dřeváka
-  address: Dřevařská 22, 602 00
-  location:
-    latitude: '49.209095'
-    longitude: '16.6008957'
+venue: u-drevaka
 talks:
 - title: Jak funguje Git
   speakers:

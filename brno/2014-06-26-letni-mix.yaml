@@ -1,4 +1,4 @@
-city: Brno
+city: brno
 start: 2014-06-26 19:00:00
 name: Brněnské Pyvo + BRUG
 topic: Letní mix
@@ -9,13 +9,7 @@ description: |
   Mimo jiné se proslýchá že začíná sezóna letních konferencí. Možná si někdo bude
   chtít v neformálním prostředí vyzkoušet svou přednášku, než s ní odjede do zahraničí
   za neznámým publikem.
-venue:
-  city: Brno
-  name: Koločava
-  address: Bayerova 10
-  location:
-    latitude: '49.2061889'
-    longitude: '16.6025791'
+venue: kolocava
 talks:
 - title: PyCon PL
   speakers:

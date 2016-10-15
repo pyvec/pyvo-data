@@ -1,15 +1,9 @@
-city: Brno
+city: brno
 start: 2012-11-29
 name: Brněnské PyVo
 topic: CLI
 description: 'Python v příkazové řádce: od zpracování argumentů po barevné tabulky'
-venue:
-  city: Brno
-  name: U Dřeváka
-  address: Dřevařská 22, 602 00
-  location:
-    latitude: '49.209095'
-    longitude: '16.6008957'
+venue: u-drevaka
 talks:
 - title: Docopt
   speakers:

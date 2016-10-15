@@ -1,4 +1,4 @@
-city: Brno
+city: brno
 start: 2016-09-29
 name: Brněnské Pyvo
 topic: Pod pokličkou
@@ -23,13 +23,7 @@ description: |
   se prosím na Facbooku, Lanyrdu či mailu.
 
   JAK už je dnes na Pyvu zvykem, uvodní přednáška bude vhodná i pro začátečníky.
-venue:
-  city: Brno
-  name: Sklípek kiwi.com
-  address: Hlinky 40/102
-  location:
-    latitude: '49.19041'
-    longitude: '16.5814139'
+venue: sklipek-kiwi-com
 talks:
 - title: Jak postavit slovník z nul a jedniček
   speakers:

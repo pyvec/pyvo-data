@@ -1,16 +1,8 @@
-city: Praha
+city: praha
 start: 2015-02-18
 name: Pražské PyVo
 number: 47
-venue:
-  city: Prague
-  name: Na Věnečku
-  address: "Ostrovského 38a, Praha 5, Czech Republic, 15000\n\t\t\t\t\n\t\t\t\t\t\
-    - If you're not sure how to get here, meet us 18:30 at Andel metro station in\
-    \ front of the apple store."
-  location:
-    latitude: '50.0678996'
-    longitude: '14.3953814'
+venue: na-venecku
 talks:
 - title: Kitchen CI
   speakers:

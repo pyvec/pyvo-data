@@ -1,14 +1,8 @@
-city: Praha
+city: praha
 start: 2011-06-15
 name: Django-cs
 number: 5
-venue:
-  city: Prague
-  name: V LOCHU
-  address: Veletržní 820/73, 17000
-  location:
-    latitude: '50.101726'
-    longitude: '14.424791'
+venue: v-lochu
 talks:
 - title: rosti.cz
   speakers:

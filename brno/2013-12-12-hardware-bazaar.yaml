@@ -1,14 +1,8 @@
-city: Brno
+city: brno
 start: 2013-12-12 19:00:00
 name: Brněnské Pyvo + BRUG
 topic: Hardware Bazaar
-venue:
-  city: Brno
-  name: Café Falk
-  address: Gorkého 12
-  location:
-    latitude: '49.200029051'
-    longitude: '16.5992364562'
+venue: cafe-falk
 talks: []
 urls:
 - http://lanyrd.com/2013/brno-pyvo-vanocni/

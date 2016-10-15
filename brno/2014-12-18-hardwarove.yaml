@@ -1,4 +1,4 @@
-city: Brno
+city: brno
 start: 2014-12-18 19:00:00
 name: Brněnské Pyvo + BRUG
 topic: Hardwarové
@@ -11,15 +11,9 @@ description: |
 
   Tradičně uspořádáme i vetešnictví – jestli máte doma nepotřebný kabel, klávesnici
   či nějaký nesmysl do USB, přineste ho, pomůžeme mu najít nový domov.
-venue:
-  city: Brno
-  name: Koločava
-  address: Bayerova 10
-  location:
-    latitude: '49.2061889'
-    longitude: '16.6025791'
+venue: kolocava
 talks:
-- title: Micropython demo
+- title: MicroPython demo
   speakers:
   - Petr Viktorin
   urls:

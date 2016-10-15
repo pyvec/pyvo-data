@@ -1,4 +1,4 @@
-city: Brno
+city: brno
 start: 2014-02-27
 name: Brněnské Pyvo + BRUG
 topic: Výjezdové
@@ -39,13 +39,7 @@ description: |
 
   * 16:22 - 17:50 - Brno - (Břeclav) - Bratislava [EC 173 Vindobona, EC 131 Varsovia]
   * 22:58 - 0:52 ✩\nBratislava - Brno [476 Metropol]
-venue:
-  city: Brno
-  name: Hlavní nádraží, Brno
-  address: Nádražní 418/1, Brno, 60200
-  location:
-    latitude: '49.1908217'
-    longitude: '16.6117627'
+venue: hlavni-nadrazi
 talks: []
 urls:
 - http://lanyrd.com/2014/brno-pyvo-unorove/

@@ -1,4 +1,4 @@
-city: Brno
+city: brno
 start: 2014-10-30 19:00:00
 name: Brněnské Pyvo + BRUG
 topic: Logovací
@@ -8,13 +8,7 @@ description: |
 
   Přijďte si pokecat o logování – přivítáme prezentace o věcech jako structlog, redis,
   kafka, amqp jako log buffers, ELK, Graylog a podobné.
-venue:
-  city: Brno
-  name: Koločava
-  address: Bayerova 10
-  location:
-    latitude: '49.2061889'
-    longitude: '16.6025791'
+venue: kolocava
 talks:
 - title: Colorlog
   speakers:

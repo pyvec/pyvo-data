@@ -1,4 +1,4 @@
-city: Ostrava
+city: ostrava
 start: 2014-11-06 19:00:00
 name: Ostravské Pyvo s Rubači
 topic: Testovací
@@ -22,13 +22,7 @@ description: |
   6. listopadu v 19:00.
 
   Těšíme se na Vás.
-venue:
-  city: Ostrava
-  name: V. R. Levský
-  address: Škroupova 1114/4
-  location:
-    latitude: '49.8362996'
-    longitude: '18.2855466'
+venue: vr-levsky
 talks:
 - title: Testování obecně
   speakers:

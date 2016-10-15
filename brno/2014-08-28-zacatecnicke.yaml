@@ -1,4 +1,4 @@
-city: Brno
+city: brno
 start: 2014-08-28 19:00:00
 name: Brněnské Pyvo + BRUG
 topic: Začátečnické
@@ -12,13 +12,7 @@ description: |
 
   Přijďte posedět, pomluvit Python, popít pivo, papat poctivou podkarpatskou polévku,
   pokecat o programovacích poprvé; plánovat pedagogické postupy, přivítat PyLadies...
-venue:
-  city: Brno
-  name: Koločava
-  address: Bayerova 10
-  location:
-    latitude: '49.2061889'
-    longitude: '16.6025791'
+venue: kolocava
 talks:
 - title: Jak začalo Pyvo v Brně
   speakers:

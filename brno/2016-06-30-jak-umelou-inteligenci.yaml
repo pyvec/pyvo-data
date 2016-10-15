@@ -1,4 +1,4 @@
-city: Brno
+city: brno
 start: 2016-06-30 19:00:00
 name: Brněnské Pyvo
 topic: Jak umělou inteligenci
@@ -13,13 +13,7 @@ description: |
   S blížícím se létem nesmíme zapomínat na péči o naši den co den slunci vystavenou
   pokožku. Každý správný programátor ví, že by ji měl pravidelně schovávat z dosahu
   paprsků, aby si odpočinula. Nejlépe každý poslední čtvrtek v měsíci.
-venue:
-  city: Brno
-  name: U Dřeváka
-  address: Dřevařská 22, 602 00
-  location:
-    latitude: '49.209095'
-    longitude: '16.6008957'
+venue: u-drevaka
 talks: []
 urls:
 - http://lanyrd.com/2016/pyvo-cerven/

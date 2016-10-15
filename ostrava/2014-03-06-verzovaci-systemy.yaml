@@ -1,14 +1,8 @@
-city: Ostrava
+city: ostrava
 start: 2014-03-06 19:00:00
 name: Ostravské Pyvo
 topic: Verzovací systémy
-venue:
-  city: Ostrava
-  name: Sport Club
-  address: Vítězná 2, Moravská Ostrava, 70200
-  location:
-    latitude: '49.8470913'
-    longitude: '18.2862144'
+venue: sport-club
 talks: []
 urls:
 - http://lanyrd.com/2014/ostrava-pyvo/

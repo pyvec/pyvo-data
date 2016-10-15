@@ -1,16 +1,10 @@
-city: Brno
+city: brno
 start: 2015-07-30 19:00:00
 name: Brněnské Pyvo + BRUG
 topic: Po EuroPythonu
 description: Červnové Pyvo bude pár dní po největší evropské pythoní konferenci. Jedete
   na ni? Přijďte se podělit o zážitky. Nejedete? Přijďte si poslechnout, co se událo!
-venue:
-  city: Brno
-  name: Šelepka
-  address: Šelepova 1
-  location:
-    latitude: '49.2126811'
-    longitude: '16.5937833'
+venue: selepka
 talks:
 - title: EP report
   speakers:

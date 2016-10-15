@@ -1,14 +1,8 @@
-city: Brno
+city: brno
 start: 2015-10-29 19:00:00
 name: Brněnské Pyvo
 topic: CI
-venue:
-  city: Brno
-  name: Baroko
-  address: Orlí 469/17, Brno, 602 00
-  location:
-    latitude: '49.19403'
-    longitude: '16.612054'
+venue: baroko
 talks: []
 urls:
 - http://lanyrd.com/2015/brno-pyvo-october/

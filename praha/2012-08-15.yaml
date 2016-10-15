@@ -1,17 +1,15 @@
-city: Praha
+city: praha
 start: 2012-08-15 19:00:00
 name: Django-cs
 number: 17
-venue:
-  city: Prague
-  name: Cyril's Pub
-  address: "Bozděchova 8, Praha 5, 150 00\n\t\t\t\t\n\t\t\t\t\t- UPDATE UPDATU: tak\
-    \ nakonec jsme v salonku.. UPDATE: salonek neslo zamluvit, takze budeme nekde\
-    \ vevnitr. Idealne na te terase... OLD: Vzadu maji pekny maly salonek. Pripadne\
-    \ muzeme zabrat misto na terasce."
-  location:
-    latitude: '50.0702602451'
-    longitude: '14.4032549853'
+venue: cyrils-pub
+venue-notes: |
+  **UPDATE UPDATU** tak nakonec jsme v salonku..
+
+  **UPDATE**: salonek neslo zamluvit, takze budeme nekde vevnitr.
+  Idealne na te terase...
+
+  **OLD**: Vzadu maji pekny maly salonek. Pripadne muzeme zabrat misto na terasce.
 talks: []
 urls:
 - http://lanyrd.com/2012/djangocs-august/

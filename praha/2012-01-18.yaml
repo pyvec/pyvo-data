@@ -1,14 +1,8 @@
-city: Praha
+city: praha
 start: 2012-01-18
 name: Django-cs
 number: 10
-venue:
-  city: Prague
-  name: Na Věnečku
-  address: Ostrovského 38a, Praha 5, Czech Republic, 15000
-  location:
-    latitude: '50.0678996'
-    longitude: '14.3953814'
+venue: na-venecku
 talks:
 - title: What will be new in Paver 1.1
   urls:

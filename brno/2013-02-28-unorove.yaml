@@ -1,14 +1,8 @@
-city: Brno
+city: brno
 start: 2013-02-28 19:00:00
 name: Brněnské PyVo
 topic: Únorové
-venue:
-  city: Brno
-  name: U Dřeváka
-  address: Dřevařská 22, 602 00
-  location:
-    latitude: '49.209095'
-    longitude: '16.6008957'
+venue: u-drevaka
 talks:
 - title: O dekorátorech
   speakers:

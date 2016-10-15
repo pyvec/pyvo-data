@@ -1,4 +1,4 @@
-city: Brno
+city: brno
 start: 2016-08-25 19:10:00
 name: Brněnské Pyvo
 topic: Zpětnovazební
@@ -8,12 +8,7 @@ description: |
     Tohtomesačnou témou budiž spätná väzba od Vás, ľudí tvoriacich komunitu (hlavne) Brna a blízkeho či vzdialeného okolia.
     Podeľte sa s nami o Vaše názory, pocity, návrhy, jedlo, pitie, ... :)
     Po naznaní, že debát bolo dosť sa presunieme do blízkych či vzdialených podnikov k pivu. :) Tento krát znova nečakajte dlhé prednášky. Možno Honza Javorek porozpráva o svojej Pyvnej vízii, ale hlavným bodom programu ste Vy. Pythoním lightning talkom však brániť nebudeme.'
-venue:
-  city: Brno
-  name: Tyršův sad
-  location:
-    latitude: '49.2027681'
-    longitude: '16.6027344'
+venue: tyrsuv-sad
 talks: []
 urls:
 - http://lanyrd.com/2016/napyvo/

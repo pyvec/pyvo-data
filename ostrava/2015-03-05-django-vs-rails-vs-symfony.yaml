@@ -1,14 +1,8 @@
-city: Ostrava
+city: ostrava
 start: 2015-03-05 19:00:00
 name: Ostravské Pyvo s Rubači
 topic: Django vs. Rails vs. Symfony
-venue:
-  city: Ostrava
-  name: V. R. Levský
-  address: Škroupova 1114/4
-  location:
-    latitude: '49.8362996'
-    longitude: '18.2855466'
+venue: vr-levsky
 talks:
 - title: Django Tutoriál
   speakers:

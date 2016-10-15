@@ -1,4 +1,4 @@
-city: Brno
+city: brno
 start: 2013-10-31 19:00:00
 name: Brněnské PyVo + BRUG
 topic: Zpátky v Kaverně
@@ -6,13 +6,7 @@ description: |
   POZOR! Zrušili nám rezervaci, sraz bude v Kaverně.
 
   ATTENTION! Our reservation was cancelled, the meetup will be in Kaverna!
-venue:
-  city: Brno
-  name: Restaurace Kaverna
-  address: Veveří 9, 602 00
-  location:
-    latitude: '49.199231'
-    longitude: '16.6024124'
+venue: kaverna
 talks:
 - title: Algebrick
   speakers:

@@ -1,4 +1,4 @@
-city: Ostrava
+city: ostrava
 start: 2016-01-06 19:00:00
 name: Ostravské Pyvo s Rubači
 topic: Paralelní
@@ -13,13 +13,7 @@ description: |
   celou řadu a umožní nám využít moderní výpočetní prostředky.
 
   Na Vás a Vaše příspěvky se těší organizátoři.
-venue:
-  city: Ostrava
-  name: V. R. Levský
-  address: Škroupova 1114/4
-  location:
-    latitude: '49.8362996'
-    longitude: '18.2855466'
+venue: vr-levsky
 talks: []
 urls:
 - http://lanyrd.com/2016/ostrava-pyvo/

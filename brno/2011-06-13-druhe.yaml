@@ -1,14 +1,8 @@
-city: Brno
+city: brno
 start: 2011-06-13 20:11:00
 name: Brněnské PyVo
 topic: Druhé
-venue:
-  city: Brno
-  name: Restaurace Kaverna
-  address: Veveří 9, 602 00
-  location:
-    latitude: '49.199231'
-    longitude: '16.6024124'
+venue: kaverna
 talks: []
 urls:
 - http://lanyrd.com/2011/pyvo-june/

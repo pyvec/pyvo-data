@@ -1,4 +1,4 @@
-city: Brno
+city: brno
 start: 2014-05-29 19:00:00
 name: Brněnské Pyvo + BRUG
 topic: Show us your stuff!
@@ -9,13 +9,7 @@ description: |
 
   Na květnovém Pyvu uvítáme, mezi pivkem a borščem, krátké (1-10 min.) prezentace
   takového toho domácího kódění.
-venue:
-  city: Brno
-  name: Koločava
-  address: Bayerova 10
-  location:
-    latitude: '49.2061889'
-    longitude: '16.6025791'
+venue: kolocava
 talks:
 - title: Jenkins-Koji integration; Koji Python API - lessons learned
   speakers:

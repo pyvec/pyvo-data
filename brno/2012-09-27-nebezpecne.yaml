@@ -1,4 +1,4 @@
-city: Brno
+city: brno
 start: 2012-09-27 19:00:00
 name: Brněnské PyVo
 topic: Nebezpečné
@@ -8,13 +8,7 @@ description: |
   Přednášky se připravují, ale klidně samovolně připište svoji, máte-li co říct o
   zabezpečování webových aplikací nebo obecně těch, které běží na serveru a na síti,
   o kryptografii, vesmíru, životě, a vůbec.
-venue:
-  city: Brno
-  name: U Dřeváka
-  address: Dřevařská 22, 602 00
-  location:
-    latitude: '49.209095'
-    longitude: '16.6008957'
+venue: u-drevaka
 talks:
 - title: Zákeřný eval()
   speakers:

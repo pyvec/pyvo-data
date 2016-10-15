@@ -1,14 +1,8 @@
-city: Ostrava
+city: ostrava
 start: 2015-10-06 19:00:00
 name: Ostravské Pyvo s Rubači
 topic: mezi PY a C/C++
-venue:
-  city: Ostrava
-  name: V. R. Levský
-  address: Škroupova 1114/4
-  location:
-    latitude: '49.8362996'
-    longitude: '18.2855466'
+venue: vr-levsky
 talks: []
 urls:
 - http://lanyrd.com/2015/ostravske-pyvo-s-rubaci-mezi-py-a-cc/

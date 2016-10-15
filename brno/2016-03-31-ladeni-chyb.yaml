@@ -1,4 +1,4 @@
-city: Brno
+city: brno
 start: 2016-03-31 19:00:00
 name: Brněnské Pyvo
 topic: Ladění chyb
@@ -10,13 +10,7 @@ description: |
   jsme napsali, vůbec nefunguje.
 
   Tentokrát Pyvo bude přesně o tomto - o ladění chyb v našich Python programech.
-venue:
-  city: Brno
-  name: U Dřeváka
-  address: Dřevařská 22, 602 00
-  location:
-    latitude: '49.209095'
-    longitude: '16.6008957'
+venue: u-drevaka
 talks: []
 urls:
 - http://lanyrd.com/2016/brno-pyvo-march/

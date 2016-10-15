@@ -1,4 +1,4 @@
-city: Ostrava
+city: ostrava
 start: 2015-12-02 19:00:00
 name: Ostravské Pyvo s Rubači
 topic: Vánoční
@@ -10,14 +10,9 @@ description: |
   Protentokrát se výjimečně sejdeme v zadní části restaurace místo vinárny.
 
   Těšíme se na Vás.
-venue:
-  city: Ostrava
-  name: V. R. Levský
-  address: "Škroupova 1114/4\n\t\t\t\t\n\t\t\t\t\t- V zadní části restaurace (ne ve\
-    \ vinárně)"
-  location:
-    latitude: '49.8362996'
-    longitude: '18.2855466'
+venue: vr-levsky
+venue-notes: |
+    V zadní části restaurace (ne ve vinárně)
 talks: []
 urls:
 - http://lanyrd.com/2015/ostrava-pyvo-december/

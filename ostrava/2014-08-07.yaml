@@ -1,4 +1,4 @@
-city: Ostrava
+city: ostrava
 start: 2014-08-07 19:00:00
 name: Ostravské KinoPyvo
 description: |
@@ -18,13 +18,7 @@ description: |
   Těšíme se na Vás (a na kolořízek)
 
   ~Pořadatelé
-venue:
-  city: Ostrava
-  name: V. R. Levský
-  address: Škroupova 1114/4
-  location:
-    latitude: '49.8362996'
-    longitude: '18.2855466'
+venue: vr-levsky
 talks: []
 urls:
 - http://lanyrd.com/2014/ostrava-pyvo-august/

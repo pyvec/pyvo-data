@@ -1,14 +1,8 @@
-city: Brno
+city: brno
 start: 2015-08-27 19:11:00
 name: Brněnské Pyvo + BRUG
 topic: Clean code
-venue:
-  city: Brno
-  name: Baroko
-  address: Orlí 469/17, Brno, 602 00
-  location:
-    latitude: '49.19403'
-    longitude: '16.612054'
+venue: baroko
 talks:
 - title: Code Quality Tools
   speakers:

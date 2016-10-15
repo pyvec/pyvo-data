@@ -1,4 +1,4 @@
-city: Brno
+city: brno
 start: 2015-03-26 19:00:00
 name: Brněnské Pyvo + BRUG
 topic: Flamewar
@@ -8,13 +8,7 @@ description: |
   Všichni máme ty naše dynamické jazyky rádi. Ale vždycky se najde něco, co člověka
   na jeho nástrojích irituje. Pojďte si postěžovat, vylít zlost – a nebo zjistit,
   že celou dobu existoval lepší způsob jak to napsat.
-venue:
-  city: Brno
-  name: U Dřevěného orla
-  address: Orlí 3
-  location:
-    latitude: '49.1931942776'
-    longitude: '16.6101684696'
+venue: u-dreveneho-orla
 talks: []
 urls:
 - http://lanyrd.com/2015/brno-pyvo-march/

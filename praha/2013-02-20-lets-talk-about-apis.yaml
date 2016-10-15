@@ -1,15 +1,9 @@
-city: Praha
+city: praha
 start: 2013-02-20
 name: Pražské PyVo
 number: 23
 topic: lets talk about APIs
-venue:
-  city: Prague
-  name: Na Věnečku
-  address: Ostrovského 38a, Praha 5, Czech Republic, 15000
-  location:
-    latitude: '50.0678996'
-    longitude: '14.3953814'
+venue: na-venecku
 talks:
 - title: HTTP API a Py
   speakers:

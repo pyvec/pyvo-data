@@ -1,16 +1,8 @@
-city: Praha
+city: praha
 start: 2012-05-16
 name: Django-cs
 number: 14
-venue:
-  city: Prague
-  name: Na Věnečku
-  address: "Ostrovského 38a, Praha 5, Czech Republic, 15000\n\t\t\t\t\n\t\t\t\t\t\
-    - Ostrovskeho ulice se zmeni na chodnik vedouci do kopce. Po 50m je po prave strane\
-    \ brana. Za ni projit pres nadvori, az uslysite hluk."
-  location:
-    latitude: '50.0678996'
-    longitude: '14.3953814'
+venue: na-venecku
 talks:
 - title: denormalizace v Redisu
   speakers:

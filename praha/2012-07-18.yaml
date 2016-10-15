@@ -1,14 +1,8 @@
-city: Praha
+city: praha
 start: 2012-07-18 19:00:00
 name: Django-cs
 number: 16
-venue:
-  city: Prague
-  name: Cyril's Pub
-  address: Bozděchova 8, Praha 5, 150 00
-  location:
-    latitude: '50.0702602451'
-    longitude: '14.4032549853'
+venue: cyrils-pub
 talks:
 - title: Triky v Django templates
   speakers:

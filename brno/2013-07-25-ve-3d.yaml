@@ -1,16 +1,11 @@
-city: Brno
+city: brno
 start: 2013-07-25 19:00:00
 name: Brněnské PyVo + BRUG
 topic: Ve 3D
-description: 'Téma pro tento měsíc: Grafika, hry, animace, a vše co s tím souvisí.
-  (Třetí dimenze není podmínkou)'
-venue:
-  city: Brno
-  name: U Dřeváka
-  address: Dřevařská 22, 602 00
-  location:
-    latitude: '49.209095'
-    longitude: '16.6008957'
+description: |
+  Téma pro tento měsíc: Grafika, hry, animace, a vše co s tím souvisí.
+  (Třetí dimenze není podmínkou)
+venue: u-drevaka
 talks:
 - title: EuroPython report
   speakers:

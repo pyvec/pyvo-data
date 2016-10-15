@@ -1,14 +1,8 @@
-city: Brno
+city: brno
 start: 2015-01-29 19:00:00
 name: Brněnské Pyvo + BRUG
 topic: DevOps
-venue:
-  city: Brno
-  name: Koločava
-  address: Bayerova 10
-  location:
-    latitude: '49.2061889'
-    longitude: '16.6025791'
+venue: kolocava
 talks:
 - title: The Foreman and Katello for provisioning, configuration and content management
   speakers:

@@ -1,4 +1,4 @@
-city: Ostrava
+city: ostrava
 start: 2014-12-04 19:00:00
 name: Ostravské Pyvo s Rubači
 topic: Vánoční
@@ -13,13 +13,7 @@ description: |
   chcete podělit s ostatními? Pak přijďte mezi nás.
 
   Těší se na Vás tým pořadatelů.
-venue:
-  city: Ostrava
-  name: V. R. Levský
-  address: Škroupova 1114/4
-  location:
-    latitude: '49.8362996'
-    longitude: '18.2855466'
+venue: vr-levsky
 talks:
 - title: Micropython
   speakers:

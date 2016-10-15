@@ -1,18 +1,13 @@
-city: Brno
+city: brno
 start: 2012-12-17 19:00:00
 name: Brněnské PyVo
 topic: Vetešnictví
 description: 'Prosincové PyVo bude v mnohém netradiční: máme zarezervovaný otevřený
   salonek v levé části podniku, místo přednášek bude bleší trh s hardwarem, a místo
   posledního čtvrtku bude PyVo v prostřední pondělí.'
-venue:
-  city: Brno
-  name: U Dřeváka
-  address: "Dřevařská 22, 602 00\n\t\t\t\t\n\t\t\t\t\t- Tentokrát v otevřeném salónku\
-    \ v levé části podniku"
-  location:
-    latitude: '49.209095'
-    longitude: '16.6008957'
+venue: u-drevaka
+venue-notes: |
+    Tentokrát v otevřeném salónku v levé části podniku
 talks: []
 urls:
 - http://lanyrd.com/2012/pyvo-december/

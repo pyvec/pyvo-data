@@ -1,4 +1,4 @@
-city: Brno
+city: brno
 start: 2013-09-22 22:30:00
 name: Žít Kino sprint
 description: |
@@ -8,13 +8,7 @@ description: |
 
   Zváni jsou všichni od těch, co se chtějí poprvé kouknout Flasku na zoubek, po ty
   co Honzovi vyčtou co všechno dělá špatně (a pošlou tucet pull requestů).
-venue:
-  city: Brno
-  name: Red Hat Czech
-  address: Purkyňova 71/99, 61200
-  location:
-    latitude: '49.226084'
-    longitude: '16.5812702'
+venue: red-hat-czech-tower-big
 talks: []
 urls:
 - http://lanyrd.com/2013/zit-kino-sprint/
