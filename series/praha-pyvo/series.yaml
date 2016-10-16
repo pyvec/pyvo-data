@@ -1,2 +1,34 @@
 name: Pražské Pyvo
 city: praha
+description:
+  cs: |
+    Pražské Pyvo bývá každou třetí středu v měsíci.
+
+    Scházíme se v soukromém klubu Na Věnečku, takže nikde není žádná
+    (např. pivní) cedule.
+    Nechceš-li bloudit, přijď na sraz v 18:30 před Equa Bank (dříve iStyle)
+    na Andělu, odkud tě organizátoři zavedou na místo.
+
+    Pro samostatné a nestíhače: Kdyz se Ostrovského ulice změní na chodník,
+    jděte cca 50m do kopce. Po pravé straně narazíte na poměrně velkou bránu do dvora.
+  en: |
+    Prague Pyvo is traditionally held on the third Wednesday of each month.
+
+    We meet in the private club *Na Věnečku*.
+    There is no sign indicating a restaurant.
+    You can meet the organizers at 18:30 in fromt of the Equa Bank
+    (formerly iStyle shop) at Anděl
+    [(map)](http://mapy.cz/zakladni?x=14.4042537&y=50.0705995&z=17&source=firm&id=2195802)
+    and go to the meetup together.
+
+    For self-sufficient people and late-comers: Follow the Ostrovského street
+    all the way up, about 50m past the "no cars" sign.
+    The meetup is through a gate to your right.
+organizer-info:
+  - name: Jakub Vysoký
+    phone: 605 852 377
+    mail: jakub.vysoky@gmail.com
+  - name: Jiří Bartoň
+    mail: whiskybar@gmail.com
+  - name: Aleš Zoulek
+    mail: ales.zoulek@gmail.com

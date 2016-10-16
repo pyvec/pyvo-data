@@ -1,2 +1,17 @@
 name: Brněnské Pyvo
 city: brno
+description:
+  cs: |
+    Brněnské Pyvo bývá každý poslední čtvrtek v měsíci.
+    Některé srazy byly spojené s BRUG – Brno Ruby User Group, komunitou kolem
+    [Ruby](https://www.ruby-lang.org).
+  en: |
+    Pyvo Brno is traditionally held on the last Thursday of each month.
+    Our friends from BRUG, the Brno [Ruby](https://www.ruby-lang.org) User
+    Group, sometimes joined us for a common meetup.
+organizer-info:
+  - name: Petr Viktorin
+    phone: 77-ENCUKOU
+    mail: encukou@gmail.com
+  - name: Honza Javorek
+    mail: mail@honzajavorek.cz
