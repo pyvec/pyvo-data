@@ -18,3 +18,9 @@ organizer-info:
   - name: Ladislav Krčmárik
     phone: 604112390
     mail: krcmarik@avocado.cz
+recurrence:
+  scheme: monthly
+  rrule: RRULE:FREQ=MONTHLY;INTERVAL=1;BYDAY=1WE;BYHOUR=19;BYMINUTE=0;BYSECOND=0
+  description:
+    cs: Ostravské Pyvo bývá každou první středu v měsíci.
+    en: Ostrava Pyvo is usually held on the first Wednesday of each month.

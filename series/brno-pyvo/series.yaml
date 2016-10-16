@@ -15,3 +15,9 @@ organizer-info:
     mail: encukou@gmail.com
   - name: Honza Javorek
     mail: mail@honzajavorek.cz
+recurrence:
+  scheme: monthly
+  rrule: RRULE:FREQ=MONTHLY;INTERVAL=1;BYDAY=-1TH;BYHOUR=19;BYMINUTE=0;BYSECOND=0
+  description:
+    cs: Brněnské Pyvo bývá každý poslední čtvrtek v měsíci.
+    en: Pyvo Brno is usually held on the last Thursday of each month.
