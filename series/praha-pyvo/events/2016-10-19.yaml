@@ -2,10 +2,30 @@ city: praha
 start: 2016-10-19 19:00:00
 name: Pražské PyVo
 number: 67
+description: |
+    Snad géniové zodiakální, snad 67. vyšší inteligence, spikly se proti
+    ubohému starci, možná, že zmýlil jsem se v planetárni klasifikaci,
+    považuje drchničku a zářivku za rostlinu Jupyterovu, kterou je bezesporu
+    fenykl, třeba v nepřátelském znamení hada se střetl mikrokosmos
+    s makrokosmem, zkrátka další pražský Python sraz je a to již ve středu
+    19. 10. 2016 od 19:00 jako vždy na Věnečku, Ostrovského 38a,
+    Praha 5 - Smíchoff.
+
+    Jak jsem již napověděl, bude to o ipythonu a NASA.
 venue: na-venecku
 venue-notes: |
     If you're not sure how to get here, meet us 18:30 at Andel metro station in
     front of the Equa Bank (former apple store iStyle) - https://goo.gl/maps/tyQuwpy35tE2
-talks: []
+talks:
+- title: ipython
+  speakers:
+  - Honza Král
+  coverage:
+  - link: http://ipython.org/
+- title: NEEMO (NASA)
+  speakers:
+  - Dawn Kernagis
+  coverage:
+  - link: https://www.nasa.gov/mission_pages/NEEMO/index.html
 urls:
 - http://lanyrd.com/2016/praha-pyvo-october/
