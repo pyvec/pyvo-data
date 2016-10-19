@@ -36,5 +36,5 @@ recurrence:
   scheme: monthly
   rrule: RRULE:FREQ=MONTHLY;INTERVAL=1;BYDAY=3WE;BYHOUR=19;BYMINUTE=0;BYSECOND=0
   description:
-    cs: Ostravské Pyvo bývá každou třetí středu v měsíci.
-    en: Ostrava Pyvo is usually held on the third Wednesday of each month.
+    cs: Pražské Pyvo bývá každou třetí středu v měsíci.
+    en: Prague Pyvo is usually held on the third Wednesday of each month.
