@@ -1,0 +1,14 @@
+city: praha
+start: 2016-11-16 19:00:00
+name: Pražské PyVo
+number: 68
+description: |
+    Téma nám dorazilo trochu později a mimo pravidelný čas, z čehož jste mohli
+    usoudit, že půjde opět o asynchronní programování.
+
+    Přijďte zase, vždycky se něco dozvíte.
+venue: na-venecku
+talks: []
+urls:
+- http://lanyrd.com/2016/praha-pyvo-november/
+- https://www.meetup.com/Prague-Python-Meetup-NaPyVo/events/235077813/
