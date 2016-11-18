@@ -1,0 +1,42 @@
+city: brno
+start: 2016-11-24
+name: Brněnské Pyvo
+topic: Statické
+description: |
+
+    Novembrové PyVo sa ponesie v duchu takmer nepythonistickom.
+
+    Tohtomesačnou témou budú veci statické, dôvody pre ich použitie a výhody,
+    ktoré môžu priniesť.
+
+    Potvrdenou prednáškou je 'Optional static typing' o type hintoch a nástroji
+    mypy od Ilyu Etingova. Prednáška bude v anglickom jazyku.
+
+    Miesto bude upresnené v závislosti od záujmu. Ak chceš prísť, potvrď prosím
+    svoju účasť tu na facebooku.
+
+    Stále máme voľné jedno miesto prednášajúceho. Ak máš čo povedať, neváhaj sa
+    nám ozvať! Prednáška môže byť cielená aj na začiatočníkov.
+
+    Ak sa necítite na veľkú prednášku, môžete skúsiť lightning talk. :)
+
+    --------
+
+    This month we're interested in all things static, their pros, cons and
+    reasons why to use them or not.
+
+    Our speaker, Ilya Etingof will tell about optional static typing in python,
+    how it works and what tools to use.
+    There is still one spot for your talk. Do not hesitate to contact us!
+
+    The place will be specified later, based on expected attendance.
+
+venue: sklipek-kiwi-com
+talks:
+- title: Optional static typing
+  speakers:
+  - Ilya Etingof
+  urls: []
+  coverage: []
+urls:
+- https://www.facebook.com/events/1277949318935511
