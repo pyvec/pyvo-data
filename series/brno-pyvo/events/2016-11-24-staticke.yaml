@@ -12,6 +12,8 @@ description: |
     Potvrdenou prednáškou je 'Optional static typing' o type hintoch a nástroji
     mypy od Ilyu Etingova. Prednáška bude v anglickom jazyku.
 
+    Bence Nagy nám porozpráva o nástroji Coala.
+
     Miesto bude upresnené v závislosti od záujmu. Ak chceš prísť, potvrď prosím
     svoju účasť tu na facebooku.
 
@@ -33,6 +35,11 @@ description: |
 
 venue: sklipek-kiwi-com
 talks:
+- title: Coala
+  speakers:
+  - Bence Nagy
+  urls: []
+  coverage: []
 - title: Optional static typing
   speakers:
   - Ilya Etingof
