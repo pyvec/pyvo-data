@@ -45,10 +45,5 @@ talks:
   - Ilya Etingof
   urls: []
   coverage: []
-- title: Coala, the multi-language linter
-  speakers:
-  - Bence Nagy
-  urls: []
-  coverage: []
 urls:
 - https://www.facebook.com/events/1277949318935511
