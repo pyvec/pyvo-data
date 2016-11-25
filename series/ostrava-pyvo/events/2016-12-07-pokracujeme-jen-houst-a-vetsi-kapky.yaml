@@ -1,0 +1,25 @@
+city: ostrava
+start: 2016-12-07 19:00:00
+name: Ostravské Pyvo
+topic: Pokračujeme - jen houšť a větší kapky
+description: |
+    Ani v prosinci nepolevíme ve své snaze naučit se programovat v
+    Pythonu a po předchozích více teoretických setkáních se konečně
+    pustíme do práce.
+
+    V první sekci si projdeme další kousek teoretických
+    materiálů, abychom v té druhé mohli řešit záludné problémy
+    a chytáky, které nám poskytne nám již známá online hra
+    https://checkio.org/. Notebooky sebou, ať můžeme testovat!
+
+    Druhá část bude pro pokročilejší programátory, kteří se budou moci
+    dozvědět něco více o Lispu (common Lisp) a dojde i na jeho porovnání
+    s Pythonem.
+
+    Chcete-li také něčím přispět, neváhejte nás kontaktovat.
+
+    Těšíme se na Vás.
+venue: vr-levsky
+talks: []
+urls:
+- http://srazy.info/pyvo-v-ostrave/6967
