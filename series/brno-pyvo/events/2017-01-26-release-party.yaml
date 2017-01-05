@@ -1,0 +1,27 @@
+city: brno
+start: 2017-01-26
+name: Brněnské Pyvo
+topic: Release Party!
+description: |
+
+    Po dvou letech vývoje jsme se o Vánocích dočkali nové verze Pythonu: 3.6.
+    Co je v tři-šestce nového?
+    Pomůže nám to v práci, nebo to nejde tím správným směrem?
+    Pojďme si o tom zadebatovat!
+
+    --------
+
+    After two years of development, Python 3.6 was released during Christmas.
+    What's new in the new release?
+    Will it help us, or is it just unnecessary churn?
+    Let's discuss!
+
+venue: sklipek-kiwi-com
+talks:
+- title: Co je nového v Pythonu 3.6
+  speakers:
+  - Petr Viktorin
+  urls: []
+  coverage: []
+urls:
+- https://www.facebook.com/events/1813379002319622/
