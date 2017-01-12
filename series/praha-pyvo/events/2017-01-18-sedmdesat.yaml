@@ -1,0 +1,15 @@
+city: praha
+start: 2017-01-18 19:00:00
+name: Pražské Pyvo
+number: 70
+description: |
+    Nazdar důchodci,
+
+    Jako na každou 3. středu v měsíci vás zveme i teď na 70. Python sraz v Praze.
+    Žeton do nákupního košíku nebude, protože byste ho stejně ztratili,
+    ale pořád je tu ten Python, co znáte z mládí a je osvědčený.
+
+venue: na-venecku
+talks: []
+urls:
+- https://www.meetup.com/Prague-Python-Meetup-NaPyVo/events/235875529/
