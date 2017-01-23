@@ -1,0 +1,42 @@
+city: ostrava
+start: 2017-02-01 19:00:00
+name: Ostravské Pyvo
+topic: Moderní webové aplikace
+description: |
+    Ahoj.
+
+    V únoru trošku odbočíme od čistého Pythonu a podíváme se i na jiné
+    technologie, které nám příjdou do cesty zejména při vývoji moderních
+    webových aplikací.
+
+    Tyto aplikace bývají často rozdělené na serverovou část, která
+    slouží k poskytování dat a zpracování požadavků pomocí tzv. API, a
+    klientskou část napsanou v JavaScriptu, která v prohlížeči obstará
+    část logiky a hlavně uživatelské rozhraní.
+
+    První příspěvek se bude týkat právě programování API v Pythonu a
+    ve druhém se podíváme, jak na takto připravené rozhraní napasovat
+    některý z JS framerorků pro tvorbu klientské části aplikace.
+    V posledním pak půjdeme ještě hlouběji a podíváme se na virtuální
+    DOM a funkcionální podání frameworku Boril.
+
+    Těšíme se na Vás.
+venue: vr-levsky
+talks:
+- title: API
+  speakers:
+  - Honza Javorek
+  urls: []
+  coverage: []
+- title: AngularJS
+  speakers:
+  - Martin Čurlej
+  urls: []
+  coverage: []
+- title: Single page webová aplikace s využitím virtuálního domu aneb jednoduše a funkcionálně s borilem
+  speakers:
+  - Josef Bačkovský
+  urls: []
+  coverage: []
+urls:
+- http://srazy.info/pyvo-v-ostrave/7080
