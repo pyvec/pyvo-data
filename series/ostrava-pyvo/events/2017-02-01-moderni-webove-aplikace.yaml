@@ -18,7 +18,7 @@ description: |
     ve druhém se podíváme, jak na takto připravené rozhraní napasovat
     některý z JS framerorků pro tvorbu klientské části aplikace.
     V posledním pak půjdeme ještě hlouběji a podíváme se na virtuální
-    DOM a funkcionální podání frameworku Boril.
+    DOM a funkcionální podání frameworku Bobril.
 
     Těšíme se na Vás.
 venue: vr-levsky
@@ -33,7 +33,7 @@ talks:
   - Martin Čurlej
   urls: []
   coverage: []
-- title: Single page webová aplikace s využitím virtuálního domu aneb jednoduše a funkcionálně s borilem
+- title: Single page webová aplikace s využitím virtuálního domu aneb jednoduše a funkcionálně s Bobrilem
   speakers:
   - Josef Bačkovský
   urls: []
