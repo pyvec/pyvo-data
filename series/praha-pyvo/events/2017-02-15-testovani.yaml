@@ -1,0 +1,36 @@
+city: praha
+start: 2017-02-15 19:00:00
+name: Pražské PyVo
+number: 71
+topic: Testování
+description: |
+    Milé pyvnice, milí pyvníci,
+
+    stejně jako každou 3. středu v měsíci, i nyní se koná Python sraz v Praze.
+
+    Tematicky se po necelém roce vrátíme k testování, protože jde o
+    nevyčerpatelné téma.
+
+venue: na-venecku
+talks:
+- title: doctest – Testing through documentation
+  speakers:
+  - Jáchym Čepický
+  urls: []
+  coverage: []
+- title: Testing state machine
+  speakers:
+  - Petr Messner
+  urls: []
+  coverage: []
+- title: Lessons learned from testing microservices in Python
+  speakers:
+  - Stanislav Prokop
+  urls: []
+  coverage: []
+- title: Parametric tests in py.test
+  speakers:
+  - Miro Hrončok
+  urls: []
+  coverage: []
+urls: []
