@@ -22,7 +22,8 @@ talks:
   speakers:
   - Petr Messner
   urls: []
-  coverage: []
+  coverage:
+  - slides: http://slides.com/petrmessner/pyvo-testing-2017-02#/
 - title: Lessons learned from testing microservices in Python
   speakers:
   - Stanislav Prokop
