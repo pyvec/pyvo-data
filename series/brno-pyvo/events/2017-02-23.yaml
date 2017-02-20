@@ -1,19 +1,23 @@
 city: brno
 start: 2017-02-23
 name: Brněnské Pyvo
+number: 62
 description: |
 
-    Přednášky budou doplněny.
-
-    Hledáme přednášející! Chceš-li se zapojit, napiš na encukou@gmail.com.
-
-    --------
-
-    Talks to be annouced.
-
-    We're looking for speakers! If you want present something,
-    contact encukou@gmail.com.
+    Další tradiční sraz brněnských Pythonistů.
+    Přijďte se dozvědět něco nového, poznat lidi, pokecat, popít...
 
 venue: sklipek-kiwi-com
-talks: []
+talks:
+- title: Elsa - statické stránky ve Flasku
+  speakers:
+  - Miro Hrončok
+  urls: []
+  coverage: []
+- title: Python v CZ.NIC
+  lightning: true
+  speakers:
+  - Martin Janda
+  urls: []
+  coverage: []
 urls: []
