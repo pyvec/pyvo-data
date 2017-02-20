@@ -1,0 +1,26 @@
+city: ostrava
+start: 2017-03-01 19:00:00
+name: Ostravské Pyvo
+topic: Testovací
+description: |
+    Ahoj.
+
+    O smysluplnosti testování asi není nutné diskutovat, ale k jeho
+    provedení do funkční a užitečné podoby vede mnoho cest a my se
+    na některé z nich na Pyvu podíváme.
+
+    Těšíme se na Vás.
+venue: vr-levsky
+talks:
+- title: Základy testování s pomocí pytest-u
+  speakers:
+  - Lumír Balhar
+  urls: []
+  coverage: []
+- title: QE != "tester"
+  speakers:
+  - Martin Čurlej
+  urls: []
+  coverage: []
+urls:
+- http://srazy.info/pyvo-v-ostrave/7125
