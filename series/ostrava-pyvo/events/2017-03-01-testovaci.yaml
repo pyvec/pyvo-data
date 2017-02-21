@@ -22,5 +22,10 @@ talks:
   - Martin Čurlej
   urls: []
   coverage: []
+- title: Jak si jednoduše nastavit testovací prostředí pomocí Ansible
+  speakers:
+  - Jaroslav Halamka
+  urls: []
+  coverage: []
 urls:
 - http://srazy.info/pyvo-v-ostrave/7125
