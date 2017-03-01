@@ -2,6 +2,7 @@ city: brno
 start: 2017-03-30
 name: Brněnské Pyvo
 topic: Open Data
+venue: sklipek-kiwi-com
 description: |
 
     V březnu si povíme o otevřených datech, abychom byli připraveni:
@@ -9,5 +10,13 @@ description: |
 
     Více informací (přednášky, místo) doplníme před srazem.
 
-talks: []
+talks:
+- title: Co je nového v Pythonu 3.6
+  speakers:
+  - Jiří Ulip
+  description: |
+    Jiří Ulip nám poví něco o datech, které město Brno plánuje zveřejnit
+    v rámci iniciativy Otevřená města.
+  urls: []
+  coverage: []
 urls: []
