@@ -1,0 +1,30 @@
+city: praha
+start: 2017-03-15 19:00:00
+name: Pražské PyVo
+number: 72
+topic: Bitcoin
+description: |
+    Milé pyvnice, milí pyvníci,
+
+    stejně jako každou 3. středu v měsíci, i nyní se koná Python sraz v Praze.
+
+    Tematicky to bude o Bitcoinu.
+
+venue: na-venecku
+talks:
+- title: Jak se těží Bitcoin
+  speakers:
+  - TBA
+  urls: []
+  coverage: []
+- title: Distribuovaná těžební infrastruktura v Pythonu
+  speakers:
+  - TBA
+  urls: []
+  coverage: []
+- title: ??
+  speakers:
+  - "I ty můžeš přednášet! :)"
+  urls: []
+  coverage: []
+urls: []
