@@ -1,0 +1,21 @@
+city: praha
+start: 2017-04-19 19:00:00
+name: Pražské PyVo
+number: 73
+topic: Deployment
+description: |
+    Milé pyvnice, milí pyvníci,
+
+    stejně jako každou 3. středu v měsíci, i nyní se koná Python sraz v Praze.
+
+    Tematicky to bude o deploymentu, spíš ale různých menších projektů
+    než velké infrastruktury.
+
+venue: na-venecku
+talks:
+- title: ??
+  speakers:
+  - "I ty můžeš přednášet! :)"
+  urls: []
+  coverage: []
+urls: []
