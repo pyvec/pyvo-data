@@ -2,14 +2,14 @@ city: praha
 start: 2017-04-19 19:00:00
 name: Pražské PyVo
 number: 73
-topic: Deployment
+topic: Scaling Down
 description: |
-    Milé pyvnice, milí pyvníci,
+    Milé pyvařky a pyvaři,
 
     stejně jako každou 3. středu v měsíci, i nyní se koná Python sraz v Praze.
 
-    Poradíme vám, jak využít existujicí platformy typu Google Cloud, AWS, 
-    Heroku k běhu vašich malých projektů.
+    Dozvíte se, jak využít cloudové platformy typu Google Cloud, AWS, Heroku
+    i jiný hosting k běhu vašich malých aplikací.
 
 venue: na-venecku
 talks:
