@@ -8,15 +8,6 @@ install:
   - pip install pytest
 
 script:
-  # This loads the DB, making sure it *can* be loaded
-  - |
-      python -c '
-      from pyvodb.load import get_db
-      from pyvodb.tables import Event
-      db=get_db(".")
-      cnt=db.query(Event).count()
-      print(cnt)
-      if not cnt:
-          exit("no events found")'
+  - py.test -v .tests
 
 sudo: false
