@@ -9,7 +9,8 @@ description: |
     město Brno v rámci iniciativy Otevřená města plánuje spoustu informací
     uvolnit.
 
-    Více informací (přednášky, místo) doplníme před srazem.
+    Přijďte včas – přednášek je hodně, tak tentokrát začneme hned po
+    sedmé hodině.
 
 talks:
 - title: Otevřená data o Brnu
@@ -18,6 +19,16 @@ talks:
   description: |
     Jiří Ulip nám poví něco o datech, které město Brno plánuje zveřejnit
     v rámci iniciativy Otevřená města.
+  urls: []
+  coverage: []
+- title: Histogramy z otevřených dat s knihovnou physt
+  speakers:
+  - Jan Pipek
+  urls: []
+  coverage: []
+- title: Open Data + Pandas == ♥
+  speakers:
+  - Eduard Trott
   urls: []
   coverage: []
 - title: O otevřených městech
