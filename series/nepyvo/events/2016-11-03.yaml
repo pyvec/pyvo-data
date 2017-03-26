@@ -1,0 +1,13 @@
+city: brno
+start: 2016-11-03 18:00:00
+name: Nepyvo
+venue: nekavarna
+talks:
+- title: Modul itertools
+  speakers:
+  - Luděk Reif
+  urls: []
+  coverage:
+  - slides: https://github.com/lurei/nepyvo/blob/master/itertools.ipynb
+urls:
+- https://www.facebook.com/events/201439243628657/

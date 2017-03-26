@@ -1,0 +1,13 @@
+city: brno
+start: 2016-10-20 18:00:00
+name: Nepyvo
+venue: nekavarna
+talks:
+- title: Collections
+  speakers:
+  - Radek Nováček
+  urls: []
+  coverage:
+  - slides: https://github.com/rnovacek/pyvo/blob/master/minitalks/collections.ipynb
+urls:
+- https://www.facebook.com/events/358049751201987/
