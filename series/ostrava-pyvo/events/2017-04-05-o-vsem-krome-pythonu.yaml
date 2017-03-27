@@ -1,0 +1,37 @@
+city: ostrava
+start: 2017-04-05 19:00:00
+name: Ostravské Pyvo
+topic: O všem kromě Pythonu (pro PyLadies)
+description: |
+    Ahoj.
+
+    Protože v Ostravě se nám začátečnický kurz PyLadies přehoupnul do
+    své druhé třetiny, připravujeme Pyvo speciálně pro účastnice kurzu
+    (a samozřejmě i všechny ostatní).
+
+    IT je obor s daleko širším záběrem než jen programování a tak si
+    účastnice samy zvolily, co by se chtěly ze světa IT dozvědět. 
+    Výsledkem je program složený prozatím ze tří krátkých prezentací na
+    různá témata. Máš nějaký nápad na další? Pak nám pošli email na
+    ostrava-pyvo@googlegroups.com
+
+    Těšíme se.
+venue: vr-levsky
+talks:
+- title: Jak funguje počítač (v kostce)
+  speakers:
+  - Glutexo
+  urls: []
+  coverage: []
+- title: Jak fungují bezdrátové sítě
+  speakers:
+  - Dalibor Vaněk
+  urls: []
+  coverage: []
+- title: Jak fungují počítačové viry
+  speakers:
+  - Lumír Balhar
+  urls: []
+  coverage: []
+urls:
+- http://srazy.info/pyvo-v-ostrave/7208
