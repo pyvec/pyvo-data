@@ -36,4 +36,12 @@ talks:
   - Radovan Kavický
   urls: []
   coverage: []
+- title: Kiwi.com  internships
+  lightning: true
+  speakers:
+  - Jan Bleha
+  description: |
+    Jan Bleha představí nový program remote stáží pro Kiwi.com
+  urls: []
+  coverage: []
 urls: []
