@@ -44,4 +44,12 @@ talks:
     Jan Bleha představí nový program remote stáží pro Kiwi.com
   urls: []
   coverage: []
+- title: BroadApi.com - Otevírání dříve nedostupných dat
+  lightning: true
+  speakers:
+  - Vlad Kahoun
+  description: |
+    Data mají být ropou dneška. Proč je tedy ropy všude dost a užitečných dat jako šafránu?
+  urls: []
+  coverage: []
 urls: []
