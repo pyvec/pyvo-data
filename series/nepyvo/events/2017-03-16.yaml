@@ -7,7 +7,7 @@ talks:
   speakers: []
   urls: []
   coverage:
-  - video: https://www.youtube.com/watch?v=umYvFdU54Po
+  - slides: https://www.youtube.com/watch?v=umYvFdU54Po
   description: |
       Zajímá vás, proč měl Pac-Man jen 255 kol?
       Chcete se dozvědět něco o bitech, ^, |, &, ...?
