@@ -1,0 +1,26 @@
+city: ostrava
+start: 2017-05-10 19:00:00
+name: Ostravské Pyvo
+topic: Trh práce
+description: |
+    POZOR ZMĚNA!!! Toto Pyvo je z organizačních důvodů přesunuto na
+    druhou středu v měsíci tj. 10. května.
+
+    V květnu se zaměříme na trh práce. Budete mít možnost poslechnout si
+    krátké představení několika firem, které hledají třeba právě vás.
+    Těšit se můžete také na lightning talky se zkušenostmi z různých
+    zaměstnání a rady, jak se o práci ucházet a jak uspět při
+    přijímacích pohovorech.
+
+    Program bude pravidelně aktualizován.
+
+    Těšíme se na vás.
+venue: vr-levsky
+talks:
+- title: Red Hat
+  speakers:
+  - Jiří Psotka
+  urls: []
+  coverage: []
+urls:
+- http://srazy.info/pyvo-v-ostrave/7263
