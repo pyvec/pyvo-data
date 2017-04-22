@@ -22,5 +22,10 @@ talks:
   - Jiří Psotka
   urls: []
   coverage: []
+- title: Software development in GMC
+  speakers:
+  - Josef Backovsky
+  urls: []
+  coverage: []
 urls:
 - http://srazy.info/pyvo-v-ostrave/7263
