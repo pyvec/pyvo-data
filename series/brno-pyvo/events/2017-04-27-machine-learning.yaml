@@ -5,9 +5,18 @@ topic: Machine Learning
 venue: sklipek-kiwi-com
 description: |
 
-    V apríli si povieme niečo o machine learningu. Prisľúbená prednáška
+    V apríli si povieme niečo o machine learningu. Prednáška
     sa bude venovať použitiu pythonu k detekcii finančných podvodov.
 
-    Detaily programu budú zverejnené neskôr.
-talks: []
-urls: []
+talks:
+  - title: Machine learning and Python catch crimes
+    speakers:
+      - Kryštof Hilar
+    description: |
+        Guys from ThreatMark cybersecurity startup will explain the high level of machine learning done with Python.
+        They will show some real cases: how it is possible to spot financial fraudsters in the card transactions data you don’t even understand,
+        or how to detect that bank user is drunk after PyVO. That’s where machine learning comes to play and we will show you why Python is a great choice.
+    urls: []
+    coverage: []
+urls:
+  - https://www.facebook.com/events/101260020443437/
