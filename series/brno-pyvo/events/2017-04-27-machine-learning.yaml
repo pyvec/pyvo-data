@@ -12,6 +12,7 @@ talks:
   - title: Machine learning and Python catch crimes
     speakers:
       - Milan Čapoun
+      - Anton Salykin
     description: |
         Guys from ThreatMark cybersecurity startup will explain the high level of machine learning done with Python.
         They will show some real cases: how it is possible to spot financial fraudsters in the card transactions data you don’t even understand,
