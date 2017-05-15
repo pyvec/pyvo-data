@@ -47,7 +47,8 @@ talks:
   - Martin
 
 - title: ??
-  speakers:
-  - "I ty můžeš přednášet! :) viz https://pyvo.cz/#info-for-speakers"
+  description: |
+    I ty můžeš přednášet! :)
+    viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers)
 
 urls: []
