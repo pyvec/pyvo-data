@@ -1,0 +1,47 @@
+city: praha
+start: 2017-05-17 19:00:00
+name: Pražské PyVo
+number: 74
+topic: 'Scaling Down #2'
+description: |
+    Milé pyvařky a pyvaři,
+
+    stejně jako každou 3. středu v měsíci, i nyní se koná Python sraz v Praze.
+
+    Dozvíte se, jak využít cloudové platformy typu Google Cloud, AWS, Heroku
+    i jiný hosting k běhu vašich malých aplikací.
+
+    Je to stejné téma jako minule, ale protože se sešla spousta zajímavých talků,
+    které ale nebyly úplně k tomuto tématu, tak si téma zopakujeme! :)
+
+venue: na-venecku
+talks:
+
+- title: Statické webové stránky ve Flasku na GitHub Pages
+  speakers:
+  - Miro Hrončok
+
+- title: Statický blog v Pelicanu na GitHub Pages
+  speakers:
+  - Honza Javorek
+  urls: []
+  coverage: []
+
+- title: now js
+  speakers:
+  - Roman Krejčík
+
+- title: now Docker + Python
+  speakers:
+  - Petr Messner
+  urls: []
+  coverage: []
+
+- title: ??
+  speakers:
+  - "I ty můžeš přednášet! :)"
+  urls:
+  - 'https://pyvo.cz/#info-for-speakers'
+  coverage: []
+
+urls: []

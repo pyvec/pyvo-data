@@ -12,10 +12,40 @@ description: |
     i jiný hosting k běhu vašich malých aplikací.
 
 venue: na-venecku
+
 talks:
-- title: ??
+
+- title: StartupYard
   speakers:
-  - "I ty můžeš přednášet! :)"
-  urls: []
-  coverage: []
+  - Jeanne Trojan
+  - Cedric Maloux
+
+- title: Pycon CZ 2017 (https://pycon.cz)
+  speakers:
+  - Max Kovykov
+
+- title: Docker Swarm
+  speakers:
+  - Jirka Puc
+
+- title: Argos
+  speakers:
+  - Daniel Milde (Seznam.cz)
+
+- title: Betonařina – velká to sranda!
+  speakers:
+  - Radek
+
+- title: app that fixes previous console command
+  speakers:
+  - Vladimir Iakovlev
+
+- title: 73
+  speakers:
+  - Jarka Schovancová
+
+- title: Python knihovnička
+  speakers:
+  - Petr Viktorin
+
 urls: []
