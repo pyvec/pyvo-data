@@ -17,7 +17,8 @@ talks:
         Guys from ThreatMark cybersecurity startup will explain the high level of machine learning done with Python.
         They will show some real cases: how it is possible to spot financial fraudsters in the card transactions data you don’t even understand,
         or how to detect that bank user is drunk after PyVO. That’s where machine learning comes to play and we will show you why Python is a great choice.
-    urls: []
+    urls:
+        - https://github.com/pyvec/talks-archive/raw/master/brno-2017-04-27-milan-capoun-anton-salykin-machine-learning-and-python-catch-crimes.zip
     coverage: []
 urls:
   - https://www.facebook.com/events/101260020443437/
