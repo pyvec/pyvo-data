@@ -27,6 +27,9 @@ talks:
 - title: Statické webové stránky ve Flasku na GitHub Pages
   speakers:
   - Miro Hrončok
+  urls: []
+  coverage:
+  - link: https://github.com/hroncok/elsa_prague_pyvo
 
 #- title: now JS  # psal na Slacku, ze to asi nestiha
 #  speakers:
