@@ -36,7 +36,8 @@ talks:
   speakers:
   - Petr Messner
   urls: []
-  coverage: []
+  coverage:
+  - slides: https://github.com/messa/talks/tree/master/2017-05-17_Pyvo-Serverless_now
 
 - title: AWS Lambda
   speakers:
