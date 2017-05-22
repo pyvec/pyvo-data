@@ -12,13 +12,19 @@ description: |
 
     To ešte nevieme, záleží na Vás!
 
-    Ak by ste chceli porozprávať o svojom projekte, zaujímavej znižnici, ktorú ste našli a chcete sa o ňu podeliť so svetom,
+    Ak by ste chceli porozprávať o svojom projekte, zaujímavej knižnici, ktorú ste našli a chcete sa o ňu podeliť so svetom,
     či si chcete vyskúšať prednášku na veľkú konferenciu v kľudnejšej atmosfére s menším publikom, ozvite sa!
 
     Ak si netrúfate na plnú prednášku, lightning talk do piatich minút to istí!
 
     Podrobnosti v nasledujúcich dňoch. Stay tuned.
 
-talks: []
+talks:
+  - title: Jak funguje Git
+    speakers:
+        - Petr Viktorin
+    description: ""
+    urls: []
+    coverage: []
 urls:
   - https://www.facebook.com/events/465296683813452/
