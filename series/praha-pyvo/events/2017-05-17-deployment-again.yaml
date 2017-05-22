@@ -35,7 +35,8 @@ talks:
 - title: now Docker + Python
   speakers:
   - Petr Messner
-  urls: []
+  urls:
+  - https://github.com/messa/talks/tree/master/2017-05-17_Pyvo-Serverless_now
   coverage: []
 
 - title: AWS Lambda
