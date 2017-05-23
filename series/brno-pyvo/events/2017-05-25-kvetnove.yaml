@@ -28,5 +28,23 @@ talks:
     description: ""
     urls: []
     coverage: []
+  - title: Experiences teaching Python
+    speakers:
+        - Tomáš Mikulec
+    description: |
+        I will talk about experiences teaching Python on IT high schools and in big company what are common issues and what does not work.
+        You probably know someone that could use Python for many of his/her tasks not only in work, if they have time for it, teach them and make their life better.
+    urls: []
+    coverage: []
+  - title: Python in Unreal Engine 4
+    speakers:
+        - Tomáš Mikulec
+    description: |
+        Ever wanted to make a game or even some visualizations using Unreal Engine 4 and blueprints system seems limited/confusing and C++ even more?
+        Then use Python plugin! I will show how it’s easy to get started and make something cool.
+    urls: []
+    coverage:
+        - unreal plugin: https://github.com/20tab/UnrealEnginePython
+
 urls:
   - https://www.facebook.com/events/465296683813452/
