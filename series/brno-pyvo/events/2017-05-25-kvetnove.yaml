@@ -42,9 +42,9 @@ talks:
     description: |
         Ever wanted to make a game or even some visualizations using Unreal Engine 4 and blueprints system seems limited/confusing and C++ even more?
         Then use Python plugin! I will show how it’s easy to get started and make something cool.
-    urls: []
-    coverage:
-        - unreal plugin: https://github.com/20tab/UnrealEnginePython
+    urls:
+        - https://github.com/20tab/UnrealEnginePython
+    coverage: []
 
 urls:
   - https://www.facebook.com/events/465296683813452/
