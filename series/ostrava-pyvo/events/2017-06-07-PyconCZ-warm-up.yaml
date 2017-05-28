@@ -1,0 +1,33 @@
+city: ostrava
+start: 2017-06-07 19:00:00
+name: Ostravské Pyvo
+topic: Pycon warm-up
+description: |
+    Ahoj!
+
+    Protože nám kalendář přeje a první středa v měsíci červnu vychází
+    na den před záčátkem třetího českého Pyconu, uděláme následující
+    Pyvo jako warm-up párty s přednáškami, na které se na Pyconu nedostane.
+
+    Těšit se můžete na zajímavá témata, warm-up party a také na společnou
+    cestu na Pycon.
+
+    Kdo se k nám bude chtít přidat a vyrazit do Prahy v noci po Pyvu, napište
+    mi do neděle 4. června email na frenzy.madness@gmail.com a já nám obstarám
+    společnou jízdenku.
+
+    Těšíme se na Vás!
+venue: vr-levsky
+talks:
+- title: Když jdou Python s Céčkem na rande
+  speakers:
+  - Lumír Balhar
+  urls: []
+  coverage: []
+- title: Falešné předpoklady pro práci s řetězci
+  speakers:
+  - Glutexo
+  urls: []
+  coverage: []
+urls:
+- http://srazy.info/pyvo-v-ostrave/7365
