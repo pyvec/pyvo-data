@@ -1,0 +1,34 @@
+city: praha
+start: 2017-06-21 19:00:00
+name: Pražské PyVo
+number: 75
+topic: FuckUp Pyvo / PyCon debriefing
+description: |
+
+    Milé pyvařky a pyvaři,
+
+    stejně jako každou 3. středu v měsíci, i nyní se koná Python sraz v Praze.
+
+    Tentokrát budeme odpočívat po proběhlém PyConu a povíme si nějaké zákulisní příběhy.
+
+venue: na-venecku
+talks:
+
+- title: ??
+  speakers:
+  - Bára Drbohlavová
+  urls: []
+  coverage: []
+
+- title: ??
+  speakers:
+  - Zuzana Válková
+  urls: []
+  coverage: []
+
+- title: ??
+  description: |
+    I ty můžeš přednášet! :)
+    viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers)
+
+urls: []
