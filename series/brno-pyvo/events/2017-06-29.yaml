@@ -1,15 +1,32 @@
 city: brno
 start: 2017-06-29
 name: Brněnské Pyvo
-topic: Červnové
+topic: Barevné
 venue: artbar
 description: |
 
-    Chcete-li popovídat o svém projektu, zajímavé knihovně, kterou jste našli
-    a chcete se o ni podělit se světem,
-    nebo si chcete podělit o zážitky z PyConu, ozvěte se!
+    Červnové Pyvo na téma **Python a barvy**
 
-    Jestli si netroufáte na plnou prednášku, lightning talk do pěti minut to jistí!
+    Mícháš barvy v CSS? Obarvuješ si terminál? Rozsvěcíš světýlka?
+    Analyzuješ spektra? Hledáš barvení grafů?
+    Přijď se podělit o znalosti a zkušenosti.
+
+    Uvítáme přednášky všech délek (1-30 min) a úrovní (od úvodu pro začátečníky po
+    technické diskuze). Inspirace tématem je vítaná, ale ne nutná :)
+    Máš-li co říct, přihlaš si prosím přednášku na encukou@gmail.com.
+
+    ---
+
+    June's Pyvo about **Python and colors**
+
+    Do you mix color values in CSS? Color your terminal? Blink LEDs?
+    Analyze star spectra? Determine graph colorings?
+    Come share your experiences!
+
+    We're looking for talks of all lengths (1-30min) and levels (from introductions
+    for beginners to technical discussions).
+    Taking inspiration from the topic is nice, but not required.
+    If you'd like to speak, please send a mail to encukou@gmail.com!
 
 talks: []
 urls: []
