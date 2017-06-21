@@ -20,7 +20,7 @@ organizer-info:
     mail: m.kopecna@centrum.cz
 recurrence:
   scheme: weekly
-  rrule:
+  rrule: RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH;BYHOUR=19;BYMINUTE=0;BYSECOND=0
   description:
     cs: NePyvo bývá každý čtvrtek (když není Brněnské Pyvo).
     en: Pyvo is held every Thursday (when there isn't Pyvo Brno).
