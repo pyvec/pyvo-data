@@ -15,9 +15,6 @@ organizer-info:
   - name: Lumír Balhar
     phone: 732689768
     mail: frenzy.madness@gmail.com
-  - name: Ladislav Krčmárik
-    phone: 604112390
-    mail: krcmarik@avocado.cz
 recurrence:
   scheme: monthly
   rrule: RRULE:FREQ=MONTHLY;INTERVAL=1;BYDAY=1WE;BYHOUR=19;BYMINUTE=0;BYSECOND=0
