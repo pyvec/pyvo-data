@@ -28,5 +28,10 @@ description: |
     Taking inspiration from the topic is nice, but not required.
     If you'd like to speak, please send a mail to encukou@gmail.com!
 
-talks: []
+talks:
+- title: Color theory basics and Python syntax highlighting in VIM
+  speakers:
+  - Veronika Kabátová
+  urls: []
+  coverage: []
 urls: []
