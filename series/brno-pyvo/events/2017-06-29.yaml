@@ -34,4 +34,22 @@ talks:
   - Veronika Kabátová
   urls: []
   coverage: []
+- title: Barvy hasičských vozů
+  speakers:
+  - Lumír Balhar
+  urls: []
+  coverage: []
+  lightning: true
+- title: Vim
+  speakers:
+  - Martin Čurlej
+  urls: []
+  coverage: []
+  lightning: true
+- title: Vybírání barev v Jupyteru
+  speakers:
+  - Petr Viktorin
+  urls: []
+  coverage: []
+  lightning: true
 urls: []
