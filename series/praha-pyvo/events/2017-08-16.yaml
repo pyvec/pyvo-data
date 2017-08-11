@@ -1,0 +1,16 @@
+city: praha
+start: 2017-08-16 19:00:00
+name: Pražské PyVo
+number: 77
+description: |
+    PyVo tuhle středu urcitě bude, i kdyz jsou prázdniny.
+    Jako vždycky na Věnečku, Ostrovského 38a, Praha 5 od 19:00.
+
+venue: na-venecku
+talks:
+
+- title: Blockchain, Ethereum a smart kontrakty
+
+- title: Property based testing
+
+urls: []
