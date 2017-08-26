@@ -3,6 +3,19 @@ start: 2012-04-27
 name: Brněnské PyVo
 topic: Punkové
 venue: kaverna
+description: |
+  Na PyVo v dubnu. Téma: Python WTFs, hacks, tips & tricks. Přispějte každý
+  svým příběhem! Program tohoto PyVa je ryze punkový a živelný.
+
+  Ale s tvými geek slajdy, Jocho, počítám! ;-)
+
+  Srazy.info: http://pojd.me/1qm
+
+  Poznámka: Facebook je debil. Když uděláte event pro skupinu, nikdo jiný než
+  členové se na něj nepřihlásí, i když je to Open Group. Přitom to dřív šlo.
+  Takže na tento event se přihlásí jen členové Pyonýrů, což nebylo záměrem.
+  Přijďte prosímvás kdokoliv. Máte-li nutkání se přihlásit, udělejte to na
+  srazy.info.
 talks:
 - title: Trocha pythonové magie
   speakers:
@@ -13,3 +26,5 @@ talks:
   - video: http://www.youtube.com/watch?v=EF3dxcGn6to
 urls:
 - http://lanyrd.com/2012/pyvo-april/
+- https://www.facebook.com/events/256834891079598/
+- https://twitter.com/naPyVo/status/192622779647016961
