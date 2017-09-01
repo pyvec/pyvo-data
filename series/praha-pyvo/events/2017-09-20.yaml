@@ -1,0 +1,16 @@
+city: praha
+start: 2017-09-20 19:00:00
+name: Pražské PyVo dokumentační
+number: 78
+description: |
+    Jako vždycky na Věnečku, Ostrovského 38a, Praha 5 od 19:00.
+
+venue: na-venecku
+talks:
+
+- title: ??
+  description: |
+    I ty můžeš přednášet! :)
+    viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers)
+
+urls: []
