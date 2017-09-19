@@ -31,7 +31,8 @@ talks:
   speakers:
   - Glutexo
   urls: []
-  coverage: []
+  coverage:
+  - video: https://www.youtube.com/watch?v=B747VxvbnWo
 - title: Moje trnitá cesta k IT a technice
   speakers:
   - Táňa Marčišovská
