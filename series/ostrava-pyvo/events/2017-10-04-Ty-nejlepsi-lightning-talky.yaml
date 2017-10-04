@@ -3,6 +3,11 @@ start: 2017-10-04 19:00:00
 name: Ostravské Pyvo
 topic: Ty nejlepší lightning talky
 description: |
+    POZOR, ZMĚNA MÍSTA KONÁNÍ: v naší oblíbené hospůdce nezvládli rezervaci,
+    setkáme se proto v nedalekém baru 2to2.
+
+    ---
+
     Ahoj.
 
     Po prázdninách, které jsme si protáhli až do září a zakončili je
@@ -28,7 +33,7 @@ description: |
 
     Těšíme se na hojnou účast.
 
-venue: vr-levsky
+venue: 2to2
 talks: []
 urls:
 - https://www.meetup.com/Ostravske-Pyvo/events/243107342/
