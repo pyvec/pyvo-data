@@ -1,0 +1,34 @@
+city: praha
+start: 2017-10-18 19:00:00
+name: Pražské PyVo - Machine learning
+number: 79
+description: |
+    Jako vždycky na Věnečku, Ostrovského 38a, Praha 5 od 19:00.
+
+venue: na-venecku
+talks:
+
+- title: Tutorial machine learningu a Keras
+  speakers:
+  - Petr Baudiš
+
+- title: Tensorflow basic patterns - graph, session, constant, placeholder, variable
+  speakers:
+  - Jindřich Němec
+  description: |
+
+    - A simple prediction machine - variable, cost fn, gradient descent
+    - A bit of neuroscience history
+    - Perception, simple classification - or, and
+    - Simple neural net - xor proof
+
+    All with matplotlib classification heatmaps, explain gradient descent, activation function
+
+    Not covering: rnn/lstm, svn, convolution, backdrop,
+
+- title: ??
+  description: |
+    I ty můžeš přednášet! :)
+    viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers)
+
+urls: []
