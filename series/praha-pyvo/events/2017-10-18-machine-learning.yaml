@@ -8,9 +8,14 @@ description: |
 venue: na-venecku
 talks:
 
-- title: Tutorial machine learningu a Keras
+- title: Tutorial: Machine Learning a Keras
   speakers:
   - Petr Baudiš
+  description: |
+  
+    - Co je potřeba k tomu, aby se stroje dokázaly samy učit z příkladů?
+    - Co je to ve skutečnosti prostě neuronová síť a jak si udělat v populárním frameworku Keras tu úplně nejjednodušší?
+    - A dokážeme ji společně naučit něco praktického, třeba rozeznávat pozitivní filmové recenze od negativních?
 
 - title: Tensorflow basic patterns - graph, session, constant, placeholder, variable
   speakers:
