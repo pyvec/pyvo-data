@@ -26,6 +26,14 @@ talks:
 
     Not covering: rnn/lstm, svn, convolution, backdrop,
 
+- title: Pokusy na dětech
+  speakers:
+  - Martin Javorek
+  lightning: true
+  urls:
+  - https://twitter.com/programohrajeme
+  - https://www.programohrani.cz/
+
 - title: ??
   description: |
     I ty můžeš přednášet! :)
