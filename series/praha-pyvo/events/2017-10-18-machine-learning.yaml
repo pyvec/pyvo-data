@@ -17,19 +17,12 @@ talks:
     - Co je to ve skutečnosti prostě neuronová síť a jak si udělat v populárním frameworku Keras tu úplně nejjednodušší?
     - A dokážeme ji společně naučit něco praktického, třeba rozeznávat pozitivní filmové recenze od negativních?
 
-- title: Tensorflow basic patterns - graph, session, constant, placeholder, variable
+- title: "Tensorflow basic patterns"
   speakers:
   - Jindřich Němec
   description: |
 
-    - A simple prediction machine - variable, cost fn, gradient descent
-    - A bit of neuroscience history
-    - Perception, simple classification - or, and
-    - Simple neural net - xor proof
-
-    All with matplotlib classification heatmaps, explain gradient descent, activation function
-
-    Not covering: rnn/lstm, svn, convolution, backdrop,
+    Co je to Tensorflow, jak se tvoří Graf, klasifikace, Perceptron, funkce OR AND, NN a XOR
 
 - title: Pokusy na dětech
   speakers:
@@ -43,5 +36,6 @@ talks:
   description: |
     I ty můžeš přednášet! :)
     viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers)
+    Nebo přines [Lightning Talk - https://bit.ly/prpylight](https://bit.ly/prpylight)
 
 urls: []
