@@ -8,7 +8,7 @@ description: |
 venue: na-venecku
 talks:
 
-- title: Tutorial: Machine Learning a Keras
+- title: "Tutorial: Machine Learning a Keras"
   speakers:
   - Petr Baudiš
   description: |
