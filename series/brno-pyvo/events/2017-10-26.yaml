@@ -1,0 +1,22 @@
+city: brno
+start: 2017-10-26 19:00:00
+name: Brněnské Pyvo
+topic: Typovací
+venue: artbar
+description: |
+    Možná víte, že existují nástroje, které umožňují deklarovat a kontrolovat
+    jaké typy ve svém kódu používáte. Pojďme si je přiblížit!
+
+    O názory na statické typování – o výhodách i nevýhodách,
+    nástrojích a technikách – se můžete přijít podělit na říjnové Pyvo.
+
+talks:
+- title: Mypy - tool for Python static analysis
+  speakers:
+  - Jirka Suchan
+  description: |
+    Mypy is a new tool for code static analysis. It makes refactoring safer,
+    reveals bugs you dont even know you have. BDFL approved.
+  urls: []
+  coverage: []
+urls: []
