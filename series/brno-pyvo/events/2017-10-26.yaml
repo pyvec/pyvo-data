@@ -1,14 +1,14 @@
 city: brno
 start: 2017-10-26 19:00:00
 name: Brněnské Pyvo
-topic: Typovací
+topic: Říjnové
 venue: artbar
 description: |
-    Možná víte, že existují nástroje, které umožňují deklarovat a kontrolovat
-    jaké typy ve svém kódu používáte. Pojďme si je přiblížit!
 
-    O názory na statické typování – o výhodách i nevýhodách,
-    nástrojích a technikách – se můžete přijít podělit na říjnové Pyvo.
+    Říjnové Pyvo se bude již tradičně konat v klubovně Artbaru, začne Python-related talky a posléze bude pokračovat více či méně divokou socializací na pivem :)
+
+    Tentokrát se nám podařilo nalákat tři speakery.
+    Navíc máme naplánovaný také jeden lightning talk; k dalším se můžete odhodlat i v průběhu Pyva.
 
 talks:
 - title: Mypy - tool for Python static analysis
@@ -17,6 +17,28 @@ talks:
   description: |
     Mypy is a new tool for code static analysis. It makes refactoring safer,
     reveals bugs you dont even know you have. BDFL approved.
+  urls: []
+  coverage: []
+- title: Tuned
+  speakers:
+  - Marek Suchánek
+  description: |
+    Linux je univerzální operační systém, ale nedovede zatím předvídat, k čemu se ho snažíte použít. Abyste své distribuci vysvětlili, že zrovna chcete provozovat server, šetřit energií nebo hrát hry na desktopu, obraťte se na projekt Tuned.
+  urls: []
+  coverage: []
+- title: Organizace kódu
+  speakers:
+  - Roman Pavelka
+  description: |
+    Řeč bude o organizaci kódu v malých a středních projektech (přibliřně do dvaceti tisíc řádků kódu) se zaměřením na projekty převážně v Pythonu. Tématem bude jak rozdělit kód do procedur, tříd a modulů, jak vytvářet dokumentaci, jak pojmout testování a jak zamezit některým častým chybám. Zdrojem je autorova sedmiletá zkušenost s profesionálním vývojem v Pythonu, knihy Code Complete (McConnell, 2004) a Mythical Man-Month (Brooks, 1995) a článek Simple Testing Can Prevent Most Critical Failures (Yuan et al., 2014).
+  urls: []
+  coverage: []
+- title: BarterBot
+  lightning: true
+  speakers:
+  - Karel Válek
+  description: |
+    BarterBot je implementaci amaterskeho robota napsaneho v jazyce Python. Nejedna se o robota zprostredkovavajiciho platby a nakup, nybrz o modularniho robota schopneho pracovat s vice, nez jednim komunikacnim protokolem.
   urls: []
   coverage: []
 urls: []
