@@ -1,0 +1,32 @@
+city: ostrava
+start: 2017-11-01 19:00:00
+name: Ostravské Pyvo
+topic: Hraním k programování a programováním ke hrám
+description: |
+    Každý si občas zahraje nějakou hru. A každý, kdo umí alespoň trošku
+    programovat, někdy zatoužil napsat si hru vlastní. Jak spolu souvisí
+    světy programátorů a hráčů? Jak se pomocí hraní her nenásilnou formou
+    naučit základní i pokročilé techniky programování a jak si pomocí
+    programování splnit sen a napsat si hru vlastní? Na tyto i další otázky
+    si společně odpovíme na následujícím Pyvu.
+
+    Ukážeme si:
+
+    • Velmi zábavnou a návykovou hru, ve které se naučíte základní prvky
+    programování, aniž byste o tom věděli
+    • Jak vytvořit cokoli vás napadne, aniž byste napsali byť jen jediný
+    řádek kódu
+    • Jak je na tom Python s připraveností na psaní her. Ano, i na to mámě
+    knihovny
+    • Jak by mohla vypadat vaše první 3D hra
+
+    Těšíme se na vás v obvyklém čase na obvyklém místě.
+
+    P.S.: Pro velký zájem bude před Pyvem workshop o verzovacím sytému Git.
+    Startujeme v 16:30 také ve vinárně restaurace V.R. Levský a po skončení
+    volně navážeme na Pyvo.
+
+venue: vr-levsky
+talks: []
+urls:
+- https://www.meetup.com/Ostravske-Pyvo/events/243488212/
