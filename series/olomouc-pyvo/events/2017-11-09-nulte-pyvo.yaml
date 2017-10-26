@@ -23,5 +23,23 @@ description: |
     Těšíme se na Vás!
 
 venue: pivnice-doga
-talks: []
+talks:
+  - title: O čem je Pyvo a co vlastně dělá Python komunita v ČR 
+    speakers:
+        - Lumír Balhar
+    description: ""
+    urls: []
+    coverage: []
+  - title: Open source software a kolaborativní přístup k vývoji
+    speakers:
+        - Filip Valder
+    description: ""
+    urls: []
+    coverage: []
+  - title: Úvod do Pythonu
+    speakers:
+        - Martin Čurlej
+    description: ""
+    urls: []
+    coverage: []
 urls: []
