@@ -1,0 +1,18 @@
+city: praha
+start: 2017-11-15 19:00:00
+name: Pražské PyVo - Back to Python
+number: 80
+description: |
+    Jako vždycky na Věnečku, Ostrovského 38a, Praha 5 od 19:00.
+
+venue: na-venecku
+talks:
+
+
+- title: ??
+  description: |
+    I ty můžeš přednášet! :)
+    viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers)
+    Nebo přines [Lightning Talk - https://bit.ly/prpylight](https://bit.ly/prpylight)
+
+urls: []
