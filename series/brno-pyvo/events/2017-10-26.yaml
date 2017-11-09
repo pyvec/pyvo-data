@@ -18,21 +18,24 @@ talks:
     Mypy is a new tool for code static analysis. It makes refactoring safer,
     reveals bugs you dont even know you have. BDFL approved.
   urls: []
-  coverage: []
+  coverage:
+  - video: https://www.youtube.com/watch?v=eFcuP_NHH98
 - title: Tuned
   speakers:
   - Marek Suchánek
   description: |
     Linux je univerzální operační systém, ale nedovede zatím předvídat, k čemu se ho snažíte použít. Abyste své distribuci vysvětlili, že zrovna chcete provozovat server, šetřit energií nebo hrát hry na desktopu, obraťte se na projekt Tuned.
   urls: []
-  coverage: []
+  coverage:
+  - video: https://www.youtube.com/watch?v=sMaqKNGUpQ0
 - title: Organizace kódu
   speakers:
   - Roman Pavelka
   description: |
     Řeč bude o organizaci kódu v malých a středních projektech (přibliřně do dvaceti tisíc řádků kódu) se zaměřením na projekty převážně v Pythonu. Tématem bude jak rozdělit kód do procedur, tříd a modulů, jak vytvářet dokumentaci, jak pojmout testování a jak zamezit některým častým chybám. Zdrojem je autorova sedmiletá zkušenost s profesionálním vývojem v Pythonu, knihy Code Complete (McConnell, 2004) a Mythical Man-Month (Brooks, 1995) a článek Simple Testing Can Prevent Most Critical Failures (Yuan et al., 2014).
   urls: []
-  coverage: []
+  coverage:
+  - video: https://www.youtube.com/watch?v=uJZdJCN7AJo
 - title: BarterBot
   lightning: true
   speakers:
