@@ -8,6 +8,13 @@ description: |
 venue: na-venecku
 talks:
 
+- title: "Bytecode Manipulations"
+  speakers:
+    - Aleksey Rembish
+  description: |
+    How to manipulate with bytecode in Python and do evil things.
+  urls:
+    - https://twitter.com/rembish/status/930118931922276353
 
 - title: ??
   description: |
