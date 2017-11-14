@@ -16,6 +16,10 @@ talks:
   urls:
     - https://twitter.com/rembish/status/930118931922276353
 
+- title: Python 3.6 and beyond
+  speakers:
+    - Petr Viktorin
+
 - title: ??
   description: |
     I ty můžeš přednášet! :)
