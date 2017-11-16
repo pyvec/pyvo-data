@@ -13,8 +13,9 @@ talks:
     - Aleksey Rembish
   description: |
     How to manipulate with bytecode in Python and do evil things.
+    Let's write goto and labels in pure Python.
   urls:
-    - https://twitter.com/rembish/status/930118931922276353
+    - http://slides.com/rembish/bytecode
 
 - title: Python 3.6 and beyond
   speakers:
