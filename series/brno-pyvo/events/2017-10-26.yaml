@@ -43,5 +43,20 @@ talks:
   description: |
     BarterBot je implementaci amaterskeho robota napsaneho v jazyce Python. Nejedna se o robota zprostredkovavajiciho platby a nakup, nybrz o modularniho robota schopneho pracovat s vice, nez jednim komunikacnim protokolem.
   urls: []
-  coverage: []
+  coverage:
+  - video: https://www.youtube.com/watch?v=bx6797OaT0E
+- title: Announcements
+  lightning: true
+  speakers:
+      - Petr Viktorin
+  urls: []
+  coverage:
+  - video: https://www.youtube.com/watch?v=bx6797OaT0E
+- title: OCDer
+  lightning: true
+  speakers:
+  - Jirka Suchan
+  urls: []
+  coverage:
+  - video: https://www.youtube.com/watch?v=bx6797OaT0E
 urls: []
