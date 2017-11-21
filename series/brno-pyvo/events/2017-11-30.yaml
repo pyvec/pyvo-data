@@ -11,7 +11,12 @@ talks:
 - title: Python v Blenderu
   speakers:
     - Marcel Plch
-  description: ""
+  description: |
+      Blender je skvělý 3D modelovací program, ale ne každý si v něm kvůli složitosti
+      jeho ovládání troufne něco dělat ručně. Ovšem Blender nabízí velmi bohaté API
+      vhodné pro zcela jakýkoliv úkon. Pokud ti nejsou moc blízké složité klávesové
+      zkratky, ale přece bys se rád s tímto programem seznámil, tento talk ti pomůže
+      pomocí Pythonu.
   urls: []
   coverage: []
 
