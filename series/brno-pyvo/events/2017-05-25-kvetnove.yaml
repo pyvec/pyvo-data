@@ -22,18 +22,18 @@ description: |
     Jeden z návštevníkov/prednášajúcich z miesta odíde s lístkom na PyCon CZ v Prahe!
 
 talks:
-  - title: Jak funguje Git
-    speakers:
-        - Petr Viktorin
-    description: ""
-    urls: []
-    coverage: []
   - title: Experiences teaching Python
     speakers:
         - Tomáš Mikulec
     description: |
         I will talk about experiences teaching Python on IT high schools and in big company what are common issues and what does not work.
         You probably know someone that could use Python for many of his/her tasks not only in work, if they have time for it, teach them and make their life better.
+    urls: []
+    coverage: []
+  - title: Jak funguje Git
+    speakers:
+        - Petr Viktorin
+    description: ""
     urls: []
     coverage: []
   - title: Python in Unreal Engine 4
@@ -44,6 +44,27 @@ talks:
         Then use Python plugin! I will show how it’s easy to get started and make something cool.
     urls:
         - https://github.com/20tab/UnrealEnginePython
+    coverage: []
+  - title: Jak vypadala moje diplomka
+    speakers:
+        - Luděk Reif
+    lightning: true
+    description: ""
+    urls: []
+    coverage: []
+  - title: NePyvo
+    speakers:
+        - Markéta Nováčková
+    lightning: true
+    description: ""
+    urls: []
+    coverage: []
+  - title: Jídelníček
+    speakers:
+        - Luděk Reif
+    lightning: true
+    description: ""
+    urls: []
     coverage: []
 
 urls:
