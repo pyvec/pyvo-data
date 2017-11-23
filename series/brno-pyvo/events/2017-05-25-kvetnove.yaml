@@ -29,13 +29,15 @@ talks:
         I will talk about experiences teaching Python on IT high schools and in big company what are common issues and what does not work.
         You probably know someone that could use Python for many of his/her tasks not only in work, if they have time for it, teach them and make their life better.
     urls: []
-    coverage: []
+    coverage:
+    - video: https://www.youtube.com/watch?v=fZ7PQRBdRtM
   - title: Jak funguje Git
     speakers:
         - Petr Viktorin
     description: ""
     urls: []
-    coverage: []
+    coverage:
+    - video: https://www.youtube.com/watch?v=wjjeUGzZtUg
   - title: Python in Unreal Engine 4
     speakers:
         - Tomáš Mikulec
@@ -51,21 +53,24 @@ talks:
     lightning: true
     description: ""
     urls: []
-    coverage: []
+    coverage:
+    - video: https://www.youtube.com/watch?v=lX3lhOdsGqU
   - title: NePyvo
     speakers:
         - Markéta Nováčková
     lightning: true
     description: ""
     urls: []
-    coverage: []
+    coverage:
+    - video: https://www.youtube.com/watch?v=G9mjVd9b_I0
   - title: Jídelníček
     speakers:
         - Luděk Reif
     lightning: true
     description: ""
     urls: []
-    coverage: []
+    coverage:
+    - video: https://www.youtube.com/watch?v=eKD4fwo4rCQ
 
 urls:
   - https://www.facebook.com/events/465296683813452/
