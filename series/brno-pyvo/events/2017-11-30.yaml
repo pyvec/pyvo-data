@@ -19,5 +19,19 @@ talks:
       pomocí Pythonu.
   urls: []
   coverage: []
+- title: automypy
+  speakers:
+    - Martin
+  lightning: true
+  description: ""
+  urls: []
+  coverage: []
+- title: OpenSCAD
+  speakers:
+    - Miro Hrončok
+  lightning: true
+  description: ""
+  urls: []
+  coverage: []
 
 urls: []
