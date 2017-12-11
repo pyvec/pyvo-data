@@ -22,7 +22,7 @@ talks:
   - title: NumPy
     speakers:
         - Miro Hrončok
-    description: ""
+    description: "Nemusíme používat Céčko přímo, abychom těžili z jeho výhod. NumPy je knoihovna pro n-rozměrné homogenní pole (většinou čísel). Uvnitř šlape Fortran a C, ale my používáme pouze Python."
     urls: []
     coverage: []
 urls: []
