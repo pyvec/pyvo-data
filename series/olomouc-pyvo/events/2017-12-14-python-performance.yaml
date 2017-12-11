@@ -1,0 +1,28 @@
+city: olomouc
+start: 2017-12-14 18:00:00
+name: Olomoucké Pyvo
+topic: Python performance
+description: |
+    Ahoj.
+
+    Předvánoční olomoucké Pyvo bude věnováno problematice výkonnosti
+    Pythonu a nástrojům a způsobům, jak překonat rychlostní omezení,
+    která s sebou vyšší programovací jazyky nutně přinášejí.
+
+    Těšíme se na Vás a přejeme krásný adventní čas!
+
+venue: local-lokal-industry-pub
+talks:
+  - title: Spolupráce Pythonu s C
+    speakers:
+        - Lumír Balhar
+    description: ""
+    urls: []
+    coverage: []
+  - title: NumPy
+    speakers:
+        - Miro Hrončok
+    description: ""
+    urls: []
+    coverage: []
+urls: []
