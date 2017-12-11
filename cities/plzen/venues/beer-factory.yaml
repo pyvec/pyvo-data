@@ -1,0 +1,14 @@
+city: Plzeň
+slug: beer-factory
+name: Beer Factory
+address: Dominikánská 13/8, Plzeň
+notes: |
+  Máme rezervovaný celý suterén restaurace (Pivní klub). Pokud nenajdete schody dolů, na baru vás rádi nasměrují.
+
+  Z vlakového nádraží 15 minut pěšky přes ulice Americká, Jungmannova, Bedřicha Smetany, Náměstí Republiky a Dominikánská. Možno též tramvají číslo 1 nebo 2 na zastávku Náměstí Republiky, pak 3 minuty pěšky.
+
+  Z autobusového nádraží 15 minut pěšky přes ulice Přemyslova, Solní a Dominikánská. Alternativně tramvají číslo 2 na zastávku Náměstí Republiky, pak 5 minut pěšky.
+
+location:
+  latitude: '49.7488378'
+  longitude: '13.3775567'

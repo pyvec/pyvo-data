@@ -1,0 +1,29 @@
+city: plzen
+start: 2018-01-10 18:00:00
+name: Plzeňské Pyvo
+number: 1
+topic: Běhová prostředí
+venue: beer-factory
+description: |
+  Zdravíme všechny západočeské příznivce Pythonu!
+
+  Pohled na mapu srazů Python komunity vypadá pro Čechy dost chmurně, ale dle našich informací vůbec neodpovídá realitě! Tak to pojďme napravit, setkat se na Plzeňském Pyvu a ukázat Moravákům, zač je toho loket. :)
+
+  Bude co pít, bude co jíst a hlavně – bude co poslouchat. Na první sraz připravíme dvě přednášky z oblasti běhových prostředí, jednu vyladíme pro začátečníky a druhou spíše pro pokročilé. Poté samozřejmě dáme prostor pro oblíbené Lightning talky a vše zakončíme volnou diskuzí a networkingem. **Start přednášek bude v 18:30.**
+
+  Doražte včas, ať si máte kam sednout. ;) Těšíme se na Vás!
+
+talks:
+  - title: Úvodní slovo
+    speakers:
+      - Filip Vaculík
+      - Tomáš Bedřich
+      - Jiří Bartoň
+  - title: 'Začátečníci: Virtualenv – co to je a jak to funguje?'
+    speakers:
+      - Tomáš Bedřich
+  - title: 'Pokročilí: Google App Engine pro běh Pythoních aplikací'
+    speakers:
+      - Filip Vaculík
+  - title: Lightning talks
+urls: []
