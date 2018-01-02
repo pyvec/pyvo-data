@@ -1,0 +1,30 @@
+city: olomouc
+start: 2018-01-11 18:00:00
+name: Olomoucké Pyvo
+topic: Continuous Integration
+description: |
+    Ahoj v novém roce!
+
+    První olomoucké Pyvo roku 2018 bude věnováno problematice Continuous
+    Integration (CI) a praktickým zkušenostem se stále komplexnějšími
+    procesy a nástroji, jejichž cílem je včas a při zajištění
+    provozuschopnosti kritických součástí doručit do koncového produktu
+    upravený kód, který je řádně otestovaný a auditovaný.
+
+    Těšíme se na Vás!
+
+venue: pivnice-doga
+talks:
+  - title: CI a Ansible
+    speakers:
+        - Martin Čurlej
+    description: ""
+    urls: []
+    coverage: []
+  - title: Jenkins a tox
+    speakers:
+        - Filip Valder
+    description: ""
+    urls: []
+    coverage: []
+urls: []
