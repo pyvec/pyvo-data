@@ -1,6 +1,10 @@
 city: Brno
 name: ArtBar Druhý Pád
 address: Štefánikova 836/1
+note: |
+    Sejděte dolů po schodech, vydejte se doleva poměrně dlouhou chodbou,
+    a po pravé straně najdete bar.
+    Pyvo hledejte v salonku za barem.
 location:
   latitude: '49.207792013786'
   longitude: '16.603871583939'
