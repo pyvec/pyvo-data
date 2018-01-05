@@ -1,0 +1,40 @@
+city: brno
+start: 2018-01-25
+name: Brněnské Pyvo
+topic: Učení
+venue: artbar
+description: |
+
+    Pojďme si popovídat o učení.
+    Ne o tom strojovém, které je teď tak populární, ale o tom obyčejném, lidském.
+
+    Jak a proč se učit programovat?
+    Ať už od začátků, nebo, když už to člověk umí, jak se vzdělávat dál?
+
+    Jak a proč učit někoho jiného?
+    Kdy je dobré začít?
+
+    Těšíme se na vás a na vaše příspěvky do diskuze.
+talks:
+  - title: Nauč (se) Python
+    speakers:
+        - Petr Viktorin
+    description: |
+        Na začátek trochu rozvedu, co vlastně znamená, „učit se programovat“.
+        Je rozdíl mezi tím, co se učí na informatice na vysoké škole,
+        a tím co se dělá na Django workshopech.
+        Který přístup je (pro koho) lepší?
+
+        Sám mám zkušenost se začátečnickým kurzem pro PyLadies i
+        s vysokoškolským „pokročilým Pythonem“.
+        Oba kurzy mají otevřené materiály,
+        které si může kdokoli projít i z domu.
+
+        Popovídám o tom, jak takové otevřené kurzy fungují,
+        jak se připravených materiálů učit, jak do nich přispět,
+        nebo jak založit vlastní komunitní kurz či workshop.
+
+    urls: []
+    coverage: []
+
+urls: []
