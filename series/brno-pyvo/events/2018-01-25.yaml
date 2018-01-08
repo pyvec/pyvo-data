@@ -37,4 +37,28 @@ talks:
     urls: []
     coverage: []
 
-urls: []
+  - title: Umíme programovat, Základy programování na FI a další
+    speakers:
+        - Radek Pelánek
+    description: |
+        Představení projektu [Umíme programovat],
+        předmětu [Základy programování na FI MUNI],
+        knížek [Programátorská cvičebnice] a [Želví grafika]
+        a dalších programátorsky-výukových aktivit, které spolu všechny tak trochu souvisí.
+
+        [Umíme programovat]: https://www.umimeprogramovat.cz
+        [Základy programování na FI MUNI]: https://www.fi.muni.cz/IB111/
+        [Programátorská cvičebnice]: http://www.albatrosmedia.cz/tituly/12849015/programatorska-cvicebnice/
+        [Želví grafika]: http://www.albatrosmedia.cz/tituly/40005210/zelvi-grafika/
+
+  - title: Python víkendy
+    speakers:
+       - Michal Cáb
+    description: |
+        Michal představí [Python víkendy s kiwi.com](https://pythonvikend.kiwi.com/).
+    urls: []
+    coverage: []
+
+urls:
+    - https://www.facebook.com/events/2062620437352488/
+    - https://www.meetup.com/Brno-Python-Meetup/events/246604035/
