@@ -9,7 +9,7 @@ description: |
     Integration (CI) a praktickým zkušenostem se stále komplexnějšími
     procesy a nástroji, jejichž cílem je včas a při zajištění
     provozuschopnosti kritických součástí doručit do koncového produktu
-    upravený kód, který je řádně otestovaný a auditovaný.
+    řádně otestované a auditované úpravy kódu.
 
     Těšíme se na Vás!
 
@@ -18,13 +18,17 @@ talks:
   - title: CI a Ansible
     speakers:
         - Martin Čurlej
-    description: ""
+    description: "Co je to vlastně CI a Ansible. Jak efektivně využít
+        Ansible jako nástroj CI."
+
     urls: []
     coverage: []
   - title: Jenkins a tox
     speakers:
         - Filip Valder
-    description: ""
+    description: "Jenkins CI a tox: Od úpravy v kódu až po release nové
+        verze vašeho balíčku."
+
     urls: []
     coverage: []
 urls: []
