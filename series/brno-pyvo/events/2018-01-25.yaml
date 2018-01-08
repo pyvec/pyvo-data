@@ -37,4 +37,12 @@ talks:
     urls: []
     coverage: []
 
+  - title: Python víkendy
+    speakers:
+       - Michal Cáb
+    description: |
+        Michal představí [Python víkendy s kiwi.com](https://pythonvikend.kiwi.com/).
+    urls: []
+    coverage: []
+
 urls: []
