@@ -1,0 +1,17 @@
+city: praha
+start: 2018-01-17 19:00:00
+name: Pražské Pyvo
+number: 82
+topic: TBD
+description: |
+    TBD
+talks:
+- title: "?"
+  description: ""
+- title: "Lightning talky"
+  description: |
+    Dojde i na lightning talky. Můžeš jeden mít i ty,
+    viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+    Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
+venue: na-venecku
+urls: []
