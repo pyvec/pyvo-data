@@ -1,0 +1,17 @@
+city: olomouc
+start: 2018-02-08 18:00:00
+name: Olomoucké Pyvo
+topic: Testování #1
+description: |
+    Ahoj!
+
+    Na únorovém Pyvu si povíme něco o testování. Bude se jednat o
+    první kolo z cyklu přednášek věnovaných testování a tudíž
+    začneme u samotných základů a ukázek toho, jak si můžete snadno
+    a rychle v Pythonu napsat svůj vůbec první test.
+
+    Těšíme se na vaši účast!
+
+venue: pivnice-doga
+talks: []
+urls: []
