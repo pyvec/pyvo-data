@@ -1,0 +1,12 @@
+name: Liberecké Pyvo
+city: liberec
+description:
+  cs: |
+    Příležitostná setkání nejen pro programátory v Pythonu.
+  en: |
+    Occasional meetings not only for Python programmers.
+organizer-info:
+  - name: Ondřej Caletka
+    mail: ondrej@caletka.cz
+  - name: Petr Krčmář
+    mail: petr.krcmar@iinfo.cz

@@ -1,0 +1,21 @@
+city: liberec
+start: 2018-02-14 18:00:00
+name: Liberecké Pyvo
+number: 1
+topic: Python komunita
+venue: depo
+description: |
+  Pyvo zavítalo i do Liberce! Po Brně, Praze, Ostravě, Olomouci a Plzni je to konečně i setkání programátorů v regionu pod Ještědem.
+
+  Abychom věděli, s kolika lidmi můžeme počítat, prosím **[nahlaste svou účast](https://doodle.com/poll/66kmp5iawc9iqf39)**. Díky!
+
+talks:
+  - title: Úvodní slovo
+    speakers:
+      - Ondřej Caletka
+  - title: TBD
+  - title: TBD
+  - title: Lightning talks
+    description: |
+            Krátké přednášky na libovolné téma. Jediným omezením je časový limit pět minut (včetně prostoru pro dotazy). Registrujte svůj *lightning talk* na [lipyvo.jdem.cz](http://lipyvo.jdem.cz/).
+urls: []

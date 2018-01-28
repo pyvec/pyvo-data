@@ -1,0 +1,16 @@
+city: Liberec
+slug: depo
+name: Restaurace Depo
+address: Jablonecká 562, Liberec
+notes: |
+  Máme rezervovaný salonek pro 40 lidí. Na [webových stránkách restaurace](http://www.restauracedepo.cz/) je k dispozici jídelní i nápojový lístek. Pozor, restaurace **nepřijímá platební karty**, vezměte si tedy dostatečnou hotovost.
+
+  Z vlakového a autobusového nádraží je možné do restaurace [dojít za 22 minut](https://goo.gl/maps/HpwSBHbzcTF2), případně je možné jet [3 zastávky tramvají](https://jizdnirady.idnes.cz/liberec/spojeni/?f=N%C3%A1dra%C5%BE%C3%AD&t=%C5%A0aldovo+n%C3%A1m%C4%9Bst%C3%AD&fc=337003&tc=337003&submit=true) linky 2 nebo 3 do zastávky *Šaldovo náměstí* a dále asi [5 minut pěšky](https://goo.gl/maps/r3Sw38CGynC2). Ve všech tramvajích je možné zakoupit jízdenku v hodnotě 20 Kč [pomocí bezkontaktní platební karty.](http://www.dpmlj.cz/tarif/bezkontaktni-platebni-karta)
+
+  Při cestě autobusem Regiojet z Prahy vystupte v první zastávce *Liberec, Fügnerova-Blažkova*, a dále pokračujte [asi 12 minut pěšky](https://goo.gl/maps/GuMXJ4uW4Vs).
+
+  Parkování je možné například v [obchodním centru Plaza](https://goo.gl/maps/cd7sNNRDeLr). První hodina je zdarma, další za 40 Kč.
+
+location:
+  latitude: '50.768517'
+  longitude: '15.064391'
