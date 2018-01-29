@@ -78,7 +78,8 @@ talks:
     lightning: true
     description: ""
     urls: []
-    coverage: []
+    coverage:
+    - video: https://www.youtube.com/watch?v=zDExJKYHLOc
 
 urls:
     - https://www.facebook.com/events/2062620437352488/
