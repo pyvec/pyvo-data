@@ -35,7 +35,8 @@ talks:
         nebo jak založit vlastní komunitní kurz či workshop.
 
     urls: []
-    coverage: []
+    coverage:
+    - video: https://www.youtube.com/watch?v=oZ1ChUrjiCY
 
   - title: Umíme programovat, Základy programování na FI a další
     speakers:
@@ -51,19 +52,34 @@ talks:
         [Programátorská cvičebnice]: http://www.albatrosmedia.cz/tituly/12849015/programatorska-cvicebnice/
         [Želví grafika]: http://www.albatrosmedia.cz/tituly/40005210/zelvi-grafika/
 
+    urls: []
+    coverage:
+    - video: https://www.youtube.com/watch?v=IY8udbQHNRg
+
   - title: Python víkendy
     speakers:
        - Michal Cáb
     description: |
         Michal představí [Python víkendy s kiwi.com](https://pythonvikend.kiwi.com/).
     urls: []
-    coverage: []
+    coverage:
+    - video: https://www.youtube.com/watch?v=41xf99oSsB4
 
   - title: Python v Engeto Academy
     speakers: []
     description: ""
     urls: []
-    coverage: []
+    coverage:
+    - video: https://www.youtube.com/watch?v=m2fJ27FnBtk
+
+  - title: Tutorials Point
+    speakers:
+        - Marcel Plch
+    lightning: true
+    description: ""
+    urls: []
+    coverage:
+    - video: https://www.youtube.com/watch?v=zDExJKYHLOc
 
 urls:
     - https://www.facebook.com/events/2062620437352488/
