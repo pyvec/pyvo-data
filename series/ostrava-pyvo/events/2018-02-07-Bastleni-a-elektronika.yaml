@@ -1,0 +1,35 @@
+city: ostrava
+start: 2018-02-07 19:00:00
+name: Ostravské Pyvo
+topic: Bastlení a elektronika
+description: |
+    Ahoj.
+
+    I když je vývoj softwaru jistě zábavný a naplňující, každý z nás občas
+    zatouží nahlédnout i do světa hardwaru a zbastlit si nějakou šikovnou
+    pomůcku do běžného života. Kdo to ještě nězkusil, přišel o mnoho zábavy
+    a potěšení. Na Pyvu se proto společně podíváme na několik zajímavých
+    projektů, které budou více či méně poháněné Pythonem a povíme si něco
+    málo o MicroPythonu.
+
+    Těšíme se na hojnou účast.
+
+venue: vr-levsky
+talks:
+- title: Domácí zdroj snadno a rychle
+  speakers:
+  - Martin Stiborský
+  urls: []
+  coverage: []
+- title: Jak mě napadlo postavit si LED panel
+  speakers:
+  - Glutexo
+  urls: []
+  coverage: []
+- title: MicroPython a světýlka na každý den
+  speakers:
+  - Lumír Balhar
+  urls: []
+  coverage: []
+urls:
+- https://www.meetup.com/Ostravske-Pyvo/events/247352806/
