@@ -13,5 +13,20 @@ description: |
     Těšíme se na vaši účast!
 
 venue: pivnice-doga
-talks: []
+talks:
+  - title: Python testing 101
+    speakers:
+        - Martin Čurlej
+    description: "Co potřebujete znát, než se pustíte do testování v
+        jazyce Python."
+
+    urls: []
+    coverage: []
+  - title: Můj první test v Pythonu
+    speakers:
+        - Filip Valder
+    description: "Jak snadno napsat a spustit jednoduchý test v Pythonu."
+
+    urls: []
+    coverage: []
 urls: []
