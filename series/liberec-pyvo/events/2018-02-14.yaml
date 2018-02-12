@@ -2,7 +2,7 @@ city: liberec
 start: 2018-02-14 18:00:00
 name: Liberecké Pyvo
 number: 1
-topic: Python komunita
+topic: import this
 venue: depo
 description: |
   Pyvo zavítalo i do Liberce! Po Brně, Praze, Ostravě, Olomouci a Plzni je to konečně i setkání programátorů v regionu pod Ještědem.
@@ -11,11 +11,41 @@ description: |
 
 talks:
   - title: Úvodní slovo
+    lightning: true
     speakers:
       - Ondřej Caletka
-  - title: TBD
-  - title: TBD
+    description: |
+        Krátké povídání o tom, co je to Pyvo, od člověka, který pivo nepije,
+        hospody nevyhledává a přesto to nakonec organizuje.
+  - title: Python @click
+    speakers:
+      - Tomáš Bedřich
+    description: |
+      Skripty občas píše asi každý. Pokud se zuby nehty nedržíte
+      skriptování v shellu, ale připustíte i Python, mohu vám ukázat,
+      jak za 10 minut vytvořit nádherné *CUI* (command-line user interface)
+      s pomocí modulu `click`. Pokročilé parsování argumentů je jenom
+      začátek – je libo barvičky nebo progressbar?
+  - title: Jak postavit slovník z nul a jedniček
+    speakers:
+      - Petr Viktorin
+    #coverage:
+      #- slides: https://speakerdeck.com/encukou/jak-postavit-slovnik-z-jednicek-a-nul
+    description: |
+      Python je „vysokoúrovňový programovací jazyk“: programy v něm jsou
+      čitelné pro lidi, spíš než aby odpovídaly tomu, jak je provádí počítač. A tak
+      ačkoli se tak nějak ví, že v počítači jsou jenom samé nuly a jedničky, není úplně
+      jasné, kde se vzaly ostatní čísla – a navíc i řetězce, seznamy, slovníky a ostatní
+      objekty.
+
+      Pojďte se něco dozvědět o tom, jak funguje počítačová paměť, a jakým způsobem
+      jsou v ní uloženy základní objekty Pythonu.
+
+      Přednáška bude přístupná každému, kdo někdy v Pythonu použil slovník. Ale i pokročilí
+      Pythonisti se pravděpodobně dozví něco nového.
+
   - title: Lightning talks
+    lightning: true
     description: |
             Krátké přednášky na libovolné téma. Jediným omezením je časový limit pět minut (včetně prostoru pro dotazy). Registrujte svůj *lightning talk* na [lipyvo.jdem.cz](http://lipyvo.jdem.cz/).
 urls: []
