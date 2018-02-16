@@ -1,0 +1,50 @@
+city: brno
+start: 2018-02-22
+name: Brněnské Pyvo
+topic: Únorové
+venue: andini
+description: |
+
+    POZOR: Únorové pivo se mimořádně nekoná v Artbaru!
+
+    ---
+
+    Honza Dupal z firmy Exponea vám poví o tom, jak využívají vizuální programování v marketingu.
+
+    Frido Pokorný z Red Hatu pak pohovoří o distribuovaných výpočtech s pomocí knihovny Selinon.
+
+    A možná bude i soutěž o lístek na Pycon 2018 ;)
+
+    Těšíme se na vás a na vaše příspěvky do diskuze.
+talks:
+  - title: Vizuální programování v marketing automation
+    speakers:
+        - Honza Dupal
+    description: |
+        Jak Exponea ulehčuje pomocí vizuálního programování práci běžným
+        uživatelům? Na příkladu z marketingu si ukážeme návrh nástroje pro
+        vizuální programování – od definice problému přes návrh grafického
+        rozhraní a expresivitu jazyka až po implementaci a škálování v Pythonu.
+
+    urls: []
+    coverage: []
+
+  - title: Distribuované výpočty pomocou knižnice Selinon
+    speakers:
+        - Fridolín Pokorný
+    description: |
+        Vieš ako uskutočňovať distribuované výpočty v clusteroch?
+        Skúšal si niekedy spracovať dáta s jednoduchými ale aj komplexnými
+        závislosťami distribuovane pomocou Pythonu? Ak áno, možno poznáš
+        populárne knižnice ako napríklad Celery alebo Dramatiq.
+        V tejto prednáške si, okrem základov distribuovaných výpočtov, ukážeme
+        nevýhody týchto knižníci, ako aj možnosť rozšíriť Celery
+        pre zjednodušenie administratívy, údržby a diagnózu chýb v clusteroch
+        orchestrovaných pomocou OpenShift či Kubernetes schopných spracovať
+        „big data“.
+
+    urls: []
+    coverage: []
+
+urls:
+    - https://www.facebook.com/events/1625272054218381
