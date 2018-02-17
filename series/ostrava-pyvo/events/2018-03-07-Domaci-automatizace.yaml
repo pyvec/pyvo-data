@@ -1,0 +1,28 @@
+city: ostrava
+start: 2018-03-07 19:00:00
+name: Ostravské Pyvo
+topic: Domácí automatizace
+description: |
+    Ahoj!
+
+    Minule jsme se dost opřeli do hardwaru a ukázali jsme si, jak moc jdou
+    rozličné destičky ovládat s pomocí Pythonu. Když si k tomu představíte
+    množství různých senzorů a udělátek, máte ideální platformu na domácí
+    automatizaci. A přesně na tu se v březnu podíváme.
+
+    Těšíme se na vás!
+
+venue: vr-levsky
+talks:
+  - title: Bastlení domácí automatizace
+    speakers:
+    - Jan Gaura
+    urls: []
+    coverage: []
+  - title: Platforma pro domácí automatizaci (za 20 minut)
+    speakers:
+    - Lumír Balhar
+    urls: []
+    coverage: []
+urls:
+- https://www.meetup.com/Ostravske-Pyvo/events/247880096/
