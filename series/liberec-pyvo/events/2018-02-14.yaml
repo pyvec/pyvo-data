@@ -28,8 +28,7 @@ talks:
       jak za 10 minut vytvořit nádherné *CUI* (command-line user interface)
       s pomocí modulu `click`. Pokročilé parsování argumentů je jenom
       začátek – je libo barvičky nebo progressbar?
-    coverage:
-      - video: https://www.youtube.com/watch?v=kRY2UGhjRb0
+      [Přednáška z InstallFestu 2017](https://www.youtube.com/watch?v=kRY2UGhjRb0).
   - title: Jak postavit slovník z nul a jedniček
     speakers:
       - Petr Viktorin
