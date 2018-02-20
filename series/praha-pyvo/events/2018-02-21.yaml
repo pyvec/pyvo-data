@@ -1,0 +1,21 @@
+city: praha
+start: 2018-02-21 19:00:00
+name: Pražské Pyvo
+number: 83
+topic: Jen tak
+talks:
+- title: "Django REST Framework, Swagger"
+  description: "RESTová apíčka, Django a Swagger..."
+  speakers:
+  - "Jiří Puc"
+- title: "34c3"
+  description: "Report z konference 34th Chaos Communication Congress"
+  speakers:
+  - "Nora Kořánová"
+- title: "Lightning talky"
+  description: |
+    Dojde i na lightning talky. Můžeš jeden mít i ty,
+    viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+    Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
+venue: na-venecku
+urls: []
