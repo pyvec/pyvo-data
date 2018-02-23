@@ -3,3 +3,4 @@ ignored_files:
   - 'README'
   - 'README.md'
   - 'tests'
+  - 'test-requirements.txt'
