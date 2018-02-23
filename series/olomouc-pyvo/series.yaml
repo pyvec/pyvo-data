@@ -7,10 +7,10 @@ description:
     Olomouc Pyvo is traditionally held on the second Thursday of each month.
 organizer-info:
   - name: Martin Čurlej
-    phone: 739246296
+    phone: '739246296'
     mail: martin.curlej@gmail.com
   - name: Filip Valder
-    phone: 608123966
+    phone: '608123966'
     mail: filip.valder@gmail.com
 recurrence:
   scheme: monthly
