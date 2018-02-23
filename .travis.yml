@@ -8,6 +8,6 @@ install:
   - pip install pytest
 
 script:
-  - py.test -v .tests
+  - py.test -v tests
 
 sudo: false
