@@ -1,0 +1,22 @@
+city: olomouc
+start: 2018-03-15 18:00:00
+name: Olomoucké Pyvo
+topic: Python a web
+description: |
+    Ahoj!
+
+    Na březnovém Pyvu si na chvíli odpočineme od testování a podíváme
+    se do světa tvorby webových aplikací. Můžete se těšit na prezentaci
+    kolem frameworků jako Flask, Django...
+
+    Těšíme se na vaši účast!
+
+venue: pivnice-doga
+talks:
+  - title: Python a web
+    speakers:
+        - Martin Čurlej
+    description: "Krátký přehled webových frameworků v Pythonu."
+    urls: []
+    coverage: []
+urls: []
