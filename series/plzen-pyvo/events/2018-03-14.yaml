@@ -1,0 +1,36 @@
+city: plzen
+start: 2018-03-14 18:00:00
+name: Plzeňské Pyvo
+number: 2
+topic: Skládanka znalostí
+venue: beer-factory
+description: |
+  Zdravíme všechny!
+
+  Python není v západních Ćechách neznámý pojem, to bylo bez pochyb prokázáno účastí na minulém setkání.
+  Doufáme, že se od prvotního vzedmutí zájmu přeneseme k pravidelným setkáváním, druhou středu jednou za dva měsíce.
+  Domluvena je jedna přednáška a druhou zatím domlouváme.
+
+  Start přednášek bude mezi 18:30 - 19:00, a až nás z Beer Factory vyženou, půjdeme si najít další lokál, tak ať s vámi ve čtvrtek v práci moc nepočítají.
+
+  Pokud možno, [nahlaste svou účast](https://doodle.com/poll/pmyrfxyc55pnhstw). Díky! Kdyby hrozilo, že se nevejdeme do Beer Factory, tak zkusíme domluvit větší prostory.
+  Věříme, že pro vás bylo minulé setkání přínosné, nezapomenutelné, a že se opět uvidíme!
+
+talks:
+  - title: Úvodní slovo
+    speakers:
+      - Filip Vaculík
+      - (možná příjde i kouzelník) Tomáš Bedřich
+  - title: 'Dekorátory – zbavené tajemství'
+    speakers:
+      - Jan Šmejkal z (orgis.cz - https://www.orgis.cz)
+  - title: 'Ve fázi jednání je přednáška nástroji pro testování webových aplikací Robot Framework, případně přednáška o vhodných technikách při rozjíždění a vedení IT projektů.'
+    speakers:
+      - v jednání
+  - title: Lightning talks
+    [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers)
+    Nebo přines [Lightning Talk - https://bit.ly/prpylight](https://bit.ly/prpylight)
+    Pokud máte zkušenost se zajímavou technologii, projektem, nebo chcete prezentovat sebe, či svou firmu a její aktivity, nebojte se přihlásit k [Lightning Talku - https://bit.ly/prpylight](https://bit.ly/p
+rpylight).
+    Podrobnější info viz. [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers)
+urls: []
