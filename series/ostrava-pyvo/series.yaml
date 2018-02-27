@@ -13,7 +13,7 @@ organizer-info:
     web: https://groups.google.com/forum/#!forum/ostrava-pyvo
     mail: ostrava-pyvo@googlegroups.com
   - name: Lumír Balhar
-    phone: 732689768
+    phone: '732689768'
     mail: frenzy.madness@gmail.com
 recurrence:
   scheme: monthly

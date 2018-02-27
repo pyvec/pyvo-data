@@ -1,0 +1,4 @@
+pytest
+pyvodb
+jsonschema
+rfc3987

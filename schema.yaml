@@ -1,0 +1,236 @@
+$schema: http://json-schema.org/draft-04/schema#
+type: object
+additionalProperties: false
+properties:
+  cities:
+    type: object
+    additionalProperties: false
+    patternProperties:
+      '^[-a-z0-9]+$':
+        type: object
+        additionalProperties: false
+        properties:
+          city:
+            type: object
+            additionalProperties: false
+            properties:
+              name:
+                type: string
+              location:
+                $ref: '#/definitions/location'
+              _source:
+                type: string
+          venues:
+            type: object
+            additionalProperties: false
+            patternProperties:
+              '^[-a-z0-9]+$':
+                type: object
+                additionalProperties: false
+                properties:
+                  address:
+                    type: string
+                  city:
+                    type: string
+                  location:
+                    $ref: '#/definitions/location'
+                  name:
+                    type: string
+                  notes:
+                    type: string
+                    format: markdown
+                  _source:
+                    type: string
+                required:
+                  - city
+                  - location
+                  - name
+        required:
+          - city
+  series:
+    type: object
+    additionalProperties: false
+    patternProperties:
+      '^[-a-z0-9]+$':
+        type: object
+        additionalProperties: false
+        properties:
+          series:
+            type: object
+            additionalProperties: false
+            properties:
+              name:
+                type: string
+              city:
+                type: string
+              description:
+                $ref: '#/definitions/string-translations'
+              organizer-info:
+                type: array
+                items:
+                  type: object
+                  additionalProperties: false
+                  properties:
+                    name:
+                      type: string
+                    mail:
+                      type: string
+                      format: email
+                    phone:
+                      type: string
+                    web:
+                      $ref: '#/definitions/uri'
+                  required:
+                    - name
+              recurrence:
+                type: object
+                additionalProperties: false
+                properties:
+                  description:
+                    $ref: '#/definitions/string-translations'
+                  scheme:
+                    enum:
+                      - monthly
+                      - weekly
+                  rrule:
+                    type: string
+                    pattern: '^((R|EX)RULE:[-=A-Z0-9;]*(\n|$))*'
+                required:
+                  - description
+                  - scheme
+                  - rrule
+              _source:
+                type: string
+            required:
+              - name
+              - city
+          events:
+            type: object
+            additionalProperties: false
+            patternProperties:
+              '^[0-9]{4}-[0-9]{2}-[0-9]{2}(-[-_a-zA-Z0-9]*)?$':
+                type: object
+                additionalProperties: false
+                properties:
+                  name:
+                    type: string
+                  start:
+                    oneOf:
+                      - format: date-time
+                      - format: date
+                  city:
+                    type: string
+                    pattern: '^[-a-z0-9]+$'
+                  venue:
+                    type: string
+                    pattern: '^[-a-z0-9]+$'
+                  venue-notes:
+                    type: string
+                    format: markdown
+                  description:
+                    type: string
+                    format: markdown
+                  talks:
+                    type: array
+                    items:
+                      type: object
+                      additionalProperties: false
+                      properties:
+                        title:
+                          type: string
+                        description:
+                          type: string
+                          format: markdown
+                        speakers:
+                          type: array
+                          items:
+                            type: string
+                        urls:
+                          type: array
+                          items:
+                            type: string
+                            format: uri
+                        coverage:
+                          type: array
+                          items:
+                            type: object
+                            additionalProperties: false
+                            minProperties: 1
+                            maxProperties: 1
+                            properties:
+                              slides:
+                                $ref: '#/definitions/uri'
+                              link:
+                                $ref: '#/definitions/uri'
+                              video:
+                                $ref: '#/definitions/uri'
+                              writeup:
+                                $ref: '#/definitions/uri'
+                              notes:
+                                $ref: '#/definitions/uri'
+                        lightning:
+                          const: true
+                      required:
+                        - title
+                  topic:
+                    type: string
+                  urls:
+                    type: array
+                    items:
+                      type: string
+                      format: uri
+                  number:
+                    type: integer
+                  _source:
+                    type: string
+                required:
+                  - name
+                  - city
+                  - talks
+  meta:
+    type: object
+    additionalProperties: false
+    properties:
+      _source:
+        type: string
+      version:
+        type: integer
+      ignored_files:
+        type: array
+        items:
+          type: string
+  schema:
+    $ref: http://json-schema.org/draft-04/schema#
+required:
+  - cities
+  - series
+  - schema
+  - meta
+definitions:
+  nope:
+    not: {}
+  geo-coordinate:
+    type: string
+    pattern: '^-?[0-9]+\.[0-9]+$'
+  location:
+    type: object
+    additionalProperties: false
+    properties:
+      latitude:
+        $ref: '#/definitions/geo-coordinate'
+      longitude:
+        $ref: '#/definitions/geo-coordinate'
+  string-translations:
+    type: object
+    additionalProperties: false
+    properties:
+      cs:
+        type: string
+      en:
+        type: string
+    required:
+      - cs
+      - en
+  uri:
+    type: string
+    format: uri
