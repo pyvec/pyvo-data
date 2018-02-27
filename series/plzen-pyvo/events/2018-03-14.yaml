@@ -28,9 +28,12 @@ talks:
     speakers:
       - v jednání
   - title: Lightning talks
-    [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers)
-    Nebo přines [Lightning Talk - https://bit.ly/prpylight](https://bit.ly/prpylight)
-    Pokud máte zkušenost se zajímavou technologii, projektem, nebo chcete prezentovat sebe, či svou firmu a její aktivity, nebojte se přihlásit k [Lightning Talku - https://bit.ly/prpylight](https://bit.ly/p
-rpylight).
-    Podrobnější info viz. [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers)
+    description: |
+        [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers)
+        Nebo přines [Lightning Talk - https://bit.ly/prpylight](https://bit.ly/prpylight)
+        Pokud máte zkušenost se zajímavou technologii, projektem, nebo chcete
+        prezentovat sebe, či svou firmu a její aktivity, nebojte se přihlásit
+        k [Lightning Talku - https://bit.ly/prpylight](https://bit.ly/prpylight).
+        Podrobnější info viz. [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers)
+
 urls: []
