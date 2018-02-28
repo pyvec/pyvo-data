@@ -9,7 +9,7 @@ description: |
 
   Python není v západních Ćechách neznámý pojem, to bylo bez pochyb prokázáno účastí na minulém setkání.
   Doufáme, že se od prvotního vzedmutí zájmu přeneseme k pravidelným setkáváním, druhou středu jednou za dva měsíce.
-  Domluvena je jedna přednáška a druhou zatím domlouváme.
+  Domluvena je jedna přednáška. Druhou zatím domlouváme, nejspíš bude o testování webových aplikací Robot Framework, případně přednáška o vhodných technikách při rozjíždění a vedení IT projektů.
 
   Start přednášek bude mezi 18:30 - 19:00, a až nás z Beer Factory vyženou, půjdeme si najít další lokál, tak ať s vámi ve čtvrtek v práci moc nepočítají.
 
@@ -24,9 +24,6 @@ talks:
   - title: 'Dekorátory – zbavené tajemství'
     speakers:
       - Jan Šmejkal z (orgis.cz - https://www.orgis.cz)
-  - title: 'Ve fázi jednání je přednáška nástroji pro testování webových aplikací Robot Framework, případně přednáška o vhodných technikách při rozjíždění a vedení IT projektů.'
-    speakers:
-      - v jednání
   - title: Lightning talks
     description: |
         Pokud máte zkušenost se zajímavou technologii, projektem, nebo chcete
