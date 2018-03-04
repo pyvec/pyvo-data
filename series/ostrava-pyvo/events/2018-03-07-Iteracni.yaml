@@ -1,0 +1,30 @@
+city: ostrava
+start: 2018-03-07 19:00:00
+name: Ostravské Pyvo
+topic: Iterační
+description: |
+    POZOR, změna! Vzhledem ke změnám na poli přednášejících bude březnové
+    Pyvo na téma iterátorů v Pythonu. Domácí automatizace se pak dočkáte v
+    dubnu.
+
+    O iterátorech, tzv. iterables či sekvencích už slyšel alespoň jednou
+    každý, kdo se kolem Pythonu pohybuje. V březnu si proto ukážeme, co je
+    to ten iterátor, jak se liší od iterables a co z toho je naše dobře
+    známá funkce range. Nezůstane však jen u teorie, ale podíváme se i na
+    to, jak nám mohou iterátory pomoci při zpracování většího množství dat
+    na několika příkladech z reálného světa.
+
+venue: vr-levsky
+talks:
+- title: Co je to iterátor, iterables a co vlastně vrací range?
+  speakers:
+  - Lumír Balhar
+  urls: []
+  coverage: []
+- title: Jak jsem migroval bžilion dat v Pythonu
+  speakers:
+  - David Bajer
+  urls: []
+  coverage: []
+urls:
+- https://www.meetup.com/Ostravske-Pyvo/events/248394436/
