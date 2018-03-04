@@ -19,4 +19,10 @@ talks:
     description: "Krátký přehled webových frameworků v Pythonu."
     urls: []
     coverage: []
+  - title: Lehký úvod do Djanga
+    speakers:
+        - František Lachman
+    description: "Podíváme se na to, jak funguje framework Django a jak si pomocí něj vytvoříme jednoduše webovou stránku. K porozumění postačí úplné základy Pythonu." 
+    urls: []
+    coverage: []
 urls: []
