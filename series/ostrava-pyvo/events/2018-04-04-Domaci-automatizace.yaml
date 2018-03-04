@@ -16,7 +16,7 @@ description: |
     Těšíme se na vás!
 
 venue: vr-levsky
-talks: []
+talks:
 - title: Bastlení domácí automatizace
   speakers:
   - Jan Gaura

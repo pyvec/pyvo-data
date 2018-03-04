@@ -15,7 +15,7 @@ description: |
     na několika příkladech z reálného světa.
 
 venue: vr-levsky
-talks: []
+talks:
 - title: Co je to iterátor, iterables a co vlastně vrací range?
   speakers:
   - Lumír Balhar
