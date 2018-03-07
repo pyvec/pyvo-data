@@ -2,9 +2,9 @@ name: Plzeňské Pyvo
 city: plzen
 description:
   cs: |
-    Příležitostná setkání Západočeských Pythonistek/ů – Plzeňské Pyvo.
+    Pravidelná setkání, nejen, Západočeských Pythonistek/ů – Plzeňské Pyvo.
   en: |
-    Occasional meetings of West-Bohemian Pythonistas – Pilsen Pyvo.
+    Periodicall meetings, not only, of West-Bohemian Pythonistas – Pilsen Pyvo.
 organizer-info:
   - name: Filip Vaculík
     mail: filip.vaculik@jsi.cz
@@ -13,3 +13,7 @@ organizer-info:
     mail: ja@tbedrich.cz
   - name: Jiří Bartoň
     mail: whiskybar@gmail.com
+recurrence:
+  description:
+    cs: Pro Plzeňské Pyvo si rezervujte druhou středu každý lichý měsíc.
+    en: Pilzen Pyvo put into plan on the second Wednesday every odd month.
