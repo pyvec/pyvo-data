@@ -7,27 +7,52 @@ venue: beer-factory
 description: |
   Zdravíme všechny!
 
-  Python není v západních Ćechách neznámý pojem, to bylo bez pochyb prokázáno účastí na minulém setkání.
-  Doufáme, že se od prvotního vzedmutí zájmu přeneseme k pravidelným setkáváním, druhou středu jednou za dva měsíce.
-  Domluvena je jedna přednáška. Druhou zatím domlouváme, nejspíš bude o testování webových aplikací Robot Framework, případně přednáška o vhodných technikách při rozjíždění a vedení IT projektů.
+  Python není v západních Čechách neznámý pojem, což bylo bez pochyb prokázáno účastí na minulém setkání.
+  Doufáme, že se od prvotního vzedmutí zájmu přeneseme k pravidelným setkáváním, druhou středu každý lichý měsíc.
+  
+  Zahájení plánujeme na 18:hod a start přednášek mezi 18:30 - 19:00. Až nás z Beer Factory vyženou, půjdeme si najít další lokál, tak ať s vámi ve čtvrtek v práci moc nepočítají.
 
-  Start přednášek bude mezi 18:30 - 19:00, a až nás z Beer Factory vyženou, půjdeme si najít další lokál, tak ať s vámi ve čtvrtek v práci moc nepočítají.
-
-  Pokud možno, [nahlaste svou účast](https://doodle.com/poll/pmyrfxyc55pnhstw). Díky! Kdyby hrozilo, že se nevejdeme do Beer Factory, tak zkusíme domluvit větší prostory.
+  Pokud možno, [nahlaste svou účast](https://doodle.com/poll/pmyrfxyc55pnhstw) ať stihneme ukrást dostatek židlí. Díky!
   Věříme, že pro vás bylo minulé setkání přínosné, nezapomenutelné, a že se opět uvidíme!
 
 talks:
   - title: Úvodní slovo
     speakers:
       - Filip Vaculík
-      - (možná příjde i kouzelník) Tomáš Bedřich
+      - Tomáš Bedřich
   - title: 'Dekorátory – zbavené tajemství'
     speakers:
       - Jan Šmejkal z (orgis.cz - https://www.orgis.cz)
-  - title: Lightning talks
+  - title: 'IPython – mocný pomocník, kterého nejspíš máte doma'
+    speakers:
+      - Filip Vaculík
+    description: |
+      Ponor do tajů pokročilejších funkcí tohoto interaktivního shellu.
+      Práce s bloky kódu, inicializační scripty, %magic, !escape příkazy a další fičůry.
+  - title: PyLadies v Plzni 
+    speakers:
+      - Libuše Poustková
+    lightning: true
+  - title: PyCon Prague 2018
+    speakers:
+      - Tomáš Bedřich
+    lightning: true
+  - title: Startup Weekend Plzeň
+    speakers:
+      - Pavel König
+    lightning: true
+  - title: Talks
     description: |
         Pokud máte zkušenost se zajímavou technologii, projektem, nebo chcete
-        prezentovat sebe, či svou firmu a její aktivity, nebojte se přihlásit
-        k Lightning Talku. Možno dopředu mailem na filip.vaculik@jsi.cz případně na začátku akce.
-        Podrobnější info viz. [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers)
+        prezentovat sebe, či svou firmu a její aktivity, nebojte se přihlásit o slovo.
+        Sbíráme náměty na přednášky pro další Pyva viz. [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers) a
+        máme dvě další formy jak může zaznít váš hlas.
+
+        Lightning talk, ve kterém budete mít plných 5 minut, pro svou chvíli slávy.
+        Počet Lightning talků je omezen na cca 3 až 5.
+
+        Twinkle Talk kde vám dáme 1 minutu, což by mělo stačit k pozvánce na zajímavou akci, 
+        upozornění na zajímavou technologii, či malé, aktuální, filozofické zamyšlení.                
+
+        Možno domluvit dopředu mailem na filip.vaculik@jsi.cz případně ve vhodnou chvíli při akci.
 urls: []
