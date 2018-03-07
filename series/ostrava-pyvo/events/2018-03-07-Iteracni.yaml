@@ -26,5 +26,9 @@ talks:
   - David Bajer
   urls: []
   coverage: []
+- title: Jak daleko to může zajít
+  description: Příliš pokročilé použití generátorů a iterátorů
+  speakers:
+  - Petr Viktorin
 urls:
 - https://www.meetup.com/Ostravske-Pyvo/events/248394436/
