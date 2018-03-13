@@ -2,12 +2,18 @@ city: praha
 start: 2018-03-21 19:00:00
 name: Pražské Pyvo
 number: 84
-topic: TBD
+topic: Opendata
 description: |
     TBD
 talks:
-- title: "?"
-  description: ""
+- title: "~Hlidac statu (TBD)"
+  description: "TBD"
+  speakers:
+  - "Michal Bláha"
+- title: "TBD"
+  description: "TBD"
+  speakers:
+  - "Ondřej Kokeš"  
 - title: "Lightning talky"
   description: |
     Dojde i na lightning talky. Jeden můžeš mít i ty,
