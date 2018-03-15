@@ -1,0 +1,21 @@
+city: brno
+start: 2018-03-29
+name: Brněnské Pyvo
+topic: Březnové
+venue: artbar
+description: |
+    V březnu Pyvo bude!
+
+    ---
+
+    Yes, there'll be Pyvo in March!
+talks:
+  - title: Wrapping C libraries with CFFI
+    speakers:
+        - Moises Guamares
+    description: |
+        In this presentation we will talk about how to bring that C library we [like|need|depend on] into Python so we can code in Python everyday! \o/
+    urls: []
+    coverage: []
+
+urls: []
