@@ -18,7 +18,8 @@ talks:
   speakers:
   - Bára Drbohlavová
   urls: []
-  coverage: []
+  coverage:
+  - video: https://www.youtube.com/watch?v=fygo3V8OGbw
 
 - title: FuckUpy z pražských PyLadies
   speakers:
@@ -30,6 +31,7 @@ talks:
   speakers:
   - Petr Hodač
   urls: []
-  coverage: []
+  coverage:
+  - video: https://www.youtube.com/watch?v=nYcZebvI8aI
 
 urls: []

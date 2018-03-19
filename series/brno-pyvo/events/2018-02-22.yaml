@@ -26,8 +26,8 @@ talks:
         vizuální programování – od definice problému přes návrh grafického
         rozhraní a expresivitu jazyka až po implementaci a škálování v Pythonu.
 
-    urls: []
-    coverage: []
+    coverage:
+      - video: https://www.youtube.com/watch?v=lMFnJ0ZZvNw
 
   - title: Distribuované výpočty pomocou knižnice Selinon
     speakers:
@@ -43,8 +43,8 @@ talks:
         orchestrovaných pomocou OpenShift či Kubernetes schopných spracovať
         „big data“.
 
-    urls: []
-    coverage: []
+    coverage:
+      - video: https://www.youtube.com/watch?v=AtgKsKrGDwg
 
 urls:
     - https://www.facebook.com/events/1625272054218381

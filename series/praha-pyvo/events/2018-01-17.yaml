@@ -6,12 +6,34 @@ topic: TBD
 description: |
     TBD
 talks:
-- title: "?"
-  description: ""
-- title: "Lightning talky"
-  description: |
-    Dojde i na lightning talky. Můžeš jeden mít i ty,
-    viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
-    Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
+- title: Designing a Pythonic interface
+  speakers:
+  - Honza Král
+  coverage:
+    - video: https://www.youtube.com/watch?v=yy2MvJ6QRNA
+- title: Creative Dock
+  lightning: true
+  speakers:
+  - Jakub Růžička
+  coverage:
+    - video: https://www.youtube.com/watch?v=QAmvNigjuRg
+- title: Cypress browser testing
+  lightning: true
+  speakers:
+  - Martin Jahn
+  coverage:
+    - video: https://www.youtube.com/watch?v=iXApKfYxwQU
+- title: What not to mix with React
+  lightning: true
+  speakers:
+  - Peter Hozak
+  coverage:
+    - video: https://www.youtube.com/watch?v=BKNEvstJO38
+- title: Jak se (ne)nahrávají přednášky na Pyvu
+  lightning: true
+  speakers:
+  - Petr Viktorin
+  coverage:
+    - video: https://www.youtube.com/watch?v=Z2le0MCFl0w
 venue: na-venecku
 urls: []

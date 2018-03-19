@@ -19,6 +19,7 @@ talks:
         or how to detect that bank user is drunk after PyVO. That’s where machine learning comes to play and we will show you why Python is a great choice.
     urls:
         - https://github.com/pyvec/talks-archive/raw/master/brno-2017-04-27-milan-capoun-anton-salykin-machine-learning-and-python-catch-crimes.zip
-    coverage: []
+    coverage:
+    - video: https://www.youtube.com/watch?v=IIIKgrLcf6Y
 urls:
   - https://www.facebook.com/events/101260020443437/
