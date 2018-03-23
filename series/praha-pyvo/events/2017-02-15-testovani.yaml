@@ -48,7 +48,7 @@ talks:
   - Stanislav Prokop
   urls: []
   coverage:
-  - video: https://www.youtube.com/watch?v=srnnXL09NW4
+  - video: https://www.youtube.com/watch?v=YivfNdC9KDw
 - title: Parametric tests in py.test
   speakers:
   - Miro Hrončok

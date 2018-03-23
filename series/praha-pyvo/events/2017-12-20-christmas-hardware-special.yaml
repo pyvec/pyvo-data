@@ -8,10 +8,40 @@ description: |
     proste vše, co najdete na půdě hardwarového, po dědečkovi i babičce! 
     Směňte to, co už máte a nepotřebujete, za to, co rozhodně nutně potřebujete. Připravte si na to rozhodně i lightning talk, ať se něco nového dozvíme.
 talks:
-- title: "Lightning talky"
-  description: |
-    Na vánočním Pyvu budou jenom lightning talky. Můžeš jeden mít i ty,
-    viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
-    Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
+- title: Human HW
+  speakers:
+  - Radek Švarz
+  lightning: true
+  coverage:
+  - video: https://www.youtube.com/watch?v=sj3BjUToOd0
+
+- title: HARDWARIO – BigClown IoT Kit for Makers
+  speakers:
+  - Michal Mühlpachr
+  lightning: true
+  coverage:
+  - video: https://www.youtube.com/watch?v=yM-1QLnDrWw
+
+- title: Mentoring
+  speakers:
+  - Víťa Měrka
+  lightning: true
+  coverage:
+  - video: https://www.youtube.com/watch?v=qvtBoJdmlgo
+
+- title: JingleDeciBells
+  speakers:
+  - Drsnick
+  lightning: true
+  coverage:
+  - video: https://www.youtube.com/watch?v=q6UhTyk3mdc
+
+- title: "Plzeňské Pyvo #1"
+  speakers:
+  - Tomáš Bedřich
+  lightning: true
+  coverage:
+  - video: https://www.youtube.com/watch?v=XkOuok05-Is
+
 venue: na-venecku
 urls: []

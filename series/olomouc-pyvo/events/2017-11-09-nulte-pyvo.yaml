@@ -29,17 +29,26 @@ talks:
         - Lumír Balhar
     description: ""
     urls: []
-    coverage: []
+    coverage:
+        - video: https://www.youtube.com/watch?v=I6KMf-v8LaA
   - title: Open source software a kolaborativní přístup k vývoji
     speakers:
         - Filip Valder
     description: ""
     urls: []
-    coverage: []
+    coverage:
+        - video: https://www.youtube.com/watch?v=paqCI5DTHJU
   - title: Úvod do Pythonu
     speakers:
         - Martin Čurlej
     description: ""
     urls: []
-    coverage: []
+    coverage:
+        - video: https://www.youtube.com/watch?v=kcZH0eKD8DQ
+  - title: Knihovna Python.cz
+    speakers:
+        - Petr Viktorin
+    lightning: true
+    coverage:
+        - video: https://www.youtube.com/watch?v=1X4QP0sLh9U
 urls: []

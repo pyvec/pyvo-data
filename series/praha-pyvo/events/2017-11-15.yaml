@@ -16,15 +16,63 @@ talks:
     Let's write goto and labels in pure Python.
   urls:
     - http://slides.com/rembish/bytecode
+  coverage:
+    - video: https://www.youtube.com/watch?v=LBFHzDfgfqg
 
 - title: Python 3.6 and beyond
   speakers:
     - Petr Viktorin
+  coverage:
+    - video: https://www.youtube.com/watch?v=SgIQHMSWaGo
 
-- title: ??
-  description: |
-    I ty můžeš přednášet! :)
-    viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers)
-    Nebo přines [Lightning Talk - https://bit.ly/prpylight](https://bit.ly/prpylight)
+- title: Stable Bear – Optimalizace návrhu pro 3D tisk
+  speakers:
+    - Jan Kryštůfek
+  lightning: true
+  coverage:
+    - video: https://www.youtube.com/watch?v=ElvaOxyPjxY
+
+- title: pipenv
+  speakers:
+    - Aleš Zoulek
+  lightning: true
+  coverage:
+    - video: https://www.youtube.com/watch?v=NDNX-R4vixM
+
+- title: Reklama na PyCon
+  speakers:
+    - Bára Drbohlavová
+  lightning: true
+  coverage:
+    - video: https://www.youtube.com/watch?v=TPJ2XZQu-sg
+
+- title: Proč byste NIKDY neměli programovat v CZ.NIC
+  speakers:
+    - Patrick Zandl
+  lightning: true
+  coverage:
+    - video: https://www.youtube.com/watch?v=nUyr7zob1RE
+
+- title: BORIS
+  speakers:
+    - Helena Buchtová
+  lightning: true
+  coverage:
+    - video: https://www.youtube.com/watch?v=sNihnUzbOEQ
+
+- title: Reproducible Builds conference in Berlin
+  speakers:
+    - Timothy Hobbs
+  lightning: true
+  coverage:
+    - video: https://www.youtube.com/watch?v=tZ-ic9qRtcY
+
+- title: Ovapyvo, Pyworking
+  speakers:
+    - Lumča
+    - Ivouš
+  lightning: true
+  coverage:
+    - video: https://www.youtube.com/watch?v=4NrTyU7Jdxs
 
 urls: []

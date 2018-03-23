@@ -33,13 +33,13 @@ talks:
   - Glutexo
   urls: []
   coverage:
-  - video: https://www.youtube.com/watch?v=B747VxvbnWo
+  - video: https://www.youtube.com/watch?v=1clemSfG0GA
 - title: Moje trnitá cesta k IT a technice
   speakers:
   - Táňa Marčišovská
   urls: []
   coverage: []
-- title: Co delat s nabitými IT zkušenostmi
+- title: Co delat s nabytými IT zkušenostmi
   lightning: true
   speakers:
   - Martin Čurlej
