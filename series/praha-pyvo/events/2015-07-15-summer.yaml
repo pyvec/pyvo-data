@@ -14,7 +14,7 @@ talks:
   urls:
   - http://lanyrd.com/2015/praha-pyvo-july/sdqfzz/
   coverage:
-  - video: https://www.youtube.com/watch?v=D_ySmS1ta9s&feature=youtu.be
+  - video: https://www.youtube.com/watch?v=D_ySmS1ta9s
 - title: Project Cloudly
   speakers:
   - Jan Paricka
@@ -28,7 +28,7 @@ talks:
   urls:
   - http://lanyrd.com/2015/praha-pyvo-july/sdqtww/
   coverage:
-  - video: https://www.youtube.com/watch?v=sBDgob0hx4Y&feature=youtu.be
+  - video: https://www.youtube.com/watch?v=sBDgob0hx4Y
 - title: PyLadies report
   lightning: true
   speakers: []
@@ -50,6 +50,6 @@ talks:
   urls:
   - http://lanyrd.com/2015/praha-pyvo-july/sdqtwz/
   coverage:
-  - video: https://www.youtube.com/watch?v=km2FqVsRmWc&feature=youtu.be
+  - video: https://www.youtube.com/watch?v=km2FqVsRmWc
 urls:
 - http://lanyrd.com/2015/praha-pyvo-july/

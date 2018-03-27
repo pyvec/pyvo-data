@@ -28,7 +28,7 @@ talks:
   urls:
   - http://lanyrd.com/2015/praha-pyvo-august/sdrczf/
   coverage:
-  - video: https://www.youtube.com/watch?v=2nMEgOEw8Cs&feature=youtu.be
+  - video: https://www.youtube.com/watch?v=2nMEgOEw8Cs
 - title: 'pyvo.cz: Data v Gitu'
   lightning: true
   speakers:
@@ -36,7 +36,7 @@ talks:
   urls:
   - http://lanyrd.com/2015/praha-pyvo-august/sdrppx/
   coverage:
-  - video: https://www.youtube.com/watch?v=K3B4r3SdTXo&feature=youtu.be
+  - video: https://www.youtube.com/watch?v=K3B4r3SdTXo
 - title: Práce v Seznamu
   lightning: true
   speakers: []
