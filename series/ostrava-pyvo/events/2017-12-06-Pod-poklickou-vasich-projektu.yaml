@@ -27,6 +27,20 @@ description: |
     Těšíme se na Vás.
 
 venue: vr-levsky
-talks: []
+talks:
+- title: Zákulisí seznamáckých obsahovek
+  speakers:
+  - Jiří Kupka
+  urls: []
+  coverage:
+  - video: https://www.youtube.com/watch?v=1hs_j5zAkqE
+
+- title: Co se stane, když pustíš programátory do stařičké továrny
+  speakers:
+  - Víťa Měrka
+  - Artem Zhukov
+  urls: []
+  coverage:
+  - video: https://www.youtube.com/watch?v=gdOeX0bW3Kk
 urls:
 - https://www.meetup.com/Ostravske-Pyvo/events/244646271/

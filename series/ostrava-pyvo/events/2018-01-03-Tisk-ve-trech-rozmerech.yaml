@@ -26,6 +26,16 @@ description: |
     Těšíme se na vás.
 
 venue: vr-levsky
-talks: []
+talks:
+- title: OpenSCAD
+  speakers:
+  - Petr Viktorin
+  coverage:
+    - video: https://www.youtube.com/watch?v=hGf59VaPkIE
+- title: Profesionální 3D tisk
+  speakers:
+  - Martin Gren
+  coverage:
+    - video: https://www.youtube.com/watch?v=Thh3kmmddRA
 urls:
 - https://www.meetup.com/Ostravske-Pyvo/events/246064523/

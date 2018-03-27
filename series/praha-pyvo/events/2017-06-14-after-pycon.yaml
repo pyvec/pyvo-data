@@ -18,18 +18,21 @@ talks:
   speakers:
   - Bára Drbohlavová
   urls: []
-  coverage: []
+  coverage:
+  - video: https://www.youtube.com/watch?v=kXoO7byd-00
 
 - title: FuckUpy z pražských PyLadies
   speakers:
   - Zuzana Válková
   urls: []
-  coverage: []
+  coverage:
+  - video: https://www.youtube.com/watch?v=typy4qgxw_A
 
 - title: FuckUpy z LinuxDays, InstallFestu a OSS Víkendu
   speakers:
   - Petr Hodač
   urls: []
-  coverage: []
+  coverage:
+  - video: https://www.youtube.com/watch?v=tbFgeIwuxxI
 
 urls: []

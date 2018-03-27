@@ -16,22 +16,43 @@ talks:
 - title: doctest – Testing through documentation
   speakers:
   - Jáchym Čepický
-  urls: []
-  coverage: []
+  coverage:
+  - video: https://www.youtube.com/watch?v=sTKYr4jhx0k
+- title: "Selenium: not as good as I thought"
+  lightning: true
+  speakers:
+  - Jáchym Čepický
+  coverage:
+  - video: https://www.youtube.com/watch?v=BJqYTPJUs3w
+- title: Jest snapshot testing (just need browser)
+  lightning: true
+  speakers:
+  - Peter H
+  coverage:
+  - video: https://www.youtube.com/watch?v=2jHvu1RnVXM
+- title: TextTest
+  lightning: true
+  speakers:
+  - Timothy Hobbs
+  coverage:
+  - video: https://www.youtube.com/watch?v=oePQ6P1z17A
 - title: Testing state machine
   speakers:
   - Petr Messner
   urls: []
   coverage:
   - slides: http://slides.com/petrmessner/pyvo-testing-2017-02#/
+  - video: https://www.youtube.com/watch?v=OeE13tLc44I
 - title: Lessons learned from testing microservices in Python
   speakers:
   - Stanislav Prokop
   urls: []
-  coverage: []
+  coverage:
+  - video: https://www.youtube.com/watch?v=YivfNdC9KDw
 - title: Parametric tests in py.test
   speakers:
   - Miro Hrončok
   urls: []
-  coverage: []
+  coverage:
+  - video: https://www.youtube.com/watch?v=lzRe1FdmSFo
 urls: []

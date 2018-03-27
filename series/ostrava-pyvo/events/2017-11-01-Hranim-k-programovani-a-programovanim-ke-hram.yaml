@@ -20,7 +20,7 @@ description: |
 
     • Jak je na tom Python s připraveností na psaní her. Ano, i na to mámě
     knihovny
-    
+
     • Jak by mohla vypadat vaše první 3D hra
 
     Těšíme se na vás v obvyklém čase na obvyklém místě.
@@ -30,6 +30,16 @@ description: |
     volně navážeme na Pyvo.
 
 venue: vr-levsky
-talks: []
+talks:
+- title: Tvorba 3D her
+  speakers:
+  - Štěpán Tomsa
+  coverage:
+  - video: https://www.youtube.com/watch?v=Ptx8YohRTbQ
+- title: Pyweek
+  speakers:
+  - Petr Viktorin
+  coverage:
+  - video: https://www.youtube.com/watch?v=eSym45MLWKY
 urls:
 - https://www.meetup.com/Ostravske-Pyvo/events/243488212/

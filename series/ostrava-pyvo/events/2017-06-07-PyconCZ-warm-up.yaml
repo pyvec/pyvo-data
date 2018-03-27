@@ -26,17 +26,25 @@ talks:
   speakers:
   - Lumír Balhar
   urls: []
-  coverage: []
+  coverage:
+  - video: https://www.youtube.com/watch?v=NgGALAz_6rQ
 - title: Falešné předpoklady při práci s řetězci
   speakers:
   - Glutexo
   urls: []
   coverage:
-  - video: https://www.youtube.com/watch?v=B747VxvbnWo
+  - video: https://www.youtube.com/watch?v=1clemSfG0GA
 - title: Moje trnitá cesta k IT a technice
   speakers:
   - Táňa Marčišovská
   urls: []
   coverage: []
+- title: Co delat s nabytými IT zkušenostmi
+  lightning: true
+  speakers:
+  - Martin Čurlej
+  urls: []
+  coverage:
+  - video: https://www.youtube.com/watch?v=Y6i6dp5MG50
 urls:
 - http://srazy.info/pyvo-v-ostrave/7365

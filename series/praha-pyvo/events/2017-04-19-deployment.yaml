@@ -19,32 +19,53 @@ talks:
   speakers:
   - Jeanne Trojan
   - Cedric Maloux
+  coverage:
+  - video: https://www.youtube.com/watch?v=cEf6SZM3ymY
 
 - title: Pycon CZ 2017 (https://pycon.cz)
+  lightning: true
   speakers:
   - Max Kovykov
+  coverage:
+  - video: https://www.youtube.com/watch?v=tOy668o8jhc
 
 - title: Docker Swarm
+  lightning: true
   speakers:
   - Jirka Puc
+  coverage:
+  - video: https://www.youtube.com/watch?v=42zv6C0yCzE
 
 - title: Argos
+  lightning: true
   speakers:
   - Daniel Milde (Seznam.cz)
+  coverage:
+  - video: https://www.youtube.com/watch?v=uuUnsVHuPO0
 
 - title: Betonařina – velká to sranda!
+  lightning: true
   speakers:
   - Radek
+  coverage:
+  - video: https://www.youtube.com/watch?v=9RfskmWOF2g
 
 - title: app that fixes previous console command
+  lightning: true
   speakers:
   - Vladimir Iakovlev
+  coverage:
+  - video: https://www.youtube.com/watch?v=sKYi2iMOWII
 
 - title: '73'
+  lightning: true
   speakers:
   - Jarka Schovancová
+  coverage:
+  - video: https://www.youtube.com/watch?v=FYGU5_rw078
 
 - title: Python knihovnička
+  lightning: true
   speakers:
   - Petr Viktorin
 

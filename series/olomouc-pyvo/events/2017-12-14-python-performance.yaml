@@ -18,11 +18,13 @@ talks:
         - Lumír Balhar
     description: ""
     urls: []
-    coverage: []
+    coverage:
+        - video: https://www.youtube.com/watch?v=b0v5PSJ6kms
   - title: NumPy
     speakers:
         - Miro Hrončok
     description: "Nemusíme používat Céčko přímo, abychom těžili z jeho výhod. NumPy je knihovna pro n-rozměrné homogenní pole (většinou čísel). Uvnitř šlape Fortran a C, ale my používáme pouze Python."
     urls: []
-    coverage: []
+    coverage:
+        - video: https://www.youtube.com/watch?v=tGq5Ql739w8
 urls: []
