@@ -1,0 +1,18 @@
+city: liberec
+start: 2018-04-19 18:00:00
+name: Liberecké Pyvo
+number: 2
+topic: Moje oblíbené
+venue: depo
+description: |
+  Druhé setkání programátorů v Liberci proběhne přibližně dva měsíce po předchozím. Tématem tentokrát budou *oblíbené* – postupy, programovací jazyky, utility, nebo třeba technologie. Máte nějakou takovou? **Nestyďte se a povězte nám o ní.** Není třeba povídat dlouho, klidně stačí [Lightning talk](http://lipyvo.jdem.cz/). Nezapomeňte, že **nemusí jít jen o Python**. Pyvaři jsou tolerantní a rádi si rozšíří svůj obzor.
+
+  Chcete-li na Pyvu vystoupit, **ozvěte se do 8. dubna**. Lightning talk na libovolné téma můžete přidat i později, klidně až v den Pyva.
+
+  Abychom věděli, s kolika lidmi můžeme počítat, prosím **[nahlaste svou účast](https://doodle.com/poll/d45wxgnrwhanat85)**. Díky!
+
+talks:
+  - title: Krátké i dlouhé přednášky
+    description: |
+            Představte svou oblíbenou technologii v kratší i delší přednášce.
+            Registrujte své vystoupení na [lipyvo.jdem.cz](http://lipyvo.jdem.cz/), nebo napište e-mail organizátorům.
