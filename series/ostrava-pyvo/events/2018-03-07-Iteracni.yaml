@@ -20,15 +20,18 @@ talks:
   speakers:
   - Lumír Balhar
   urls: []
-  coverage: []
+  coverage:
+  - video: https://www.youtube.com/watch?v=6zI4hS-jIVo
 - title: Jak jsem migroval bžilion dat v Pythonu
   speakers:
   - David Bajer
   urls: []
   coverage: []
-- title: Jak daleko to může zajít
+- title: Hledání prvočísel (přes generátory)
   description: Příliš pokročilé použití generátorů a iterátorů
   speakers:
   - Petr Viktorin
+  coverage:
+  - video: https://www.youtube.com/watch?v=vXgEru3cwew
 urls:
 - https://www.meetup.com/Ostravske-Pyvo/events/248394436/

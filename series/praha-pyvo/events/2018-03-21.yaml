@@ -10,14 +10,37 @@ talks:
   description: ""
   speakers:
   - "Michal Bláha"
+  coverage:
+  - video: https://www.youtube.com/watch?v=VhWMoG_yAnA
 - title: "Trnitá cesta od publikace otevřených dat k jejich využití"
   description: ""
   speakers:
-  - "Ondřej Kokeš"  
-- title: "Lightning talky"
-  description: |
-    Dojde i na lightning talky. Jeden můžeš mít i ty,
-    viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
-    Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
+  - "Ondřej Kokeš"
+  coverage:
+  - video: https://www.youtube.com/watch?v=Yam130eh6Q4
+- title: Python a Open Data
+  speakers:
+  - Honza Javorek
+  lightning: true
+  coverage:
+  - video: https://www.youtube.com/watch?v=g1iOZRp6P1s
+- title: Přijďte na sprint!
+  speakers:
+  - Petr Viktorin
+  lightning: true
+  coverage:
+  - video: https://www.youtube.com/watch?v=gYhXNgoWc90
+- title: "Sháním práci #SysAdmin #Linux #Cloud #DevOps #Python"
+  speakers:
+  - David Třebický
+  lightning: true
+  coverage:
+  - video: https://www.youtube.com/watch?v=-SjdFCyz46M
+- title: Selective DB dump with Python
+  speakers:
+  - Dmitry Dygalo
+  lightning: true
+  coverage:
+  - video: https://www.youtube.com/watch?v=HdEdPrtFkXc
 venue: na-venecku
 urls: []

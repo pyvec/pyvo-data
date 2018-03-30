@@ -22,6 +22,8 @@ talks:
   - title: 'Začátečníci: Virtualenv – co to je a jak to funguje?'
     speakers:
       - Tomáš Bedřich
+    coverage:
+      - slides: http://slides.com/tomasbedrich/virtualenv/
   - title: 'Pokročilí: Google App Engine pro běh pythonních aplikací v prostředí Internetu'
     speakers:
       - Filip Vaculík

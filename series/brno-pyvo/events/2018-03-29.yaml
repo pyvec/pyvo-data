@@ -12,10 +12,12 @@ description: |
 talks:
   - title: Wrapping C libraries with CFFI
     speakers:
-        - Moises Guamares
+        - Moisés Guimarães
     description: |
         In this presentation we will talk about how to bring that C library we [like|need|depend on] into Python so we can code in Python everyday! \o/
     urls: []
-    coverage: []
+    coverage:
+    - video: https://www.youtube.com/watch?v=OoyYjpry-h4
+    - slides: http://mguimaraes.org/talks/events/pyvo-2018-03
 
 urls: []
