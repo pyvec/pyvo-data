@@ -29,11 +29,14 @@ talks:
       s pomocí modulu `click`. Pokročilé parsování argumentů je jenom
       začátek – je libo barvičky nebo progressbar?
       [Přednáška z InstallFestu 2017](https://www.youtube.com/watch?v=kRY2UGhjRb0).
+    coverage:
+      - video: https://www.youtube.com/watch?v=FLK0WOJR68c
   - title: Jak postavit slovník z nul a jedniček
     speakers:
       - Petr Viktorin
     coverage:
       - slides: https://speakerdeck.com/encukou/jak-postavit-slovnik-z-jednicek-a-nul
+      - video: https://www.youtube.com/watch?v=ARFcfoHA1DQ
     description: |
       Python je „vysokoúrovňový programovací jazyk“: programy v něm jsou
       čitelné pro lidi, spíš než aby odpovídaly tomu, jak je provádí počítač. A tak
@@ -52,17 +55,33 @@ talks:
       - Petr Krčmář
     coverage:
       - slides: https://pyvec.github.io/talks-archive/liberec-2018-02-14-petr-krcmar-vpsfree.pdf
+      - video: https://www.youtube.com/watch?v=hDZTD_rh8Us
   - title: "BigClown: IoT z Liberce do celého světa"
     lightning: true
     speakers:
       - Pavel Hübner
     coverage:
       - link: https://www.hardwario.com/
+      - video: https://www.youtube.com/watch?v=_THcK7-tYNs
   - title: "Všudepřítomné dráty: o distribuci elektrické energie"
     speakers:
       - Ondřej Dragoun
     coverage:
       - slides: https://pyvec.github.io/talks-archive/liberec-2018-02-14-ondrej-dragoun-vsudepritomne-draty.pdf
+      - video: https://www.youtube.com/watch?v=8T-85wftvdA
+  - title: Jak postavit slovník z nul a jedniček – doplnění
+    coverage:
+      - video: https://www.youtube.com/watch?v=NOcNmbyMd8I
+    lightning: true
+    speakers:
+     - Petr Viktorin
+  - title: Pozvánka na PyCon CZ 2018
+    lightning: true
+    speakers:
+      - Ondřej Caletka
+    coverage:
+      - video: https://www.youtube.com/watch?v=DYWeyvbXQZM
+
 #  - title: Lightning talks
 #    lightning: true
 #    description: |
