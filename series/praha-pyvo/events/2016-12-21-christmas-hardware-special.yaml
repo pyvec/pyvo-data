@@ -6,7 +6,43 @@ topic: Vánoční hardwarový speciál
 description: |
     Pyvo hardwarové! Přineste ostatním ukázat všechna blikátka, dejchátka, točítka, hry - proste vše co najdete na půdě hardwarového, po dědečkovi i babičce! 
     Směňte to co už máte a nepotřebujete za to co rozhodně nutně potřebujete. Připravte si na to rozhodně i lightning talk ať se něco nového dozvíme.
-talks: []
+talks:
+- title: Django Channels
+  speakers:
+  - Martin Jahn
+  lightning: true
+  coverage:
+  - video: https://www.youtube.com/watch?v=xQzCt_nAmbs
+- title: Školní počítač JZD Libuň
+  speakers:
+  - dıןıℲ Vaculík
+  lightning: true
+  coverage:
+  - video: https://www.youtube.com/watch?v=rVJ0Bx-rvik
+- title: Klávesnice DataHand
+  speakers:
+  - Timothy Hobbs
+  lightning: true
+  coverage:
+  - video: https://www.youtube.com/watch?v=DG3ZoIIRj9U
+- title: KiCad EDA
+  speakers:
+  - Jan Čermák
+  lightning: true
+  coverage:
+  - video: https://www.youtube.com/watch?v=ZqRc4lw9bcc
+- title: Dekatron
+  speakers:
+  - Štěpán
+  lightning: true
+  coverage:
+  - video: https://www.youtube.com/watch?v=Ytrfz0LvHLM
+- title: Clever Dripper a Python na Slovensku
+  speakers:
+  - Honza Javorek
+  lightning: true
+  coverage:
+  - video: https://www.youtube.com/watch?v=iQeSSiulBd8
 venue: na-venecku
 urls:
 - https://www.meetup.com/Prague-Python-Meetup-NaPyVo/events/235098564/
