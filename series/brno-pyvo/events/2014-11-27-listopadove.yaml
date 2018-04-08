@@ -9,12 +9,26 @@ talks:
   - Petr Viktorin
   urls:
   - http://lanyrd.com/2014/brnenske-pyvo-brug-devops/sdgqfr/
-  coverage: []
+  coverage:
+  - video: https://www.youtube.com/watch?v=YMi_Vqja3g8
 - title: Report z Django Under the Hood
   speakers:
   - Tomáš Ehrlich
   urls:
   - http://lanyrd.com/2014/brnenske-pyvo-brug-devops/sdgqft/
-  coverage: []
+  coverage:
+  - video: https://www.youtube.com/watch?v=fsaimatGw6M
+- title: Testování django formulářů
+  speakers:
+  - Tomáš Ehrlich
+  lightning: false
+  coverage:
+  - video: https://www.youtube.com/watch?v=MBGyg2uzfSA
+- title: pytest-multihost
+  speakers:
+  - Petr Viktorin
+  lightning: true
+  coverage:
+  - video: https://www.youtube.com/watch?v=dhy-VaYvmS4
 urls:
 - http://lanyrd.com/2014/brnenske-pyvo-brug-devops/
