@@ -21,7 +21,6 @@ talks:
 - title: Testování django formulářů
   speakers:
   - Tomáš Ehrlich
-  lightning: false
   coverage:
   - video: https://www.youtube.com/watch?v=MBGyg2uzfSA
 - title: pytest-multihost

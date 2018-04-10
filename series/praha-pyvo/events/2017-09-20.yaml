@@ -10,7 +10,6 @@ talks:
 - title: super() quiz
   speakers:
   - Aleksey Rembish
-  lightning: false
   coverage:
   - slides: https://slides.com/rembish/super-quiz-pyvo/
   - video: https://www.youtube.com/watch?v=rmpuAJfJyos
