@@ -1,9 +1,51 @@
 city: praha
 start: 2017-09-20 19:00:00
-name: Pražské PyVo dokumentační
+name: Pražské PyVo
 number: 78
+topic: dokumentační
 description: |
     Jako vždycky na Věnečku, Ostrovského 38a, Praha 5 od 19:00.
 venue: na-venecku
-talks: []
+talks:
+- title: super() quiz
+  speakers:
+  - Aleksey Rembish
+  lightning: false
+  coverage:
+  - slides: https://slides.com/rembish/super-quiz-pyvo/
+  - video: https://www.youtube.com/watch?v=rmpuAJfJyos
+- title: 'Kolaborativní Markdown: HackMD'
+  speakers:
+  - Dan Srb
+  lightning: true
+  coverage:
+  - link: https://hackmd.io/
+  - video: https://www.youtube.com/watch?v=jTCo3r2ZEJU
+- title: Ohlasy konference Write the Docs
+  speakers:
+  - Nora Kořánová
+  lightning: true
+  coverage:
+  - slides: https://www.dropbox.com/s/rc8ilrl693uaic5/WtD%20report.pdf?dl=0
+  - video: https://www.youtube.com/watch?v=FT9d6v1j0a4
+- title: Dokumentace pole
+  speakers:
+  - Radek Švarz
+  lightning: true
+  coverage:
+  - video: https://www.youtube.com/watch?v=XnSDUY7VJOU
+- title: Typosquatting
+  speakers:
+  - starenka
+  lightning: true
+  coverage:
+  - video: https://www.youtube.com/watch?v=EEVqhwsZv-k
+  - link: http://www.nbu.gov.sk/skcsirt-sa-20170909-pypi/
+  - link: https://www.pytosquatting.org/
+- title: PyWeek
+  speakers:
+  - Petr Viktorin
+  lightning: true
+  coverage:
+  - video: https://www.youtube.com/watch?v=BlpNxV08zzY
 urls: []
