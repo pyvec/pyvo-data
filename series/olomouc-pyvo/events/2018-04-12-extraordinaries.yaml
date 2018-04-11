@@ -1,0 +1,32 @@
+city: olomouc
+start: 2018-04-12 18:00:00
+name: Olomoucké Pyvo
+topic: Python Extraordinaries
+description: |
+    Ahoj!
+
+    Na dubnovém Pyvu nahlédneme do světa machine learningu pro
+    zpracování obrázků. Dalším tématem bude ZODB, robustní
+    objektová databáze pro vaše projekty v Pythonu.
+
+    I když se jedná o pokročilá témata, přijďte za námi
+    posedět a popovídat si s lidmi z IT o tom, proč nejlépe s
+    Pythonem začít řešit váš pracovní „denní chleba“.
+
+    Těšíme se na vaši účast!
+
+venue: pivnice-doga
+talks:
+  - title: Image Processing in Python
+    speakers:
+        - Aleh Filipovich
+    description: "Přehled knihoven pro zpracování obrázků v Pythonu. Příklad použiti OpenCV. (přednáška je v angličtině)"
+    urls: []
+    coverage: []
+  - title: ZODB
+    speakers:
+        - Christopher Lozinski
+    description: "The ZODB is a mature graph database written in Python and optimized in C. (přednáška je v angličtině)"
+    urls: []
+    coverage: []
+urls: []
