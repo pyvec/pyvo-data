@@ -35,6 +35,9 @@ talks:
         nebo jak založit vlastní komunitní kurz či workshop.
 
     urls: []
+    language:
+      slides: en
+      audio: cs
     coverage:
     - video: https://www.youtube.com/watch?v=oZ1ChUrjiCY
 
@@ -53,6 +56,9 @@ talks:
         [Želví grafika]: http://www.albatrosmedia.cz/tituly/40005210/zelvi-grafika/
 
     urls: []
+    language:
+      slides: cs
+      audio: cs
     coverage:
     - video: https://www.youtube.com/watch?v=IY8udbQHNRg
 
@@ -62,6 +68,9 @@ talks:
     description: |
         Michal představí [Python víkendy s kiwi.com](https://pythonvikend.kiwi.com/).
     urls: []
+    language:
+      slides: en
+      audio: cs
     coverage:
     - video: https://www.youtube.com/watch?v=41xf99oSsB4
 
@@ -69,6 +78,9 @@ talks:
     speakers: []
     description: ""
     urls: []
+    language:
+      slides: en
+      audio: cs
     coverage:
     - video: https://www.youtube.com/watch?v=m2fJ27FnBtk
 
@@ -78,6 +90,8 @@ talks:
     lightning: true
     description: ""
     urls: []
+    language:
+      audio: cs
     coverage:
     - video: https://www.youtube.com/watch?v=zDExJKYHLOc
 

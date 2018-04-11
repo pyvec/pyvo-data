@@ -170,6 +170,14 @@ properties:
                                 $ref: '#/definitions/uri'
                         lightning:
                           const: true
+                        language:
+                          type: object
+                          additionalProperties: false
+                          properties:
+                            slides:
+                              $ref: '#/definitions/language-code'
+                            audio:
+                              $ref: '#/definitions/language-code'
                       required:
                         - title
                   topic:
@@ -234,3 +242,10 @@ definitions:
   uri:
     type: string
     format: uri
+  language-code:
+    type: string
+    pattern: '^[a-zA-Z]{2,3}([-\/][a-zA-Z]{2,3})?$'
+    examples:
+    - "cs"
+    - "en"
+    - "sk"

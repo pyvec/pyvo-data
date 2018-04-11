@@ -26,6 +26,9 @@ talks:
         vizuální programování – od definice problému přes návrh grafického
         rozhraní a expresivitu jazyka až po implementaci a škálování v Pythonu.
 
+    language:
+      slides: en
+      audio: en
     coverage:
       - video: https://www.youtube.com/watch?v=lMFnJ0ZZvNw
 
@@ -43,6 +46,9 @@ talks:
         orchestrovaných pomocou OpenShift či Kubernetes schopných spracovať
         „big data“.
 
+    language:
+      slides: en
+      audio: en
     coverage:
       - video: https://www.youtube.com/watch?v=AtgKsKrGDwg
 
