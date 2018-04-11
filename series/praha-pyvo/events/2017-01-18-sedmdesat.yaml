@@ -8,13 +8,62 @@ description: |
     Jako na každou 3. středu v měsíci vás zveme i teď na 70. Python sraz v Praze.
     Žeton do nákupního košíku nebude, protože byste ho stejně ztratili,
     ale pořád je tu ten Python, co znáte z mládí a je osvědčený.
-    
-    Témy:
-    - advanced Re:st Framework
-    - micropython v tRe:zoru
-    - Re: Python 2017 
 
 venue: na-venecku
-talks: []
+talks:
+- title: Django REST Framework + React JS
+  speakers:
+  - Petr
+  - Honza
+  language:
+    audio: en
+    slides: en
+  coverage:
+  - video: https://www.youtube.com/watch?v=clb8n-a2s4o
+- title: MicroPython / TREZOR
+  speakers:
+  - Pavol Rusnák
+  language:
+    audio: en
+    slides: en
+  coverage:
+  - video: https://www.youtube.com/watch?v=d5wHVzAlPLc
+- title: SlushPool
+  speakers:
+  - Jan Čapek
+  lightning: true
+  language:
+    audio: en
+    slides: en
+  coverage:
+  - video: https://www.youtube.com/watch?v=h79aDvcJ6OM
+- title: Python 3.6
+  speakers:
+  - Petr Viktorin
+  lightning: true
+  language:
+    audio: cs
+    slides: cs
+  coverage:
+  - video: https://www.youtube.com/watch?v=HgmO4WpkHac
+- title: PyvoTwitter
+  speakers:
+  - David Labský
+  - Miro Hrončok
+  lightning: true
+  language:
+    audio: cs
+    slides: cs
+  coverage:
+  - video: https://www.youtube.com/watch?v=9fYn-SzovHc
+- title: TestLadies
+  speakers:
+  - Vašek Chalupníček
+  lightning: true
+  language:
+    audio: cs
+    slides: cs
+  coverage:
+  - video: https://www.youtube.com/watch?v=Cw4KapYutzc
 urls:
 - https://www.meetup.com/Prague-Python-Meetup-NaPyVo/events/235875529/
