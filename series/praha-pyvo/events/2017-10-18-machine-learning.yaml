@@ -1,41 +1,74 @@
 city: praha
 start: 2017-10-18 19:00:00
-name: Pražské PyVo - Machine learning
+name: Pražské PyVo
 number: 79
+topic: Machine learning
 description: |
     Jako vždycky na Věnečku, Ostrovského 38a, Praha 5 od 19:00.
 
 venue: na-venecku
 talks:
 
-- title: "Tutorial: Machine Learning a Keras"
-  speakers:
-  - Petr Baudiš
-  description: |
-  
-    - Co je potřeba k tomu, aby se stroje dokázaly samy učit z příkladů?
-    - Co je to ve skutečnosti prostě neuronová síť a jak si udělat v populárním frameworku Keras tu úplně nejjednodušší?
-    - A dokážeme ji společně naučit něco praktického, třeba rozeznávat pozitivní filmové recenze od negativních?
-
 - title: "Tensorflow basic patterns"
   speakers:
   - Jindřich Němec
   description: |
-
     Co je to Tensorflow, jak se tvoří Graf, klasifikace, Perceptron, funkce OR AND, NN a XOR
+  coverage:
+  - video: https://www.youtube.com/watch?v=X6U3erV6uTo
+
+- title: "Tutorial: Machine Learning a Keras"
+  speakers:
+  - Petr Baudiš
+  description: |
+    - Co je potřeba k tomu, aby se stroje dokázaly samy učit z příkladů?
+    - Co je to ve skutečnosti prostě neuronová síť a jak si udělat v populárním frameworku Keras tu úplně nejjednodušší?
+    - A dokážeme ji společně naučit něco praktického, třeba rozeznávat pozitivní filmové recenze od negativních?
+  coverage:
+  - slides: https://gitpitch.com/rossumai/pyvo17-imdb
+  - video: https://www.youtube.com/watch?v=AaZyqRjkSp4
 
 - title: Pokusy na dětech
   speakers:
   - Martin Javorek
   lightning: true
-  urls:
-  - https://twitter.com/programohrajeme
-  - https://www.programohrani.cz/
+  coverage:
+  - link: https://twitter.com/programohrajeme
+  - link: https://www.programohrani.cz/
+  - video: https://www.youtube.com/watch?v=MLK20T5qHsg
+- title: Jak nakrmit Alzáka
+  speakers:
+  - Lukáš Kokoška
+  lightning: true
+  coverage:
+  - video: https://www.youtube.com/watch?v=5MA6WNjsVgM
 
-- title: ??
-  description: |
-    I ty můžeš přednášet! :)
-    viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers)
-    Nebo přines [Lightning Talk - https://bit.ly/prpylight](https://bit.ly/prpylight)
+- title: Networking for geeks
+  speakers:
+  - Jeanne Trojan
+  lightning: true
+  coverage:
+  - video: https://www.youtube.com/watch?v=CGw92qf8tto
+- title: Pyworking
+  speakers:
+  - Zuzana Válková
+  lightning: true
+  coverage:
+  - video: https://www.youtube.com/watch?v=SXnCABNKYB0
+- title: NVIDIA in Docker
+  speakers:
+  - Libor Jonát
+  lightning: true
+  coverage:
+  - slides: https://qntln.github.io/pyvo-79-nvidia/
+  - video: https://www.youtube.com/watch?v=Y7OU3Dax2QE
+- title: pandas_djmodel
+  speakers:
+  - starenka
+  lightning: true
+  coverage:
+  - video: https://www.youtube.com/watch?v=U2xTG_uqLQg
+
+
 
 urls: []
