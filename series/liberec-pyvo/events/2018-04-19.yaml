@@ -7,12 +7,32 @@ venue: depo
 description: |
   Druhé setkání programátorů v Liberci proběhne přibližně dva měsíce po předchozím. Tématem tentokrát budou *oblíbené* – postupy, programovací jazyky, utility, nebo třeba technologie. Máte nějakou takovou? **Nestyďte se a povězte nám o ní.** Není třeba povídat dlouho, klidně stačí [Lightning talk](http://lipyvo.jdem.cz/). Nezapomeňte, že **nemusí jít jen o Python**. Pyvaři jsou tolerantní a rádi si rozšíří svůj obzor.
 
-  Chcete-li na Pyvu vystoupit, **ozvěte se do 8. dubna**. Lightning talk na libovolné téma můžete přidat i později, klidně až v den Pyva.
-
   Abychom věděli, s kolika lidmi můžeme počítat, prosím **[nahlaste svou účast](https://doodle.com/poll/d45wxgnrwhanat85)**. Díky!
 
 talks:
-  - title: Krátké i dlouhé přednášky
+  - title: Certificate Transparency
+    speakers:
+        - Petr Krčmář
     description: |
-            Představte svou oblíbenou technologii v kratší i delší přednášce.
+            Od 30. dubna musí být všechny důvěryhodné certifkáty na internetu zveřejněny v Certificate Transparency. V přednášce si povíme, co to je a jak to vlastně celé funguje.
+  - title: Oblíbené nástroje konzervativního vývojáře
+    speakers:
+        - Vláďa Macek
+  - title: Jinja2 nejenom v Ansible
+    lightning: true
+    speakers:
+        - Ondřej Spáčil
+  - title: Elm
+    lightning: true
+    speakers:
+        - Petr Severa
+
+  - title: <volné místo>
+    lightning: true
+    description: |
+            Ještě je prostor na pár krátkých (5 minut) přednášek na libovolné téma.
             Registrujte své vystoupení na [lipyvo.jdem.cz](http://lipyvo.jdem.cz/), nebo napište e-mail organizátorům.
+  - title: Budoucnost Libereckého Pyva & pozvánky
+    lightning: true
+    speakers:
+        - Ondřej Caletka
