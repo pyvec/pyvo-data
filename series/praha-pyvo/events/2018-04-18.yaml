@@ -1,0 +1,15 @@
+city: praha
+start: 2018-04-18 19:00:00
+name: Pražské Pyvo
+number: 85
+topic: Python
+description: |
+    Pyvo bude. Nikdo sice neví, co se tam bude říkat, ale Pyvo bude!
+talks:
+- title: "Lightning talky"
+  description: |
+    Dojde snad i na lightning talky. Můžeš jeden mít i ty,
+    viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+    Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
+venue: na-venecku
+urls: []
