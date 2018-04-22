@@ -1,0 +1,27 @@
+city: ostrava
+start: 2018-05-02 19:00:00
+name: Ostravské Pyvo
+topic: Formátování řetězců
+description: |
+    V květnu se podíváme na to, jaké jsou možnosti při formátování řetězců.
+    Nevyhneme se při tom srování starého způdobu formátování a nové metody
+    `format()` a nahlédneme i do světa jiných programovacích jazyků.
+
+    Jako bonus bude možno na Pyvu vyhrát vstupenku na letošní PyConCZ!
+
+    Těšíme se na Vás.
+
+venue: vr-levsky
+talks:
+- title: Formátování staré a nové a co to vlastně umí …
+  speakers:
+  - Lumír Balhar
+  urls: []
+  coverage: []
+- title: Formátování řetězců v Ruby
+  speakers:
+  - Glutexo
+  urls: []
+  coverage: []
+urls:
+- https://www.meetup.com/Ostravske-Pyvo/events/250030448/
