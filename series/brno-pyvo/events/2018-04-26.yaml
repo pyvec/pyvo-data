@@ -4,7 +4,7 @@ name: Brněnské Pyvo
 topic: Aprílové
 venue: artbar
 description: |
-    V Apríli sa pozrieme na Redis Queue. Druhá prednáška bude doplnená neskôr.
+    V Apríli sa pozrieme na Redis Queue.
 
     Z aprílového Pyva si jeden z Vás odnesie lístok na nadchádzajúci PyCon CZ v Prahe.
     Najistejší spôsob, ako mať šancu ho získať, je ukázať sa s lightning talkom. :)
@@ -13,8 +13,7 @@ description: |
 
     ------
 
-    In April we will look at the Redis Queue library. Information about second talk will
-    be added later.
+    In April we will look at the Redis Queue library.
 
     One of you will leave April's Pyvo with a ticket to the upcomming PyCon CZ in Prague.
     The surest way of getting a chance to get the ticket is to come up with a lightning talk. :)
@@ -27,4 +26,5 @@ talks:
     description: |
         Keep-it-simple approach to work queues designed for cases when Celery is just too complicated.
     coverage: []
-urls: []
+urls:
+    - https://www.facebook.com/events/2103468223215249/
