@@ -26,5 +26,21 @@ talks:
     description: |
         Keep-it-simple approach to work queues designed for cases when Celery is just too complicated.
     coverage: []
+  - title: Q
+    speakers:
+        - Miro Hrončok
+    description: |
+        Quick and dirty debugging output for tired programmers.
+    lightning: true
+    urls:
+        - https://pypi.org/project/q/
+  - title: PyCon CZ 2018
+    speakers:
+        - Veronika Kabátová
+    description: |
+        An invitation to PyCon CZ in Prague
+    lightning: true
+    urls:
+        - https://cz.pycon.org/2018/
 urls:
     - https://www.facebook.com/events/2103468223215249/
