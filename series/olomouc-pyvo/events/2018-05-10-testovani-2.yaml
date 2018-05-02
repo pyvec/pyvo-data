@@ -1,0 +1,23 @@
+city: olomouc
+start: 2018-05-10 18:00:00
+name: Olomoucké Pyvo
+topic: Testování #2
+description: |
+    Ahoj!
+
+    Na posledním předprázdninovém olomouckém Pyvu se vrátíme
+    opět k tématu testování. Povíme si hlavně o tzv. "mock"-ování.
+
+    Těšíme se na vaši účast!
+
+venue: picolo-piratske-centrum-olomouc
+talks:
+  - title: Mock
+    speakers:
+        - Martin Čurlej
+    description: "Co je to mock, proč se bez něj neobejdete a jak jej
+        efektivně použít při psaní testů."
+
+    urls: []
+    coverage: []
+urls: []
