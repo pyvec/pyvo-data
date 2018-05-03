@@ -20,7 +20,7 @@ talks:
       - Tomáš Bedřich
   - title: Pandas, analýza dat
     description: |
-        Představení knihovny Pandas na praktickém příkladu ze skutečného světa, zpracování statistik PPC kampaní. Na ukázkovém vzorku dat si ukážeme, jak data načíst, provádět výpočty, filtrovat, řadit, seskupovat a spojovat.
+        Představení knihovny Pandas na praktickém příkladu ze skutečného světa, zpracování statistik PPC kampaní. Na vzorku dat si ukážeme, jak data načíst, provádět výpočty, filtrovat, řadit, seskupovat a spojovat.
     speakers:
       - Honza Smitka
   - title: Validace datových struktur
