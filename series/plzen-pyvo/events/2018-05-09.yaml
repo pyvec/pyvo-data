@@ -30,7 +30,8 @@ talks:
        - Olda Taufer
   - title: Anonymizace dat
     lightning: true
-    description: | Co s hromadami dat, když na vás za rohem číhají nástrahy jako ePrivacy a GDPR. Faker může být, v některých případech, řešení.
+    description: |
+        Co s hromadami dat, když na vás za rohem číhají nástrahy jako ePrivacy a GDPR. Faker může být, v některých případech, řešení.
     speakers:
        - Jirka Prchlík  
   - title: Lightning talks
