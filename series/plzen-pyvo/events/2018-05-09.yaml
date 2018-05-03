@@ -25,7 +25,7 @@ talks:
       - Honza Smitka
   - title: Validace datových struktur
     description: |
-        Schematic, knihovna pro validaci dat.
+      Letmý průlet knihovnami pro validaci dat. Podrobněji se seznámíme s knihovnou Schematics. Ukážeme si reálné využití a zajímavější validační schémata.
     speakers:
        - Olda Taufer
   - title: Anonymizace dat
