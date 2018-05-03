@@ -20,15 +20,20 @@ talks:
       - Tomáš Bedřich
   - title: Pandas, analýza dat
     description: |
-        Představení knihovny Pandas na praktickém příkladu ze skutečného světa, zpracování statistik PPC kampaní. Na ukázkovém vzorku dat si ukážeme, jak data načíst, provádět výpočty, filtrovat, řadit, seskupovat a spojovat.
+        Představení knihovny Pandas na praktickém příkladu ze skutečného světa, zpracování statistik PPC kampaní. Na vzorku dat si ukážeme, jak data načíst, provádět výpočty, filtrovat, řadit, seskupovat a spojovat.
     speakers:
       - Honza Smitka
   - title: Validace datových struktur
     description: |
-        (přednáška v jednání)
-
-        Obsah by měl být blízky práci s knihovnami pro validaci dat, jakými jsou např. Schematic nebo Voluptuous. Pokud máte s technologií pro validaci dat zkušenosti a máte chuť a odvahu nám tyto zkušenosti předat, napište.
-    speakers: []
+        Schematic, knihovna pro validaci dat.
+    speakers:
+       - Olda Taufer
+  - title: Anonymizace dat
+    lightning: true
+    description: |
+        Co s hromadami dat, když na vás za rohem číhají nástrahy jako ePrivacy a GDPR. Faker může být, v některých případech, řešení.
+    speakers:
+       - Jirka Prchlík  
   - title: Lightning talks
     lightning: true
     description: |
