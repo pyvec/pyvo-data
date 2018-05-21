@@ -26,13 +26,14 @@ talks:
       description: |
           In this presentation we will poke at
           [MicroPython](http://micropython.org) hiding deep in the silicon
-          jungles of the [PyBoard](https://github.com/micropython/pyboard).
+          jungles of the [PyBoard](https://github.com/micropython/pyboard)
+          and [ESP8266](https://en.wikipedia.org/wiki/ESP8266) microcontrollers.
 
-          We will check out the core libraries that this platform offers, and
+          We will check out the core libraries that the platform offers and
           play with simple scripts to learn the development work flow and system
           APIs.
 
-          The show's going to happen on-stage, unless the board lets its
+          The show's going to happen on-stage, unless the boards let their
           blue smoke out before we get that far.
 
 urls:
