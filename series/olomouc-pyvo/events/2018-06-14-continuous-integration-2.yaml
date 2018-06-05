@@ -5,17 +5,18 @@ topic: "CI #2"
 description: |
     Ahoj!
 
-    Na červnovym Pyvu si zase povíme něco o CI.
+    Na červnovém Pyvu si zase povíme něco o CI.
 
     Těšíme se na vaši účast!
 
 venue: picolo-piratske-centrum-olomouc
 talks:
-  - title: Gitlab + Openshift
+  - title: GitLab + OpenShift
     speakers:
         - Martin Čurlej
-    description: "Ukážeme si ako jednoducho deploynúť
-    python applikáciu pomocou Gitlabu na Openshifte pomocou jedneho commmitu."
+    description: |
+        Ukážeme si ako jednoducho deploynúť Python applikáciu pomocou
+        GitLabu na OpenShifte pomocou jedneho commmitu.
 
     urls: []
     coverage: []
