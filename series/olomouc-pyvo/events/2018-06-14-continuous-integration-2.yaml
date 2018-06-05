@@ -1,0 +1,22 @@
+city: olomouc
+start: 2018-06-14 18:00:00
+name: Olomoucké Pyvo
+topic: "CI #2"
+description: |
+    Ahoj!
+
+    Na červnovym Pyvu si zase povíme něco o CI.
+
+    Těšíme se na vaši účast!
+
+venue: picolo-piratske-centrum-olomouc
+talks:
+  - title: Gitlab + Openshift
+    speakers:
+        - Martin Čurlej
+    description: "Ukážeme si ako jednoducho deploynúť
+    python applikáciu pomocou Gitlabu na Openshifte pomocou jedneho commmitu."
+
+    urls: []
+    coverage: []
+urls: []
