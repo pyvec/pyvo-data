@@ -1,0 +1,15 @@
+city: praha
+start: 2018-06-20 19:00:00
+name: Pražské Pyvo
+number: 87
+topic: Python standardní knihovna
+description: |
+    V sérii lightning talků si zopakujeme, jaké skvělé věci skrývá standardní knihovna Pythonu. Vhodné pro začátečníky i zkušené chovatele.
+talks:
+- title: "Lightning talky"
+  description: |
+    Tentokrát budou především lightning talky. Můžeš jeden mít i ty,
+    viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+    Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
+venue: na-venecku
+urls: []
