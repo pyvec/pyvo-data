@@ -1,0 +1,25 @@
+city: brno
+start: 2018-06-28 19:00:00
+name: Brněnské Pyvo
+topic: Release party
+venue: artbar
+description: |
+    Blíží se nová verze Pythonu!
+
+    Půjde-li vše hladce, den před Pyvem oficiálně vyjde Python 3.7.
+
+    Uvítáme přednášky na témata kolem jazyka, standardní knihovny,
+    interpreteru, nebo o tom jakou verzi Pythonu používáte ve vašem projektu.
+
+    Máš-li na Pyvu co říct, [napiš ogranizátorům](mailto:brno-pyvo@googlegroups.com)!
+
+talks:
+    - title: Python 3.7
+      speakers:
+          - Petr Viktorin
+      description: |
+          * Co přináší poslední rok a půl vývoje
+          * Jak funguje projekt CPython, a jak se do něj zapojit
+          * Co jste chtěli vědět o CPythonu (a nebáli jste se se na Pyvu zeptat)
+
+          Rád nějkteré téma přenechám jinému přednášejícímu :)
