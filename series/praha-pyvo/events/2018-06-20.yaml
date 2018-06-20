@@ -6,10 +6,106 @@ topic: Python standardní knihovna
 description: |
     V sérii lightning talků si zopakujeme, jaké skvělé věci skrývá standardní knihovna Pythonu. Vhodné pro začátečníky i zkušené chovatele.
 talks:
-- title: "Lightning talky"
-  description: |
-    Tentokrát budou především lightning talky. Můžeš jeden mít i ty,
-    viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
-    Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
+
+- speakers:
+    - Honza Javorek
+  title: String formatting
+  lightning: true
+  coverage:
+    - video: https://www.youtube.com/watch?v=9zi4hIL4VmM
+
+- speakers:
+    - stařenka
+  title: "Pelmel: difflib, inspect, operator, webbrowser, tempfile"
+  lightning: true
+  coverage:
+    - video: https://www.youtube.com/watch?v=qGMIg2XCD50
+
+- speakers:
+    - Geňa
+  title: Logging
+  lightning: true
+  coverage:
+    - video: https://www.youtube.com/watch?v=37Gq_Q4p7kU
+
+- speakers:
+    - Tomáš Bedřich
+  title: pathlib
+  lightning: true
+  coverage:
+    - video: https://www.youtube.com/watch?v=bBOtp9goztw
+
+- speakers:
+    - Jiří
+  title: defaultdict, Counter, ChainMap (collections)
+  lightning: true
+  coverage:
+    - video: https://www.youtube.com/watch?v=-dpQ9nw_nl4
+
+- speakers:
+    - Aleš
+  title: namedtuple (collections)
+  lightning: true
+  coverage:
+    - video: https://www.youtube.com/watch?v=pKmy6CQBCgs
+
+- speakers:
+    - Petr Messner
+  title: decimal
+  lightning: true
+  coverage:
+    - video: https://www.youtube.com/watch?v=paf_6jYaS6M
+
+- speakers:
+    - Tomáš Bedřich
+  title: contextlib
+  lightning: true
+  coverage:
+    - video: https://www.youtube.com/watch?v=Iv-LUBgszyY
+
+- speakers:
+    - Miro Hrončok
+  title: functools
+  lightning: true
+  coverage:
+    - video: https://www.youtube.com/watch?v=ZIeqvxb79x4
+
+- speakers:
+    - Ondřej
+  title: array, typing
+  lightning: true
+  coverage:
+    - video: https://www.youtube.com/watch?v=cIgETA4oGbg
+
+- speakers:
+    - Petr Blahoš
+  title: struct, ctypes, csv, sqlite
+  lightning: true
+  coverage:
+    - video: https://www.youtube.com/watch?v=BY_rOTf37QY
+    - slides: https://www.blahos.com/download/pyvo_87_gemsofstdlib.pdf
+
+- speakers:
+    - Honza Pardubický
+  title: itertools
+  lightning: true
+  coverage:
+    - video: https://www.youtube.com/watch?v=5jPJPqwbBZE
+
+- speakers:
+    - Ethan Clime
+  title: Blockchain Hub Prague/Crowdholding
+  lightning: true
+  coverage:
+    - video: https://www.youtube.com/watch?v=zGTMPqm_n94
+    - slides: https://docs.google.com/presentation/d/1Q1b_32W2KRkFSoaxLK5PK7eYg5f2NdmzcJ2QMvcM8us/
+
+- speakers:
+    - Yenda
+  title: (Octopus engine) – IoT/ESP devboard
+  lightning: true
+  coverage:
+    - video: https://www.youtube.com/watch?v=ILwGO__gGiU
+
 venue: na-venecku
 urls: []
