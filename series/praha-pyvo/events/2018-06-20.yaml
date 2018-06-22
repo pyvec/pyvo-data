@@ -13,6 +13,7 @@ talks:
   lightning: true
   coverage:
     - video: https://www.youtube.com/watch?v=9zi4hIL4VmM
+    - slides: https://github.com/aleszoulek/pyvo-stdlib-gems-notebooks/blob/master/02_javor_format.ipynb
 
 - speakers:
     - stařenka
@@ -20,6 +21,7 @@ talks:
   lightning: true
   coverage:
     - video: https://www.youtube.com/watch?v=qGMIg2XCD50
+    - slides: https://github.com/aleszoulek/pyvo-stdlib-gems-notebooks/blob/master/04_starenka_heges.ipynb
 
 - speakers:
     - Geňa
@@ -34,6 +36,7 @@ talks:
   lightning: true
   coverage:
     - video: https://www.youtube.com/watch?v=bBOtp9goztw
+    - slides: https://github.com/aleszoulek/pyvo-stdlib-gems-notebooks/blob/master/07_Tomas_Bedrich_pathlib.ipynb
 
 - speakers:
     - Jiří
@@ -43,11 +46,12 @@ talks:
     - video: https://www.youtube.com/watch?v=-dpQ9nw_nl4
 
 - speakers:
-    - Aleš
+    - Aleš Zoulek
   title: namedtuple (collections)
   lightning: true
   coverage:
     - video: https://www.youtube.com/watch?v=pKmy6CQBCgs
+    - slides: https://github.com/aleszoulek/pyvo-stdlib-gems-notebooks/blob/master/10_Ales_Zoulek_namedtuple.ipynb
 
 - speakers:
     - Petr Messner
@@ -55,6 +59,7 @@ talks:
   lightning: true
   coverage:
     - video: https://www.youtube.com/watch?v=paf_6jYaS6M
+    - slides: https://github.com/aleszoulek/pyvo-stdlib-gems-notebooks/blob/master/11_Petr_Messner_decimal.ipynb
 
 - speakers:
     - Tomáš Bedřich
@@ -69,13 +74,15 @@ talks:
   lightning: true
   coverage:
     - video: https://www.youtube.com/watch?v=ZIeqvxb79x4
+    - slides: https://github.com/aleszoulek/pyvo-stdlib-gems-notebooks/blob/master/14_Miro_functools.ipynb
 
 - speakers:
-    - Ondřej
+    - Ondřej Kokeš
   title: array, typing
   lightning: true
   coverage:
     - video: https://www.youtube.com/watch?v=cIgETA4oGbg
+    - slides: https://github.com/aleszoulek/pyvo-stdlib-gems-notebooks/blob/master/15_ondrej_kokes_array_typing.ipynb
 
 - speakers:
     - Petr Blahoš
