@@ -14,12 +14,29 @@ description: |
     Máš-li na Pyvu co říct, [napiš ogranizátorům](mailto:brno-pyvo@googlegroups.com)!
 
 talks:
-    - title: Python 3.7
+    - title: What's new in Python 3.7
       speakers:
           - Petr Viktorin
       description: |
-          * Co přináší poslední rok a půl vývoje
-          * Jak funguje projekt CPython, a jak se do něj zapojit
-          * Co jste chtěli vědět o CPythonu (a nebáli jste se se na Pyvu zeptat)
-
-          Rád nějkteré téma přenechám jinému přednášejícímu :)
+          A live overview of the new features in Python 3.7
+      coverage:
+      - video: https://www.youtube.com/watch?v=14pBy11VTig
+    - title: Honeypots
+      speakers:
+          - Martin Haller
+      lightning: true
+      coverage:
+      - video: https://www.youtube.com/watch?v=SoCQm1eZ1Bk
+    - title: Python Docs CZ
+      speakers:
+          - Marcel Plch
+          - Vojtěch Ventruba
+      lightning: true
+      coverage:
+      - video: https://www.youtube.com/watch?v=hs2aHh0M9Dk
+    - title: 3.7 Calls to Action
+      speakers:
+          - Sviatoslav Sydorenko
+      lightning: true
+      coverage:
+      - video: https://www.youtube.com/watch?v=i9G9HbnDYRE
