@@ -11,28 +11,28 @@ description: |
   Pozvali jsme programátory (v některých případech spíše vědce a průkopníky), z několika inspirativních firem, 
   kteří pracují s Pythonem.
   
-  Ve formátu 10..15 minut by nám měli povědět o své cestě k Pythonu, o tom jaké knihovny, frameworky, technologie,
-  při své práci používají, kde vidí klady a zápory jejich use case nasazení Pythonu a jeho ekosystému.  
+  Ve formátu 10..15 minut by nám měli povědět o své cestě k Pythonu, o tom jaké knihovny, frameworky, technologie
+  při své práci používají, kde vidí klady a zápory, jejich use case nasazení Pythonu a jeho ekosystému.
   
 talks:
   - title: Úvodní slovo
     speakers:
       - Filip Vaculík
       - Tomáš Bedřich
-  - title: Oracle - Data science 
+  - title: Oracle – Data science 
     speakers:
       - Stephunk
-  - title: Red Hat - Python ve Fedoře
+  - title: Red Hat – Python ve Fedoře
     speakers:
       - Miro Hrončok
-  - title: CZ.NIC - Frontend
+  - title: CZ.NIC – Frontend
     speakers:
       - Michal Seménka 
-  - title: Heuréka - Backendový tooling
+  - title: Heuréka – Backendový tooling
     speakers:
       - Tomáš Bedřich
-  - title: ...a v jednání jsou lidé z dalších několika firem, možná to můžete být i vy, napíšte...     
-      speakers: ... v jednání ...
+  - title: …a v jednání jsou lidé z dalších několika firem, možná to můžete být i vy, napíšte…
+      speakers: …v jednání…
   - title: Lightning talks
     lightning: true
     description: |    
