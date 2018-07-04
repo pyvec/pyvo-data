@@ -1,7 +1,7 @@
 city: plzen
 start: 2018-07-11 18:00:00
 name: Plzeňské Pyvo
-number: 3
+number: 4
 topic: Python ve firmách a jeho lidé, lidé ve firmách a jejich Python
 venue: beer-factory
 description: |
@@ -19,21 +19,23 @@ talks:
     speakers:
       - Filip Vaculík
       - Tomáš Bedřich
-  - title: 'Oracle - Data science 
+  - title: Oracle - Data science 
     speakers:
       - Stephunk
-  - title: 'Red Hat - Python ve Fedoře
+  - title: Red Hat - Python ve Fedoře
     speakers:
       - Miro Hrončok
-  - title: 'CZ.NIC - Frontend
+  - title: CZ.NIC - Frontend
     speakers:
       - Michal Seménka 
-  - title: 'Heuréka - Backendový tooling
+  - title: Heuréka - Backendový tooling
     speakers:
       - Tomáš Bedřich
-  - title: '... a v jednání jsou lidé z dalších několika firem ...     
-      speakers: v jednání
+  - title: ...a v jednání jsou lidé z dalších několika firem, možná to můžete být i vy, napíšte...     
+      speakers: ... v jednání ...
   - title: Lightning talks
+    lightning: true
+    description: |    
     Pokud máte zkušenost se zajímavou technologii, projektem, nebo chcete prezentovat sebe, či svou firmu a její aktivity, nebo
         Témata možno domluvit mailem na filip.vaculik@jsi.cz případně ve vhodnou chvíli při akci.
         Také sbíráme náměty na přednášky pro další Pyva viz. [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
