@@ -36,7 +36,8 @@ talks:
   - title: Lightning talks
     lightning: true
     description: |    
-    Pokud máte zkušenost se zajímavou technologii, projektem, nebo chcete prezentovat sebe, či svou firmu a její aktivity, nebo
+    Pokud máte zkušenost se zajímavou technologii, projektem, nebo chcete prezentovat sebe, či svou firmu a její aktivity,
+    nebojte se přihlásit o slovo. K dispozici můžete mít plných 5 minut pro své téma.
         Témata možno domluvit mailem na filip.vaculik@jsi.cz případně ve vhodnou chvíli při akci.
         Také sbíráme náměty na přednášky pro další Pyva viz. [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
 urls: []
