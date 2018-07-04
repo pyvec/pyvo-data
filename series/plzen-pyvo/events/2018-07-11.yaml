@@ -32,7 +32,8 @@ talks:
     speakers:
       - Tomáš Bedřich
   - title: …a v jednání jsou lidé z dalších několika firem, možná to můžete být i vy, napíšte…
-      speakers: …v jednání…
+    speakers:
+      - …v jednání…
   - title: Lightning talks
     lightning: true
     description: |    
