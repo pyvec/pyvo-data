@@ -12,7 +12,9 @@ description: |
   kteří pracují s Pythonem.
   
   Ve formátu 10..15 minut by nám měli povědět o své cestě k Pythonu, o tom jaké knihovny, frameworky, technologie
-  při své práci používají, kde vidí klady a zápory, jejich use case nasazení Pythonu a jeho ekosystému.
+  při své práci používají, kde vidí klady a zápory use case nasazení Pythonu a jeho ekosystému.
+  
+  V nezičasech a především po hlavním programu bude prostor na další aktivity. Za všechny jmenujme organizaci našich PyLadies.
   
 talks:
   - title: Úvodní slovo
@@ -25,6 +27,9 @@ talks:
   - title: Red Hat – Python ve Fedoře
     speakers:
       - Miro Hrončok
+  - title: Monitora Media - Django girl 
+    speakers:
+      - Štěpánka Lucinová 
   - title: CZ.NIC – Frontend
     speakers:
       - Michal Seménka 
