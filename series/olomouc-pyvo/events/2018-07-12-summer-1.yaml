@@ -1,0 +1,20 @@
+city: olomouc
+start: 2018-07-12 18:00:00
+name: Olomoucké Pyvo
+topic: "Letné Pyvo #1"
+description: |
+    Ahoj!
+
+    začalo nam leto a tak začína nám aj 1. prázdninové pyvo.
+    Takže žiadne prednášky iba posedenie pri pive a dobry pokec.
+
+    Těšíme sa na vašu účasť!
+
+venue: u-morice
+talks:
+  - title: Posedenie pri pive
+    speakers:
+        - Martin Čurlej
+    description: |
+      Žiadne prednášky iba pivo.
+urls: []
