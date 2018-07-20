@@ -8,12 +8,18 @@ description: |
     přednáškami. Na programu jsou jen lightning talky.
 talks:
 - title: Python bites
+  language:
+    slides: en
+    audio: cs
   speakers:
     - František
   lightning: true
   coverage:
     - slides: https://docs.google.com/presentation/d/19VsktiwcVZedVvgi9xn1qMGpW2cKMpDY16Ql0GpEcPQ/
-- title: Pythoní back-end, co pohání LinuxDays.cz
+- title: Back-end, který pohání LinuxDays.cz
+  language:
+    slides: en
+    audio: cs
   speakers:
     - Ondřej Caletka
   lightning: true
@@ -22,6 +28,8 @@ talks:
 - title: Black – The Uncompromising Code Formatter
   speakers:
     - Tomáš Bedřich
+  language:
+    audio: cs
   lightning: true
   coverage:
     - link: https://github.com/ambv/black
