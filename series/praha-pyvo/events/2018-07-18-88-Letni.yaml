@@ -1,0 +1,30 @@
+city: praha
+start: 2018-07-18 19:00:00
+name: Pražské Pyvo
+number: 88
+topic: Letní
+description: |
+    V období letních prázdnin se nebudeme zatěžovat žádnými dlouhými
+    přednáškami. Na programu jsou jen lightning talky.
+talks:
+- title: Python bites
+  speakers:
+    - František
+  lightning: true
+  coverage:
+    - slides: https://docs.google.com/presentation/d/19VsktiwcVZedVvgi9xn1qMGpW2cKMpDY16Ql0GpEcPQ/
+- title: Pythoní back-end, co pohání LinuxDays.cz
+  speakers:
+    - Ondřej Caletka
+  lightning: true
+  coverage:
+    - slides: https://xn--ondej-kcb.caletka.cz/dl/slidy/20180620-Pyvo-Backend_which_powers_LinuxDays.pdf
+- title: Black – The Uncompromising Code Formatter
+  speakers:
+    - Tomáš Bedřich
+  lightning: true
+  coverage:
+    - link: https://github.com/ambv/black
+
+venue: na-venecku
+urls: []
