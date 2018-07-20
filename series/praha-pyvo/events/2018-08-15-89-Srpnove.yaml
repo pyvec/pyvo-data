@@ -1,0 +1,16 @@
+city: praha
+start: 2018-08-15 19:00:00
+name: Pražské Pyvo
+number: 89
+topic: Srpnové
+description: |
+    V období letních prázdnin se nebudeme zatěžovat žádnými dlouhými
+    přednáškami. Na programu jsou jen lightning talky.
+talks:
+- title: "Lightning talky"
+  description: |
+    Krátké a úderné přednášky na libovolné téma. Můžeš jeden mít i ty,
+    viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+    Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
+venue: na-venecku
+urls: []
