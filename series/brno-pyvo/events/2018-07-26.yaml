@@ -1,0 +1,23 @@
+city: brno
+start: 2018-07-26 19:00:00
+name: Brněnské Pyvo
+topic: Pivní
+venue: u-drevaka
+description: |
+    Dear Pythonistas (those who are not attending EuroPython :),
+
+    As usual, during the holidays, Pyvo enters the slow summer mood,
+    so no talks for you in July and August.
+    We wanted to come up with the traditional grill event,
+    but due to the uncertain weather situation,
+    the decision was made to just have a beer at U Dřeváka Beer&Grill.
+    Also, the grill is reserved for August already!
+
+    Come have a chat about Python-related stuff.
+    We might even try to bring few stickers for exchange if anybody
+    is interested :)
+
+    See you on Thursday!
+talks: []
+urls:
+  - https://www.facebook.com/events/439884416491946/
