@@ -1,0 +1,21 @@
+city: olomouc
+start: 2018-08-09 18:00:00
+name: Olomoucké Pyvo
+topic: "Letní Pyvo #2"
+description: |
+    Ahoj!
+
+    léto je v plném proudu a 2. prázdninové Pyvo k tomu jistě patří.
+    Opět posedíme u piva a pohovoříme o všem možném i nemožném. :-)
+
+    Těšíme se na vaši účast!
+
+venue: u-morice
+talks:
+  - title: Posezení u piva
+    speakers:
+        - Martin Čurlej
+        - Filip Valder
+    description: |
+        Žádné přednášky, pouze pivo.
+urls: []
