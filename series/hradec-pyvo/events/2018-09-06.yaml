@@ -1,0 +1,13 @@
+city: hradec-kralove
+start: 2018-09-06 18:00:00
+name: Hradecké Pyvo
+number: 1
+topic: První
+#venue: depo
+description: |
+  První Pyvo v Hradci!
+
+talks:
+  - title: TBD
+    speakers: []
+    description: TBD
