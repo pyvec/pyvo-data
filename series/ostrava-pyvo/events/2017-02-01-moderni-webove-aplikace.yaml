@@ -27,12 +27,14 @@ talks:
   speakers:
   - Honza Javorek
   urls: []
-  coverage: []
+  coverage:
+    - video: https://www.youtube.com/watch?v=QrJy1fdM0Yw
 - title: AngularJS
   speakers:
   - Martin Čurlej
   urls: []
-  coverage: []
+  coverage:
+    - video: https://www.youtube.com/watch?v=iX-kyPQcJ2I
 - title: Single page webová aplikace s využitím virtuálního domu aneb jednoduše a funkcionálně s Bobrilem
   speakers:
   - Josef Bačkovský
