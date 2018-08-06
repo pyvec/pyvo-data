@@ -12,6 +12,9 @@ organizer-info:
   - name: Filip Valder
     phone: '608123966'
     mail: filip.valder@gmail.com
+  - name: Jan Bednařík
+    phone: '603439481'
+    mail: jan.bednarik@gmail.com
 recurrence:
   scheme: monthly
   rrule: RRULE:FREQ=MONTHLY;INTERVAL=1;BYDAY=2TH;BYHOUR=18;BYMINUTE=0;BYSECOND=0
