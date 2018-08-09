@@ -3,11 +3,17 @@ start: 2018-09-06 18:00:00
 name: Hradecké Pyvo
 number: 1
 topic: První
-#venue: depo
+venue: hnizdo-snu
 description: |
   První Pyvo v Hradci!
 
+  Restaurace otevírá v 18 hodin. Pokud plánujete přijít příliš brzy, nebuďte zaskočeni.
+
 talks:
-  - title: TBD
-    speakers: []
-    description: TBD
+  - title: Naučme se cheatovat nejen v Pythonu
+    speakers:
+    - Vladan Laxa
+
+  - title: Seznámení s nástroji pro správu závislostí (virtualenv, pipenv, poetry)
+    speakers:
+    - Robert Richter
