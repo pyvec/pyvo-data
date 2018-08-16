@@ -7,10 +7,30 @@ description: |
     V období letních prázdnin se nebudeme zatěžovat žádnými dlouhými
     přednáškami. Na programu jsou jen lightning talky.
 talks:
-- title: "Lightning talky"
-  description: |
-    Krátké a úderné přednášky na libovolné téma. Můžeš jeden mít i ty,
-    viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
-    Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
+- title: letní čas AKA letní čas AKA kalifornie VS czech
+  speakers:
+    - "@kvbik"
+  lightning: true
+- title: Spotžurnál
+  speakers:
+    - Ondřej Caletka
+  lightning: true
+- title: Hackathony
+  speakers:
+    - Pavol Hejný
+  lightning: true
+- title: Novinky – HW bastlirske moduly
+  speakers:
+    - Honza Č.
+  lightning: true
+  urls:
+    - https://www.instagram.com/octopusengine/
+- title: pozvánka na sprint
+  speakers:
+    - Petr Viktorin
+  lightning: true
+  urls:
+    - https://docs.google.com/forms/d/e/1FAIpQLScjfrjuHDbmLpJfLkxD85thoPhDB9jLCK1JuDAP-61QgA7sgQ/viewform
+
 venue: na-venecku
 urls: []
