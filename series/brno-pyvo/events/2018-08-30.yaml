@@ -1,0 +1,17 @@
+city: brno
+start: 2018-08-30 19:00:00
+name: Brněnské Pyvo
+topic: Bleskový gril
+venue: andini
+description: |
+    Prázdniny jsou v plném proudu a i srpnové Pyvo bude odlehčeně
+    prázdninové.
+    Chceš-li ostatním něco říct, připrav si pětiminutový lightning talk!
+
+    Po přednáškách si zagrilujeme na zahrádce bistra Andini.
+
+talks:
+  - title: Reliability in distributed systems
+    speakers:
+      - Jiří Beneš
+    lightning: true
