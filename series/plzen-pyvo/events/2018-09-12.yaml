@@ -2,7 +2,7 @@ city: plzen
 start: 2018-09-12 18:00:00
 name: Plzeňské Pyvo
 number: 5
-topic: AI  # TODO
+topic: AI - stačí se bát, nebo je lepší poznat?
 venue: beer-factory
 description: |
   Vážení přátelé Pythonu!
@@ -18,12 +18,7 @@ talks:
     speakers:
       - Filip Vaculík
       - Tomáš Bedřich
-  - title: AI  # TODO
-    speakers:
-      - Jan Hicl
-      - David Brožík
-    description: |  # TODO
-        Lorem ipsum dolor sit amet. 
+  - title: TBA
   - title: Lightning talks
     lightning: true
     description: |
