@@ -5,11 +5,11 @@ number: 5
 topic: AI - stačí se bát, nebo je lepší poznat?
 venue: beer-factory
 description: |
-  Vážení přátelé Pythonu!
+  Vážení přátelé!
 
-  Pojďme se po prázdninách zase sejít nad nějakým zajímavým tématem - tentokrát jste si sami odhlasovali AI, neboli umělou inteligenci.
+  Tentokrát se podíváme na téma Artificial intelligence, které při posledním setkání získalo nejvíc hlasů. AI se dnes používá jako buzzword oblast, která pokrývá mnoho různých technologií, technik a přístupů. Některým z nich se budou věnovat naši přednášející.
 
-  Určitě se nemusíte bát přílišné náročnosti – rádi bychom šli spíše do šířky, než do hloubky. Naši přednášející se pokusí lidsky vysvětlit spíše základy a ukázat praktické použití.
+  Neradi bychom vás trápili přílišnou odborností. Rádi bychom toto téma představili i laikům a šli spíše do šířky, než do hloubky. Věříme, že se přednášejícím, podaří lidsky vysvětlit základy a ukázat praktické použití.
 
   Neradi bychom však ošidili pokročilé vývojáře nebo vědce! Určitě nás přijďte seznámit se svou prací nebo libovolnou zajímavostí formou Lightning talku, na který moc rádi navážeme diskuzí u pivka.
   
@@ -18,7 +18,6 @@ talks:
     speakers:
       - Filip Vaculík
       - Tomáš Bedřich
-  - title: TBA
   - title: Lightning talks
     lightning: true
     description: |
