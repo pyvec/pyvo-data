@@ -1,0 +1,18 @@
+city: praha
+start: 2018-09-19 19:00:00
+name: Pražské Pyvo
+number: 90
+topic: Nejlepší knihovny
+description: |
+    V září navážeme na červnové Pyvo a tentokrát si sérií lightning talků představíme knihovny třetích stran, které se určitě vyplatí znát. Vhodné pro začátečníky i zkušené chovatele.
+talks:
+- title: "Lightning talky"
+  description: |
+    Tentokrát budou jen lightning talky, nejprve k tématu, na konci i na libovolné téma.
+    Můžeš jeden mít i ty,
+    viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+    Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
+
+
+venue: na-venecku
+urls: []
