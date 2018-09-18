@@ -1,0 +1,26 @@
+city: brno
+start: 2018-09-27 19:00:00
+name: Brněnské Pyvo
+topic: Grafové
+venue: artbar
+description: |
+    Summer is ending and ArtBar is open after renovations!
+
+    Come talk about Python, graphs, databases, and any other fun parts of life.
+
+talks:
+  - title: Classifying Python Videos with a Graph Database
+    description: |
+        There are so many Python Videos on the web.
+        How do we find the good free videos on the topics we are interested in,
+        and avoid the junk?
+
+        [PythonLinks.info](PythonLinks.info) organize Python-related videos
+        into a tree of categories.
+        It rates each video based on upvotes versus total votes.
+        Swipe left, right, up, or down to browse the tree. 
+
+        This talk discusses the Python Video Ecosystem, the classification approach,
+        and the underlying Python Graph Database *(ZODB)*.
+    speakers:
+      - Christopher Lozinski
