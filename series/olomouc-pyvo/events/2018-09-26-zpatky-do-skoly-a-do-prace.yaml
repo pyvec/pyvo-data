@@ -23,5 +23,12 @@ description: |
 
 venue: picolo-piratske-centrum-olomouc
 talks:
-  - title: TODO
+  - title: Asynchronní programování
+    speakers:
+    - Jan Bednařík
+    lightning: true
+  - title: Mapování
+    speakers:
+    - Miroslav Kuře
+    lightning: true
 urls: []
