@@ -1,0 +1,16 @@
+city: hradec-kralove
+start: 2018-10-25 18:00:00
+name: Hradecké Pyvo
+number: 2
+topic: Druhé
+venue: hnizdo-snu
+description: |
+  Restaurace otevírá v 18 hodin. Pokud plánujete přijít příliš brzy, nebuďte zaskočeni.
+talks:
+  - title: MicroPython ve světě IoT zařízení
+    speakers:
+    - Vladan Laxa
+
+  - title: Jak se hravě zdokonalovat (nejen) v Pythonu
+    speakers:
+    - Robert Richter
