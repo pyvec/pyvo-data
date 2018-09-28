@@ -6,13 +6,110 @@ topic: Nejlepší knihovny
 description: |
     V září navážeme na červnové Pyvo a tentokrát si sérií lightning talků představíme knihovny třetích stran, které se určitě vyplatí znát. Vhodné pro začátečníky i zkušené chovatele.
 talks:
-- title: "Lightning talky"
-  description: |
-    Tentokrát budou jen lightning talky, nejprve k tématu, na konci i na libovolné téma.
-    Můžeš jeden mít i ty,
-    viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
-    Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
-
+- title: pytest
+  speakers:
+  - Dmitry Dygalo
+  coverage:
+  - slides: https://gitpitch.com/Stranger6667/talks/master?p=articles/pytest-cheat-sheet
+  - video: https://www.youtube.com/watch?v=iyYjJ7XpcDc
+  lightning: true
+- title: python-circuit
+  speakers:
+  - Aleš Zoulek
+  coverage:
+  - slides: https://github.com/edgeware/python-circuit
+  - video: https://www.youtube.com/watch?v=xyx8xj96sYg
+  lightning: true
+- title: Proč ne sh a co místo toho
+  speakers:
+  - Honza Javorek
+  coverage:
+  - video: https://www.youtube.com/watch?v=lcAqraeD7S8
+  lightning: true
+- title: glom
+  speakers:
+  - Ondra Nejedlý
+  coverage:
+  - slides: http://glom.readthedocs.io/
+  - video: https://www.youtube.com/watch?v=5LbIS37Lkt8
+  lightning: true
+- title: tqdm
+  speakers:
+  - Ondrej Kokes
+  coverage:
+  - slides: https://github.com/tqdm/tqdm
+  - video: https://www.youtube.com/watch?v=7W4IB_pZtxQ
+  lightning: true
+- title: requests
+  speakers:
+  - Markéta Mužíková
+  coverage:
+  - slides: https://drive.google.com/file/d/1pUY7daM3NkNZmxW1xnH7z4bTx-VYrmG2/view?usp=sharing
+  - video: https://www.youtube.com/watch?v=cpZwuZ31pSI
+  lightning: true
+- title: click
+  speakers:
+  - Honza Král
+  coverage:
+  - slides: http://click.pocoo.org/5/
+  - video: https://www.youtube.com/watch?v=K-S-te6COAE
+  lightning: true
+- title: llconfig
+  speakers:
+  - Tomáš Bedřich
+  coverage:
+  - slides: https://pypi.org/project/llconfig/
+  - video: https://www.youtube.com/watch?v=-SidVb7WHlY
+  lightning: true
+- title: The Best Python Videos
+  speakers:
+  - Christopher Lozinski
+  coverage:
+  - slides: http://pythonlinks.info/
+  - video: https://www.youtube.com/watch?v=WU5GTxbPgus
+  lightning: true
+- title: Octopus ROBOT
+  speakers:
+  - Honza
+  description: na naší nové desce s ESP32, rádi bychom v mikroPythonu 
+  coverage:
+  - slides: http://www.octopuslab.cz/vyvojove-desky/robot-board/
+  - video: https://www.youtube.com/watch?v=XIhReyDWhHc
+  lightning: true
+- title: PyLadies in English
+  speakers:
+  - Markéta Mužíková
+  lightning: true
+  coverage:
+  - video: https://www.youtube.com/watch?v=mdCNaoYfDFo
+- title: LinuxDays Python stánek Tě potřebuje!
+  speakers:
+  - Miro Hrončok
+  coverage:
+  - video: https://www.youtube.com/watch?v=IHgGVIdOz0I
+  lightning: true
+- title: PyData Prague
+  speakers: []
+  lightning: true
+  coverage:
+  - video: https://www.youtube.com/watch?v=LLdr_dKlEGY
+- title: PyconPL 2018 – kratké info o konferenci
+  speakers: []
+  coverage:
+  - slides: https://www.python-challenges.com/
+  - video: https://www.youtube.com/watch?v=mF18WOsnj2Y
+  lightning: true
+- title: Python Akademie Silicon Hill
+  speakers:
+  - Jakub Marek
+  coverage:
+  - slides: https://gitlab.com/uploads/-/system/personal_snippet/1755330/86f67aa0ac1266ffeef967543687ff69/edu-sh-pyvo.pdf
+  - video: https://www.youtube.com/watch?v=8I46wcNrzDQ
+  lightning: true
+- title: call for coaches on behalf of Prague PyLadies
+  speakers:
+  - Honza Javorek
+  lightning: true
 
 venue: na-venecku
 urls: []
