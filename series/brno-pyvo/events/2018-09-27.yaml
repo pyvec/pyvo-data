@@ -24,3 +24,5 @@ talks:
         and the underlying Python Graph Database *(ZODB)*.
     speakers:
       - Christopher Lozinski
+    coverage:
+      - video: https://www.youtube.com/watch?v=0_2RjqFgngE
