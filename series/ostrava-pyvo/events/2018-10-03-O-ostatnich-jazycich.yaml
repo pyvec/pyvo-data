@@ -21,6 +21,24 @@ description: |
     Rozhodně se stavte, bude to stát za to.
 
 venue: vr-levsky
-talks: []
+talks:
+- title: Go a Rust
+  speakers:
+  - Martin Čurlej
+  urls: []
+  coverage:
+  - video: https://www.youtube.com/watch?v=Sh5MZ07MEWk
+- title: Ruby!
+  speakers:
+  - Glutexo
+  urls: []
+  coverage:
+  - video: https://www.youtube.com/watch?v=MDj0xzi6saw
+- title: Jak vypadá Hello World v různých jazycích
+  lightning: true
+  speakers:
+  - Lumír Balhar
+  urls: []
+  coverage: []
 urls:
 - https://www.meetup.com/Ostravske-Pyvo/events/255053140/
