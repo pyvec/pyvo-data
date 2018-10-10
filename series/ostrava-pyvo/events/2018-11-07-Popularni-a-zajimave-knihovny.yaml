@@ -1,0 +1,25 @@
+city: ostrava
+start: 2018-11-07 19:00:00
+name: Ostravské Pyvo
+topic: Populární a zajímavé knihovny
+description: |
+    Ahoj!
+
+    Python sám o sobě přichází tzv. with batteries included, což znamená,
+    že má bohatou standardní knihovnu, která nám umožní naprogramovat různé
+    aplikace aniž bychom museli vynalézat znovu kolo. Ani do standardní
+    knihovny se však nevleze vše a tak je internet plný zajímavých knihoven
+    a aplikací, které s vývojem mohou pomoci a velmi ho ulehčit. Některé
+    jsou dokonce tak populární, že zcela zastínily své alternativy ve
+    standardní knihovně.
+
+    Na Pyvu se podíváme na některé zástupce těch nejpopulárnějších knihoven
+    a také na pár zajímavých kousků. Pokud máš vlastní oblíbenou knihovnu,
+    ozvi se.
+
+    Těšíme se.
+
+venue: vr-levsky
+talks: []
+urls:
+- https://www.meetup.com/Ostravske-Pyvo/events/fbcmjqyxpbkb/
