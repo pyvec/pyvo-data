@@ -1,0 +1,9 @@
+city: Liberec
+name: Restaurace Šnyt
+address: Sokolská 1365, Liberec
+notes: |
+  Máme rezervovaný salonek pro 20 lidí. Na [webových stránkách restaurace](http://www.snyt-liberec.cz/) je k dispozici jídelní i nápojový lístek.
+
+location:
+  latitude: '50.772374'
+  longitude: '15.055363'
