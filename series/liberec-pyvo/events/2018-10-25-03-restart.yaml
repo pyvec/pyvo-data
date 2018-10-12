@@ -1,0 +1,20 @@
+city: liberec
+start: 2018-10-25 18:00:00
+name: Liberecké Pyvo
+number: 3
+topic: Restart
+venue: snyt
+description: |
+  Liberecké Pyvo se nám přes léto trochu zadrhlo a byla by škoda, aby nepokračovalo. Pojďme ho poslední čtvrtek v říjnu restartovat. Ač se akce koná pod záštitou Python komunity, vítáni jsou programátoři a admini používající jakýkoli (i žádný) programovací jazyk.
+
+  Abychom věděli, s kolika lidmi můžeme počítat, prosím **[nahlaste svou účast](https://doodle.com/poll/4p9rbcxf7e5yw9zp)**. Díky!
+
+  Program teprve vzniká. Máte-li nějaký nápad, pište organizátorům.
+
+
+talks:
+  - title: TBD
+    description: obsah zařizujeme
+  - title: Lightning talks
+    description: |
+           Na závěr bude prostor pro krátké přednášky na libovolné téma. Jediným omezením je časový limit pět minut (včetně prostoru pro dotazy). Registrujte svůj *lightning talk* na [lipyvo.jdem.cz](http://lipyvo.jdem.cz/).
