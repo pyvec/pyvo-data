@@ -1,0 +1,13 @@
+﻿city: brno
+start: 2018-10-25 19:00:00
+name: Brněnské Pyvo
+topic: Časové
+venue: artbar
+description: |
+    Na tomto Pyvu se budeme věnovat času. Student z VUT nám poví, jak pomocí Pythonu vytvořil webové rozhraní ke své bakalářské práci.
+talks:
+  - title: Měření času a přístup k datům (nejen) díky Flasku
+    description: |
+        Úspěšné snahy neznalce pythonu o vytvoření funkčního programu na úpravu získaných dat a jejich prezentaci v reálném čase přes webové rozhraní pomocí Pythnu 3.6 a microframeworku Flask.
+    speakers:
+      - Petr Kratochvíl
