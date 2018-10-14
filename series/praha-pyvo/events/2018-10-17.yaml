@@ -1,0 +1,14 @@
+city: praha
+start: 2018-10-17 19:00:00
+name: Pražské Pyvo
+number: 91
+description: |
+    Sice nevíme o programu, ale Pyvo určitě bude!
+talks:
+- title: "Lightning talky"
+  description: |
+    Dojde určitě i na lightning talky. Můžeš jeden mít i ty,
+    viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+    Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
+venue: na-venecku
+urls: []
