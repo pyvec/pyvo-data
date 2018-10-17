@@ -4,3 +4,10 @@ The data is pulled from Lanyrd using https://github.com/pyvec/lanyrd-pyvo-pull
 for use in https://github.com/pyvec/pyvodb and http://pyvo.cz.
 
 [![Build Status](https://travis-ci.org/pyvec/pyvo-data.svg?branch=master)](https://travis-ci.org/pyvec/pyvo-data)
+
+How to add an event
+-------------------
+
+1. Go to your event location folder in `series/<location-name>/events` and copy the previous event's `.yaml` file into a new file named with the new event's date.
+
+2. Change the values to represent the new event's info and date.
