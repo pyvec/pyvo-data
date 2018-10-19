@@ -17,9 +17,10 @@ talks:
     description: Jaká úskalí skýtá obyčejné přehraní video souboru na počítači a jaká dědictví si tato problematika nese z éry analogového filmu a videa?
     speakers:
       - Ondřej Spáčil
+  - title: Windows subsystem for Linux
+    lightning: true
+    speakers:
+      - Ondřej Spáčil
   - title: Lightning talks
     description: |
            Na závěr bude prostor pro krátké přednášky na libovolné téma. Jediným omezením je časový limit pět minut (včetně prostoru pro dotazy). Registrujte svůj *lightning talk* na [lipyvo.jdem.cz](http://lipyvo.jdem.cz/).
-  - title: Windows subsystem for Linux
-    speakers:
-      - Ondřej Spáčil
