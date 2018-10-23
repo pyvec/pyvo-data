@@ -3,8 +3,12 @@ city: liberec
 description:
   cs: |
     Příležitostná setkání nejen pro programátory v Pythonu.
+
+    Máte-li zájem diskutovat s Libereckými Pyvaři, přihlaste se do [skupiny Google](https://groups.google.com/a/pyvo.cz/forum/#!forum/liberec) nebo do [skupiny na Telegramu](https://t.me/PyvoLiberec).
   en: |
     Occasional meetings not only for Python programmers.
+    
+    If you want to talk with attendees of Liberec's Pyvo meetups, join the [Google group](https://groups.google.com/a/pyvo.cz/forum/#!forum/liberec) and/or [Telegram group](https://t.me/PyvoLiberec).
 organizer-info:
   - name: Ondřej Caletka
     mail: ondrej@caletka.cz
