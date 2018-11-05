@@ -11,6 +11,8 @@ talks:
         Úspěšné snahy neznalce pythonu o vytvoření funkčního programu na úpravu získaných dat a jejich prezentaci v reálném čase přes webové rozhraní pomocí Pythnu 3.6 a microframeworku Flask.
     speakers:
       - Petr Kratochvíl
+    coverage:
+      - video: https://www.youtube.com/watch?v=vOHj2-rbv1o
   - title: Dvě programátorské povahy
     description: |
         Vymyslíš, pospojuješ, za půl dne máš funkční prototyp. Tvůj kód je ale škaredý a nikdo se v něm už nikdy nevyzná. Konvence neřešíš, hlavně že to funguje. Dobrá práce? Špatná práce?
@@ -20,3 +22,5 @@ talks:
         Máš tým programátorů a vidíš, že tam jsou lidi dvou dost odlišných povah. Tým není efektivní a ještě se hádá. Špatná práce. Co s tím?
     speakers:
       - Honza Javorek
+    coverage:
+      - video: https://www.youtube.com/watch?v=iQe9X0LgKR0

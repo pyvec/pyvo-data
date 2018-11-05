@@ -3,12 +3,45 @@ start: 2018-10-17 19:00:00
 name: Pražské Pyvo
 number: 91
 description: |
-    Sice nevíme o programu, ale Pyvo určitě bude!
+    Panel o Open Source, lightning talks a živá diskuse.
 talks:
-- title: "Lightning talky"
-  description: |
-    Dojde určitě i na lightning talky. Můžeš jeden mít i ty,
-    viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
-    Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
+- title: "Panel on Open Source"
+  speakers:
+  - Stan Prokop
+  - Honza Král
+  - Miro Hrončok
+  - Petr Viktorin
+  coverage:
+  - video: https://www.youtube.com/watch?v=7CtgWeuRaTQ
+- title: "Lessons learned from making an open-source library"
+  lightning: true
+  speakers:
+  - Stan Prokop
+  coverage:
+  - video: https://www.youtube.com/watch?v=p-smw80xAu0
+- title: "Co lidi dělají, když neví jak dál "
+  lightning: true
+  speakers:
+  - Timothy Hobbs
+  coverage:
+  - slides: https://drive.google.com/file/d/1ZwozvAK9hB8PhE_-zbCsFpCu3x85Kvxz/view?usp=sharing
+  - video: https://www.youtube.com/watch?v=xO1S0f6wGgE
+- title: "datastructs"
+  lightning: true
+  speakers:
+  - Jan Seifert
+  coverage:
+  - slides: http://python.fotkyzcest.net/pyvo/prezentace-datastructs/
+  - video: https://www.youtube.com/watch?v=yu59nBQM2lo
+- title: "web3"
+  lightning: true
+  speakers:
+  - Augusto Lemble
+  coverage:
+  - video: https://www.youtube.com/watch?v=pYMJ_nyIIs0
+- title: "DevConf.cz"
+  lightning: true
+  speakers:
+  - Petr Viktorin
 venue: na-venecku
 urls: []
