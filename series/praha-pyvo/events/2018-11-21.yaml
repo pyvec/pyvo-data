@@ -3,12 +3,21 @@ start: 2018-11-21 19:00:00
 name: Pražské Pyvo
 number: 92
 description: |
-    Sice nevíme o programu, ale Pyvo určitě bude!
+    Developer Experience
 talks:
+
+- title: "Developer Experience - The only way how to have happy & productive developers"
+  speakers:
+  - "Honza Minárik, Solution Architect @ Applifting"
+  description: |
+    What was the last time you stopped to sharpen your tools? What was the last time you thought about the way you work?
+    Delivery is important but must be done in a sustainable way. We would like to share our checklist of general principles that lead to happy developers that love their work.
+
 - title: "Lightning talky"
   description: |
     Dojde určitě i na lightning talky. Můžeš jeden mít i ty,
     viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
     Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
+
 venue: na-venecku
 urls: []
