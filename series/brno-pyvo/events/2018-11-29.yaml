@@ -4,11 +4,11 @@ name: Brněnské Pyvo
 topic: Projektové a Okna
 venue: artbar
 description: |
-    Na tomto Pyvu si řekneme jak příjemněji používat a spravovat Windows a jak se co nejvíce přiblížit prostředí na které jsme zvyklí z Linuxu. Dále něco o sdílení projektů nejen pro Python nováčky.
+    Na tomto Pyvu si řekneme jak příjemněji používat a spravovat Windows a jak se co nejvíce přiblížit prostředí, které funguje na Linuxu. Dále něco o sdílení projektů nejen pro Python nováčky.
 talks:
   - title: Linuxové vývojové prostředí ve Windows
     description: |
-        Nastavení rozumného vývojového prostředí a správa softwaru ve Windows nemusí být nejpříjemnější. Ukážeme si "balíčkovací systém" chocolatey, ipython a msys2 a rozumnou příkazovou řádku s příkazy na které jsme zvyklí z Linuxu.
+        Nastavení rozumného vývojového prostředí a správa softwaru ve Windows nemusí být nejpříjemnější. Ukážu "balíčkovací systém" chocolatey, ipython a msys2 a rozumnou příkazovou řádku s příkazy na které jsem zvyklý z Linuxu.
     speakers:
       - Tomáš Mikulec
     coverage:
