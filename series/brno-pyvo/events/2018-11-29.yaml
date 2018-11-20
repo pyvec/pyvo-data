@@ -1,0 +1,24 @@
+city: brno
+start: 2018-11-29 19:00:00
+name: Brněnské Pyvo
+topic: Projektové a Okna
+venue: artbar
+description: |
+    Na tomto Pyvu si řekneme, jak příjemněji používat a spravovat Windows a jak se co nejvíce přiblížit prostředí, které funguje na Linuxu. Dále něco o sdílení projektů nejen pro Python nováčky.
+talks:
+  - title: Linuxové vývojové prostředí ve Windows
+    description: |
+        Nastavení rozumného vývojového prostředí a správa softwaru ve Windows nemusí být nejpříjemnější. Ukážu "balíčkovací systém" chocolatey, ipython, msys2 a rozumnou příkazovou řádku s příkazy, na které jsem zvyklý z Linuxu.
+    speakers:
+      - Tomáš Mikulec
+  - title: Projekty, aneb Kafe s Pomerančem
+    description: |
+        Během svých Python kurzů mě napadá spousta projektů, v cestě ale stojí jednak jakým způsobem zaujmout účastníky a ukázat jim, co vše je možné, a jednak jak jim po pochopení základů dát jednodušší projekty, do kterých se můžou hned pustit.
+        Kam všechny nápady sepsat tak, aby si mohli nováčci dobře vybrat? Bude to zajímavé i pro ostatní? Asi mám nápad na řešení.
+    speakers:
+      - Tomáš Mikulec
+  - title: "Lightning talky"
+    description: |
+        Dojde určitě i na lightning talky. Jeden můžeš mít i ty.
+        Viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+        Registrace není nutná.
