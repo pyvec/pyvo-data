@@ -1,0 +1,25 @@
+city: ostrava
+start: 2018-12-05 19:00:00
+name: Ostravské Pyvo
+topic: Analýza dat
+description: |
+    Ahoj!
+
+    Data o všem možném jsou všude kolem nás a s každým dalším rozšířením
+    technologického pokroku jich je více a více. V surových datech se
+    skrývají mnohé zajímavé informace a souvislosti, které ale někdo musí
+    nejdříve analyzovat, aby mohl získat nějakou zajímavou informaci či
+    konkurenční výhodu.
+
+    Prosincové Pyvo věnujeme analýze dat. Podíváme se společně na možné
+    zdroje dat k analýze, ukážeme si základy explorativní analýzy a dojde i
+    na moderní nástroje a přístupy strojového učení.
+
+    Máš k tématu co říci? Napiš nám!
+
+    Těšíme se.
+
+venue: vr-levsky
+talks: []
+urls:
+- https://www.meetup.com/Ostravske-Pyvo/events/256594968/
