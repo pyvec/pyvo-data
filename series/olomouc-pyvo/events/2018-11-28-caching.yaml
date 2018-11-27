@@ -1,0 +1,23 @@
+city: olomouc
+start: 2018-11-28 18:00:00
+name: Olomoucké Pyvo
+topic: Caching
+description: |
+    Ahoj!
+
+    Tématem dalšího Pyva je Caching nebo-li kešování. Přednáška bude v
+    angličtině, ale nezoufejte, pivo se bude točit české! A diskuse s
+    připravenými či improvizovanými lightning talky bude také tradičně v češtině.
+
+    Pokud máte nějakou přednášku či téma na příště, dejte nám vědět v
+    [mailing listu Olomouckého Pyva](https://groups.google.com/forum/#!forum/olomoucke-pyvo).
+    A přidejte se do mailing listu pro aktuální info.
+
+    Těšíme se na vaši hojnou účast!
+
+venue: picolo-piratske-centrum-olomouc
+talks:
+  - title: Caching (en)
+    speakers:
+      - Aleh Filipovich
+urls: []
