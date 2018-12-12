@@ -1,0 +1,17 @@
+city: praha
+start: 2018-12-19 19:00:00
+name: Pražské Pyvo
+number: 93
+topic: Vánoční hardwarový speciál
+description: |
+    Pyvo hardwarové, Pyvo vánoční! Přineste ostatním ukázat všechna blikátka, dejchátka, točítka, hry –
+    proste vše, co najdete na půdě hardwarového, po dědečkovi i babičce!
+    Směňte to, co už máte a nepotřebujete, za to, co rozhodně nutně potřebujete. Připravte si na to rozhodně i lightning talk, ať se něco nového dozvíme.
+venue: na-venecku
+urls: []
+talks:
+ - title: "Lightning talky"
+   description: |
+     Dojde určitě i na lightning talky. Můžeš jeden mít i ty,
+     viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+     Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
