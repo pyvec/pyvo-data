@@ -1,0 +1,26 @@
+city: ostrava
+start: 2019-01-09 19:00:00
+name: Ostravské Pyvo
+topic: Jak jdou webové aplikace do světa
+description: |
+    POZOR ZMĚNA! Protože první středa je hned 2. ledna, posouvá se Pyvo o
+    týden na středu 9. ledna.
+
+    Ahoj!
+
+    Napsat si webovou aplikaci dnes díky frameworkům zvládne i začátečník.
+    Potíže však nastanou, když by ji rád zpřístupnil celému světu. Kupovat
+    a provozovat si vlastní servery už se dnes nenosí a veřejné cloudy
+    nabízí široké spektrum možností. Pojďme se společně podívat, jak dostat
+    webovou aplikaci do veřejně přístupných cloudů.
+
+    Probereme si jednoduché možnosti, které jsou pro méně náročné uživatele
+    dostupné i zdarma, a dostane se i na komplexní využití cloudů s
+    možností škálování.
+
+    Těšíme se.
+
+venue: vr-levsky
+talks: []
+urls:
+- https://www.meetup.com/Ostravske-Pyvo/events/257305776/
