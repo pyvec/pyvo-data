@@ -23,9 +23,9 @@ talks:
       - video: https://www.youtube.com/watch?v=tdQMFW10WTc
   - title: Docs with Sphinx
     speakers:
-      - Martin Javorek
+      - Honza Javorek
     coverage:
-      - video: https://www.youtube.com/watch?v=YoIWm6PIEww
+      - video: https://www.youtube.com/watch?v=GduPlIhuliI
   - title: py-spy
     speakers:
       - Martin Bašti
