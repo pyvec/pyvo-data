@@ -5,13 +5,59 @@ number: 93
 topic: Vánoční hardwarový speciál
 description: |
     Pyvo hardwarové, Pyvo vánoční! Přineste ostatním ukázat všechna blikátka, dejchátka, točítka, hry –
-    proste vše, co najdete na půdě hardwarového, po dědečkovi i babičce!
+    prostě vše, co najdete na půdě hardwarového, po dědečkovi i babičce!
     Směňte to, co už máte a nepotřebujete, za to, co rozhodně nutně potřebujete. Připravte si na to rozhodně i lightning talk, ať se něco nového dozvíme.
 venue: na-venecku
 urls: []
 talks:
- - title: "Lightning talky"
-   description: |
-     Dojde určitě i na lightning talky. Můžeš jeden mít i ty,
-     viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
-     Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
+- title: Photoboxee - automatizovaný fotobox
+  speakers:
+  - Jan Lucina
+  language:
+    audio: cs
+    slides: cs
+  coverage:
+  - video: https://www.youtube.com/watch?v=m__GE0Da6P8
+  - slides: https://docs.google.com/presentation/d/1yNoBeWvyfuzRzncJnK56MZ_V4sDgf0jpHDpOW11Z12g/view
+- title: Kouzelné zrcadlo
+  speakers:
+  - Radek Švarz
+  language:
+    audio: cs
+    slides: cs
+  coverage:
+  - video: https://www.youtube.com/watch?v=i-nYJjepZ1I
+- title: Jak nakreslit ručičkové hodiny
+  speakers:
+  - Ondřej Caletka
+  lightning: true
+  language:
+    audio: cs
+    slides: cs
+  coverage:
+  - video: https://www.youtube.com/watch?v=dzkhGW5dMi8
+  - slides: https://docs.google.com/presentation/d/11zymTXAWujLNuZBaXF5MspweuwWTqIV9z5X2n02Racs/view
+- title: NodeConf EU badge
+  speakers:
+  - Honza Javorek
+  lightning: true
+  coverage:
+  - video: https://www.youtube.com/watch?v=rUH1ZvWsbGs
+  - link: https://nodeconfeubadge.org/
+- title: Tech únikových her
+  speakers:
+  - Adam Ježek
+  lightning: true
+- title: OctopusLAB – zábavné destičky
+  speakers:
+  - Jan Čopák
+  lightning: true
+  coverage:
+  - video: https://www.youtube.com/watch?v=UeT-SZSKIGg
+  - link: https://www.octopuslab.cz/
+- title: fun with sscanf
+  speakers:
+  - Miro Hrončok
+  lightning: true
+  coverage:
+  - video: https://www.youtube.com/watch?v=IejPH4ERBJc
