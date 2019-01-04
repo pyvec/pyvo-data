@@ -1,0 +1,23 @@
+city: brno
+start: 2018-03-28 19:00:00
+name: Brněnské Pyvo
+topic: Učení
+venue: artbar
+description: |
+    Pojďme si popovídat o učení.
+    Ne o tom strojovém, které je teď tak populární, ale o tom obyčejném, lidském.
+    Jak a proč se učit programovat?
+    Ať už od začátků, nebo, když už to člověk umí, jak se vzdělávat dál?
+    Jak a proč učit někoho jiného?
+    Kdy je dobré začít?
+    Těšíme se na vás a na vaše příspěvky do diskuze.
+
+talks:
+  - title: Jak se učit Python
+    description: |
+      - Motivace a recepty na učení se Pythonu, Digilní akademie Czechitas, oblíbení autoři na YouTube, ksi, pythoanywhere a další
+      - Zkušenosti z pracovních pohovorů
+    speakers:
+      - Martina Burjanová
+    coverage:
+      - video: X
