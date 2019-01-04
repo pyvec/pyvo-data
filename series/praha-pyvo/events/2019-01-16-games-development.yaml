@@ -8,7 +8,7 @@ description: |
 venue: na-venecku
 urls: []
 talks:
-- title: Kingdom Come: Deliverance (by Warhorse)
+- title: "Kingdom Come: Deliverance (by Warhorse)"
   speakers:
   - Martin Klima
 - title: Proč (se na)učit Python na hrách
