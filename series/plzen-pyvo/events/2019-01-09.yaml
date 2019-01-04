@@ -19,8 +19,20 @@ talks:
       - Filip Vaculík
       - Tomáš Bedřich
   - title: Seznámení s terminologií, motivace
-  - title: Praktická přednáška pro začátečníky (TBA)
-  - title: Pokročilejší přednáška (TBA)
+    speakers:
+      - Tomáš Bedřich
+  - title: Praktický úvod do MongoDB pro začátečníky
+    speakers:
+      - Petr Messner
+    description: |
+      Petr nám ukáže, jak spustit MongoDB u sebe na počítači a připojit se k němu pomocí Pythonu.
+      Naučíme se základy toho, jak s touto DB vůbec pracovat a co vše se s ní dá dělat.
+  - title: ElasticSearch – použití, testování, tipy & triky
+    speakers:
+      - Martin Kubát
+    description: |
+      Martin nám poví, k čemu se používá ElasticSearch, různé tipy a triky pro práci s ním a něco málo k tématu testování.
+      Přednáška je obzvláště vhodná pro ty, kteří znají relační DB a pokukují po jiných možnostech.
   - title: Lightning talks
     lightning: true
     description: |
