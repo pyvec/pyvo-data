@@ -15,9 +15,7 @@ description: |
 talks:
   - title: Jak se učit Python
     description: |
-      - Motivace a recepty na učení se Pythonu, Digilní akademie Czechitas, oblíbení autoři na YouTube, ksi, pythoanywhere a další
+      - Motivace a recepty na učení se Pythonu, Digitální akademie Czechitas, oblíbení autoři na YouTube, ksi, pythoanywhere a další
       - Zkušenosti z pracovních pohovorů
     speakers:
       - Martina Burjanová
-    coverage:
-      - video: X
