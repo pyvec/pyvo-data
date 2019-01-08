@@ -8,12 +8,15 @@ description: |
 venue: na-venecku
 urls: []
 talks:
-- title: "Kingdom Come: Deliverance (by Warhorse)"
+- title: TBD
   speakers:
-  - Martin Klima
+  - Martin Klíma (Warhorse Studios)
 - title: Proč (se na)učit Python na hrách
   speakers:
   - Petr Viktorin
+- title: Game Development + Python = ?
+  speakers:
+  - Stan Prokop
 - title: "Lightning talky"
   description: |
     Dojde určitě i na lightning talky. Můžeš jeden mít i ty,
