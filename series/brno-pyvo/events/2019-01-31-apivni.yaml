@@ -1,0 +1,21 @@
+city: brno
+start: 2019-01-31 19:00:00
+name: Brněnské Pyvo
+topic: APIvní
+venue: artbar
+description: |
+    Chceš použít knihovnu na jednoduchý úkon a výsledku se nedomůžeš.
+
+    Netušíš, jak jsi to udělal, ale knihovna se zjevně o vše postarala sama.
+
+    To jsou dvě možné varianty, jak může vypadat API, pojďme se na
+    nějaké/nějaká z nich podívat!
+talks:
+  - title: Discord API
+    description: |
+        Discord je v poslední době stále populárnější aplikace zaplňující díru,
+        kde dříve byl TeamSpeak či Ventrilo. K čemu je u takové aplikace užitečné
+        API a co se s ním dá dělat? Ukážeme si třeba, jak si napsat pomocníka do
+        skupinového chatu.
+    speakers:
+      - Marcel Plch
