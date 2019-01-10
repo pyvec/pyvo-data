@@ -1,0 +1,40 @@
+city: brno
+start: 2019-01-31 19:00:00
+name: Brněnské Pyvo
+topic: APIvní
+venue: artbar
+description: |
+    Chceš použít knihovnu na jednoduchý úkon a výsledku se nedomůžeš.
+
+    Netušíš, jak jsi to udělal, ale knihovna se zjevně o vše postarala sama.
+
+    To jsou dvě možné varianty, jak může vypadat API, pojďme se na
+    nějaké/nějaká z nich podívat!
+
+    ------
+
+    You want to use a library to accomplish a simple task. Which becomes
+    unbeatable.
+
+    You have no idea how you did it, but it works. The library seems to handle
+    stuff pretty much on it's own.
+
+    Those are two possible stories which can happen when using an API.
+    Let's take a look at some of those!
+talks:
+  - title: Discord API
+    description: |
+        Discord je v poslední době stále populárnější aplikace zaplňující díru,
+        kde dříve byl TeamSpeak či Ventrilo. K čemu je u takové aplikace užitečné
+        API a co se s ním dá dělat? Ukážeme si třeba, jak si napsat pomocníka do
+        skupinového chatu.
+
+        ------
+
+        Discord is an app that has been lately gaining on popularity which
+        nowadays fills the whole, where there were apps like TeamSpeak or
+        Ventrilo. Why would you even need an API for such an app and what
+        can you do with it? For example, a group chat bot can get very
+        handy.
+    speakers:
+      - Marcel Plch
