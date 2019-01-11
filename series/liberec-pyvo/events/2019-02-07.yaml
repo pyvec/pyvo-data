@@ -1,0 +1,24 @@
+city: liberec
+start: 2019-02-07 18:00:00
+name: Liberecké Pyvo
+number: 4
+topic: čtvrté
+venue: depo
+description: |
+  Téměř přesně po roce je tu čtvrté Liberecké Pyvo, programátorský sraz nejen o Pythonu.
+
+  Abychom věděli, s kolika lidmi můžeme počítat, prosím **[nahlaste svou účast](https://doodle.com/poll/ir52xp4t98bakwqe)**. Díky!
+
+talks:
+  - title: Robot Matylda (předběžně)
+    speakers:
+      - Michal Seidl
+
+  - title: TBA
+    description: |
+        Máte-li námět na cokoli, co by mohlo přítomné zajímat, kontaktujte organizátory.
+
+  - title: Lightning talks
+    lightning: true
+    description: |
+            Krátké přednášky na libovolné téma. Jediným omezením je časový limit pět minut (včetně prostoru pro dotazy). Registrujte svůj *lightning talk* na [lipyvo.jdem.cz](http://lipyvo.jdem.cz/).
