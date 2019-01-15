@@ -1,0 +1,15 @@
+city: hradec-kralove
+start: 2019-02-07 18:00:00
+name: Hradecké Pyvo
+number: 3
+topic: Třetí
+venue: pivovarske-domy
+description: ""
+talks:
+  - title: V jednoduchosti je krása
+    speakers:
+    - Jirka Vejražka
+
+  - title: Piškvorky
+    speakers:
+    - Roman Bedroš
