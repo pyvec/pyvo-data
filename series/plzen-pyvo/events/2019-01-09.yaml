@@ -23,6 +23,7 @@ talks:
       - Tomáš Bedřich
     coverage:
     - video: https://www.youtube.com/watch?v=1EWK2EVYllk
+    - slides: https://slides.com/tomasbedrich/databaze
   - title: Praktický úvod do MongoDB pro začátečníky
     speakers:
       - Petr Messner
