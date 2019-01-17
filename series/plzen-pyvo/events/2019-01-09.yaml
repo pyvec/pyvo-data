@@ -5,7 +5,7 @@ number: 7
 topic: Databáze, aneb jádro pudla
 venue: beer-factory
 description: |
-  Vážení přátelé a příznivci našich setkání!  
+  Vážení přátelé a příznivci našich setkání!
   Na základě vašeho přání jsme na příště vybrali téma Databáze.
   Rádi bychom udělali napřed seznámení s terminologií pro úplné začátečníky, pak jednu lehkou
   přednášku jako praktický úvod do používání DB v Pythonu a nakonec nějakou lahůdku pro zkušenější Pythonisty.
@@ -21,23 +21,41 @@ talks:
   - title: Seznámení s terminologií, motivace
     speakers:
       - Tomáš Bedřich
+    coverage:
+    - video: https://www.youtube.com/watch?v=1EWK2EVYllk
   - title: Praktický úvod do MongoDB pro začátečníky
     speakers:
       - Petr Messner
     description: |
       Petr nám ukáže, jak spustit MongoDB u sebe na počítači a připojit se k němu pomocí Pythonu.
       Naučíme se základy toho, jak s touto DB vůbec pracovat a co vše se s ní dá dělat.
+    coverage:
+    - video: https://www.youtube.com/watch?v=P4Jby6RmQWU
   - title: ElasticSearch – použití, testování, tipy & triky
     speakers:
       - Martin Kubát
     description: |
       Martin nám poví, k čemu se používá ElasticSearch, různé tipy a triky pro práci s ním a něco málo k tématu testování.
       Přednáška je obzvláště vhodná pro ty, kteří znají relační DB a pokukují po jiných možnostech.
-  - title: Lightning talks
+    coverage:
+    - video: https://www.youtube.com/watch?v=Uxh50U77Fbo
+  - title: Pozvánka na Startup Weekend a AimtecHackathon
+    speakers:
+    - Pavel König
     lightning: true
-    description: |
-        Pokud máte zkušenost se zajímavou technologii, projektem, nebo chcete prezentovat sebe, či svou firmu a její aktivity,
-        nebojte se přihlásit o slovo. K dispozici můžete mít plných 5 minut pro své téma.
-        Témata možno domluvit mailem na filip.vaculik@jsi.cz případně ve vhodnou chvíli při akci.
-        Také sbíráme náměty na přednášky pro další Pyva viz. [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+    coverage:
+    - video: https://www.youtube.com/watch?v=g_-YoNRtEec
+  - title: Pozvánka na DevBattle v TechHeaven
+    speakers:
+    - Jan Steinbach
+    lightning: true
+    coverage:
+    - video: https://www.youtube.com/watch?v=blZevPTm5Pg
+  - title: Bezpečnostní rizika spojená s databázemi
+    speakers:
+    - Vladimír Smitka
+    lightning: true
+    coverage:
+    - video: https://www.youtube.com/watch?v=QTQtzJey2uA
+
 urls: []
