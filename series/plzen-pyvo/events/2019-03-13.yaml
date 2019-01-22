@@ -1,0 +1,39 @@
+city: plzen
+start: 2019-03-13 18:00:00
+name: Plzeňské Pyvo
+number: 8
+topic: Webové frameworky
+venue: beer-factory
+description: |
+  Vážení přátelé a příznivci našich setkání!
+  
+  Vaše další přání bylo téma webových frameworků. Co stojí za dnešními webovými stránkami, propojuje prohlížeče s
+  databázemi, validuje formuláře a odesílá e-maily? To a spoustu dalších věcí mají na svědomí webové aplikace, pro něž
+  jsou webové frameworky jakousi kostrou, nebo chcete-li zkratkou, abychom nemuseli pořád vymýšlet kolo. Přijďte se
+  seznámit s typickými i méně známými nástroji z této oblasti.
+  
+  Jako vždy očekávejte alespoň jedno povídání cílené spíše na začátečníky a druhé spíše na pokročilé. Přesto se
+  tentokrát budeme snažit spíše představit co nejvíc možností. Ať už jste začátečníci či experti, pro všechny
+  je určen čas plodných diskuzí po skončení přednášek. Je to prostor, kdy si můžeme vzájemně předat mnoho
+  cenných zkušeností. Speciální pozvání patří účastnicím našeho kurzu PyLadies jakož i zájemkyním o další běh.
+  
+talks:
+  - title: Úvodní slovo
+    speakers:
+      - Filip Vaculík
+      - Tomáš Bedřich
+  - title: Django (detaily připravujeme)
+    speakers:
+      - Martin Kubát
+  - title: Flask (detaily připravujeme)
+  - title: Aiohttp (detaily připravujeme)
+    speakers:
+      - Honza Smitka
+  - title: Lightning talks
+    lightning: true
+    description: |
+        Pokud máte zkušenost se zajímavou technologii, projektem, nebo chcete prezentovat sebe, či svou firmu a její aktivity,
+        nebojte se přihlásit o slovo. K dispozici můžete mít plných 5 minut pro své téma.
+        Témata možno domluvit mailem na filip.vaculik@jsi.cz případně ve vhodnou chvíli při akci.
+        Také sbíráme náměty na přednášky pro další Pyva viz. [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+urls: []
