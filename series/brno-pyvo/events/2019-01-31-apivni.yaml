@@ -38,8 +38,7 @@ talks:
         handy.
     speakers:
       - Marcel Plch
-
-  - title: Testování API clienta pomocí knihovny requests-mock:
+  - title: Testování API clienta pomocí knihovny requests-mock
     description: |
         Napsali jste appku, která komunikuje s nějakou další službou přes API,
         a chcete vědět, jestli bude správně zpracovávat odpovědi serveru?
