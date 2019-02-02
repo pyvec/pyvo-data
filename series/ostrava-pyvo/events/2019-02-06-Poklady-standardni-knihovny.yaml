@@ -1,0 +1,26 @@
+city: ostrava
+start: 2019-02-06 19:00:00
+name: Ostravské Pyvo
+topic: Poklady standardní knihovny
+description: |
+    Ahoj!
+
+    Python je jazyk s velmi bohatou standardní knihovnou a jen málokdo ví,
+    jaké poklady vhodné pro širokou škálu projektů se v ní ukrývají.
+
+    Odložme tedy na chvíli pip a pojďme se podívat, co zajímavého
+    standardní knihovna ukrývá a co tedy můžeme použít bez nutnosti
+    instalace knihoven třetích stran.
+
+    Máš oblíbený modul ve standardní knihovně? Dej vědět a my si o tom na
+    Pyvu rádi poslechneme.
+
+    A POZOR! PyCon CZ se nezadržitelně blíží a na Pyvu budeš mít možnost
+    vyhrát vstupenku zdarma!
+
+    Těšíme se.
+
+venue: vr-levsky
+talks: []
+urls:
+- https://www.meetup.com/Ostravske-Pyvo/events/258621621/
