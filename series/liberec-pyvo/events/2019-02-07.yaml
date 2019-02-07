@@ -14,9 +14,9 @@ talks:
     speakers:
       - Michal Seidl
 
-  - title: "*prázdné místo*"
-    description: |
-        Máte-li námět na cokoli, co by mohlo přítomné zajímat, kontaktujte organizátory.
+  - title: "Útok na [Libre|Open]Office s pomocí Pythonu"
+    speakers:
+      - Petr Krčmář
 
   - title: Lightning talks
     lightning: true
