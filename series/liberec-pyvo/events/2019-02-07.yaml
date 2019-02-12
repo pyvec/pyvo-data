@@ -5,20 +5,29 @@ number: 4
 topic: čtvrté
 venue: depo
 description: |
-  Téměř přesně po roce je tu čtvrté Liberecké Pyvo, programátorský sraz nejen o Pythonu.
-
-  Abychom věděli, s kolika lidmi můžeme počítat, prosím **[nahlaste svou účast](https://doodle.com/poll/ir52xp4t98bakwqe)**. Díky!
+  Téměř přesně po roce tu bylo čtvrté Liberecké Pyvo, programátorský sraz nejen o Pythonu.
 
 talks:
   - title: Robot Matylda
     speakers:
-      - Michal Seidl
+      - Michal Seidl 
+    coverage:
+      - slides: https://pyvec.github.com/talks-archive/liberec-2019-02-09-robot-matylda.pdf
 
   - title: "Útok na [Libre|Open]Office s pomocí Pythonu"
     speakers:
       - Petr Krčmář
+    coverage:
+      - slides: https://pyvec.github.com/talks-archive/liberec-2019-02-09-utok-na-libreoffice.pdf
 
-  - title: Lightning talks
+  - title: "Pozvánky na akce"
     lightning: true
-    description: |
-            Krátké přednášky na libovolné téma. Jediným omezením je časový limit pět minut (včetně prostoru pro dotazy). Registrujte svůj *lightning talk* na [lipyvo.jdem.cz](http://lipyvo.jdem.cz/).
+    speakers:
+      - Ondřej Caletka
+    coverage:
+      - slides: https://pyvec.github.com/talks-archive/liberec-2019-02-09-pozvanky.pdf
+
+#  - title: Lightning talks
+#    lightning: true
+#    description: |
+#            Krátké přednášky na libovolné téma. Jediným omezením je časový limit pět minut (včetně prostoru pro dotazy). Registrujte svůj *lightning talk* na [lipyvo.jdem.cz](http://lipyvo.jdem.cz/).
