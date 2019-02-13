@@ -1,0 +1,20 @@
+city: praha
+start: 2019-02-20 19:00:00
+name: Pražské Pyvo
+number: 95
+topic: Machine learning
+description: |
+    V únoru probereme, jak se učí stroje a proč je na něco takového vhodný Python.
+
+    Z akce bude [živý videopřenos](https://www.youtube.com/watch?v=1fPS75CYHVo), takže trpíte-li třeba nachlazením, trpte v klidu doma a dívejte se na stream.
+venue: na-venecku
+urls: []
+talks:
+- title: "Lightning talky"
+  description: |
+    Dojde určitě i na lightning talky. Můžeš jeden mít i ty,
+    viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+    Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
+- title: "Živý přenos"
+  coverage:
+    - video: https://www.youtube.com/watch?v=1fPS75CYHVo
