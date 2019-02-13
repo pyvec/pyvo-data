@@ -4,7 +4,9 @@ name: Pražské Pyvo
 number: 94
 topic: Games Development
 description: |
-    Vyvoj her v Pythonu i mimo nej. Lightning talky vitany!
+    Vývoj her v Pythonu i mimo něj.
+
+    Z akce byl vůbec poprvé v historii Pyv pořízován [přímý přenos](https://www.youtube.com/watch?v=2miQmItrBng).
 venue: na-venecku
 urls: []
 talks:
@@ -17,8 +19,24 @@ talks:
 - title: Game Development + Python = ?
   speakers:
   - Stan Prokop
-- title: "Lightning talky"
-  description: |
-    Dojde určitě i na lightning talky. Můžeš jeden mít i ty,
-    viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
-    Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
+- title: Historie programování her v devadesátých letech
+  lightning: true
+  speakers:
+  - Radek Švarz
+- title: Robotic process automation
+  lightning: true
+  speakers:
+  - Štěpán Slavík
+- title: Micro:bit a micropython
+  lightning: true
+  speakers:
+  - Jaroslav Vysoký
+- title: "Kulatý stůl: zákaz mobilů ve školách"
+  lightning: true
+  speakers:
+  - Filip Vaculík
+- title: "Živý přenos"
+  coverage:
+  - video: https://www.youtube.com/watch?v=2miQmItrBng
+
+
