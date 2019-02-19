@@ -10,6 +10,12 @@ description: |
 venue: na-venecku
 urls: []
 talks:
+- title: Bayesian Bandits
+  speakers:
+  - Jakub Drdák
+- title: Image recognition for file naming
+  speakers:
+  - Martin Pavlů
 - title: "Lightning talky"
   description: |
     Dojde určitě i na lightning talky. Můžeš jeden mít i ty,
