@@ -1,0 +1,61 @@
+city: brno
+start: 2019-02-28 19:00:00
+name: Brněnské Pyvo
+topic: Testovací
+venue: artbar
+description: |
+    V únoru bude Pyvo na téma testování. Máte svůj osobní projekt, o kterém
+    si nejste jisti, zda dělá, co dělat má? Nevíte, jestli můžete změnit ten
+    jeden konkrétní řádek, protože by se něco mohlo rozbít?
+    Podíváme se, jak si napsat testy tak, abychom tyto problémy nemuseli
+    (tolik) řešit.
+
+    ------
+
+    In February, there will be Pyvo on the testing topic. Do you have your own
+    project you are not sure if it does what it should do? Or are you not sure
+    whether you may change that one particular line because of fear of breaking
+    things? Let's have a look at how to write test not to worry about that
+    (as much).
+talks:
+  - title: Full Stack testovanie Cloud aplikácií s Pythonom
+    description: |
+        Krátky úvod do architektúry testovania SaaS aplikácií pomocou Pythonu,
+        súvisejúcich knižníc a nástrojov.
+
+        Od testovania API, cez záťažové testovanie po testovanie z pohľadu
+        užívateľa.
+
+        ------
+
+        A short introduction to testing SaaS applications using Python and
+        related tools and libraries.
+
+        From API testing to load testing to end-to-end testing.
+    speakers:
+      - Vladimir Kopso
+  - title: Úvod do pytestu - testovacího frameworku pro všechny
+    description: |
+        Pytest je open-source testovací framework, který je vhodný pro různé
+        druhy projektů - ať už se jedná o unit testy pro váš osobní prográmek
+        na GitHubu nebo rozsáhlou testovací sadu pro firemní produkt. Nehledě
+        na to, co potřebujete testovat, díky Pytestu nemusíte začínat od nuly.
+        Představíme vám, jak připravit vaše první testy během pár minut.
+        Jednou z nejsilnějších stránek pytestu jsou jeho rozšíření.
+        Nakonec tedy krátce promluvíme o tom, jak těchto rozšíření využíváme
+        při testování produktu oVirt (open-source virtualizační nástroj).
+
+        ------
+
+        Pytest is an open-source testing framework which is useful for a wide
+        variety of projects - be it unit tests for your personal program on
+        GitHub or a large testing set for a company product. No matter what
+        you need to test, thanks to Pytest you don't need to start from zero.
+        We will introduce you to our first tests in a few minutes. One of
+        the strongest parts of PyTest are its extensions. At last, we will
+        talk a bit on how we use these extensions for testing of the oVirt
+        product (open-source virtualization tool).
+    speakers:
+      -  Lucie Leistnerová, Jan Zmeškal
+
+
