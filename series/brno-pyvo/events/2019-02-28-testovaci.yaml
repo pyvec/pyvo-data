@@ -57,5 +57,34 @@ talks:
         product (open-source virtualization tool).
     speakers:
       -  Lucie Leistnerová, Jan Zmeškal
+  - title: Behavior-driven development (nejenom) pro aplikace založené na mikroslužbách
+    description: |
+        Aplikace, které jsou založeny na využívání mikroslužeb, je nutné testovat velmi důkladně,
+        protože s každou nově přidanou mikroslužbou se zvyšuje počet oblastí, které se mohou
+        z nějakého důvodu chovat nekorektně.
+        
+        Navíc se poměrně často setkáme se situací, kdy je každá mikroslužba napsána v odlišném
+        programovacím jazyku, což ještě více komplikuje práci QA.
+        
+        Jedno z možných řešení této situace (minimálně z hlediska testování) je použití tzv.
+        Behaviour-Driven Development (BDD), v němž jsou testy napsány ve specializovaném
+        jazyce Gherkin, který je navržený takovým způsobem, aby byl snadno čitelný jak
+        vývojáři, tak i testery, SW architekty a dokonce i zákazníky, kteří se tak mohou
+        podílet na tvorbě testovacích scénářů s popisem očekávaného chování systému.
+        
+        Na přednášce se zaměříme na použití knihovny Behave určené pro Python.
+
+        ------
+
+        Applications that are based on microservices needs to be tested thoroughly because
+        the number of possible points of failure increase with each new microservice added
+        to the whole schema. Additionally, services might be written in different languages,
+        which creates more work for poor QAs. One possible solution is to use the Behavior-Driven Development (BDD)
+        approach and write integration tests in a consistent way. In this workshop,
+        we'll introduce a BDD library for Python, Behave, which is based on the popular Gherkin DSL.
+       
+        We expect the attendees to have basic Python knowledge at least.
+    speakers:
+        - Pavel Tišnovský
 
 
