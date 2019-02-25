@@ -1,13 +1,11 @@
 city: olomouc
-start: 2019-01-30 18:00:00
+start: 2019-02-27 18:00:00
 name: Olomoucké Pyvo
-topic: Monitoring microservic s pohádkou
+topic: Monitoring microservices
 description: |
     Ahoj!
 
-    První Olomoucké Pyvo v roce 2019 bude s přednáškou o monitoringu microservic.
-    A doplněné bude pohádkou s dobrým koncem. A jak už to bývá, zabrousíme do
-    různých dalších témat okolo Pythonu a programování vůbec.
+    Únorové Olomoucké Pyvo bude o monitorování microservices.
 
     Pokud máte nějakou přednášku či téma na příště, dejte nám vědět v
     [mailing listu Olomouckého Pyva](https://groups.google.com/forum/#!forum/olomoucke-pyvo).
@@ -20,7 +18,4 @@ talks:
   - title: Monitoring microservices
     speakers:
       - Martin Čurlej
-  - title: Pohádka
-    speakers:
-      - Mirek Kuře
 urls: []
