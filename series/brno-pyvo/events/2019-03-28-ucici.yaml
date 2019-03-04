@@ -10,12 +10,32 @@ description: |
     Ať už od začátků, nebo, když už to člověk umí, jak se vzdělávat dál?
     Jak a proč učit někoho jiného?
     Kdy je dobré začít?
-    Těšíme se na vás a na vaše příspěvky do diskuze.
+    Těšíme se na vás a na vaše příspěvky do diskuze!
+
+    ------
+
+    Let's talk about learning!
+    Not machine learning which is so popular nowadays. The normal one, of a human.
+    How and why should you learn to program?
+    How to start? How to expand one's knowledge once you know the basics?
+    How and why to teach somebody else?
+    When is it good to start?
+    We look forward to seeing you and your contributions to a discussion!
 talks:
   - title: Jak se učit Python
     description: |
-      - Motivace a recepty na učení se Pythonu, Digitální akademie Czechitas 
-      - Oblíbení autoři na YouTube, ksi, pythoanywhere
-      - Zkušenosti z pracovních pohovorů
+        Motivace a recepty na učení se Pythonu, Digitální akademie Czechitas
+
+        Oblíbení autoři na YouTube, ksi, pythoanywhere.
+
+        Zkušenosti z pracovních pohovorů.
+
+        ------
+
+        Motivation and recipes for learning Python, Digital academy Czechitas.
+
+        Favourite authors on YouTube, ksi, pythonanywhere.
+
+        Experience from job interviews.
     speakers:
       - Martina Burjanová
