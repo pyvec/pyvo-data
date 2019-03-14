@@ -1,0 +1,16 @@
+city: praha
+start: 2019-03-20 19:00:00
+name: Pražské Pyvo
+number: 96
+topic: Kontejnery
+description: |
+        Březnové Pyvo bude zaměřené na kontejnery. Účast přislíbili i účastníci [Prague Containers Meetup](https://www.meetup.com/Prague-Containers-Meetup/).
+venue: na-venecku
+urls: []
+talks:
+- title: Self Operated Python apps in Cloud native world
+- title: "Lightning talky"
+  description: |
+    Dojde určitě i na lightning talky. Můžeš jeden mít i ty,
+    viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+    Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
