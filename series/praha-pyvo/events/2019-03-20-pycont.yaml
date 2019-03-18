@@ -1,0 +1,26 @@
+city: praha
+start: 2019-03-20 19:00:00
+name: Pražské Pyvo
+number: 96
+topic: Pycont - container reunion edition
+description: |
+    Ano, rec bude o kontejnerech, a to softwarovych - na 96. Python srazu v Praze, jiz pristi stredu, 20. 3. 2018 na Venecku, Ostrovskeho 38a, Praha 5 - LOLZ jako vzdy od 19:30. 
+
+    Ucast prislibili i ucastnici kontejner meetupu, a tak se budeme moct tesit napr. na Self Operated Python apps in Cloud native world.
+
+    Pokud byste chteli sami s necim prispet k diskuzi nejen po skonceni prednasek, napiste se na lightning talk. Muze to by o kontejnerech, ale samozrejme o cimkoliv jinem! 
+venue: na-venecku
+urls: []
+talks:
+- title: Self Operated Python apps in Cloud native world
+  speakers:
+  - Tomáš Kukrál
+  - Jakub Veverka
+- title: "Lightning talky"
+  description: |
+    Dojde určitě i na lightning talky. Můžeš jeden mít i ty,
+    viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+    Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
+- title: "Živý přenos"
+  coverage:
+    - video: https://www.youtube.com/watch?v=TBA
