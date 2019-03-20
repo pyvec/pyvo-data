@@ -17,7 +17,7 @@ organizer-info:
     mail: jan.bednarik@gmail.com
 recurrence:
   scheme: monthly
-  rrule: RRULE:FREQ=MONTHLY;INTERVAL=1;BYDAY=WE;BYSETPOS=-1;BYHOUR=18;BYMINUTE=0;BYSECOND=0
+  rrule: RRULE:FREQ=MONTHLY;INTERVAL=1;BYDAY=WE;BYSETPOS=-1;BYHOUR=19;BYMINUTE=0;BYSECOND=0
   description:
     cs: Olomoucké Pyvo bývá každou poslední středu v měsíci.
     en: Olomouc Pyvo is traditionally held on the last Wednesday of each month.
