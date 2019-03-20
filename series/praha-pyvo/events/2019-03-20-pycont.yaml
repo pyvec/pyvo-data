@@ -4,11 +4,9 @@ name: Pražské Pyvo
 number: 96
 topic: Pycont - container reunion edition
 description: |
-    Ano, rec bude o kontejnerech, a to softwarovych - na 96. Python srazu v Praze, jiz pristi stredu, 20. 3. 2018 na Venecku, Ostrovskeho 38a, Praha 5 - LOLZ jako vzdy od 19:30. 
+    Ano, řeč bude o kontejnerech, a to softwarových - na 96. Python srazu v Praze.
+    Účast přislíbili i účastníci Container meetupu, a tak se budeme moci těšit např. na Self Operated Python apps in Cloud native world.
 
-    Ucast prislibili i ucastnici kontejner meetupu, a tak se budeme moct tesit napr. na Self Operated Python apps in Cloud native world.
-
-    Pokud byste chteli sami s necim prispet k diskuzi nejen po skonceni prednasek, napiste se na lightning talk. Muze to by o kontejnerech, ale samozrejme o cimkoliv jinem! 
 venue: na-venecku
 urls: []
 talks:
@@ -23,4 +21,4 @@ talks:
     Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
 - title: "Živý přenos"
   coverage:
-    - video: https://www.youtube.com/watch?v=TBA
+    - video: https://www.youtube.com/watch?v=npF2tbVDeDc
