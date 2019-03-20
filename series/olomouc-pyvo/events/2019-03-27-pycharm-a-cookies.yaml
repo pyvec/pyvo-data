@@ -1,0 +1,36 @@
+city: olomouc
+start: 2019-03-27 19:00:00
+name: Olomoucké Pyvo
+topic: PyCharm a Cookiecutters
+description: |
+    Ahoj!
+
+    Srovnáváme čas začátku s ostatními Pyvy, a tak březnové Olomoucké Pyvo bude
+    od 19:00. V první přednášce se dozvíte něco o editoru PyCharm a Vim:
+
+    > Čím se liší vývoj v jedněch z nejrozšířenějších prostředí a to konkrétně
+    > Vim a PyCharm? Pojďte si poslechnout, čím mě který přístup zaujal a čím
+    > zase ne.
+
+    A další přednáška bude o nástroji Cookiecutter:
+
+    > Začínáte nový projekt či aplikaci a potřebujuete zkopírovat a lehce
+    > upravit spoustu nezbytných souborů? Zjednoduště si to pomocí nástroje
+    > Cookiecutter a připravených templatů pro různé projekty. A naučte se
+    > vytvářet i vlastní templaty pro Cookiecutter.
+
+    Pokud máte nějakou přednášku či téma na příště, dejte nám vědět v
+    [mailing listu Olomouckého Pyva](https://groups.google.com/forum/#!forum/olomoucke-pyvo).
+    A přidejte se do mailing listu pro aktuální info.
+
+    Těšíme se na vaši hojnou účast!
+
+venue: picolo-piratske-centrum-olomouc
+talks:
+  - title: PyCharm
+    speakers:
+      - Dan Nepejchal
+  - title: Generujeme projekty pomocí Cookiecutteru
+    speakers:
+      - Jan Bednařík
+urls: []
