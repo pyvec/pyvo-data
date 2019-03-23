@@ -1,0 +1,15 @@
+city: hradec-kralove
+start: 2019-04-11 18:00:00
+name: Hradecké Pyvo
+number: 4
+topic: Čtvrté
+venue: pivovarske-domy
+description: ""
+talks:
+  - title: Python v bioinformatice – počítání písmenek A, C, G, T
+    speakers:
+    - Radka Symonová
+
+  - title: Jak (ne)posílat soubory po síti
+    speakers:
+    - Radek Goláň
