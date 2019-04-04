@@ -3,11 +3,8 @@ city: ostrava
 description:
   cs: |
     Ostravské Pyvo bývá každou první středu v měsíci.
-    Srazy jsou občas s [Rubači](http://rubaci.cz/) – ostravskými Rubysty.
   en: |
     Ostrava Pyvo is traditionally held on the first Wednesday of each month.
-    Our friends from [Rubači](http://rubaci.cz/), a Ruby user group, sometimes
-    join us for a common meetup.
 organizer-info:
   - name: Google group
     web: https://groups.google.com/forum/#!forum/ostrava-pyvo
