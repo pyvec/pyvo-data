@@ -25,6 +25,18 @@ description: |
     Těšíme se na vás.
 
 venue: vr-levsky
-talks: []
+talks:
+- title: Ostravské Pyvo včera a dnes
+  speakers:
+  - Lumír Balhar
+  urls: []
+  coverage:
+  - video: https://www.youtube.com/watch?v=fevMPNFR1tM
+- title: Brněnské Pyvo
+  speakers:
+  - Petr Viktorin
+  urls: []
+  coverage:
+  - video: https://www.youtube.com/watch?v=bHs6aZSS9ok
 urls:
 - https://www.meetup.com/Ostravske-Pyvo/events/259637976/
