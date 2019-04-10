@@ -10,6 +10,6 @@ talks:
     speakers:
     - Radka Symonová
 
-  - title: Jak (ne)posílat soubory po síti
+  - title: Jak (ne)posílat soubory, aneb kaskadérské kousky s UDP
     speakers:
     - Radek Goláň
