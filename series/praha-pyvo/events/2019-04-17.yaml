@@ -1,0 +1,18 @@
+city: praha
+start: 2019-04-17 19:00:00
+name: Pražské Pyvo
+number: 97
+topic: Aprílové
+description: |
+    Téma bude překvapením, ani organizátoři ho ještě nevědí :)
+
+    Máte tip na přednášku? Sem s ním!
+
+venue: na-venecku
+urls: []
+talks:
+- title: "Lightning talky"
+  description: |
+    Dojde určitě i na lightning talky. Můžeš jeden mít i ty,
+    viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+    Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
