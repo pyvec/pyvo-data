@@ -1,0 +1,25 @@
+city: brno
+start: 2019-04-25 19:00:00
+name: Brněnské Pyvo
+topic: Aprílové
+venue: artbar
+description: |
+    V aprílovom pyve si povieme o nástrojoch zjednodušujúcich tímovú prácu s microservice architektúrou.
+
+    ------
+
+    In april pyvo we will discuss tools making the work with microservice architecture easier for teams.
+
+
+talks:
+  - title: Don't talk things, code things - Make service integration easier with schemata and modules
+    description: |
+        Services (Micro or SOA) in a way that includes least misunderstandings between teams and parties.
+        During development, there's always a problem of communication and planning - especially in rapidly
+        changing environments. Build several services parallely, each of them independent to a point,
+        but bound with schema. Enforce the schema programmatically and use it to test.
+        Reuse standards of the industry through your ecosystem, without consistency issues on your dependants.
+
+        Examples are in Python: implementation and demonstration of some principles, and why they make things simpler.
+    speakers:
+      - Tin Markovic
