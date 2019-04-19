@@ -1,0 +1,30 @@
+city: praha
+start: 2019-05-15 19:00:00
+name: Pražské Pyvo
+number: 98
+topic: Pub Quiz
+description: |
+    V květnu nás čeká novinka: Pub Quiz.
+    Utvoříte teamy a budete soutěžit ve znalostním kvízu o Pythonu
+    a souvisejících věcech.
+
+venue: na-venecku
+urls: []
+talks:
+- title: Pub Quiz
+  speakers:
+  - Miro Hrončok
+  description: |
+    Teamová soutěž pro všechny přátelé Pythonu.
+    Kvíz nevyžaduje zevrubné znalosti programování, ale bude
+    i o historických faktech, zajímavostech a zvláštnostech.
+    Je vhodný pro začátečníky i pokročilé.
+    Váš tří- až pětičlenný team můžete sestavit dopředu nebo až na místě,
+    ale pozor, nepřekombinujte přípravu: nikdo kromě moderátora neví,
+    jaké budou otázky.
+    
+- title: "Lightning talky"
+  description: |
+    Možná dojde i na lightning talky. Můžeš jeden mít i ty,
+    viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+    Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
