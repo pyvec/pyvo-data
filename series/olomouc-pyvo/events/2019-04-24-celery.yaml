@@ -1,0 +1,25 @@
+city: olomouc
+start: 2019-04-24 19:00:00
+name: Olomoucké Pyvo
+topic: Celery a nasazení Pythonu v měřicí technice
+description: |
+    Ahoj!
+
+    a máme tu další Pyvo. Tentokrát si něco povíme o knihovne Celery a nasazení Pythonu v měřicí
+    technice.
+
+    Pokud máte nějakou přednášku či téma na příště, dejte nám vědět v
+    [mailing listu Olomouckého Pyva](https://groups.google.com/forum/#!forum/olomoucke-pyvo).
+    A přidejte se do mailing listu pro aktuální info.
+
+    Těšíme se na vaši hojnou účast!
+
+venue: picolo-piratske-centrum-olomouc
+talks:
+  - title: Celery
+    speakers:
+      - Martin Čurlej
+  - title: Nasazení Pythonu programu v měřicí technice
+    speakers:
+      - Lubomír Přibyla
+urls: []
