@@ -12,14 +12,15 @@ description: |
 
 
 talks:
-  - title: Don't talk things, code things - Make service integration easier with schemata and modules
+  - title: Don't talk, scheme! - Make service integration easier with schemata
     description: |
-        We will talk about services (Micro or SOA) in a way that includes least misunderstandings between teams and parties.
-        During development, there's always a problem of communication and planning - especially in rapidly
-        changing environments. Build several services parallely, each of them independent to a point,
-        but bound with schema. Enforce the schema programmatically and use it to test.
-        Reuse standards of the industry through your ecosystem, without consistency issues on your dependants.
+        Services (Micro or SOA) often introduce misunderstandings between teams and parties.
+        During development, there's always room for change and improvement - things are flexible.
+        This can be problematic with several teams and several services in parallel.
 
-        Examples are in Python: implementation and demonstration of some principles, and why they make things simpler.
+        Bind them with schema. Enforce the schema programmatically and use it to test. Reuse internal
+        standards through your ecosystem, without consistency issues on your dependents.
+
+        Examples are in Python: implementation and demonstration of some principles, and how they integrate.
     speakers:
       - Tin Markovic
