@@ -9,9 +9,11 @@ description: |
   Abychom věděli, s kolika lidmi můžeme počítat, prosím **[nahlaste svou účast](https://doodle.com/poll/nk2i5vrec3redbtq)**. Díky!
 
 talks:
-  - title: "*Prázdné místo*"
+  - title: "Graylog - Open Source Log Management"
     description: |
-            Prostor pro vaší přednášku. Máte něco, o čem si chcete povídat? Napište organizátorům a přihlaste se.
+            Rychlý průvodce uživatelsky přívětivým Log Managentem a možnostmi jeho rozšíření externími Python skripty.
+    speakers:
+      - Ondřej Spáčil
 
   - title: Lightning talks
     lightning: true
