@@ -15,6 +15,11 @@ talks:
     speakers:
       - Ondřej Spáčil
 
+  - title: "Typing, attr.s, dataclasses - k čemu je to dobré"
+    description: |
+            Python 3.6 přinesl podporu 'type hints/annotations' zavádějící některé vlastnosti staticky typovaných jazyků. Ukážeme si proč je to dobré a jak zůstává zachována kompatibilita s duck-typingem. Dále krátce představím knihovnu 'attr.s' a porovnám jí s možnostmi 'dataclasses' zavedenými v Python 3.7. Přehledová přednáška vychází z aplikace uvedených technologií při vývoji workflow systému pro high performance computing.
+    speakers:
+      - Jan Březina
   - title: Lightning talks
     lightning: true
     description: |
