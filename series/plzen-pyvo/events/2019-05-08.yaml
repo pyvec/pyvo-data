@@ -1,0 +1,51 @@
+city: plzen
+start: 2019-05-08 18:00:00
+name: Plzeňské Pyvo
+number: 9
+topic: Vizualizace dat
+venue: beer-factory
+description: |
+  Vážení přátelé a příznivci našich setkání!
+  
+  I v "Den vítězství", jsme připraveni udržet naši tradici, tedy pravidelná setkání druhou středu v lichém měsíci.
+  Kromě setkáním s podobně naladěnými lidmi o váš zájem budeme soupeřit za pomoci lákavého tématu "vizualizace dat".
+  
+  Očekávat můžete úvod do tématu vizualizace dat, přehledy nástrojů i podrobnější ukázku jedné z hlavních technologií pro vizualizaci dat.
+  
+talks:
+  - title: Úvodní slovo
+    speakers:
+      - Filip Vaculík
+  - title: Jaké otázky si pokládáme před vizualizací dat
+    speakers:
+      - Christine Baierová, Lynt.cz
+    description: |
+      Kdy je dobré použít vizualizační techniky a kdy je lepší zůstat u tabulky?
+      Jakou informaci mají data sdělit a jakou formu reprezentace zvolit?
+  - title: Přehled základních i pokročilých nástrojů pro vizualizaci dat v Pythonu.
+    speakers: 
+      - Tomáš Zítka, Nové technologie - výzkumné centrum, Západočeská univerzita v Plzni
+    description: | 
+      Těšit se můžete na známé Matplotlib, Seaborn a plot.ly, ale třeba i na Holoviews a pro 3D PyVis a Mayavi.
+      Přehled se bude hodit novým Pythonistům, kteří hledají vhodný nástroj, i starým harcovníkům, kteří by rádi zkusili něco nového.
+  - title: Matplotlib
+    speakers:
+      - Christine Baierová, Lynt.cz
+    description: |
+      Seznámení s nejpoužívanější Pythonovskou knihovnou pro tvorbu jednoduchých i komplexních a efektivních vizualizací.
+      Nabízí velkou škálu možností jak data graficky znázornit. Např. histogramy, sloupcové diagramy, heatmapy aj.
+      V několika krocích si ukážeme, jak snadno a rychle vykreslit data a vytěžit z nich maximum.
+  - title: Vizualizace pomocí PyGame a PyOpenGL
+    speakers:
+      - Filip Vaculík
+    description: |
+      Jak mohou být pro vizualizaci dat použity knihovny, které primárně slouží pro tvorbu her?
+    lightning: true  
+  - title: Lightning talks
+    lightning: true
+    description: |
+      Pokud máte zkušenost se zajímavou technologii, projektem, nebo chcete prezentovat sebe, či svou firmu a její aktivity,
+      nebojte se přihlásit o slovo. K dispozici můžete mít plných 5 minut pro své téma.
+      Téma je možno přihlásit kdykoliv během akce u libovolného z organizátorů.
+      Také sbíráme náměty na přednášky pro další Pyva viz. [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+urls: []
