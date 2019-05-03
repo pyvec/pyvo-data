@@ -24,3 +24,6 @@ talks:
         Examples are in Python: implementation and demonstration of some principles, and how they integrate.
     speakers:
       - Tin Markovic
+    coverage:
+      - video: https://www.youtube.com/watch?v=rNJplEYl9wA
+      - link: https://github.com/TinMarkovic/dont_talk_scheme
