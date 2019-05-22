@@ -1,0 +1,15 @@
+city: hradec-kralove
+start: 2019-06-06 18:00:00
+name: Hradecké Pyvo
+number: 5
+topic: Páté
+venue: pivovarske-domy
+description: ""
+talks:
+  - title: Lehký úvod do Quantum Computing
+    speakers:
+    - Miroslav Bajtoš
+
+  - title: Jupyter není planeta
+    speakers:
+    - Dominik Matoulek
