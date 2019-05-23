@@ -1,0 +1,54 @@
+city: brno
+start: 2019-05-30 19:00:00
+name: Brněnské Pyvo
+topic: Beta
+venue: edunesto
+description: |
+    ⚠ This month, Pyvo will be at [Edunesto](http://www.edunesto.com/): Veselá 14, Brno<br>
+    ⚠ Pyvo bude tentokrát v [Edunesto](http://www.edunesto.com/), Veselá 14!
+
+    ---
+
+    What does “[Beta]“ mean for you? A bug-fixing sprint?
+    An excuse to break things? Or just a greek letter?
+
+    If you have a project in beta, a story about beta software,
+    or a beta version of a talk, please share it!
+
+    Please send talk submissions to [Petr][mail].
+
+    ---
+
+    Co pro tebe znamená „[Beta]“? Opravování chyb?
+    Výmluva k rozbíjení věcí? Nebo jen řecké písmeno?
+
+    Máš-li projekt v beta verzi, příběh o beta softwaru,
+    nebo beta verzi přednášky, poděl se o ně!
+
+    Chceš-li přednášet, napiš prosím [Petrovi][mail].
+
+    [Beta]: https://en.wikipedia.org/wiki/Software_release_life_cycle#Beta
+    [mail]: mailto:encukou@gmail.com
+talks:
+  - title: Python 3.8.0b1
+    description: |
+        The first beta version of Python 3.8 [should be][pep-0569-schedule]
+        released on Friday, right after Pyvo.
+
+        For the beta, all features of Python 3.8 are in. What are they?
+        What can you expect to be released in October?
+        You can read [the list][whats-new], of course.
+        But if you want to see some demos or discuss with others,
+        a meetup is the best place!
+
+        [whats-new]: https://docs.python.org/3.8/whatsnew/3.8.html
+        [pep-0569-schedule]: https://www.python.org/dev/peps/pep-0569/#schedule
+
+    speakers:
+      - Petr Viktorin
+  - title: Lightning talks
+    lightning: true
+    description: |
+        5-minute talks from you! No need to sign up in advance to give a lightning talk.
+
+        Pětiminutové minipřednášky z publika! Chceš-li se podělit, nahlaš si lightning talk na místě.
