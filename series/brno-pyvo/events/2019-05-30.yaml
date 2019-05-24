@@ -15,8 +15,6 @@ description: |
     If you have a project in beta, a story about beta software,
     or a beta version of a talk, please share it!
 
-    Please send talk submissions to [Petr][mail].
-
     ---
 
     Co pro tebe znamená „[Beta]“? Opravování chyb?
@@ -25,11 +23,26 @@ description: |
     Máš-li projekt v beta verzi, příběh o beta softwaru,
     nebo beta verzi přednášky, poděl se o ně!
 
-    Chceš-li přednášet, napiš prosím [Petrovi][mail].
-
     [Beta]: https://en.wikipedia.org/wiki/Software_release_life_cycle#Beta
     [mail]: mailto:encukou@gmail.com
 talks:
+  - title: xonsh 0.9.4
+    description: |
+        Some of us love Python so much that they make it their login shell.
+        One must be quite a hardcore fan to sacrifice the ergonomics of the UNIX
+        shell, though.
+
+        Fortunately, no hard choices are needed with xonsh, which, depending on
+        how you look at it, is either Python that accepts shell syntax or
+        a shell that allows you to lapse into Python at any given time.
+
+        But beware: the barrier to entry is so low and the convenience is so
+        addictive, that you'll find yourself hooked on scripting everything in
+        xonsh in no time.
+
+    speakers:
+      - Alexander Sosedkin
+
   - title: Python 3.8.0b1
     description: |
         The first beta version of Python 3.8 [should be][pep-0569-schedule]
@@ -46,6 +59,7 @@ talks:
 
     speakers:
       - Petr Viktorin
+
   - title: Lightning talks
     lightning: true
     description: |
