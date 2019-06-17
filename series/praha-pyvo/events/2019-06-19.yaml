@@ -1,0 +1,27 @@
+city: praha
+start: 2019-06-19 19:00:00
+name: Pražské Pyvo
+number: 99
+description: |
+    Červnové Pyvo nejen pro všechny přeživší PyConu.
+
+venue: na-venecku
+urls: []
+talks:
+- title: (Nejen) MicroPython na chytrých náramcích
+  speakers:
+  - Kokoška P. T.
+  description: |
+    Programovat hardware je zábava, ale když už chcete postavit
+    něco složitějšího, často se neobejdete bez páječky a s výsledným
+    výtvorem se i tak špatně cestuje. Naštěstí se ale dají pořídit
+    chytré náramky, pro které lze psát  programy i v MicroPythonu.
+    A ještě k tomu stojí pakatel. Řekneme si, jaký náramek koupit,
+    co dalšího budete potřebovat a k čemu ještě jde použít, když ho
+    zrovna nechcete nosit na ruce.
+
+- title: "Lightning talky"
+  description: |
+    Dojde určitě i na lightning talky. Můžeš jeden mít i ty,
+    viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+    Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
