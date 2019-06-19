@@ -1,0 +1,84 @@
+city: brno
+start: 2019-06-27 19:00:00
+name: Brněnské Pyvo
+topic: Maticové
+venue: artbar
+description: |
+    Co jsou to matice a na co se používají? Suchá teorie a nudná matematika,
+    nebo mohou i bavit?
+
+    Přijďte se podívat na přednášky a dozvědět se, co vlastně matice jsou, jak
+    se používají a na co jsou užitečné.
+    ---
+    What exactly matrices are and what are they used for? Plain theory and
+    boring mathematics, or can they be enjoyable too?
+
+    Come and see talks on what matrices are, how are they used, and what are
+    they useful for.
+
+
+talks:
+  - title: Transformační matice / The Transformation Matrix
+    description: |
+        Zkusil/a jsi někdy provést afinní transformaci homogenních souřadnic
+        pomocí matice?
+        Jestli ne, tahle přednáška je pro tebe!
+
+        Podívejme se na to, jak pomocí malé tabulky čísel hýbat, zvětšovat, otáčet a
+        smačkávat obrázky, jak dát 3D modelu perspektivu – a proč to tvoje grafická
+        karta dělá právě takhle.
+
+        ---
+
+        Have you ever applied an augmented affine transformation matrix to a set of
+        homogeneous coordinates?
+        If you have not, don't worry! This talk is for you!
+
+        Let's look how small grids of numbers can move, zoom, turn and squish pictures,
+        put 3D models in perspective -- and why your graphics card actually uses them
+        for these purposes.
+
+    speakers:
+      - Petr Viktorin
+
+  - title: Blender: přehled klíčových funkcí / Blender: overview of key functions
+    description: |
+        This talk is in Czech language only! (but given the content, it might
+        be interesting for non-Czech speakers too)
+
+        ---
+
+        V této přednášce Vám představím opensource aplikaci Blender a její
+        některé klíčové funkce a techniky. Bude zahrnuta mírná teorie opřená o
+        praktické ukázky
+
+        ---
+
+        In this lecture I will introduce you an opensource app Blender and some
+        of its key functions and techniques. It will include an easy theory
+        supported by practical examples.
+    speakers:
+      - Martin Schrimpel
+
+  - title: Quantum computing
+    description: |
+        Kvantové počítače jsou technologie na vzestupu, o které toho nikdo
+        vlastně moc neví.  Kolik je 7x7? "Pravděpodobně 48.3215831543..." Asi
+        nějak takto by vám odpověděl kvantový počítač.
+
+        Proč je tedy užitečný? Nahradí někdy klasický počítač? jak to souvisí s
+        maticemi a Pythonem? A je Schrödingerova kočka ještě naživu?
+
+        ---
+
+        Quantum computers are a technology that nobody really knows much about.
+        What is 7x7? "It's 48.3215831543... Most likely." That's what a quantum
+        computer would tell you.
+
+        What is it good for then? Will it ever replace a classical computer?
+        What does it have to do with matrices and Python? And is Schrödinger's
+        cat still alive?
+
+    speakers:
+      - Marcel Plch
+
