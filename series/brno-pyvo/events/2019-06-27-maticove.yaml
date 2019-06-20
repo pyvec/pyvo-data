@@ -41,7 +41,9 @@ talks:
     speakers:
       - Petr Viktorin
 
-  - title: Blender: přehled klíčových funkcí / Blender: overview of key functions
+  - title: |
+      Blender: přehled klíčových funkcí / Blender: overview of key functions
+
     description: |
         This talk is in Czech language only! (but given the content, it might
         be interesting for non-Czech speakers too)
