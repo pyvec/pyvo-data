@@ -1,0 +1,21 @@
+city: olomouc
+start: 2019-06-26 19:00:00
+name: Olomoucké Pyvo
+topic: Ako bolo na Pyconcz 2019
+description: |
+    Ahoj!
+
+    po mesačnej odmlke tu máme dalše pyvo. Tentokrát si povieme ako bolo na Pycone v Ostrave.
+
+    Pokud máte nějakou přednášku či téma na příště, dejte nám vědět v
+    [mailing listu Olomouckého Pyva](https://groups.google.com/forum/#!forum/olomoucke-pyvo).
+    A přidejte se do mailing listu pro aktuální info.
+
+    Těšíme se na vaši hojnou účast!
+
+venue: picolo-piratske-centrum-olomouc
+talks:
+  - title: Pycon 2019
+    speakers:
+      - Martin Čurlej
+urls: []
