@@ -7,6 +7,8 @@ description: |
 
     po mesačnej odmlke tu máme dalše pyvo. Tentokrát si povieme ako bolo na Pycone v Ostrave.
 
+    A nebude chybět přesunutá přednáška z minula o tom, jak na elektroniku s Pythonem pro začátečníky.
+
     Pokud máte nějakou přednášku či téma na příště, dejte nám vědět v
     [mailing listu Olomouckého Pyva](https://groups.google.com/forum/#!forum/olomoucke-pyvo).
     A přidejte se do mailing listu pro aktuální info.
@@ -18,4 +20,7 @@ talks:
   - title: Pycon 2019
     speakers:
       - Martin Čurlej
+  - title: Elektronika s Pythonem pro začátečníky
+    speakers:
+      - Jan Bednařík
 urls: []
