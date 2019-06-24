@@ -1,4 +1,4 @@
-city: ostrava
+city: vratimov
 start: 2019-07-03 18:00:00
 name: Ostravské Pyvo
 topic: "Letní kino #1"
@@ -12,17 +12,16 @@ description: |
     autokempu u Olešné, kde ve 21:15 začně promítání animovaného filmu
     Raubíř Ralf a internet.
 
-    Letní kino ve Frýdku-Místku:
-    http://www.kulturafm.cz/aktuality/856-kino-na-vylete-2019Trasa:
-    https://mapy.cz/s/2JuvSFilm: https://www.csfd.cz/film/443901-raubir-
-    ralf-a-internet/prehled/
+    * [Letní kino ve Frýdku-Místku](http://www.kulturafm.cz/aktuality/856-kino-na-vylete-2019)
+    * [Trasa na mapy.cz](https://mapy.cz/s/2JuvS)
+    * [Raubíř Ralf a internet na csfd.cz](https://www.csfd.cz/film/443901-raubir-ralf-a-internet/prehled/)
 
     V případě velmi nepříznivého počasí vymyslíme náhradní plán. Sledujte
     [meetup.com](https://www.meetup.com/Ostravske-Pyvo/events/262533506/) pro případné aktualizace.
 
     Těšíme se na vás.
 
-venue: vr-levsky
+venue: coolarna
 talks: []
 urls:
 - https://www.meetup.com/Ostravske-Pyvo/events/262533506/
