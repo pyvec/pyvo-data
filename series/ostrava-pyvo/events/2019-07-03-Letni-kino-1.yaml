@@ -1,4 +1,4 @@
-city: ostrava
+city: vratimov
 start: 2019-07-03 18:00:00
 name: Ostravské Pyvo
 topic: "Letní kino #1"
@@ -22,7 +22,7 @@ description: |
 
     Těšíme se na vás.
 
-venue: vr-levsky
+venue: coolarna
 talks: []
 urls:
 - https://www.meetup.com/Ostravske-Pyvo/events/262533506/
