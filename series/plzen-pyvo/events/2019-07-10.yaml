@@ -1,0 +1,59 @@
+city: plzen
+start: 2019-07-10 18:00:00
+name: Plzeňské Pyvo
+number: 10
+topic: Editory kódu a vychytávky pro usnadnění vývoje
+venue: beer-factory
+description: |
+  Vážení přátelé a příznivci našich setkání!
+  
+  Pro nadcházející, prázdninové, setkání bylo vybráno téma "Editory kódu", rozšířené o další pomůcky, které nám pomáhají při editaci kódu.
+  Editor kódu, jakožto pravá ruka programátora, může být velmi dobrým pomocníkem. Pojdmě se vzájemně obohatit o zkušenosti, které s nimi máme.
+  
+talks:
+  - title: Úvodní slovo
+    speakers:
+      - Filip Vaculík
+      - Tomáš Bedřich
+  - title: Editory kódu, co od nich očekáváme
+    speakers:
+      - Filip Vaculík
+    description: |
+      Jak vybrat vhodný editor kódu?      
+      Bez kterých funkcí to fakt nejde, co se hodí mít a co už spíš zdržuje než pomáhá?      
+  - title: PyCharm, Sublime
+    speakers: 
+      - Tomáš Bedřich, Heuréka
+    description: | 
+      Vyznáte se ve verzích a vlastnostech tohoto velmi rozšířeného editoru?
+  - title: Vim a jeho svět
+    speakers:
+      - _
+    description: |
+      Jak se žije a pracuje s tímto jiným paradigmatem editace kódu?
+  - title: Mu-Editor
+    speakers:
+      - _
+    description: |
+      Představení přehledného editoru kódu, který používáme při výuce PyLadies v Plzni
+    lightning: true
+  - title: Procházení kódem při editaci rozsáhlých programů
+    speakers: 
+      - Filip Vaculík
+    description: | 
+      Představení několika vychytávek, aplikovaných v editoru PyCharm Community Edition, které se mohou hodit při editaci rozsáhlých kódů.
+    lightning: true           
+  - title: Editace kódu v CLI
+    speakers: 
+      - _
+    description: | 
+      Tipy na editaci kódu v textovém prostředí.
+    lightning: true      
+  - title: Lightning talks
+    lightning: true
+    description: |
+      Pokud máte zkušenost se zajímavou technologii, projektem, nebo chcete prezentovat sebe, či svou firmu a její aktivity,
+      nebojte se přihlásit o slovo. K dispozici můžete mít plných 5 minut pro své téma.
+      Téma je možno přihlásit kdykoliv během akce u libovolného z organizátorů.
+      Také sbíráme náměty na přednášky pro další Pyva viz. [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+urls: []
