@@ -19,9 +19,48 @@ talks:
     A ještě k tomu stojí pakatel. Řekneme si, jaký náramek koupit,
     co dalšího budete potřebovat a k čemu ještě jde použít, když ho
     zrovna nechcete nosit na ruce.
+  coverage:
+    - video: https://www.youtube.com/watch?v=NpPivahKKpM
 
-- title: "Lightning talky"
-  description: |
-    Dojde určitě i na lightning talky. Můžeš jeden mít i ty,
-    viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
-    Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
+- title: DBGR
+  speakers:
+  - Jakub Tesárek
+  lightning: true
+  coverage:
+    - video: https://www.youtube.com/watch?v=p7QIkD-gQx0
+
+- title: představení projekartinii
+  speakers:
+  - Honza Záveský
+  lightning: true
+
+- title: Holonomic robot
+  speakers:
+  - Petr Viktorin
+  lightning: true
+  coverage:
+    - video: https://www.youtube.com/watch?v=v5U1un0Kcto
+
+- title: CoreSkill
+  speakers:
+  - Dan Srb
+  lightning: true
+  coverage:
+    - video: https://www.youtube.com/watch?v=VLTSRTyDdO4
+
+- title: PyData
+  speakers:
+  - Honza Pipek
+  lightning: true
+  coverage:
+    - video: https://www.youtube.com/watch?v=PhE58hM02Cc
+
+- title: Code you are you ashamed of
+  lightning: true
+
+- title: MHD v Ostravě
+  speakers:
+  - Ondřej Caletka
+  lightning: true
+  coverage:
+    - video: https://www.youtube.com/watch?v=I8k6Lo1qG7A
