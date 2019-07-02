@@ -43,6 +43,9 @@ talks:
     speakers:
       - Alexander Sosedkin
 
+    coverage:
+      - video: https://www.youtube.com/watch?v=ZDhfpqRnpwI
+
   - title: Python 3.8.0b1
     description: |
         The first beta version of Python 3.8 [should be][pep-0569-schedule]
@@ -59,13 +62,6 @@ talks:
 
     speakers:
       - Petr Viktorin
-
-  - title: Lightning talks
-    lightning: true
-    description: |
-        5-minute talks from you! No need to sign up in advance to give a lightning talk.
-
-        Pětiminutové minipřednášky z publika! Chceš-li se podělit, nahlaš si lightning talk na místě.
 
 urls:
     - https://www.meetup.com/Brno-Python-Meetup/events/261731571/
