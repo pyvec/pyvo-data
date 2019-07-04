@@ -19,34 +19,31 @@ talks:
     speakers:
       - Filip Vaculík
     description: |
-      Jak vybrat vhodný editor kódu?      
-      Bez kterých funkcí to fakt nejde, co se hodí mít a co už spíš zdržuje než pomáhá?      
-  - title: PyCharm, Sublime
-    speakers: 
-      - Tomáš Bedřich, Heuréka
-    description: | 
-      Vyznáte se ve verzích a vlastnostech tohoto velmi rozšířeného editoru?
+      Jak vybrat vhodný editor kódu?  
+      Bez kterých funkcí to fakt nejde, co se hodí mít a co už spíš zdržuje než pomáhá?
   - title: Vim a jeho svět
     speakers:
-      - _
+      - Ondřej Kristejn
     description: |
-      Jak se žije a pracuje s tímto jiným paradigmatem editace kódu?
+      Lehké představení a nahlédnutí do tajemného, šíleného a úžasného světa, textového editoru Vim.
   - title: Mu-Editor
-    speakers:
-      - _
     description: |
-      Představení přehledného editoru kódu, který používáme při výuce PyLadies v Plzni
+      Představení přehledného editoru kódu, který používáme při výuce PyLadies v Plzni.
+    lightning: true
+  - title: Multicursor a pár vychytávek okolo
+    speakers:
+      - Tomáš Bedřich
+    description: |
+      Na pár příkladech si ukážeme, jak lze velmi efektivně editovat kód pomocí multicursoru. Možná se dostane i na pár dalších zajímavých funkcí, které dokážou hodně zrychlit práci.
     lightning: true
   - title: Procházení kódem při editaci rozsáhlých programů
     speakers: 
       - Filip Vaculík
-    description: | 
+    description: |
       Představení několika vychytávek, aplikovaných v editoru PyCharm Community Edition, které se mohou hodit při editaci rozsáhlých kódů.
     lightning: true           
   - title: Editace kódu v CLI
-    speakers: 
-      - _
-    description: | 
+    description: |
       Tipy na editaci kódu v textovém prostředí.
     lightning: true      
   - title: Lightning talks
