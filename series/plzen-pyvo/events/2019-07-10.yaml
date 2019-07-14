@@ -27,6 +27,8 @@ talks:
     description: |
       Lehké představení a nahlédnutí do tajemného, šíleného a úžasného světa, textového editoru Vim.
   - title: Mu-Editor
+    speakers:
+      - Tomáš Andrle
     description: |
       Představení přehledného editoru kódu, který používáme při výuce PyLadies v Plzni.
     lightning: true
