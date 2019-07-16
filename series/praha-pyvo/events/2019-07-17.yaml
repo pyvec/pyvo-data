@@ -2,8 +2,7 @@ city: praha
 start: 2019-07-17 19:00:00
 name: Pražské Pyvo
 number: 100
-description: |
-  Červencové kulaté 🎉
+description: "Červencové kulaté \U0001f389"
 
 venue: na-venecku
 urls: []
