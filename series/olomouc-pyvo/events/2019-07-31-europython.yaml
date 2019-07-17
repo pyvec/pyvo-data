@@ -1,0 +1,21 @@
+city: olomouc
+start: 2019-07-31 19:00:00
+name: Olomoucké Pyvo
+topic: Jak bylo na EuroPython 2019
+description: |
+    Ahoj!
+
+    ani o prázdninách Pyvo nevynecháme a dozvíte se zajímavosti z konference EuroPython 2019, která se letos uskutečnila ve Švýcarském městě Basilej.
+
+    Pokud máte nějakou přednášku či téma na příště, dejte nám vědět v
+    [mailing listu Olomouckého Pyva](https://groups.google.com/forum/#!forum/olomoucke-pyvo).
+    A přidejte se do mailing listu pro aktuální info.
+
+    Těšíme se na vaši hojnou účast!
+
+venue: picolo-piratske-centrum-olomouc
+talks:
+  - title: EuroPython 2019
+    speakers:
+      - Jan Bednařík
+urls: []
