@@ -1,0 +1,16 @@
+city: brno
+start: 2019-07-25 19:00:00
+name: Brněnské Pyvo
+topic: Červencové - pivní
+venue: u-drevaka
+description: |
+    Milí Pythonisté, červencové Pyvo bude tradičně, jako všechna prázdninová Pyva, o networkingu a přátelském povídání, tedy bez přednášek. 
+    Potkáme se ve čtvrtek v 7 večer v hospodě U Dřeváka nad dobrým jídlem a pivem :) 
+
+    ----------------------
+
+    Dear Pythonistas, this month's Pyvo topic is "networking and pivo", as usual during holiday, so no talks planned.
+    Let's meet this Thursday at 7 PM in U Dřeváka pub.
+
+talks:
+    []
