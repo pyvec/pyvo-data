@@ -2,7 +2,8 @@ city: praha
 start: 2019-07-17 19:00:00
 name: Pražské Pyvo
 number: 100
-description: "Červencové kulaté \U0001f389"
+description: |
+  Červencové kulaté 🎉
 
 venue: na-venecku
 urls: []
@@ -10,6 +11,6 @@ talks:
 
 - title: Lightning talky
   description: |
-    Dojde i na lightning talky. Můžeš jeden mít i ty,
+    Kromě grilovačky budou lightning talky. Můžeš jeden mít i ty,
     viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
     Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
