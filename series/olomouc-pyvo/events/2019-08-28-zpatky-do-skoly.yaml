@@ -1,0 +1,21 @@
+city: olomouc
+start: 2019-08-28 19:00:00
+name: Olomoucké Pyvo
+topic: Zpátky do školy
+description: |
+    Stejně jako oprázdninách žáci neřeší přípravu do školy, my jsme promeškali přípravu posledního prázdninového Olomouckého Pyva. Proto nás místo přednášek čekají více či méně improvizované lightning talky a povídání o zajímavých technologiích.
+
+    Pokud máte nějakou přednášku či téma na příště, dejte nám vědět v
+    [mailing listu Olomouckého Pyva](https://groups.google.com/forum/#!forum/olomoucke-pyvo).
+    A přidejte se do mailing listu pro aktuální info.
+
+    Těšíme se na vaši účast!
+
+venue: picolo-piratske-centrum-olomouc
+talks:
+  - title: improvizace
+    speakers:
+      - všichni
+    description: |
+      Je to na vás :-)
+urls: []
