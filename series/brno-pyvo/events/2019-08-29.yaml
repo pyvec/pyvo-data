@@ -18,5 +18,5 @@ talks:
   - title: Goodbye
     description: |
         ???
-    speakers: |
-        - "sha256:fd9f3f0f8e07d220a653add9f7dc9e052a3b232af0ca8c2eedb7aeeb5d62982b"
+    speakers:
+        - sha256:fd9f3f0f8e07d220a653add9f7dc9e052a3b232af0ca8c2eedb7aeeb5d62982b
