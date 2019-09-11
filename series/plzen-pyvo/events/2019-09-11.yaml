@@ -17,11 +17,6 @@ talks:
     speakers:
       - Filip Vaculík
       - Tomáš Bedřich
-  - title: Výuka Pythonu, nejen, na vysokých školách. 
-    speakers: 
-      - Miro Hrončok 
-    description: |
-      O své zkušenosti s výukou Pythonu se přijede podělit zkušený lektor a propagátor open-source Miro Hrončok.
   - title: Vzdělávání Pyladies
     speakers: 
       - Tomáš Zítka
@@ -34,6 +29,11 @@ talks:
     description: | 
       Se vzdělávacími kurzy PyWorking nás příjde seznámit organizátorka PyLadies v Plzni.
     lightning: true
+  - title: Výuka Pythonu, nejen, na vysokých školách. 
+    speakers: 
+      - Miro Hrončok 
+    description: |
+      O své zkušenosti s výukou Pythonu se přijede podělit zkušený lektor a propagátor open-source Miro Hrončok.
   - title: Python pro hravé
     speakers: 
       - Filip Vaculík
