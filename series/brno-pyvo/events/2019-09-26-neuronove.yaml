@@ -1,0 +1,38 @@
+city: brno
+start: 2019-09-26 19:00:00
+name: Brněnské Pyvo
+topic: Neuronové & QA
+venue: artbar
+description: |
+    První Pyvo nové sezóny bude na téma bezpečnosti neuronových sítí. Po prázdninách se potkáme opět v klubovně Artbaru, útulnější než dřív :)
+
+    ----
+    
+    The topic of the first Pyvo of this season is Safety verification in neural networks.
+    Lets meet meet in Artbar's lounge room (comfier than ever) again after the summer break! :)
+
+
+talks:
+  - title: Safety Verification of neural network
+    description: |
+        Byť zavraždený neurónovou sieťou? Možno to znie naozaj šialene, ale jedného dňa sa to skutočne môže stať, nie však tak, ako si mnoho z vás myslí.
+
+        ---
+
+        Assassination by neural network. Sound crazy? Well, it might happen someday, and not the way you may think.
+
+    speakers:
+      - Martin Gaňo
+
+  - title: QA MakeFile
+    description: |
+        Představení modulu pro Python 3, který umožňuje přípravu a ovládání (virtuálních) strojů, s prezentováním výsledku operace prostřednictvím HTML reportu.
+        Prezentace představuje interní QA projekt Avastu, který je zvažován pro open sourcing.
+
+        ---
+
+        Overview of Python 3 module allowing to deploy (virtual) machines, perform actions on them and present the results in HTML form.
+        The presentation of Avast QA project considered for open sourcing.
+
+    speakers:
+      - Petr Schreiber
