@@ -9,24 +9,53 @@ venue: na-venecku
 urls: []
 talks:
 
-- title: Exceptions in Python
+- title: Výjimky
   speakers:
-  - ??
+  - Petr Viktorin
+  coverage:
+  - video: https://www.youtube.com/watch?v=gRaL4VwFph4
 
 - title: Resumable Exceptions
   speakers:
+  - Jiří Bartoň
   - Peter Hozak
+  coverage:
+  - video: https://www.youtube.com/watch?v=UgYaN2Qc6Xo
 
-- title: ??
+- title: War story, Django
+  lightning: true
   speakers:
-  - ??
+  - Timothy Hobbs
+  coverage:
+  - slides: https://github.com/areski/django-admin-tools-stats/pull/49
+  - video: https://www.youtube.com/watch?v=B3aLY1U0ctU
 
-- title: Proč ne except
+- title: "PyData Meetup #4"
+  lightning: true
+  speakers:
+  - Jan Pipek
+  coverage:
+  - slides: https://docs.google.com/presentation/d/e/2PACX-1vSj87U1WGwuAkw0Fw1wC6FeTXYPqWUKdxakRYf4aefTUaxQOj7dNznXsdQny0hnG0zc6UXTC8ScugnU/pub?start=true&loop=false&delayms=60000
+  - video: https://www.youtube.com/watch?v=uid3IjZTWbs
+
+- title: Jak výjimečně zastavit autobus
+  lightning: true
+  speakers:
+  - Ondřej Caletka
+  coverage:
+  - slides: https://docs.google.com/presentation/d/1hxiHR9RS8mvRR0A9mlraiWWfFupMOhAHDehqK4JH9lA/edit?usp=sharing
+  - video: https://www.youtube.com/watch?v=4qeKRVJDDZo
+
+- title: výuka Pythonu pre začiatočníkov & OWASP
+  lightning: true
+  speakers:
+  - Filip Holec
+  coverage:
+  - video: https://www.youtube.com/watch?v=3Q0rBM5xqJQ
+
+- title: frozenmap
+  lightning: true
   speakers:
   - Petr Viktorin
-
-- title: Lightning talky
-  description: |
-    Kromě grilovačky budou lightning talky. Můžeš jeden mít i ty,
-    viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
-    Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
+  coverage:
+  - video: https://www.youtube.com/watch?v=r5I-9XNX4JM
