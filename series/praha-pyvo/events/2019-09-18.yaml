@@ -46,7 +46,7 @@ talks:
   - slides: https://docs.google.com/presentation/d/1hxiHR9RS8mvRR0A9mlraiWWfFupMOhAHDehqK4JH9lA/edit?usp=sharing
   - video: https://www.youtube.com/watch?v=4qeKRVJDDZo
 
-- title: výuka Pythonu pre začiatočníkov & OWASP
+- title: Výuka Pythonu pre začiatočníkov & OWASP
   lightning: true
   speakers:
   - Filip Holec
