@@ -1,0 +1,26 @@
+city: olomouc
+start: 2019-09-25 19:00:00
+name: Olomoucké Pyvo
+topic: Webové frameworky
+description: |
+    Povieme si niečo o webových frameworkoch a ako založiť python projekt.
+
+    Pokud máte nějakou přednášku či téma na příště, dejte nám vědět v
+    [mailing listu Olomouckého Pyva](https://groups.google.com/forum/#!forum/olomoucke-pyvo).
+    A přidejte se do mailing listu pro aktuální info.
+
+    Těšíme se na vaši účast!
+
+venue: picolo-piratske-centrum-olomouc
+talks:
+  - title: Python webové frameworky
+    speakers:
+      - Dan Nepejchal
+    description: |
+      Rychlý přehled a drobné seznámení se s několika současnými webovými frameworky v Pythonu.  Od masivních nástrojů typu Django až po generátory statického obsahu typu Lektor.
+  - title: tox, pytest, setuptools
+    speakers:
+      - Martin Čurlej
+    description: |
+      Kedže máme nový školský rok, tak začneme od základov. Ukážeme si ako rýchlo založiť git repozitár pre vaše projekty.
+urls: []
