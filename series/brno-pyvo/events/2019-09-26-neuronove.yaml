@@ -24,6 +24,9 @@ talks:
     speakers:
       - Martin Gaňo
 
+    coverage:
+    - video: https://youtu.be/YVyDFpZriUE
+
   - title: QA MakeFile
     description: |
         Představení modulu pro Python 3, který umožňuje přípravu a ovládání (virtuálních) strojů, s prezentováním výsledku operace prostřednictvím HTML reportu.
@@ -36,3 +39,6 @@ talks:
 
     speakers:
       - Petr Schreiber
+
+    coverage:
+    - video: https://youtu.be/RbkrdkvcPAU
