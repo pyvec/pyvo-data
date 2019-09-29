@@ -1,0 +1,28 @@
+city: ostrava
+start: 2019-10-02 19:00:00
+name: Ostravské Pyvo
+topic: O licencich
+description: |
+    Ahoj!
+
+    Na Pyvu v říjnu si budeme povídat o licencích a to nejen těch
+    softwarových. Na první pohled nezajímavé téma má důležité důsledky pro
+    každého z nás, protože ovlivňuje nejen to, jak můžeme zacházet z daty,
+    které si stáhneme z internetu, ale také to, jak budou ostatní nakládat
+    s naší tvorbou, kterou dáme na internet k dispozici.
+
+    Jak zajistit, aby můj kód nemohl nikdo používat k výrobě jaderných
+    zbraní? To a mnohem více nám poví Vladimír Návrat už ve středu 2.
+    října.
+
+    Přijďte a zapojte se!
+
+    Těšíme se na vás.
+
+    P.S.: Ve středu nás opět čeká hodina začátečnického kurzu PyLadies,
+    takže dorazíme sice o trošku později, zato ale ve větším počtu
+
+venue: vr-levsky
+talks: []
+urls:
+- https://www.meetup.com/Ostravske-Pyvo/events/265260441/
