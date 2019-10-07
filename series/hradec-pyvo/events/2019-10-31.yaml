@@ -1,0 +1,16 @@
+ 
+city: hradec-kralove
+start: 2019-10-31 18:00:00
+name: Hradecké Pyvo
+number: 6
+topic: Šesté
+venue: pivovarske-domy
+description: ""
+talks:
+  - title: Selenium WebDriver - ovládání webu pomocí Pythonu
+    speakers:
+    - Lukáš Láska
+
+  - title: Datové třídy z Pythonu 3.7
+    speakers:
+    - Robert Richter
