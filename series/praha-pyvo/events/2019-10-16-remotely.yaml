@@ -1,0 +1,19 @@
+city: praha
+start: 2019-10-16 19:00:00
+name: Pražské Pyvo
+number: 103
+description: |
+  Remotely
+venue: na-venecku
+urls: []
+talks:
+
+- title: Práce na dálku
+  speakers:
+  - Honza Král
+
+- title: "Lightning talky"
+  description: |
+    Určitě dojde i na lightning talky. Můžeš jeden mít i ty,
+    viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+    Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
