@@ -1,0 +1,57 @@
+city: brno
+start: 2019-10-31 19:00:00
+name: Brněnské Pyvo
+topic: Komunitní
+venue: artbar
+description: |
+    Říjnové Pyvo bude tak trochu speciální. Nebudeme se věnovat technickým tématům, nýbrž IT komunitám.
+    Poslechneme si tři přednášky lidí, kteří mají dlouholeté zkušenosti s pořádáním meetupů, workshopů či kurzů, a také budováním komunit samotných.
+
+    ----
+
+    This months Pyvo is a special one. We will switch from technical topics to community ones for once.
+    We invited three long-time community enthusiats to share their experience with organizing IT-related meetups,
+    workshops and courses, and building the communities in general.
+
+
+talks:
+  - title: Experimenting with community events
+    description: |
+        Téměř každý už slyšel o tom, že se pro různé komunity pořádají nějaké meetupy a workshopy.
+        Pojďme si představit i jiné formáty akcí, čím mohou být zajímavé a pro které skupiny jsou více či méně vhodné.
+
+        ---
+
+        Almost everyone knows there are some meetups and workshops being organized for various communities.
+        Let’s talk about some other formats of community events, what can be interesting about those and for which
+        groups they may or may not work.
+
+    speakers:
+      - Anežka Müller
+
+  - title: PyLadies under the hood
+    description: |
+        Brno: kdo, co a proč. Přijď se podívat na naši komunitu, aktivity, role a... třeba se i přidej?
+
+        ---
+
+        Brno: who, what and why. Have a glance at our community, activities, roles - and... maybe get convinced to join us?
+
+    speakers:
+      - Karolina Surma
+
+  - title: Lessons learned from 9 years of community work
+    description: |
+        Honza pomáhá s rozšiřováním české Python komunity od roku 2011, kdy založil Pyvo v Brně. Roky se věnuje srazům,
+        kurzům, workshopům, konferencím, neziskovce Pyvec, a dalšímu dobrovolničení.
+        Poslechněte si několik ponaučení, která si odnesl ze své komunitní práce, a o kterých si myslí, že by mohla pomoci i dalším.
+
+        ---
+
+        Since 2011, when he founded Pyvo in Brno, Honza has been helping to drive the growth and success of the Czech Python User Group.
+        For years he has been participating in volunteer-driven meetups, courses, workshops, conferences, the Pyvec nonprofit, and more.
+        Listen to a few lessons he has learned during his community work, which he thinks could help others to better understand
+        how to succeed in volunteering.
+
+    speakers:
+      - Honza Javorek
