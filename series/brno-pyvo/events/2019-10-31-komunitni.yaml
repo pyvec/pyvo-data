@@ -55,3 +55,9 @@ talks:
 
     speakers:
       - Honza Javorek
+
+  - title: "Lightning talky"
+    description: |
+      Určitě dojde i na lightning talky. Můžeš jeden mít i ty,
+      viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+      Registrace nutná na [Lightning Talk – bit.ly/brpylight](https://bit.ly/brpylight).
