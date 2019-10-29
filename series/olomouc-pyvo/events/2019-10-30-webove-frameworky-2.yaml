@@ -1,0 +1,27 @@
+city: olomouc
+start: 2019-10-30 19:00:00
+name: Olomoucké Pyvo
+topic: Webové frameworky 2
+description: |
+    Posledně jsme měli přehled různých Pythonních webových frameworků. Tentokrát
+    se podíváme podprobněji na Django a Flask.
+
+    Pokud máte nějakou přednášku či téma na příště, dejte nám vědět v
+    [mailing listu Olomouckého Pyva](https://groups.google.com/forum/#!forum/olomoucke-pyvo).
+    A přidejte se do mailing listu pro aktuální info.
+
+    Těšíme se na vaši účast!
+
+venue: picolo-piratske-centrum-olomouc
+talks:
+  - title: Django
+    speakers:
+      - Dan Nepejchal
+    description: |
+      Praktická ukázka jak na Django.
+  - title: Flask
+    speakers:
+      - Martin Tichý
+    description: |
+      Přehled základních funkcionalit Flasku a oblíbených doplňujících modulů.
+urls: []
