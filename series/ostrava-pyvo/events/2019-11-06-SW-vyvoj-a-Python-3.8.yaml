@@ -1,0 +1,29 @@
+city: ostrava
+start: 2019-11-06 19:00:00
+name: Ostravské Pyvo
+topic: SW vývoj a Python 3.8
+description: |
+    Ahoj!
+
+    Python se stejně jako ostatní jazyky (a nejen ty programovací) neustále
+    vyvíjí. Po čtyřech alfa verzích, čtyřech beta verzích a jedné RC verzi
+    jsme se v půlce října dočkali stabilního vydání Pythonu 3.8.
+
+    Na Pyvu se společně podíváme, jak se od sebe liší jednotlivé fáze
+    vývoje softwarového produktu, jak se v nich od sebe liší open source
+    software od proprietárního a pro koho jsou jednotlivá vydání určena.
+
+    V druhé polovině se pak zaměříme na Python 3.8 a podíváme se, co je v
+    něm nového a zajímavého.
+
+    Přijďte a zapojte se!
+
+    Těšíme se na vás.
+
+    P.S.: Ve středu nás opět čeká hodina začátečnického kurzu PyLadies,
+    takže dorazíme sice o trošku později, zato ale ve větším počtu
+
+venue: vr-levsky
+talks: []
+urls:
+- https://www.meetup.com/Ostravske-Pyvo/events/266103379/
