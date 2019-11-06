@@ -35,6 +35,12 @@ talks:
     speakers:
       - uvidíme
     lightning: true
+  - title: Obsluha Gitu rychleji
+    speakers:
+      - Filip Vaculík
+    description: |
+      Ukázka aliasů, které se vám mohou hodit pro zautomatizování práce s Gitem.
+    lightning: true    
   - title: Lightning talks
     lightning: true
     description: |
