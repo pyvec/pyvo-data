@@ -7,31 +7,41 @@ venue: beer-factory
 description: |
   Vážení přátelé a příznivci našich setkání!
   
-  Zjistili jsme, že stále ještě ne všichni se úplně kamarádí s nejpoužívanějším verzovacím systémem dneška – s GITem. Proto jsme se rozhodli tomuto tématu věnovat _ještě jeden poslední_ večer, po kterém už všichni budou vědět 100% všechno. :)
+  Zjistili jsme, že stále ještě ne všichni se úplně kamarádí s nejpoužívanějším verzovacím systémem dneška – s Gitem. Proto jsme se rozhodli tomuto tématu věnovat _ještě jeden poslední_ večer, po kterém už všichni budou vědět 100% všechno. :)
   
-  GIT je sice nejoblíbenější mezi programátory, ale jeho použití se zdaleka neomezuje na psaní kódu. Proto přijďte i vy, kdož přímo nepíšete kód, avšak máte libovolnou motivaci nějaké soubory verzovat / zachovávat jejich historii změn. 
+  Git je sice nejoblíbenější mezi programátory, ale jeho použití se zdaleka neomezuje na psaní kódu. Proto přijďte i vy, kdož přímo nepíšete kód, avšak máte libovolnou motivaci nějaké soubory verzovat / zachovávat jejich historii změn. 
   
 talks:
   - title: Úvodní slovo
     speakers:
       - Filip Vaculík
       - Tomáš Bedřich
-  - title: Úvod do GITu
+  - title: Úvod do Gitu
     speakers:
-      - Jan Smitka
-  - title: git hooks
+      - Jan Smitka - Lynt
+    description: |
+      Git není jen nástrojem pro spolupráci v týmech, je dobrým pomocníkem i na soukromých projektech (ne)jen pro radost. V přednášce si proto vysvětlíme základní pojmy a ukážeme si, že s Gitem lze začít velmi snadno i bez příkazové řádky. Přednáška bude určena především pro začátečníky, kteří s podobným nástrojem ještě nepracovali.
+  - title: Git hooks
+    speakers:
+      - Ondřej Kristejn - Heureka
+    description: |
+      Prostředek, jak naučit Git automaticky reagovat na konkrétní události.
+    lightning: true
+  - title: Git filter-branch
+    speakers:
+      - Tomáš Zítka - ZČU
+    description: |
+      Odstraňování nepohodlných dat z historie.
+    lightning: true    
+  - title: Git bisect
     speakers:
       - uvidíme
     lightning: true
-  - title: git bisect
+  - title: Git reflog
     speakers:
       - uvidíme
     lightning: true
-  - title: git reflog
-    speakers:
-      - uvidíme
-    lightning: true
-  - title: git rebase
+  - title: Git rebase
     speakers:
       - uvidíme
     lightning: true
