@@ -1,0 +1,31 @@
+city: praha
+start: 2019-10-20 19:00:00
+name: Pražské Pyvo
+number: 104
+topic: Fedora, komunita a budoucnost operačních systémů
+description: |
+  The Fedora community leadership will join our Python meetup to talk about the Fedora Project.
+  How are community driven large-cale projects led? And what is the future of operating system in the cloud world?
+venue: na-venecku
+urls: []
+talks:
+
+- title: Community leadership in Fedora
+  speakers:
+  - Matthew Miller
+  description: |
+    Matthew Miller is the [Fedora Project Leader](https://docs.fedoraproject.org/en-US/council/fpl/).
+    He will talk off-the cuff about community leadership and do a Q&A.
+
+- title: Fedora and the Future of Operating Systems and software distribution
+  speakers:
+  - Ben Cotton
+  description: |
+    Ben Cotton is the [Fedora Program Manager](https://docs.fedoraproject.org/en-US/council/fpgm/).
+    He will talk about the history of software distribution and most importantly about the future.
+
+- title: "Lightning talky"
+  description: |
+    Určitě dojde i na lightning talky. Můžeš jeden mít i ty,
+    viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+    Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
