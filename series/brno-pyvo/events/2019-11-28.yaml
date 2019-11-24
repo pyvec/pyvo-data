@@ -1,0 +1,59 @@
+city: brno
+start: 2019-11-28 19:00:00
+name: Brněnské Pyvo
+topic: Listopadové
+venue: artbar
+description: |
+    Listopadové Pyvo přináší opět několik zajímavých přednášek a příležitost pro to,
+    se setkat s lokálními Pythonisty, probrat vše důležité a ochutnat pivní nabídku Artbaru.
+
+    ---
+
+    November Pyvo brings interesting talks again. Also a great opportunity to meet local Pythonistas,
+    discuss "important stuff" and try some of the great beers of Artbar.
+
+talks:
+  - title: Automatizovaná konverze textových sestav do formátu Office Open XML
+    description: |
+        Tahle přednáška bude v českém jazyku.
+
+        Z UNIXového systému dostaneme textovou sestavu, která je pro další zpracování uživatelem nevhodná.
+        Údaje z ní sice dostane, ale o nějakém třídění, jednoduchém vyhledávání nebo snad tvorbě statistiky
+        nemůže být řeč. A tak za pomocí propojení Pythonu a databáze vznikl jednoduchý program,
+        který na základě nastavených pravidel převede textovou sestavu do Office Open XML,
+        se kterým už si poradí tabulkový editor a uživateli poskytuje nesrovnatelný komfort.
+
+    speakers:
+      - Luděk Reif
+
+  - title: Roboproject
+    description: |
+        Už rok se skupina nadšených začínajících Pythonistek věnuje vývoji počítačové verze deskové hry RoboRally v Pythonu.
+        A první hratelná verze je na světě! Pojďme si říct něco o technologiích, které jsou na hře použity,
+        jaká jsou jejich omezení, jaká je další budoucnost projektu a jak se do něj můžete zapojit.
+
+        ---
+
+        For the last year, a group of eager Python beginners has been working on Python version of a board game RoboRally.
+        We're pleased to announce v. 1! Let's talk about what technologies we used and why, what are the limitations,
+        what are the possibilities of future development and how you can contribute.
+
+    speakers:
+      - Karolina Surma
+
+  - title: Automating the boring space stuff!
+    description: |
+        Matthias will introduce to us how to (almost) automate satellite operations.
+        It involves an automation-framework as the base, and the different tools and utilities built on top of it.
+        Additionally, the talk will include the evolution of the ground software side, reducing manual steps to near-automatic, one-click solution.
+        As the last topic, the talk will also describe the move from purely on-site service to AWS and various
+        pitfalls encountered while learning the new platform.
+
+    speakers:
+      - Matthias Bermann
+
+  - title: "Lightning talky"
+    description: |
+      Určitě dojde i na lightning talky. Můžeš jeden mít i ty,
+      viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+      Registrace nutná na [Lightning Talk – bit.ly/brpylight](https://bit.ly/brpylight).
