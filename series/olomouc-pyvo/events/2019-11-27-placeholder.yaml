@@ -1,0 +1,17 @@
+city: olomouc
+start: 2019-11-27 19:00:00
+name: Olomoucké Pyvo
+topic: Olomoucké Pyvo - listopad 2019
+description: |
+    Těšíme se na vaši účast!
+
+venue: picolo-piratske-centrum-olomouc
+talks:
+  - title: PyLadies Olomouc
+    speakers:
+      - Filip Valder
+    description: |
+      Informace k začátečnickému kurzu PyLadies, který se začne konat v Olomouci po Novém roce.
+    urls:
+      - https://pyladies.cz/olomouc/
+urls: []
