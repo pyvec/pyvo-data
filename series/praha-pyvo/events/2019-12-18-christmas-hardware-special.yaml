@@ -10,6 +10,16 @@ description: |
 venue: na-venecku
 urls: []
 talks:
+
+- title: Karmen - Vzdálené ovládání víc než jedné 3D tiskárny
+  speakers:
+  - Jirka Chadima
+  description: |
+    Ve [Fragarii](https://fragaria.cz/) jsme chtěli dělat něco, co nás bude bavit a někomu pomůže.
+    Tak jsme se rozhodli vyrábět krabičku, kterou připojíte k tupé 3D tiskárně a váš život
+    se zlepší o tisíce procent. A co když máte tiskáren víc? To umíme taky. Představení projektu
+    a povídání o tom, co všechno musíte vyřešit, když se vydáte mimo svojí komfortní zónu online služeb.
+
 - title: "Lightning talky"
   description: |
     Určitě dojde i na lightning talky. Můžeš jeden mít i ty,
