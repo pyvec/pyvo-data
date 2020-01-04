@@ -19,21 +19,21 @@ talks:
   - title: Rychlý průlet standardní knihovnou, PEPy, různé implementace Pythonu
     speakers:
       - Filip Vaculík
-  - title: "`functools`"
+  - title: functools
     lightning: true
-  - title: "`collections`"
+  - title: collections
     lightning: true
-  - title: "`pathlib`"
+  - title: pathlib
     lightning: true
-  - title: "`<doplníme>`"
+  - title: <doplníme>
     lightning: true
-  - title: "`<doplníme>`"
+  - title: <doplníme>
     lightning: true
-  - title: "`<doplníme>`"
+  - title: <doplníme>
     lightning: true
-  - title: "`<doplníme>`"
+  - title: <doplníme>
     lightning: true
-  - title: "`<doplníme>`"
+  - title: <doplníme>
     lightning: true
   - title: Lightning talks
     lightning: true
