@@ -1,0 +1,45 @@
+city: plzen
+start: 2020-01-08 18:00:00
+name: Plzeňské Pyvo
+number: 13
+topic: Standardní knihovna
+venue: beer-factory
+description: |
+  Vážení přátelé a příznivci našich setkání!
+
+  Python je v základu vybaven velkou spoustou užitečných funkcí. Většinu z nich můžeme použít teprve tehdy, napíšeme-li `import <něco>`. Napadlo vás někdy, co všechno lze importovat a co lze s Pythonem dělat bez nutnosti cokoliv doinstalovávat? Odpověď najdeme, podíváme-li se blíže na tzv. [standardní knihovnu](https://docs.python.org/3.8/library/index.html).
+  
+  Společně si uděláme rychlý průlet standardní knihovnou, abychom zhruba věděli, co všechno se tam dá najít. Upozorníme na některé pasti v různých implementacích Pythonu a zabrousíme i do toho, jakým způsobem se Python vyvíjí a standardizuje. Pak se v sérii krátkých ukázek podíváme na několik vybraných modulů ze standardní knihovny, které se vám mohou hodit v každodenní práci.
+  
+talks:
+  - title: Úvodní slovo
+    speakers:
+      - Filip Vaculík
+      - Tomáš Bedřich
+  - title: Rychlý průlet standardní knihovnou, PEPy, různé implementace Pythonu
+    speakers:
+      - Filip Vaculík
+  - title: "`functools`"
+    lightning: true
+  - title: "`collections`"
+    lightning: true
+  - title: "`pathlib`"
+    lightning: true
+  - title: "`<doplníme>`"
+    lightning: true
+  - title: "`<doplníme>`"
+    lightning: true
+  - title: "`<doplníme>`"
+    lightning: true
+  - title: "`<doplníme>`"
+    lightning: true
+  - title: "`<doplníme>`"
+    lightning: true
+  - title: Lightning talks
+    lightning: true
+    description: |
+      Pokud máte zkušenost se zajímavou technologii, projektem, nebo chcete prezentovat sebe, či svou firmu a její aktivity,
+      nebojte se přihlásit o slovo. K dispozici můžete mít plných 5 minut pro své téma.
+      Téma je možno přihlásit kdykoliv během akce u libovolného z organizátorů.
+      Také sbíráme náměty na přednášky pro další Pyva viz. [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+urls: []
