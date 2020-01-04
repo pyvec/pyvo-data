@@ -2,21 +2,39 @@ city: plzen
 start: 2020-01-08 18:00:00
 name: Plzeňské Pyvo
 number: 13
-topic: TODO
+topic: Standardní knihovna
 venue: beer-factory
 description: |
-  TODO 
+  Vážení přátelé a příznivci našich setkání!
+
+  Python je v základu vybaven velkou spoustou užitečných funkcí. Většinu z nich můžeme použít teprve tehdy, napíšeme-li `import <něco>`. Napadlo vás někdy, co všechno lze importovat a co lze s Pythonem dělat bez nutnosti cokoliv doinstalovávat? Odpověď najdeme, podíváme-li se blíže na tzv. [standardní knihovnu](https://docs.python.org/3.8/library/index.html).
+  
+  Společně si uděláme rychlý průlet standardní knihovnou, abychom zhruba věděli, co všechno se tam dá najít. Upozorníme na některé pasti v různých implementacích Pythonu a zabrousíme i do toho, jakým způsobem se Python vyvíjí a standardizuje. Pak se v sérii krátkých ukázek podíváme na několik vybraných modulů ze standardní knihovny, které se vám mohou hodit v každodenní práci.
   
 talks:
   - title: Úvodní slovo
     speakers:
       - Filip Vaculík
       - Tomáš Bedřich
-  - title: TODO
+  - title: Rychlý průlet standardní knihovnou, PEPy, různé implementace Pythonu
     speakers:
-      - TODO
-    description: |
-      TODO  
+      - Filip Vaculík
+  - title: `functools`
+    lightning: true
+  - title: `collections`
+    lightning: true
+  - title: `pathlib`
+    lightning: true
+  - title: `<doplníme>`
+    lightning: true
+  - title: `<doplníme>`
+    lightning: true
+  - title: `<doplníme>`
+    lightning: true
+  - title: `<doplníme>`
+    lightning: true
+  - title: `<doplníme>`
+    lightning: true
   - title: Lightning talks
     lightning: true
     description: |
