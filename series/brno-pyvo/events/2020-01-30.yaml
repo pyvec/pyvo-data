@@ -1,0 +1,36 @@
+city: brno
+start: 2020-01-30 19:00:00
+name: Brněnské Pyvo
+topic: Droní
+venue: artbar
+description: |
+    Na prvním Pyvu v roce 2020 se budeme věnovat programování dronů. Sejdeme se opět v klubovně ArtBaru :) 
+
+    ---
+
+    At the first Pyvo in 2020 we will focus on the drone programming. We will meet again in Artbar's lounge room :) 
+
+talks:
+  - title: Experimenting with DJI Tello drones
+    description: |
+        Spolu s účastníky CodeBrew Hackatonu jsme se snažili něco rozumného vymyslet a naprogramovat s drony DJI Tello,
+        které jsou programovatelné v Pythonu. Jak nám to šlo, na jaké problémy jsme narazili a jaká to byla zábava Vám
+        odprezentují Vlado a Dominik ze SolarWinds.
+        Pracovali jsme v Pythonu, ale o Pythonu to nakonec zas tak moc nebylo, jak sami uvidíte a uslyšíte. :)
+
+        ---
+
+        Along with the participants of CodeBrew Hackaton, we have tried to design and develop something reasonable with DJI Tello drones,
+        which are programmable using Python. How it went, what problems have we encountered, and how much fun it all was,
+        will be presented to you by Vlado and Dominik from SolarWinds.
+        We were using Python, but that turned out to be just an implementation detail. You shall see for yourself. :)
+
+    speakers:
+      - Vlado Kopšo
+      - Dominik Jochec
+
+  - title: "Lightning talky"
+    description: |
+      Určitě dojde i na lightning talky. Můžeš jeden mít i ty,
+      viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+      Registrace nutná na [Lightning Talk – bit.ly/brpylight](https://bit.ly/brpylight).
