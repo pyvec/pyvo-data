@@ -1,0 +1,15 @@
+city: praha
+start: 2020-01-15 19:00:00
+name: Pražské Pyvo
+number: 106
+description: Opět po čase pyvo bez žádného předem známého programu.
+venue: na-venecku
+urls: []
+talks:
+
+
+- title: "Lightning talky"
+  description: |
+    Určitě dojde i na lightning talky. Můžeš jeden mít i ty,
+    viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+    Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
