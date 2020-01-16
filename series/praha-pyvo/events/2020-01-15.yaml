@@ -2,14 +2,39 @@ city: praha
 start: 2020-01-15 19:00:00
 name: Pražské Pyvo
 number: 106
-description: Opět po čase pyvo bez žádného předem známého programu.
+description: V lednovém Pyvu byl na programu sběr námětů na příští meetupy a několik Lightning talků.
 venue: na-venecku
 urls: []
 talks:
+- title: CrowdClick.me
+  lightning: true
+  speakers:
+        - Ethan Clime
+  coverage:
+        - slides: https://docs.google.com/presentation/d/16jqzwm4CSPVx9BZpy7Srtat_ZZx7EvX2zrahIIj-70I/
+
+- title: Curing Aging
+  lightning: true
+
+- title: Co je API?
+  lightning: true
+  speakers:
+       - Honza Javorek
+  coverage:
+       - link: https://github.com/honzajavorek/cojeapi
+
+- title: Pozvánka na PyCon CZ 2020
+  lightning: true
+  speakers:
+       - Dan Srb
+  coverage:
+       - link: https://cz.pycon.org/2020/
+
+- title: Pozvánka na DevConf.CZ 2020
+  lightning: true
+  speakers:
+       - Miro Hrončok
+  coverage:
+       - link: https://www.devconf.info/cz/
 
 
-- title: "Lightning talky"
-  description: |
-    Určitě dojde i na lightning talky. Můžeš jeden mít i ty,
-    viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
-    Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
