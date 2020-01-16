@@ -1,0 +1,15 @@
+city: praha
+start: 2020-02-19 19:00:00
+name: Pražské Pyvo
+number: 107
+description: |
+        Únorové Pyvo nepochybně bude. Program se snad ještě upřesní.
+venue: na-venecku
+urls: []
+talks:
+
+- title: "Lightning talky"
+  description: |
+    Určitě dojde i na lightning talky. Můžeš jeden mít i ty,
+    viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+    Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
