@@ -1,0 +1,15 @@
+city: hradec-kralove
+start: 2020-02-20 18:00:00
+name: Hradecké Pyvo
+number: 7
+topic: Sedmé
+venue: pivovarske-domy
+description: ""
+talks:
+  - title: (Ne)dělej z pythonu vědu
+    speakers:
+    - Thuy Linh Nguyen
+
+  - title: Grafická knihovna Pillow a GUI v Pythonu pomocí Kivy
+    speakers:
+    - Václav Rak
