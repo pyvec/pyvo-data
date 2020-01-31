@@ -1,0 +1,27 @@
+city: plzen
+start: 2020-03-11 18:00:00
+name: Plzeňské Pyvo
+number: 14
+topic: Návrhové vzory
+venue: beer-factory
+description: |
+  Vážení přátelé a příznivci našich setkání!
+
+  Každému vývojáři se poměrně brzo stane, že ve světě kódu se neustále objevují stejné, či velmi podobné situace.
+  Jako odpověď na tuto skutečnost, napříč mnoha lety co toto odvětví existuje, vznikly jisté vzory, které tyto
+  situace řeší. Říká se jim - Návrhové vzory (Design patterns).
+
+  Návrhové vzory, nejsou nutně vázány na kontrétní jazyk a tudíž je toto téma vhodné i pro ne-pythonisty.
+
+talks:
+  - title: Úvodní slovo
+    speakers:
+      - Filip Vaculík
+      - Tomáš Bedřich
+    description: |
+      Pokud máte zkušenost se zajímavou technologii, projektem, nebo chcete prezentovat sebe, či svou firmu a její aktivity,
+      nebojte se přihlásit o slovo. K dispozici můžete mít plných 5 minut pro své téma.
+      Téma je možno přihlásit kdykoliv během akce u libovolného z organizátorů.
+      Také sbíráme náměty na přednášky pro další Pyva viz. [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+urls: []
+
