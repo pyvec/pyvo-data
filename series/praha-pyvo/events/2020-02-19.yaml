@@ -8,6 +8,10 @@ venue: na-venecku
 urls: []
 talks:
 
+- title: "Webový vývoj jako hlavní téma pro karetní hru? Proč ne?"
+  speakers:
+  - Honza Černý
+
 - title: "Lightning talky"
   description: |
     Určitě dojde i na lightning talky. Můžeš jeden mít i ty,
