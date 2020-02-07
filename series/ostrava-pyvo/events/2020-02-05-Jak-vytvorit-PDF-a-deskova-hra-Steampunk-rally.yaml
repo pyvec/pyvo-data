@@ -26,6 +26,11 @@ description: |
     Těšíme se na vás.
 
 venue: vr-levsky
-talks: []
+talks:
+- title: Tvorba PDF dokumentů
+  speakers:
+  - David Stroch
+  coverage:
+  - slides: https://pyvec.github.io/talks-archive/ostrava-2020-02-05-david-stroch-generate_pdf_by_python.pdf
 urls:
 - https://www.meetup.com/Ostravske-Pyvo/events/268211650/
