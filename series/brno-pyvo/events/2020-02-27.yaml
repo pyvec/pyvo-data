@@ -1,0 +1,85 @@
+city: brno
+start: 2020-02-27 19:00:00
+name: Brněnské Pyvo
+topic: Optimalizační
+venue: artbar
+description: |
+    Toto Pyvo se podíváme na téma optimalizace.
+    Dorazte, prosím, nejkratší možnou cestou.
+
+    ---
+
+    At this Pyvo, we will take a look at the topic of optimization.
+    Please, arrive the shortest path possible.
+
+talks:
+  - title: Thoth - a recommendation engine for Python applications
+    description: |
+        Python sa stáva čím ďalej popularnejším jazykom v komunite a to
+        nepochybne najmä vďaka AI/ML a data science. S popularitou rastie aj
+        počet balíkov dostupných na PyPI a je často náročné vybrať ten správny
+        balík v správnej verzii pre aplikáciu tak, aby aplikácia bežala
+        korektne. Projekt Thoth je recommender systém ktorý agreguje informácie
+        o Python balíčkoch, ich verziách ako aj informácie o ich korektnosti
+        (nazývané "observations"). Tieto informácie sú následne použité v
+        resolveri tak, aby doporučil balíčky v konkrétnych verziách pre
+        aplikácie. V tejto krátkej prezentácii sa pozrieme na základne
+        vlastnosti recommender systému postaveného na princípoch reinforcement
+        learningu a ako je možné použiť Thoth pre správu závislostí aj v Tvojom
+        projekte aby si sa mohol vyhnúť "dependency hell".
+
+        ---
+
+        Project Thoth is a recommendation engine that collects information about
+        software packages, container images such as installation, assembling issues,
+        runtime crashes or information about performance. This information is
+        subsequently used in a recommendation engine that searches large state space of
+        libraries and recommends the best possible combination of libraries suitable
+        for your application using reinforcement learning. Let’s have a look at how
+        such information is collected and how the large state space is explored to
+        resolve the best application stack for your Python application based on
+        different aspects.
+        
+        Python ecosystem is experiencing significant growth and popularity especially
+        with the hype machine learning, data science and AI are creating. As the
+        ecosystem grows its many times not straightforward and easy to decide which
+        libraries in which versions are the most suitable ones for an application.
+        Project Thoth is a recommendation engine which aggregates various
+        characteristics of Python packages, called "observations", and uses them to
+        recommend the best possible software stack (a fully pinned down list of
+        dependencies) suitable for user's runtime environment and the application
+        purpose. In this talk, we give an overview of the project Thoth, main ideas in
+        data aggregation and its recommendation engine based on reinforcement learning
+        principles. We will also show how you can benefit from Thoth's recommendations.
+
+    speakers:
+      - Fridolín Pokorný
+
+talks:
+  - title: Simulace dopravy v Cities Skylines
+    description: |
+        Navrhni řešení komplexní dopravní situace ve tvém městě; Jezdíš denně
+        přes kus města a setkáváš se s místy kde by dopravní řešení šlo vyřešit
+        lépe? Ať už pro auta kruhovým objezdem nebo naopak zákaz vjezdu aby se
+        uvolnil prostor pro cyklisty či chodce? Díky simulaci v Cities Skylines
+        a modu CSL map můžeme z přibližného modelu (části) města vyzkoušet
+        různé řešení a pomocí Pythonu vybrat to nejvhodnější.
+
+        ---
+
+        Suggest a solution for complex traffic situation in your city; Are you
+        daily commuting through big part of town and seeing areas where traffic
+        solution could be done better?  Be it roundabouts for cars or banning
+        them to make more space for bikes or pedestrians?  Thanks to simulation
+        in Cities Skylines and CSL map mod we can try out different solutions
+        from a rough copy of a (part of) real city and using Python select the
+        ideal solution.
+
+    speakers:
+      - Tomáš Mikulec
+
+  - title: "Lightning talky"
+    description: |
+      Určitě dojde i na lightning talky. Můžeš jeden mít i ty,
+      viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+      Registrace nutná na [Lightning Talk – bit.ly/brpylight](https://bit.ly/brpylight).
