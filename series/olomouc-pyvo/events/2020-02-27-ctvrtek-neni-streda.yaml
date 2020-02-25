@@ -1,0 +1,18 @@
+city: olomouc
+start: 2020-02-27 19:00:00
+name: Olomoucké Pyvo
+topic: Čtvrtek není středa
+description: |
+    Témata přednášek zatím nejsou pevně daná, tak se přijďte nechat překvapit!
+
+    Tentokrát bude Olomoucké Pyvo netradičně ve čtvrtek. Ale od března jedeme
+    v klasickém rytmu poslední středy v měsíci.
+
+    Těšíme se na vás!
+
+venue: picolo-piratske-centrum-olomouc
+talks:
+  - title: připravujeme
+    speakers:
+        - připravujeme
+urls: []
