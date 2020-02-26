@@ -1,0 +1,18 @@
+city: praha
+start: 2020-03-18 19:00:00
+name: Pražské Pyvo
+number: 108
+topic: Testování
+description: |
+        Březnové Pyvo bude mít jako hlavní program testování. Ten bude ještě upřesněn.
+venue: na-venecku
+urls: []
+talks:
+
+- title: TBD
+
+- title: "Lightning talky"
+  description: |
+    Určitě dojde i na lightning talky. Můžeš jeden mít i ty,
+    viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+    Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
