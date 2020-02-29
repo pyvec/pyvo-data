@@ -12,7 +12,10 @@ description: |
 
 venue: picolo-piratske-centrum-olomouc
 talks:
-  - title: připravujeme
+  - title: OGR -- One Git Library to Rule them all
     speakers:
-        - připravujeme
+        - František Lachman
+    description: "Ukázka knihovny pro práci s GitHubem, GitLabem a Pagure. Jak se používá. Co na ní staví. A jak ji testujeme."
+    urls:
+        - https://gitlab.com/lachmanfrantisek/talks/-/blob/master/pyvo-2020-02-ogr/pyvo-2020-02-ogr.ipynb
 urls: []
