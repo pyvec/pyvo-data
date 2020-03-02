@@ -28,5 +28,10 @@ talks:
       - Tomáš Bedřich
     description: |
       Dekorátor je jednoduchý a užitečný návrhový vzor. Našel si své místo hlavně v srdcích Pythonistů, ale poslední dobou proniká pro svou eleganci i do jiných jazyků. Pojďme se s ním prakticky seznámit na příkladech.
+  - title: Jedináčci, továrny a borgové
+    speakers:
+      - Jan Smitka
+    description: |
+      V přednášce si ukážeme několik praktických i nepraktických návrhových vzorů, které řeší problematiku vytváření objektů. Ukážeme si i jejich implementaci v Pythonu a na závěr jednu třešničku, kterou byste ale raději používat neměli.
 urls: []
 
