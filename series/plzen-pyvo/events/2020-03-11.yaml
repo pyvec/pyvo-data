@@ -23,5 +23,20 @@ talks:
       nebojte se přihlásit o slovo. K dispozici můžete mít plných 5 minut pro své téma.
       Téma je možno přihlásit kdykoliv během akce u libovolného z organizátorů.
       Také sbíráme náměty na přednášky pro další Pyva viz. [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+  - title: Dekorátory
+    speakers:
+      - Tomáš Bedřich
+    description: |
+      Dekorátor je jednoduchý a užitečný návrhový vzor. Našel si své místo hlavně v srdcích Pythonistů pro svou možnost elegantně ovlivňovat chování funkcí, ale poslední dobou proniká i do jiných jazyků. Pojďme se s ním prakticky seznámit na příkladech.
+  - title: Publisher-subscriber
+    speakers:
+      - Tomáš Bedřich
+    description: |
+      Tento systém se dá vysvětlit na jenom slajdu, ale možnosti jeho použití jsou nedozírné. Od zjednodušení komplexních programů až po komunikaci mezi servery po celém světě. Opět se zaměříme hlavně na inspiraci a příklady reálného použití.
+  - title: Jedináčci, továrny a borgové
+    speakers:
+      - Jan Smitka
+    description: |
+      V přednášce si ukážeme několik praktických i nepraktických návrhových vzorů, které řeší problematiku vytváření objektů. Ukážeme si i jejich implementaci v Pythonu a na závěr jednu třešničku, kterou byste ale raději používat neměli.
 urls: []
 
