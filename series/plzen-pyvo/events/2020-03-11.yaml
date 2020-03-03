@@ -27,7 +27,12 @@ talks:
     speakers:
       - Tomáš Bedřich
     description: |
-      Dekorátor je jednoduchý a užitečný návrhový vzor. Našel si své místo hlavně v srdcích Pythonistů, ale poslední dobou proniká pro svou eleganci i do jiných jazyků. Pojďme se s ním prakticky seznámit na příkladech.
+      Dekorátor je jednoduchý a užitečný návrhový vzor. Našel si své místo hlavně v srdcích Pythonistů pro svou možnost elegantně ovlivňovat chování funkcí, ale poslední dobou proniká i do jiných jazyků. Pojďme se s ním prakticky seznámit na příkladech.
+  - title: Publisher-subscriber
+    speakers:
+      - Tomáš Bedřich
+    description: |
+      Tento systém se dá vysvětlit na jenom slajdu, ale možnosti jeho použití jsou nedozírné. Od zjednodušení komplexních programů až po komunikaci mezi servery po celém světě. Opět se zaměříme hlavně na inspiraci a příklady reálného použití.
   - title: Jedináčci, továrny a borgové
     speakers:
       - Jan Smitka
