@@ -1,5 +1,5 @@
 city: plzen
-start: 2020-03-11 18:00:00
+start: 2020-04-08 18:00:00
 name: Plzeňské Pyvo
 number: 14
 topic: Návrhové vzory
@@ -12,6 +12,13 @@ description: |
   situace řeší. Říká se jim - Návrhové vzory (Design patterns).
 
   Návrhové vzory, nejsou nutně vázány na kontrétní jazyk a tudíž je toto téma vhodné i pro ne-pythonisty.
+
+  **POZOR, ZMĚNA TERMÍNU!**
+
+  Omlouváme se, ale z preventivních důvodů jsme se rozhodli změnit termín našeho pravidelného setkání.
+  Předběžně jsme jej posunuli na 8.4. Uvidíme, jak se bude situace vyvíjet.
+  Díky za pochopení.
+  Za organizátory, Tomáš Bedřich
 
 talks:
   - title: Úvodní slovo
