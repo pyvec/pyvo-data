@@ -1,0 +1,20 @@
+city: praha
+start: 2020-03-18 19:00:00
+name: Pražské Pyvo
+number: 108
+topic: REMOTE PYVO – Testování
+description: |
+        **POZOR ZMĚNA:** Vzhledem k postupující nemoci COVID-19 a s tím souvisejícími ochrannými opatřeními se březnové pražské Pyvo uskuteční pouze na dálku. Na Věnečku BUDE ZAVŘENO.
+
+        Březnové remote Pyvo bude mít jako hlavní program testování. Ten bude ještě upřesněn, stejně jako informace o tom, jak se k historicky prvnímu vzdálenému Pyvu připojit.
+venue: remote
+urls: []
+talks:
+
+- title: TBD
+
+- title: "Lightning talky"
+  description: |
+    Určitě dojde i na lightning talky. Můžeš jeden mít i ty,
+    viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+    Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
