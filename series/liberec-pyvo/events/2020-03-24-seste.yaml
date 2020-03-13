@@ -2,11 +2,7 @@ city: liberec
 start: 2020-03-24 18:00:00
 name: Liberecké Pyvo
 number: 6
-venue: depo
+topic: ODLOŽENO NA NEURČITO
 description: |
-  Je tu šesté Liberecké Pyvo, programátorský sraz nejen o Pythonu. Ač se akce koná pod záštitou Python komunity, vítáni jsou programátoři a admini používající jakýkoli (i žádný) programovací jazyk.
-
-  Abychom věděli, s kolika lidmi můžeme počítat, prosím **[nahlaste svou účast](https://doodle.com/poll/88tkfiun8t6bunah)**. Díky!
-
-talks:
-  - title: "Bude upřesněno"
+  Březnové liberecké Pyvo je odloženo na neurčito [z důvodu aktuálních zdravotních rizik](https://koronavirus.mzcr.cz/). Pyvaři jsou zváni k účasti na prvním [virtuálním meetupu Pražského Pyva](https://pyvo.cz/praha-pyvo/2020-03/).
+talks: []
