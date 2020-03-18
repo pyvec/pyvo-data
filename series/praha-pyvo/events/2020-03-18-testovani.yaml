@@ -6,12 +6,16 @@ topic: REMOTE PYVO – Testování
 description: |
         **POZOR ZMĚNA:** Vzhledem k postupující nemoci COVID-19 a s tím souvisejícími ochrannými opatřeními se březnové pražské Pyvo uskuteční pouze na dálku. Na Věnečku BUDE ZAVŘENO.
 
-        Březnové remote Pyvo bude mít jako hlavní program testování. Ten bude ještě upřesněn, stejně jako informace o tom, jak se k historicky prvnímu vzdálenému Pyvu připojit.
+        Březnové remote Pyvo bude mít jako hlavní program testování. Setkáme se online na ZOOMu, [https://pantheon.zoom.us/j/233335156](https://pantheon.zoom.us/j/233335156).
+        
 venue: remote
-urls: []
+urls:
+  - https://pantheon.zoom.us/j/233335156
 talks:
 
-- title: TBD
+- title: Testing
+  speakers:
+  - Honza Král
 
 - title: "Lightning talky"
   description: |
