@@ -9,7 +9,8 @@ description: |
         Březnové remote Pyvo bude mít jako hlavní program testování. Setkáme se online na ZOOMu, [https://pantheon.zoom.us/j/233335156](https://pantheon.zoom.us/j/233335156).
         
 venue: remote
-urls: [https://pantheon.zoom.us/j/233335156]
+urls:
+  - https://pantheon.zoom.us/j/233335156
 talks:
 
 - title: Testing
