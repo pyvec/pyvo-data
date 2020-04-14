@@ -1,0 +1,18 @@
+city: praha
+start: 2020-04-15 18:30:00
+name: Pražské Pyvo
+number: 109
+topic: REMOTE PYVO – Async Django
+description: |
+        Async Django with Andrew Godwin online on Zoom. Start at 18:30.
+talks:
+
+- title: Async Django
+  speakers:
+  - Andrew Godwin
+
+- title: "Lightning talky"
+  description: |
+    Určitě dojde i na lightning talky. Můžeš jeden mít i ty,
+    viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+    Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
