@@ -1,0 +1,16 @@
+city: praha
+start: 2020-05-20 19:00:00
+name: Pražské Pyvo
+number: 110
+topic: REMOTE PYVO
+description: |
+        Vzdálené Pyvo v pravidelném termínu. Podrobný program a odkaz na Zoom bude doplněn.
+talks:
+
+- title: TBD
+
+- title: "Lightning talky"
+  description: |
+    Určitě dojde i na lightning talky. Můžeš jeden mít i ty,
+    viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+    Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
