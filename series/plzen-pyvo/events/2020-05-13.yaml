@@ -2,48 +2,42 @@ city: plzen
 start: 2020-05-13 18:00:00
 name: Plzeňské Pyvo
 number: 14
-topic: Návrhové vzory
-venue: beer-factory
+topic: Nové zkušenosti a postředy z dění kolem Covid-19
 description: |
   Vážení přátelé a příznivci našich setkání!
 
-  Každému vývojáři se poměrně brzo stane, že ve světě kódu se neustále objevují stejné, či velmi podobné situace.
-  Jako odpověď na tuto skutečnost, napříč mnoha lety co toto odvětví existuje, vznikly jisté vzory, které tyto
-  situace řeší. Říká se jim - Návrhové vzory (Design patterns).
-
-  Návrhové vzory, nejsou nutně vázány na kontrétní jazyk a tudíž je toto téma vhodné i pro ne-pythonisty.
-
-  **POZOR, ZMĚNA TERMÍNU!**
-
-  Omlouváme se, ale z preventivních důvodů jsme se rozhodli změnit termín našeho pravidelného setkání.
-  Předběžně jsme jej posunuli na 13.5. Uvidíme, jak se bude situace vyvíjet.
-  Díky za pochopení.
-  Za organizátory, Tomáš Bedřich
-
+  Sejdeme se alespoň online.
+  Za poslední dva měsíce někteří z nás získli nové zkušenosti, dostali se do nových oblastí případně získali nový úhel
+  pohledu na svět a o tyto zkušenosti bychom se rádi vzájemně podělili.
+  Doufáme, že nejste tématy kolem Covid-19 a videokonferencemi zahlceni natolik, abyste naše setkání zavrhli. 
+  Pro setkání jsme vybrali aplikaci Zoom adresa je: https://1url.cz/@pyvo_plzen_14 Heslo: 111444 
+  Meeting ID: 889 9187 0961
+  V případě problémů napište na mail filip.vaculik@jsi.cz
+  
 talks:
   - title: Úvodní slovo
     speakers:
       - Filip Vaculík
-      - Tomáš Bedřich
-    description: |
-      Pokud máte zkušenost se zajímavou technologii, projektem, nebo chcete prezentovat sebe, či svou firmu a její aktivity,
-      nebojte se přihlásit o slovo. K dispozici můžete mít plných 5 minut pro své téma.
-      Téma je možno přihlásit kdykoliv během akce u libovolného z organizátorů.
-      Také sbíráme náměty na přednášky pro další Pyva viz. [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
-  - title: Dekorátory
-    speakers:
-      - Tomáš Bedřich
-    description: |
-      Dekorátor je jednoduchý a užitečný návrhový vzor. Našel si své místo hlavně v srdcích Pythonistů pro svou možnost elegantně ovlivňovat chování funkcí, ale poslední dobou proniká i do jiných jazyků. Pojďme se s ním prakticky seznámit na příkladech.
-  - title: Publisher-subscriber
-    speakers:
-      - Tomáš Bedřich
-    description: |
-      Tento systém se dá vysvětlit na jenom slajdu, ale možnosti jeho použití jsou nedozírné. Od zjednodušení komplexních programů až po komunikaci mezi servery po celém světě. Opět se zaměříme hlavně na inspiraci a příklady reálného použití.
-  - title: Jedináčci, továrny a borgové
-    speakers:
       - Jan Smitka
+  - title: Pohledem Lyntu
+    speakers:
+      - Jan Smitka, Lynt services 
     description: |
-      V přednášce si ukážeme několik praktických i nepraktických návrhových vzorů, které řeší problematiku vytváření objektů. Ukážeme si i jejich implementaci v Pythonu a na závěr jednu třešničku, kterou byste ale raději používat neměli.
+      Ve společnosti Lynt nejsme jen vývojáři, jsme především marketingová agentura. Díky tomu máme nadhled i nad businessem našich klientů, proto v pár minutách vypíchnu pár zajímavostí, se kterými se my či naši klienti v této době potýkáme, a pár nástrojů, kterými zefektivňujeme naši práci.
+  - title: Pomocné akce 
+    speakers:
+      - Filip Vaculík
+    description: |
+      Rád bych vám zprostředkoval pohled člověka, který se vrhnul do pomocných dobrovolnických akcí ve skupině cesko.digital a nejen tam. 
+  - title: O problémech s otevřenými daty a další zkušenosti 
+    speakers:
+      - Vladimír Smitka, Lynt services  
+    description: |
+      * upřesníme * 
+  - title: Lightning talks
+    lightning: true
+    description: |
+      Předpokládáme, že současná situace přinesla změnu i vám. Budeme rádi, když se s námi o váš pohled podělíte.      
 urls: []
+
 
