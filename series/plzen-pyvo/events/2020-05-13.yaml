@@ -29,11 +29,11 @@ talks:
       - Filip Vaculík
     description: |
       Rád bych vám zprostředkoval pohled člověka, který se vrhnul do pomocných dobrovolnických akcí ve skupině cesko.digital a nejen tam. 
-  - title: O problémech s otevřenými daty a další zkušenosti 
+  - title: O problémech s daty hygienických stanic a další zkušenosti
     speakers:
       - Vladimír Smitka, Lynt services  
     description: |
-      * upřesníme * 
+      Využití IT a devel zkušeností v dobrovolnických projektech v době krize - parsování dat z hygienických stanic (a proč to nevyšlo), zprovozňování různých VPN a pomoc s tvorbou webů projektů - od malých dobrovolnických (delamcomuzu.cz), po ty největší (koronavirus.mzcr.cz).
   - title: Lightning talks
     lightning: true
     description: |
