@@ -1,8 +1,0 @@
-city: Plzeň
-name: Pouze ONLINE
-address: The Internet (online event only)
-notes: |
-   Událost se uskuteční pouze online. Informace o možnosti připojení budou součástí popisu události.
-location:
-  latitude: '49.7488378'
-  longitude: '13.3775567'
