@@ -4,10 +4,18 @@ name: Pražské Pyvo
 number: 110
 topic: REMOTE PYVO
 description: |
-        Vzdálené Pyvo v pravidelném termínu. Podrobný program a odkaz na Zoom bude doplněn.
+   Application Performance Monitoring from Elastic. Zoom link:
+   [https://pantheon.zoom.us/j/94879518091](https://pantheon.zoom.us/j/94879518091)
+   Password: 110110
 talks:
 
-- title: TBD
+- title: Elastic APM
+  speakers: 
+  - Emanuil Tolev
+  description: |
+    Možná znáte NewRelic. Sledování (nejen) webových aplikací a jejich výkonu
+    v reálném čase. Proč je to pomalé a kde se to seká. Na to je APM. Přednáška
+    je o APM obecně a konkrétně o volném produktu od Elasticu. Bude v angličtině.
 
 - title: "Lightning talky"
   description: |
