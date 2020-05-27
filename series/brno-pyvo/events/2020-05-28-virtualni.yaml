@@ -1,0 +1,22 @@
+city: brno
+start: 2020-05-28 19:00:00
+name: Brněnské Pyvo
+topic: Virtuální
+description: |
+  Chybí vám brněnské Pyvo? Nám taky, proto jsme se rozhodli uspořádat ho tento měsíc alespoň online!
+
+  Do you miss Pyvo Brno? We miss it too so we decided to organize an online version this month!
+  -----------------------------------------------
+
+  Join us on https://meet.google.com/grf-tpur-ztx
+  The talk will be in English.
+
+talks:
+  - title: How to build a career in IT
+    description: |
+      In this talk Antonio Fantini is going to share with you a little bit of his story and the steps and actions
+      that helped him to build his (surprising) career as a programmer. He will share some helpful tips and advice
+      for people that are just approaching the amazing world of programming.
+
+    speakers:
+      - Antonio Fantini
