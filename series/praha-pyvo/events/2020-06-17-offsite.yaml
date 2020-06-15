@@ -1,0 +1,16 @@
+city: praha
+start: 2020-06-17 19:00:00
+name: Pražské Pyvo
+number: 111
+topic: Post Apocalypse
+venue: Stromovka (TBA)
+description: |
+   Bilancování a výstava vyjímečných domácích projektů z období Covid-19 v České republice.
+   
+talks:
+
+- title: "Lightning talky"
+  description: |
+    Určitě dojde i na lightning talky. Můžeš jeden mít i ty,
+    viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+    Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
