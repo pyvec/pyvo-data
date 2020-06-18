@@ -1,0 +1,33 @@
+city: brno
+start: 2020-06-25 19:00:00
+name: Brněnské Pyvo
+topic: Pokaranténní
+venue: artbar
+description: |
+    Poslední Pyvo před prázdninami proběhne opět v ArtBaru!
+    Pojďme oslavit, že už se můžeme potkat osobně :)
+    Věříme, že si toho budeme mít hodně co říct, i tak pro vás ale máme jednu krátkou přednášku.
+
+    ---
+
+    Last Pyvo before the summer holiday takes place in ArtBar again!
+    Let's celebrate we can finally meet in person :)
+    We believe there will be a lot to talk about, but still, we have one short talk for you.
+
+talks:
+  - title: Python 3.9
+    description: |
+        Python 3.9, scheduled for release in October, is now in feature freeze. Let's talk about the news you can look forward to.
+
+        ---
+
+        Python 3.9 se připravuje na říjnové vydání. Pojďme se podívat, na co nového se můžeme těšit.
+
+    speakers:
+      - Petr Viktorin
+
+  - title: "Lightning talky"
+    description: |
+      Určitě dojde i na lightning talky. Můžeš jeden mít i ty,
+      viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+      Registrace nutná na [Lightning Talk – bit.ly/brpylight](https://bit.ly/brpylight).
