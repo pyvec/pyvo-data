@@ -2,17 +2,13 @@ city: plzen
 start: 2020-07-08 18:00:00
 name: Plzeňské Pyvo
 number: 15
-topic: Návrhové vzory
+topic: Volné setkání
 description: |
   Vážení přátelé a příznivci našich setkání!
 
-  Každému vývojáři se poměrně brzo stane, že ve světě kódu se neustále objevují stejné, či velmi podobné situace.
-  Jako odpověď na tuto skutečnost, napříč mnoha lety co toto odvětví existuje, vznikly jisté vzory, které tyto
-  situace řeší. Říká se jim - Návrhové vzory (Design patterns).
+  Po delší době tu opět máme možnost se sejít u nějaké dobré bašty, pití a vzájemně blízkým tématům.
+  Máte-li volnou chvilku, jste zváni na naše/vaše již 15. Plzeňské Pyvo. Tentokrát bez žádného
+  kontrétního zaměření, hezky prázdninově zlehka.
 
-  Návrhové vzory, nejsou nutně vázány na kontrétní jazyk a tudíž je toto téma vhodné i pro ne-pythonisty.
-
-talks:
-  - title: Úvodní slovo
-
+  Budeme se těšit.
 
