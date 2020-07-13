@@ -34,6 +34,9 @@ talks:
   speakers:
   - Martin Jahn
 
+- title: "JavaScript"
+  speakers:
+  - Peter Hozák
 - title: "Lightning talky"
   description: |
     Určitě dojde i na lightning talky. Můžeš jeden mít i ty,
