@@ -21,10 +21,14 @@ talks:
 - title: "Clojure"
   speakers:
   - Ondřej Nejedlý
+  coverage:
+  - slides: https://github.com/pyvec/talks-archive/blob/master/praha-202-07-15-ondrej-nejedly-clojure.pdf
 
 - title: "Go"
   speakers:
   - Ondřej Kokeš
+  coverage:
+  - slides: https://bit.ly/pyvo-go
 
 - title: "C"
   speakers:
@@ -33,12 +37,28 @@ talks:
 - title: "Elixir"
   speakers:
   - Martin Jahn
+  coverage:
+  - slides: https://skra.cz/elixir-talk
 
 - title: "JavaScript"
   speakers:
   - Peter Hozák
-- title: "Lightning talky"
-  description: |
-    Určitě dojde i na lightning talky. Můžeš jeden mít i ty,
-    viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
-    Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
+  coverage:
+  - slides: https://peter.hozak.info/python-javascript/
+
+- title: "Julia"
+  speakers:
+  - Matěj
+  lightning: true
+  coverage:
+  - slides: https://bit.ly/pyvo-julia
+
+- title: "Pascal"
+  speakers:
+  - Ondra Rainbof
+  lightning: true
+
+- title: "Pavilon.IO"
+  speakers:
+  - Martin Ptáček
+  lightning: true
