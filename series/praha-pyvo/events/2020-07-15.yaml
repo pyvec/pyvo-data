@@ -28,7 +28,7 @@ talks:
   speakers:
   - Ondřej Kokeš
   coverage:
-  - slides: https://bit.ly/pyvo-go
+  - slides: https://docs.google.com/presentation/d/1fE7Y-2TKV_286TeeWTOqtNyTPR7IkV04WneOKhZTNqw
 
 - title: "C"
   speakers:
@@ -51,7 +51,7 @@ talks:
   - Matěj
   lightning: true
   coverage:
-  - slides: https://bit.ly/pyvo-julia
+  - slides: https://docs.google.com/presentation/d/1_RHXBdxK-smf4kD5q2rlTzYXJ9bEnVzw8-Dc66AduMg
 
 - title: "Pascal"
   speakers:
