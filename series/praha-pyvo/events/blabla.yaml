@@ -1,0 +1,64 @@
+city: praha
+start: 2020-07-15 19:00:00
+name: Pražské Pyvo
+number: 112
+topic: Jiné jazyky
+venue: cafe-lajka
+description: |
+   Jiné jazyky
+
+   **Pozor, změna místa**: Klub Na Věnečku je ještě zavřený. Setkáme se v [Café Lajka](http://pivovarlajka.cz/cafe),
+   Najdete ho blízko Letenského námestí: [U Akademie 366/11, 170 00 Praha 7-Bubeneč](https://www.google.com/maps/place/Caf%C3%A9+Lajka/@50.102404,14.423937,19z/data=!3m1!4b1!4m5!3m4!1s0x470b94cfe5d47953:0xb23a3266fb7e740e!8m2!3d50.1024031!4d14.4244842)
+
+   **Different venue**: Our usual place is closed. We'll meet at [Café Lajka](http://pivovarlajka.cz/en/cafe-en/)
+   near Letenské námestí: [U Akademie 366/11, 170 00 Praha 7-Bubeneč](https://www.google.com/maps/place/Caf%C3%A9+Lajka/@50.102404,14.423937,19z/data=!3m1!4b1!4m5!3m4!1s0x470b94cfe5d47953:0xb23a3266fb7e740e!8m2!3d50.1024031!4d14.4244842)
+
+talks:
+- title: "Rust"
+  speakers:
+  - Flavio Percoco (telemost)
+
+- title: "Clojure"
+  speakers:
+  - Ondřej Nejedlý
+  coverage:
+  - slides: https://github.com/pyvec/talks-archive/blob/master/praha-202-07-15-ondrej-nejedly-clojure.pdf
+
+- title: "Go"
+  speakers:
+  - Ondřej Kokeš
+  coverage:
+  - slides: https://docs.google.com/presentation/d/1fE7Y-2TKV_286TeeWTOqtNyTPR7IkV04WneOKhZTNqw
+
+- title: "C"
+  speakers:
+  - Petr Viktorin
+
+- title: "Elixir"
+  speakers:
+  - Martin Jahn
+  coverage:
+  - slides: https://skra.cz/elixir-talk
+
+- title: "JavaScript"
+  speakers:
+  - Peter Hozák
+  coverage:
+  - slides: https://peter.hozak.info/python-javascript/
+
+- title: "Julia"
+  speakers:
+  - Matěj
+  lightning: true
+  coverage:
+  - slides: https://docs.google.com/presentation/d/1_RHXBdxK-smf4kD5q2rlTzYXJ9bEnVzw8-Dc66AduMg
+
+- title: "Pascal"
+  speakers:
+  - Ondra Rainbof
+  lightning: true
+
+- title: "Pavilon.IO"
+  speakers:
+  - Martin Ptáček
+  lightning: true
