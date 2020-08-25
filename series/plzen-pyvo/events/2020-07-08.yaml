@@ -1,0 +1,19 @@
+city: plzen
+start: 2020-07-08 18:00:00
+name: Plzeňské Pyvo
+number: 15
+topic: Volné setkání
+description: |
+  Vážení přátelé a příznivci našich setkání!
+
+  Po delší době tu opět máme možnost se sejít u nějaké dobré bašty, pití a vzájemně blízkým tématům.
+  Máte-li volnou chvilku, jste zváni na naše/vaše již 15. Plzeňské Pyvo. Tentokrát bez žádného
+  kontrétního zaměření, hezky prázdninově zlehka.
+
+  Budeme se těšit.
+
+talks:
+  - title: Úvodní slovo
+    speakers:
+      - Tomáš Bedřich
+      - Jan Smitka
