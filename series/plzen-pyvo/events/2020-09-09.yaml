@@ -1,5 +1,5 @@
 city: plzen
-start: 2020-09-09 18:00:00
+start: 2020-09-09 18:30:00
 name: Plzeňské Pyvo
 number: 16
 topic: Návrhové vzory
@@ -12,6 +12,13 @@ description: |
   situace řeší. Říká se jim - Návrhové vzory (Design patterns).
 
   Návrhové vzory nejsou nutně vázány na kontrétní jazyk a tudíž je toto téma vhodné i pro ne-pythonisty.
+
+  **Pozor, změna místa!** Pyvo se tentokrát nebude konat v Beer Factory, ale v **HUB 2.0**, jen minutku chůze
+  od zimního stadionu.
+
+  Protože nejde o restauraci, není možné si přímo na místě objednat jídlo. Pokud máte zájem se na akci najíst,
+  lze využít dovážky, kousek od objektu je například provozovna Pizza doma. Na místě bude k dispozici voda,
+  točená kofola a pivo.
 talks:
   - title: Úvodní slovo
     speakers:
@@ -32,6 +39,10 @@ talks:
       - Jan Smitka
     description: |
       V přednášce si ukážeme několik praktických i nepraktických návrhových vzorů, které řeší problematiku vytváření objektů. Ukážeme si i jejich implementaci v Pythonu a na závěr jednu třešničku, kterou byste ale raději používat neměli.
+  - title: Apache Kafka v Heureka.cz
+    speakers:
+      - Ondřej Kristejn
+    lightning: true
   - title: Lightning talks
     lightning: true
     description: |
