@@ -17,9 +17,17 @@ talks:
 - title: "Slack API"
   speakers:
   - Jindra
-- title: "TBA testing"
+- title: "The Evolution of a testing framework"
   speakers:
   - Martin Pata
+  description: |
+    Having recently joined Pure Storage in Prague, I began learning their testing
+    framework. They are using pytest and its fixtures and hooks rather heavily –
+    and successfully – but it wasn't always the case. From the code, it is obvious that
+    the testing went through a series of iterations as time went by, always adapting
+    to growing organizational and technical demands. I found it interesting to map this evolution
+    and the various problems the previous engineers encountered, and their solutions for them.
+    It is not required to be a testing - and especially pytest - nerd, to have fun with this topic.
 - title: "Lightning talks"
   speakers:
     - You
