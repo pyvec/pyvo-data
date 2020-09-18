@@ -1,0 +1,36 @@
+city: praha
+start: 2020-10-21 19:00:00
+name: Pražské Pyvo
+number: 115
+venue: TBA
+topic: Modern APIs
+description: |
+  Modern APIs
+  
+   **Pozor, změna místa**: Klub Na Věnečku je ještě pořád zavřený. Příští místo bude oznámeno!
+
+   **Different venue**: Our usual place is closed. Next venue TBA!
+
+talks:
+- title: "graphql app"
+  speakers:
+  - Ales Zoulek
+  description: |
+    ales will tell us more soon
+
+- title: "react relay"
+  speakers:
+  - Petr Messner
+  description: |
+    petr will tell us more soon
+
+- title: "do you want to have a talk?"
+  description: |
+    let us know! praha@pyvo.cz
+
+- title: "Lightning talks"
+  description: |
+    Určitě dojde i na lightning talky. Můžeš jeden mít i ty,
+    viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+    Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
+
