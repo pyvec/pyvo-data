@@ -2,13 +2,11 @@ city: praha
 start: 2020-10-21 19:00:00
 name: Pražské Pyvo
 number: 115
-topic: Modern APIs
+topic: Modern APIs ONLINE ONLY
 description: |
   Modern APIs
 
-   **Pozor, změna místa**: Klub Na Věnečku je ještě pořád zavřený. Příští místo bude oznámeno!
-
-   **Different venue**: Our usual place is closed. Next venue TBA!
+   **Pozor, změna místa**: Zoom [https://pantheon.zoom.us/j/94879518091](https://pantheon.zoom.us/j/94879518091)
 
 talks:
 - title: "graphql app"
