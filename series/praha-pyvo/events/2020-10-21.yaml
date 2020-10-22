@@ -18,6 +18,8 @@ talks:
 - title: "react relay"
   speakers:
   - Petr Messner
+  urls:
+  - https://github.com/messa/pyvo-graphql-demo
   description: |
     petr will tell us more soon
 
