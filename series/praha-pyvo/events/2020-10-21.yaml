@@ -18,10 +18,11 @@ talks:
 - title: "react relay"
   speakers:
   - Petr Messner
-  urls:
-  - https://github.com/messa/pyvo-graphql-demo
   description: |
-    petr will tell us more soon
+    Example of GraphQL server implementation using [Graphene](https://github.com/graphql-python/graphene) and [Aiohttp](https://docs.aiohttp.org/).
+    Example of using [Relay](https://relay.dev/docs/en/quick-start-guide) + React + [Next.js](https://nextjs.org/learn/basics/create-nextjs-app) on the frontend.
+
+    Source code of the demo project: [github.com/messa/pyvo-graphql-demo](https://github.com/messa/pyvo-graphql-demo)
 
 - title: "do you want to have a talk?"
   description: |
