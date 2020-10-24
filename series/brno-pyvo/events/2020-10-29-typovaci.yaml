@@ -1,0 +1,25 @@
+city: brno
+start: 2020-10-29 19:00:00
+name: Brněnské Pyvo
+topic: Typovací
+description: |
+  Vzhledem k současné epidemiologické situaci bude říjnové Pyvo opět ONLINE.
+
+  Because of the current epidemiological situation, the October Pyvo will be held ONLINE.
+
+  -----------------------------------------------
+
+  Join us on Thursday 29. 10. 2020 at 19:00 via https://meet.google.com/tpm-yecn-iao
+  The talk will be in English.
+
+talks:
+  - title: Signing (py)contract with the devil
+    description: |
+      Writing reliable software is one of the greatest challenges in software engineering.
+      While it seems like there will be no silver bullet, there’s this nice idea stolen from information theory,
+      implemented in some languages natively and available for many as an extension/library;
+      Invariants that hold always true, no matter what. We’ll look first at the general idea behind contracts,
+      and then a specific implementation, consider performance impacts, and how to deal with those.
+
+    speakers:
+      - Edvard Majakari
