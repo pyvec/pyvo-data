@@ -1,0 +1,38 @@
+city: plzen
+start: 2020-11-11 18:00:00
+name: Plzeňské Pyvo
+number: 17
+topic: Pod pokličkou Pythonu
+description: |
+  Vážení přátelé a příznivci našich setkání!
+
+  I v době sociálního distancování a práce z domova jsme se rozhodli uspořádat alespoň on-line setkání.
+  Tentorkát krátce nahlédmene pod pokličku a v několika krátkých přednáškách si povíme něco o tom, jak se vykonávají programy v Pythonu.
+  
+  Setkání proběhne na Zoomu:
+
+  https://us02web.zoom.us/j/82623029628  
+  Meeting ID: 826 2302 9628  
+  Passcode: Heslem je oblíbené dvouciferné číslo, které získáte vynásobením 9 a 6 (vše ve třináctovké soustavě). Jde též o odpověď na základní otázku života, vesmíru a vůbec.
+talks:
+  - title: Úvodní slovo
+    speakers:
+      - Filip Vaculík
+  - title: Knihovna dis
+    speakers:
+      - Filip Vaculík
+    description: Disassemblování Pythovského programu. Za pomocí knihovny "dis" nahlédneme pod povrch všedních instrukcí.
+    lightning: true
+  - title: Profilování v PyCharmu
+    speakers:
+      - Jan Smitka
+    description: Pomocí nástroje cProfile, který lze spustit přímo z PyCharmu, si zkusíme změřit výkon jednotlivých částí malého programu.
+    lightning: true
+  - title: Lightning talks
+    lightning: true
+    description: |
+      Pokud máte zkušenost se zajímavou technologii, projektem, nebo chcete prezentovat sebe, či svou firmu a její aktivity, nebojte se přihlásit o slovo. K dispozici můžete mít plných 5 minut pro své téma.
+
+      Témata možno domluvit mailem na filip.vaculik@jsi.cz, případně u libovolného z organizátorů ve vhodnou chvíli při akci.
+      Také sbíráme náměty na přednášky pro další Pyva, více informací na [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+urls: []
