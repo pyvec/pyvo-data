@@ -1,0 +1,24 @@
+city: praha
+start: 2020-12-16 19:00:00
+name: Pražské Pyvo
+number: 117
+topic: Christmas Hardware Special ONLINE ONLY
+description: |
+  Christmas Hardware Special
+
+  **Pozor, změna místa**: Link na meeting bude zveřejněn před začátkem akce.
+
+  **Different venue**: Link to the meeting will be available right before the event.
+
+talks:
+
+- title: "do you want to have a talk?"
+  description: |
+    let us know! praha@pyvo.cz
+
+- title: "Lightning talks"
+  description: |
+    Určitě dojde i na lightning talky. Můžeš jeden mít i ty,
+    viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+    Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
+
