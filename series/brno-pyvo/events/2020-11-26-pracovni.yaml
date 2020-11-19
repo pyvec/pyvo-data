@@ -1,0 +1,26 @@
+city: brno
+start: 2020-11-26 19:00:00
+name: Brněnské Pyvo
+topic: Pracovní
+description: |
+  Vzhledem k současné epidemiologické situaci se i listopadové Pyvo odehraje ONLINE.
+
+  Because of the current epidemiological situation, even November Pyvo will be held ONLINE.
+
+  -----------------------------------------------
+
+  Join us on Thursday 26. 11. 2020 at 19:00 via https://meet.google.com/awx-kafm-bft
+  The talk will be in English.
+
+talks:
+  - title: Tips & Tricks on How to Get Your First Job In Tech
+    description: |
+      So you finished reading "Automate the Boring Stuff with Python", completed a university degree, graduated PyLadies course,
+      or got certificates from a dozen online courses? In any way, congratulations! But what next? Where to find entry-level jobs?
+      How do you know you're ready to start applying? How can you prepare? If these are the questions that won't let you sleep, listen to this talk!
+
+      Honza Javorek is a software engineer and an author of junior.guru, a Czech guide for people who want to start coding or seek their first job in tech.
+      In 2011 he founded the Python meetup in Brno and since then he's been involved in growing the Czech Python community.
+
+    speakers:
+      - Honza Javorek
