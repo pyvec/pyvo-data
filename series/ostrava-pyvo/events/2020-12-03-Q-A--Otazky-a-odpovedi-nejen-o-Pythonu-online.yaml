@@ -25,6 +25,9 @@ description: |
 
     Těšíme se!
 
-talks: []
+talks:
+  - title: Q&A — Otázky a odpovědi nejen o Pythonu
+    coverage:
+    - video: https://youtu.be/g3BrcEkWhoo
 urls:
 - https://www.meetup.com/Ostravske-Pyvo/events/274744300/
