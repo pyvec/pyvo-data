@@ -19,4 +19,51 @@ description: |
 
   Let's meet on December 17, at 19:00 via Google Meet: [meet.google.com/fkj-nqqw-vdf](https://meet.google.com/fkj-nqqw-vdf)
 
-talks: []
+talks:
+  - title: Lightning talks
+    coverage:
+    - video: https://www.youtube.com/watch?v=N_gysDr2gfc
+  - title: Git Scraping
+    speakers:
+      - Honza Javorek
+    lightning: true
+    description: |
+      * [Simon Willison's post 1](https://simonwillison.net/2020/Oct/9/git-scraping/)
+      * [Simon Willison's post 2](https://simonwillison.net/2020/Nov/7/weeknotes-sqlite-utils-git-scraping/)
+      * [Czech Political Parties repo](https://github.com/honzajavorek/czech-political-parties/)
+  - title: "@python_tip"
+    speakers:
+      - Karla Fejfarová
+    lightning: true
+    description: |
+      * [Pytips Evaluator](https://bit.ly/dikyzapomoc)
+      * [Slides](https://docs.google.com/presentation/d/1zXjbKGV34ND_SLH1E8K7fvMr2pxcuYNJrcu8baas4Ng/edit?usp=sharing)
+    coverage:
+    - slides: https://docs.google.com/presentation/d/1zXjbKGV34ND_SLH1E8K7fvMr2pxcuYNJrcu8baas4Ng/edit?usp=sharing
+  - title: Recursive descent parser
+    speakers:
+    - Petr Viktorin
+    lightning: true
+    description: |
+      * [Talk repo](https://github.com/encukou/slides/tree/master/2020-12-17-pyvo-brno-parser)
+      * [Guido’s blog about Python’s new parser](https://medium.com/@gvanrossum_83706/peg-parsers-7ed72462f97c)
+      * [Desmos calculator](https://www.desmos.com/calculator)
+      * Why is the module named `my_ast`? [The `ast` module](https://docs.python.org/3/library/ast.html) is the same but for Python itself.
+    coverage:
+    - slides: https://github.com/encukou/slides/tree/master/2020-12-17-pyvo-brno-parser
+  - title: Jak nejlépe začít další rok?
+    speakers:
+      - Lumír Balhar
+    lightning: true
+    description: |
+      * [Prezentace](https://www.dropbox.com/s/3q5bp1ykttgqutu/prezentace.html?dl=1)
+    coverage:
+    - slides: https://www.dropbox.com/s/3q5bp1ykttgqutu/prezentace.html?dl=1
+  - title: docs.pyvec.org, python.cz / pyvec.org, datasette.io
+    speakers:
+      - Honza Javorek
+    lightning: true
+    description: |
+      * [docs.pyvec.org](https://docs.pyvec.org/)
+      * [Simon Willison's post](https://simonwillison.net/2020/Dec/13/datasette-io/)
+      * [Pyvec membership info](https://docs.pyvec.org/operations/runbooks.html#jak-clenstvi)
