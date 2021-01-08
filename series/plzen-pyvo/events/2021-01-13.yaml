@@ -1,5 +1,5 @@
 city: plzen
-start: 2021-11-13 18:00:00
+start: 2021-01-13 18:00:00
 name: Plzeňské Pyvo
 number: 18
 topic: Novinky i skryté starožitnosti.
@@ -7,7 +7,7 @@ description: |
   Vážení přátelé a příznivci našich setkání!
 
   Prozatím stále bez osobního setkávání, ale snad vám, v těchto časech, bude alespoň drobnou útěchou plánované online setkání.
-  Těšit se můžeme na novinky novinky z nejnovějších verzí Pythonu, ale zabrousíme i ke starožitnostem, které máte léta pod rukou a možná i nich ani nevíte.
+  Těšit se můžeme na novinky z nejnovějších verzí Pythonu, ale zabrousíme i ke starožitnostem, které máte léta pod rukou a možná i nich ani nevíte.
   Připraveno je pro vás i netechnické, ale důležité, téma, týkající se osobního rozvoje.
   
   Na viděnou ve středu!
@@ -40,7 +40,7 @@ talks:
     description: 
   - title: Lightning talks
     lightning: true
-    description: Jak změny Pythonu v průběhu času obohacují práci středně pokročilého programátora.
+    description: |
       Pokud máte zkušenost se zajímavou technologii, projektem, nebo chcete prezentovat sebe, či svou firmu a její aktivity, nebojte se přihlásit o slovo. K dispozici můžete mít plných 5 minut pro své téma.
 
       Témata možno domluvit mailem na filip.vaculik@jsi.cz, případně u libovolného z organizátorů ve vhodnou chvíli při akci.
