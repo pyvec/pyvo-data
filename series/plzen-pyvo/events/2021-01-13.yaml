@@ -1,0 +1,54 @@
+city: plzen
+start: 2021-01-13 18:00:00
+name: Plzeňské Pyvo
+number: 18
+topic: Novinky i skryté starožitnosti.
+description: |
+  Vážení přátelé a příznivci našich setkání!
+
+  Prozatím stále bez osobního setkávání, ale snad vám, v těchto časech, bude alespoň drobnou útěchou plánované online setkání.
+  Těšit se můžeme na novinky z nejnovějších verzí Pythonu, ale zabrousíme i ke starožitnostem, které máte léta pod rukou a možná i nich ani nevíte.
+  Připraveno je pro vás i netechnické, ale důležité, téma, týkající se osobního rozvoje.
+
+  Na viděnou ve středu!
+
+  Setkání proběhne na Zoomu:
+
+  [Link](https://us02web.zoom.us/j/85437137604?pwd=ek5zVE85Sy9rblFtbG9SRGl0L3ZnQT09)
+  Meeting ID: 854 3713 7604
+  Passcode: 101010
+
+talks:
+  - title: Úvodní slovo
+    speakers:
+      - Tomáš Bedřich
+  - title: O knihovně Turtle
+    speakers:
+      - Adéla Kristejnová
+    description: |
+      Želva sem... želva tam... želva všude kam se podívám :-)
+  - title: Tipy, jak se nezbláznit
+    speakers:
+      - Lumír Balhar - Red Hat
+    description: |
+      Doporučení na organizaci úkolů, času, života a vůbec. „Malé kroky, které toho mohou hodně změnit.“
+  - title: Dataclasses
+    speakers:
+      - Jiří Smolík - Heureka
+    description: |
+      Speciální typ třídy pro práci s objekty s velkým množstvím parametrů. Kdy se hodí a kdy ne?
+  - title: Novinky v Pythonu
+    speakers:
+      - Jirka Prchlík - Lynt
+    description: |
+      Stručné představení zajímavých rozšíření Pythonu od verze 3.6 až po 3.10
+  - title: Lightning talks
+    lightning: true
+    description: |
+      Pokud máte zkušenost se zajímavou technologii, projektem, nebo chcete prezentovat sebe, či svou firmu a její aktivity, nebojte se přihlásit o slovo. K dispozici můžete mít plných 5 minut pro své téma.
+
+      Témata možno domluvit mailem na filip.vaculik@jsi.cz, případně u libovolného z organizátorů ve vhodnou chvíli při akci.
+      Také sbíráme náměty na přednášky pro další Pyva, více informací na [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+urls: []
+
+
