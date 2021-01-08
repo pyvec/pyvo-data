@@ -9,7 +9,7 @@ description: |
   Prozatím stále bez osobního setkávání, ale snad vám, v těchto časech, bude alespoň drobnou útěchou plánované online setkání.
   Těšit se můžeme na novinky z nejnovějších verzí Pythonu, ale zabrousíme i ke starožitnostem, které máte léta pod rukou a možná i nich ani nevíte.
   Připraveno je pro vás i netechnické, ale důležité, téma, týkající se osobního rozvoje.
-  
+
   Na viděnou ve středu!
 
   Setkání proběhne na Zoomu:
@@ -25,19 +25,23 @@ talks:
   - title: O knihovně Turtle
     speakers:
       - Adéla Kristejnová
-    description: Želva sem... želva tam... želva všude kam se podívám :-)
+    description: |
+      Želva sem... želva tam... želva všude kam se podívám :-)
   - title: Tipy, jak se nezbláznit
     speakers:
       - Lumír Balhar - Red Hat
-    description: Doporučení na organizaci úkolů, času, života a vůbec. „Malé kroky, které toho mohou hodně změnit.“
+    description: |
+      Doporučení na organizaci úkolů, času, života a vůbec. „Malé kroky, které toho mohou hodně změnit.“
   - title: Dataclasses
     speakers:
       - Jiří Smolík - Heureka
-    description: Speciální typ třídy pro práci s objekty s velkým množstvím parametrů. Kdy se hodí a kdy ne?
-  - title: Stručné představení zajímavých rozšíření Pythonu od verze 3.6 až po 3.10
+    description: |
+      Speciální typ třídy pro práci s objekty s velkým množstvím parametrů. Kdy se hodí a kdy ne?
+  - title: Novinky v Pythonu
     speakers:
       - Jirka Prchlík - Lynt
-    description: 
+    description: |
+      Stručné představení zajímavých rozšíření Pythonu od verze 3.6 až po 3.10
   - title: Lightning talks
     lightning: true
     description: |
