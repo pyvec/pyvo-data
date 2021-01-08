@@ -1,0 +1,46 @@
+city: plzen
+start: 2021-11-13 18:00:00
+name: Plzeňské Pyvo
+number: 18
+topic: ??
+description: |
+  Vážení přátelé a příznivci našich setkání!
+
+  ?????
+
+  Setkání proběhne na Zoomu:
+
+  [Link](https://us02web.zoom.us/j/85437137604?pwd=ek5zVE85Sy9rblFtbG9SRGl0L3ZnQT09)
+  Meeting ID: 854 3713 7604
+  Passcode: 101010
+
+talks:
+  - title: Úvodní slovo
+    speakers:
+      - Tomáš Bedřich
+  - title: O knihovně Turtle
+    speakers:
+      - Adéla Kristejnová
+    description: Želva sem... želva tam... želva všude kam se podívám :-)
+  - title: Tipy, jak se nezbláznit
+    speakers:
+      - Lumír Balhar, Red Hat
+    description: Doporučení na organizaci úkolů, času, života a vůbec.
+  - title: Dataclasses
+    speakers:
+      - Jiří Smolík - Heureka
+    description: Speciální typ třídy pro práci s objekty s velkým množstvím parametrů. Kdy se hodí a kdy ne?
+  - title: ??
+    speakers:
+      - Jirka Prchlík
+    description: ??
+  - title: Lightning talks
+    lightning: true
+    description: |
+      Pokud máte zkušenost se zajímavou technologii, projektem, nebo chcete prezentovat sebe, či svou firmu a její aktivity, nebojte se přihlásit o slovo. K dispozici můžete mít plných 5 minut pro své téma.
+
+      Témata možno domluvit mailem na filip.vaculik@jsi.cz, případně u libovolného z organizátorů ve vhodnou chvíli při akci.
+      Také sbíráme náměty na přednášky pro další Pyva, více informací na [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+urls: []
+
+
