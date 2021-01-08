@@ -2,11 +2,15 @@ city: plzen
 start: 2021-11-13 18:00:00
 name: Plzeňské Pyvo
 number: 18
-topic: ??
+topic: Novinky i skryté starožitnosti.
 description: |
   Vážení přátelé a příznivci našich setkání!
 
-  ?????
+  Prozatím stále bez osobního setkávání, ale snad vám, v těchto časech, bude alespoň drobnou útěchou plánované online setkání.
+  Těšit se můžeme na novinky novinky z nejnovějších verzí Pythonu, ale zabrousíme i ke starožitnostem, které máte léta pod rukou a možná i nich ani nevíte.
+  Připraveno je pro vás i netechnické, ale důležité, téma, týkající se osobního rozvoje.
+  
+  Na viděnou ve středu!
 
   Setkání proběhne na Zoomu:
 
@@ -24,19 +28,19 @@ talks:
     description: Želva sem... želva tam... želva všude kam se podívám :-)
   - title: Tipy, jak se nezbláznit
     speakers:
-      - Lumír Balhar, Red Hat
-    description: Doporučení na organizaci úkolů, času, života a vůbec.
+      - Lumír Balhar - Red Hat
+    description: Doporučení na organizaci úkolů, času, života a vůbec. „Malé kroky, které toho mohou hodně změnit.“
   - title: Dataclasses
     speakers:
       - Jiří Smolík - Heureka
     description: Speciální typ třídy pro práci s objekty s velkým množstvím parametrů. Kdy se hodí a kdy ne?
-  - title: ??
+  - title: Stručné představení zajímavých rozšíření Pythonu od verze 3.6 až po 3.10
     speakers:
-      - Jirka Prchlík
-    description: ??
+      - Jirka Prchlík - Lynt
+    description: 
   - title: Lightning talks
     lightning: true
-    description: |
+    description: Jak změny Pythonu v průběhu času obohacují práci středně pokročilého programátora.
       Pokud máte zkušenost se zajímavou technologii, projektem, nebo chcete prezentovat sebe, či svou firmu a její aktivity, nebojte se přihlásit o slovo. K dispozici můžete mít plných 5 minut pro své téma.
 
       Témata možno domluvit mailem na filip.vaculik@jsi.cz, případně u libovolného z organizátorů ve vhodnou chvíli při akci.
