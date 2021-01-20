@@ -2,8 +2,12 @@ city: praha
 start: 2012-01-18
 name: Django-cs
 number: 10
-venue: na-venecku
 talks:
+description: |
+  **Pozor, změna místa**: Zoom [https://pantheon.zoom.us/j/94879518091](https://pantheon.zoom.us/j/94879518091)
+
+  **Different venue**: Zoom [https://pantheon.zoom.us/j/94879518091](https://pantheon.zoom.us/j/94879518091)
+
 - title: What will be new in Paver 1.1
   urls:
   - http://lanyrd.com/2012/djangocs-january/spdmf/
