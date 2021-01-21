@@ -27,21 +27,29 @@ talks:
       - Adéla Kristejnová
     description: |
       Želva sem... želva tam... želva všude kam se podívám :-)
+    coverage:
+    - video: https://www.youtube.com/watch?v=fbQiWzG1-c0&t=4s
   - title: Tipy, jak se nezbláznit
     speakers:
       - Lumír Balhar - Red Hat
     description: |
       Doporučení na organizaci úkolů, času, života a vůbec. „Malé kroky, které toho mohou hodně změnit.“
+    coverage:
+    - video: https://www.youtube.com/watch?v=a1__uQnMMR0
   - title: Dataclasses
     speakers:
       - Jiří Smolík - Heureka
     description: |
       Speciální typ třídy pro práci s objekty s velkým množstvím parametrů. Kdy se hodí a kdy ne?
+    coverage:
+    - video: https://www.youtube.com/watch?v=Met3802iXcw&feature=youtu.be
   - title: Novinky v Pythonu
     speakers:
       - Jirka Prchlík - Lynt
     description: |
       Stručné představení zajímavých rozšíření Pythonu od verze 3.6 až po 3.10
+    coverage:
+    - video: https://www.youtube.com/watch?v=0gdd7_kZbhY
   - title: Lightning talks
     lightning: true
     description: |
