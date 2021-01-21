@@ -1,0 +1,25 @@
+city: brno
+start: 2021-01-28 19:00:00
+name: Brněnské Pyvo
+topic: 3D
+description: |
+  Vzhledem k stále trvající nepříznivé epidemické situaci se i první letošní Pyvo odehraje ONLINE.
+
+  -----------------------------------------------
+
+  Because of the ongoing unfavorable epidemic situation, even the first Pyvo in 2021 will be held ONLINE.
+
+  Join us on Thursday 28. 1. 2021 at 19:00 via https://meet.google.com/nor-jqnp-qag
+  The talk will be in English.
+
+talks:
+  - title: Introduction to 3D programming with Payton lib
+    speakers:
+      - Sinan Islekdemir
+    description: |
+      An introduction to 3D programming with Payton for all kinds of Python enthusiasts.
+      Payton is a 3D library and playground that can get you started with a 20 minutes introduction.
+      We will also have a peek under the hood about the internals and architecture of Payton,
+      along with some design choices/bottlenecks and how they are handled.)
+
+      More about the speaker: https://www.islekdemir.com/
