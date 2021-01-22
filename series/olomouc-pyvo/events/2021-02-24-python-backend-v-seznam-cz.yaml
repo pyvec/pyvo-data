@@ -3,7 +3,7 @@ start: 2021-02-24 18:00:00
 name: Olomoucké Pyvo
 topic: Vývoj backendu v Pythonu
 description: |
-    Ze svými vývojářskými zkušenostmi kolem Python technologií se
+    Se svými vývojářskými zkušenostmi kolem Python technologií se
     rozhodl podělit team lead Petr Stehlík ze společnosti Seznam.cz.
 
     Připojte se na [meet.vpsfree.cz/OloPyvo](https://meet.vpsfree.cz/OloPyvo).
@@ -14,5 +14,3 @@ talks:
   - title: '[WIP] Dev stack backendu v televizeseznam.cz'
     speakers:
       - Petr Stehlík
-urls:
-  - https://meet.vpsfree.cz/OloPyvo
