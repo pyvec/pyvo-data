@@ -9,7 +9,8 @@ description: |
 
   Because of the ongoing unfavorable epidemic situation, even the first Pyvo in 2021 will be held ONLINE.
 
-  Join us on Thursday 28. 1. 2021 at 19:00 via https://meet.google.com/nor-jqnp-qag
+  Join us on Thursday 28. 1. 2021 at 19:00 via
+  [meet.google.com/nor-jqnp-qag](https://meet.google.com/nor-jqnp-qag)
   The talk will be in English.
 
 talks:
@@ -23,3 +24,5 @@ talks:
       along with some design choices/bottlenecks and how they are handled.)
 
       More about the speaker: [islekdemir.com](https://www.islekdemir.com/)
+    coverage:
+    - video: https://youtu.be/epfCUewMMhI
