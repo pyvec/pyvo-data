@@ -24,5 +24,10 @@ talks:
       along with some design choices/bottlenecks and how they are handled.)
 
       More about the speaker: [islekdemir.com](https://www.islekdemir.com/)
+
+      Links:
+
+      * [Payton library](https://github.com/sinanislekdemir/payton)
+      * [Spaceship generator](https://github.com/a1studmuffin/SpaceshipGenerator)
     coverage:
     - video: https://youtu.be/epfCUewMMhI
