@@ -15,6 +15,13 @@ description: |
     Těšíme se na všechny!
 
 talks:
-  - title: '[WIP] Dev stack backendu v televizeseznam.cz'
+  - title: 'Televizeseznam.cz, jak ji neznám, aneb stavíme videoportál, který denně navštíví půl milionu lidí'
+    description: |
+        Televizeseznam.cz je jeden z největších videoportálů v naší kotlině. Jak je navrhnutý, na jakých technologiích
+        je postavený a proč, nám představí Petr Stehlík, tech lead týmu zodpovědného za jeho vývoj.
+        Kromě toho ukáže také den běžného developera v týmu (development lifecycle) a podělí se o pár zajímavostí z vývoje.
     speakers:
       - Petr Stehlík
+  - title: 'Lightning Talky'
+    description: |
+        Lightning talky a jejich registraci najdete na [tinyurl.com/olopyvo-lightning-talky](https://tinyurl.com/olopyvo-lightning-talky).
