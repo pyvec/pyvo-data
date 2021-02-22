@@ -1,0 +1,33 @@
+city: brno
+start: 2021-02-25 19:00:00
+name: Brněnské Pyvo
+topic: Exploring Google APIs with Python
+description: |
+  Vzhledem k stále trvající nepříznivé epidemické situaci se opět potkáme ONLINE.
+
+  -----------------------------------------------
+
+  Because of the ongoing unfavorable epidemic situation, we will meet ONLINE again.
+
+  Join us on Thursday 25. 2. 2021 at 19:00 via
+  [meet.google.com/vfs-rvkp-eyq](https://meet.google.com/vfs-rvkp-eyq)
+  The talk will be in English.
+
+talks:
+  - title: Exploring Google APIs with Python
+    speakers:
+      - Wesley Chun, Developer Advocate, Google Cloud
+    description: |
+      You may know Google for search, YouTube, Android, Chrome, and Gmail, but that's only as an end-user of OUR apps.
+      You can also integrate Google technologies into YOUR apps (web and mobile)! Did you know Google has many APIs
+      and open source libraries that help you do that? If you have tried and found it challenging, not enough examples,
+      run into roadblocks, got confused, or just curious about what Google APIs can offer, join us for the answers to your questions.
+      Attendees will see demo code using multiple Google APIs with Python time-permitting, we will also try to give live demos.
+
+      WESLEY CHUN (@wescpy) is the author of Prentice Hall's bestselling "Core Python" (corepython.com) series,
+      co-author of "Python Web Development with Django" (withdjango.com), and has written for Linux Journal, CNET, and InformIT.
+      In addition to being a Developer Advocate at Google focused on Google Cloud (for higher education) and a host of the G Suite Dev Show (goo.gl/JpBQ40),
+      he runs CyberWeb (cyberwebconsulting.com), a consultancy specializing in Python training. Wesley has over 25 years of programming,
+      teaching, and writing experience, and was one of the original Yahoo!Mail engineers. He holds degrees in CS, Math,
+      and Music from the University of California, is a Fellow of the Python Software Foundation, and Adjunct Computer Science faculty at Foothill College
+      in Silicon Valley.
