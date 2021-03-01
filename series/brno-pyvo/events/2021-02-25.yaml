@@ -31,3 +31,5 @@ talks:
       Wesley has over 25 years of programming, teaching, and writing experience, and was one of the original Yahoo!Mail engineers.
       He holds degrees in CS, Math, and Music from the University of California, is a Fellow of the Python Software Foundation,
       and Adjunct Computer Science faculty at Foothill College in Silicon Valley.
+    coverage:
+    - video: https://youtu.be/SuLYML8FoNo
