@@ -22,6 +22,8 @@ talks:
         Kromě toho ukáže také den běžného developera v týmu (development lifecycle) a podělí se o pár zajímavostí z vývoje.
     speakers:
       - Petr Stehlík
+    coverage:
+      - video: https://youtu.be/JKWTOLeETAY
   - title: 'Lightning Talky'
     description: |
         Lightning talky a jejich registraci najdete na [tinyurl.com/olopyvo-lightning-talky](https://tinyurl.com/olopyvo-lightning-talky).
