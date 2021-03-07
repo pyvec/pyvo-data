@@ -6,25 +6,24 @@ topic: Na čem Vám to běží...
 description: |
   Vážení přátelé a příznivci našich setkání!
 
-  ...
+  I nadále pokračujeme v neosobním duchu a vzdáleně. Pojďme si tentokrát popovídat něco na téma:
+    "Na čem vám to běží", jaké frameworky / knihovny se používají, co se daří a co ne.
 
   Setkání proběhne na Zoomu:
 
   [Link](abc)
-  Meeting ID: 
+  Meeting ID:
   Passcode:
 
 talks:
   - title: Úvodní slovo
     speakers:
-      - Tomáš Bedřich
+      - Tomáš Bedřich & Filip Vaculík
   - title: ...
     speakers:
       - ...
     description: |
       ...
-    coverage:
-    - video: ...
   - title: Lightning talks
     lightning: true
     description: |
