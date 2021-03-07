@@ -1,0 +1,36 @@
+city: plzen
+start: 2021-03-10 18:00:00
+name: Plzeňské Pyvo
+number: 19
+topic: Na čem Vám to běží...
+description: |
+  Vážení přátelé a příznivci našich setkání!
+
+  ...
+
+  Setkání proběhne na Zoomu:
+
+  [Link](abc)
+  Meeting ID: 
+  Passcode:
+
+talks:
+  - title: Úvodní slovo
+    speakers:
+      - Tomáš Bedřich
+  - title: ...
+    speakers:
+      - ...
+    description: |
+      ...
+    coverage:
+    - video: ...
+  - title: Lightning talks
+    lightning: true
+    description: |
+      Pokud máte zkušenost se zajímavou technologii, projektem, nebo chcete prezentovat sebe, či svou firmu a její aktivity, nebojte se přihlásit o slovo. K dispozici můžete mít plných 5 minut pro své téma.
+
+      Témata možno domluvit mailem na filip.vaculik@jsi.cz, případně u libovolného z organizátorů ve vhodnou chvíli při akci.
+      Také sbíráme náměty na přednášky pro další Pyva, více informací na [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+urls: []
+
