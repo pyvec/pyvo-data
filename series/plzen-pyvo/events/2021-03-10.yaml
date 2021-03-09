@@ -11,19 +11,34 @@ description: |
 
   Setkání proběhne na Zoomu:
 
-  [Link](abc)
-  Meeting ID:
-  Passcode:
+  [Link](https://us02web.zoom.us/j/81046449356?pwd=dlowalN4aEUyRkNXTTFuVXMvaVZOQT09)
+  Meeting ID: 810 4644 9356
+  Passcode: 1615397400
 
 talks:
   - title: Úvodní slovo
     speakers:
       - Tomáš Bedřich & Filip Vaculík
-  - title: ...
-    speakers:
-      - ...
+  - title: ZČU Pattern matching
+    speakers: 
+      - Tomáš Zítka
     description: |
-      ...
+      Představení nové syntaxe v Python 3.10. Zjednoduší pattern matching (porovnávání vzorů) zanořené if, elif.
+  - title: Televizeseznam.cz
+    speakers: 
+      - Petr Stehlík
+    description: |
+      Televizeseznam.cz, jak ji neznám, ekosystém backendu.
+  - title: Platby v Heurece
+    speakers: 
+      - Jiří Smolík a Honza Jelínek
+    description: |
+      Python a práce s platbami v Heurece - Náhled pod pokličku aplikace pro správu plateb v Heurece. Jaké knihovny využívá a na čem si Plzeňští vývojáři vylámali zuby.
+  - title: Různé
+    speakers: 
+      - Pavel Köenig a David Žahour
+    description: |
+      Nvias a jejich aktivity, nejen kolem AI a Pythonu.
   - title: Lightning talks
     lightning: true
     description: |
