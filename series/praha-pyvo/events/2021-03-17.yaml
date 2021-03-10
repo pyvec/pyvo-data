@@ -9,7 +9,7 @@ description: |
     **Different venue**: Link to the meeting will be available right before the event.
 
 talks:
-- title: "Nasazovani Kubernetes v seznamu"
+- title: "Nasazovani do Kubernetes v Seznam.cz"
   speakers:
     - Daniel Milde
 
@@ -22,4 +22,3 @@ talks:
     Určitě dojde i na lightning talky. Můžeš jeden mít i ty,
     viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
     Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
-
