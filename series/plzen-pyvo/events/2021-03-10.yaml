@@ -37,6 +37,9 @@ talks:
       - Jiří Smolík a Honza Jelínek
     description: |
       Python a práce s platbami v Heurece - Náhled pod pokličku aplikace pro správu plateb v Heurece. Jaké knihovny využívá a na čem si Plzeňští vývojáři vylámali zuby.
+  - title: Python ve službách auto-mat.cz
+    speakers: 
+      - Timothy Hobbs 
   - title: lenk.solution
     speakers: 
       - Jakub Lenk
