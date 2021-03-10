@@ -10,8 +10,8 @@ description: |
 
 talks:
 - title: "Nasazovani Kubernetes v seznamu"
-    speakers:
-      - Daniel Milde
+  speakers:
+    - Daniel Milde
 
 - title: "do you want to have a talk?"
   description: |
