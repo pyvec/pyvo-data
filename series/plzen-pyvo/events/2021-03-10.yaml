@@ -19,14 +19,18 @@ talks:
   - title: Úvodní slovo
     speakers:
       - Tomáš Bedřich & Filip Vaculík
-  - title: Jak si najít prví práci v IT
+  - title: Jak si najít první práci v IT
     speakers: 
       - Honza Javorek - Pyvec.org
+    coverage:
+    - video: https://www.youtube.com/watch?v=rl-8h6OcPyw
   - title: Pattern matching
     speakers: 
       - Tomáš Zítka - ZČU 
     description: |
       Představení nové syntaxe v Python 3.10. Zjednoduší pattern matching (porovnávání vzorů) zanořené if, elif.
+    coverage:
+    - video: https://www.youtube.com/watch?v=MCxqheFqlog
   - title: Televizeseznam.cz
     speakers: 
       - Petr Stehlík
@@ -45,11 +49,15 @@ talks:
       - Jakub Lenk
     description: |
       Povídání o implementaci SCADA projektu zpracovávajícím data z výrobní linky, jeho budoucnosti a nadcházející implementaci ML v Pythonu nad posbíranými daty.
+    coverage:
+    - video: https://www.youtube.com/watch?v=Kia6_eEChLc
   - title: Nvias.org v těchto časech
     speakers: 
       - Pavel Köenig a David Žahour
     description: |
       Nvias a jejich aktivity, nejen kolem AI a Pythonu.
+    coverage:
+    - video: https://www.youtube.com/watch?v=-KsDuWk2K08
   - title: Lightning talks
     lightning: true
     description: |
