@@ -20,39 +20,45 @@ talks:
     speakers:
       - Tomáš Bedřich & Filip Vaculík
   - title: Jak si najít první práci v IT
-    speakers: 
+    speakers:
       - Honza Javorek - Pyvec.org
     coverage:
     - video: https://www.youtube.com/watch?v=rl-8h6OcPyw
   - title: Pattern matching
-    speakers: 
-      - Tomáš Zítka - ZČU 
+    speakers:
+      - Tomáš Zítka - ZČU
     description: |
       Představení nové syntaxe v Python 3.10. Zjednoduší pattern matching (porovnávání vzorů) zanořené if, elif.
     coverage:
     - video: https://www.youtube.com/watch?v=MCxqheFqlog
   - title: Televizeseznam.cz
-    speakers: 
+    speakers:
       - Petr Stehlík
     description: |
       Televizeseznam.cz, jak ji neznám, ekosystém backendu.
+    coverage:
+    - video: https://www.youtube.com/watch?v=ot51_k0PdKA
   - title: Platby v Heurece
-    speakers: 
+    speakers:
       - Jiří Smolík a Honza Jelínek
     description: |
       Python a práce s platbami v Heurece - Náhled pod pokličku aplikace pro správu plateb v Heurece. Jaké knihovny využívá a na čem si Plzeňští vývojáři vylámali zuby.
+    coverage:
+    - video: https://www.youtube.com/watch?v=PIdOe1a2Ing&t=4s
   - title: Python ve službách auto-mat.cz
-    speakers: 
-      - Timothy Hobbs 
+    speakers:
+      - Timothy Hobbs
+    coverage:
+    - video: https://www.youtube.com/watch?v=2eJevVIPx9o
   - title: lenk.solution
-    speakers: 
+    speakers:
       - Jakub Lenk
     description: |
       Povídání o implementaci SCADA projektu zpracovávajícím data z výrobní linky, jeho budoucnosti a nadcházející implementaci ML v Pythonu nad posbíranými daty.
     coverage:
     - video: https://www.youtube.com/watch?v=Kia6_eEChLc
   - title: Nvias.org v těchto časech
-    speakers: 
+    speakers:
       - Pavel Köenig a David Žahour
     description: |
       Nvias a jejich aktivity, nejen kolem AI a Pythonu.
