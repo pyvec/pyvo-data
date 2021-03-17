@@ -4,9 +4,10 @@ name: Pražské Pyvo
 number: 120
 topic: kubernetes, infra as a code
 description: |
-    **Pozor, změna místa**: Link na meeting bude zveřejněn před začátkem akce.
+    **Pozor, změna místa**: Zoom [https://pantheon.zoom.us/j/94879518091](https://pantheon.zoom.us/j/94879518091)
 
-    **Different venue**: Link to the meeting will be available right before the event.
+    **Different venue**: Zoom [https://pantheon.zoom.us/j/94879518091](https://pantheon.zoom.us/j/94879518091)
+
 
 talks:
 - title: "Nasazovani do Kubernetes v Seznam.cz"
