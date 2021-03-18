@@ -1,0 +1,48 @@
+city: brno
+start: 2021-03-25 19:00:00
+name: Brněnské Pyvo
+topic: Hudební
+description: |
+  Vzhledem k stále trvající nepříznivé epidemické situaci se opět potkáme ONLINE.
+
+  -----------------------------------------------
+
+  Because of the ongoing unfavorable epidemic situation, we will meet ONLINE again.
+
+  Join us on Thursday 25. 2. 2021 at 19:00 via
+  [meet.google.com/ton-icyp-wvz](https://meet.google.com/ton-icyp-wvz)
+  The talk will be in English.
+
+talks:
+  - title: Music as Code
+    speakers:
+      - Moisés Guimarães
+    description: |
+      This talk is about writing songs and playing music with python.
+      Back in 2017 I came to know FoxDot, a python wrapper around SuperCollider,
+      which is a super popular open source synthesizer. Since then, I have been using
+      it to create entertaining lighting talks and would like to cover a bit more than
+      just a lightning talk this time.
+
+      Moisés Guimarães is a Brazilian programmer from the easternmost place of Americas
+      with focus on cryptography and information security.He currently works at Red Hat
+      as a Software Engineer in the Open Stack Security focus group.
+
+      *Life and Education*
+
+      Guimarães was born and raised in the northeast part of Brazil in the small town of São Miguel RN.
+      Later, at the age of 14, he moved to João Pessoa PB where he got his major in web development
+      and received a specialist degree in information security.
+
+      In 2018 he left Terra Brasilis to build a new life in Czech Republic as a Python software engineer
+      working in the security delivery focused group at Red Hat.Work prior to Red Hat.
+
+      He started his career as an intern for two years at Phoebus Tecnologia followed by five years
+      in the same company developing software for credit card machines with the C language.
+
+      In 2013 he started teaching programming for both undergraduate and high school students
+      at the Instituto Federal de Educação, Ciência e Tecnologia da Paraíba where later,
+      in addition to teaching, he became course coordinator.
+
+      His free time while at the institute (2013-2018) was dedicated to a part time job at wolfSSL Inc.
+      contributing to both wolfCrypt and wolfSSL libraries.
