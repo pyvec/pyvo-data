@@ -1,0 +1,24 @@
+city: brno
+start: 2021-04-29 19:00:00
+name: Brněnské Pyvo
+topic: Novinkové
+description: |
+  Vzhledem k stále trvající nepříznivé epidemické situaci se opět potkáme ONLINE.
+
+  -----------------------------------------------
+
+  Because of the ongoing unfavorable epidemic situation, we will meet ONLINE again.
+
+  Join us on Thursday 29. 4. 2021 at 19:00 via
+  <https://meet.google.com/dzp-ract-chz>
+  The talk will be in English.
+
+talks:
+  - title: News in Python 3.10
+    speakers:
+      - Martin Heinz
+    description: |
+      In this talk we will take upcoming release of Python for a spin and look at all the important changes that Python 3.10 will bring, including type checking, syntax changes, pattern matching, performance improvements and more.
+
+      Martin Heinz is a DevOps engineer and certified Red Hat professional and currently works at IBM. At work he build CI/CD systems, manages OpenShift clusters and builds Python and React applications.
+      Outside of work he also maintains a programming/engineering blog, where he writes about Python, Golang, Kubernetes and many other things. More info about Martin can be found at <https://martinheinz.dev>
