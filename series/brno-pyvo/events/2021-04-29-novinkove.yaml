@@ -22,3 +22,5 @@ talks:
 
       Martin Heinz is a DevOps engineer and certified Red Hat professional and currently works at IBM. At work he build CI/CD systems, manages OpenShift clusters and builds Python and React applications.
       Outside of work he also maintains a programming/engineering blog, where he writes about Python, Golang, Kubernetes and many other things. More info about Martin can be found at <https://martinheinz.dev>
+    coverage:
+      - video: https://youtu.be/ZBFRaHW4-JI
