@@ -1,0 +1,32 @@
+city: plzen
+start: 2021-05-12 18:00:00
+name: Plzeňské Pyvo
+number: 20
+topic: Plzenske Pyvo 20
+description: |
+  Vážení přátelé a příznivci našich setkání!
+
+  Setkání proběhne na Zoomu:
+
+  [Link](https://us02web.zoom.us/j/85837991306?pwd=MWxnenhTNE1qTVc5QUxlVXg1SWpmUT09)
+  Meeting ID: 858 3799 1306
+  Passcode: 18500
+
+talks:
+  - title: Úvodní slovo
+    speakers:
+      - Tomáš Bedřich & Filip Vaculík
+  - title: Protokol HTTP
+    speakers:
+      - Jan Smitka
+    description: |
+      Ukážeme si, jak vypadá typická komunikace pomocí protokolu HTTP, jak jsou strukturované požadavky i odpovědi a jaké nástroje můžeme použít, pokud chceme požadavky testovat a simulovat.
+  - title: Lightning talks
+    lightning: true
+    description: |
+      Pokud máte zkušenost se zajímavou technologii, projektem, nebo chcete prezentovat sebe, či svou firmu a její aktivity, nebojte se přihlásit o slovo. K dispozici můžete mít plných 5 minut pro své téma.
+
+      Témata možno domluvit mailem na filip.vaculik@jsi.cz, případně u libovolného z organizátorů ve vhodnou chvíli při akci.
+      Také sbíráme náměty na přednášky pro další Pyva, více informací na [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+urls: []
+
