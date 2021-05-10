@@ -21,6 +21,16 @@ talks:
       - Jan Smitka
     description: |
       Ukážeme si, jak vypadá typická komunikace pomocí protokolu HTTP, jak jsou strukturované požadavky i odpovědi a jaké nástroje můžeme použít, pokud chceme požadavky testovat a simulovat.
+  - title: Fast api - Jak na REST api a všelijaká jiná api v Pythonu
+    speakers:
+      - Miroslav Juhy Juhos
+    description: |
+      Co je webové API? Proč a jak? Co máme k dispozici za nástroje pro tvorbu API? Co máme k dispozici za nástroje pro dokumentaci API?
+  - title: OpenAPI
+    speakers:
+      - Honza Jelínek
+    description: |
+      Přiblížení a motivace pro návrh REST API za pomoci specifikace OpenAPI v editoru Swagger UI.
   - title: Lightning talks
     lightning: true
     description: |
