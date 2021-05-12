@@ -23,7 +23,7 @@ talks:
       - Jan Smitka
     description: |
       Ukážeme si, jak vypadá typická komunikace pomocí protokolu HTTP, jak jsou strukturované požadavky i odpovědi a jaké nástroje můžeme použít, pokud chceme požadavky testovat a simulovat.
-  - title: Fast api - Jak na REST api a všelijaká jiná api v Pythonu
+  - title: FastAPI - Jak na REST API a všelijaká jiná API v Pythonu
     speakers:
       - Miroslav Juhy Juhos
     description: |
