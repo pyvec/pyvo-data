@@ -23,16 +23,29 @@ talks:
       - Jan Smitka
     description: |
       Ukážeme si, jak vypadá typická komunikace pomocí protokolu HTTP, jak jsou strukturované požadavky i odpovědi a jaké nástroje můžeme použít, pokud chceme požadavky testovat a simulovat.
+    coverage:
+    - video: https://www.youtube.com/watch?v=Zy-MfdRdjkQ
+  - title: Protokol HTTP/3
+    speakers:
+      - Miloslav Pojman
+    description: |
+      Průlet protokolem HTTP/3.
+    coverage:
+    - video: https://www.youtube.com/watch?v=cFACVdkSEdw&t=1s
   - title: FastAPI - Jak na REST API a všelijaká jiná API v Pythonu
     speakers:
       - Miroslav Juhy Juhos
     description: |
       Co je webové API? Proč a jak? Co máme k dispozici za nástroje pro tvorbu API? Co máme k dispozici za nástroje pro dokumentaci API?
+    coverage:
+    - video: https://www.youtube.com/watch?v=gYt7CdqpqHc
   - title: OpenAPI
     speakers:
       - Honza Jelínek
     description: |
       Přiblížení a motivace pro návrh REST API za pomoci specifikace OpenAPI v editoru Swagger UI.
+    coverage:
+    - video: https://www.youtube.com/watch?v=dyH28vQCaCk
   - title: Lightning talks
     lightning: true
     description: |
