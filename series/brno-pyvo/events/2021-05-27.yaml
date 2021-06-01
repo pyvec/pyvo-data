@@ -22,3 +22,5 @@ talks:
       Do Práce na Kole and in the past 14 days there were 296 731 errors in Sentry, but somehow things keep on running.
       In this talk, we will examine what happens in Django when an error occurs, when a request is being processed,
       or while a Celery task is being run. Do database transactions roll back time? What about interactions with external resources?
+    coverage:
+    - video: https://youtu.be/e5WK4wtGlNg
