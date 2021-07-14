@@ -16,6 +16,5 @@ talks:
   - title: Pub Quiz od Pure Storage
     description: |
         Zkus si zatipovat v rychlém Pub Quizu o drobné ceny. Potřebuješ akorát telefon s internetem a třeba se něco dozvíš anebo vyhraješ!
-    lightning: false
     speakers:
         - Jirka Chadima (Pure Storage)
