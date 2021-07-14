@@ -1,0 +1,30 @@
+city: brno
+start: 2021-06-24 19:00:00
+name: Brněnské Pyvo
+topic: Geospatial Analysis
+description: |
+  Poslední Pyvo před prázdninami bude ještě (snad naposledy) online.
+
+  ---------------------------------------------
+
+  The last Pyvo before summer holidays will be online again (hopefully for the last time).
+
+  Join us on Thursday 24. 6. 2021 at 19:00 via Google Meet: <https://meet.google.com/mrc-ohxp-wyj>
+
+  The talk will be in English.
+
+talks:
+  - title: The state of geospatial analysis in Python
+    speakers:
+      - Maxime Lenormand
+    description: |
+      From satellite imagery to knowing where your neighbor went for a run last evening, geospatial data is everywhere.
+      I'll try to go over why Python is a great tool to make sense of most of it.
+
+      Find out more about our speaker:
+
+      <https://twitter.com/MaxLenormand>
+
+      <https://minds-behind-maps.simplecast.com>
+    coverage:
+    - video: https://youtu.be/EtOJ9BSPGmQ

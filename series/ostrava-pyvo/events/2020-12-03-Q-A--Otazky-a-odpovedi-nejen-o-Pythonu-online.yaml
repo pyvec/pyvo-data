@@ -1,0 +1,33 @@
+city: ostrava
+start: 2020-12-03 18:00:00
+name: Ostravské Pyvo
+topic: "Q&A — Otázky a odpovědi nejen o Pythonu (online)"
+description: |
+    Ahoj.
+
+    Po krátké vynucené pauze jsme zpět. Situace je bohužel taková, že
+    chceme-li se letos ještě jednou setkat, budeme to muset udělat online.
+
+    První a letos poslední online ostravské Pyvo proběhne netradičně ve
+    čtvrtek 3. prosince od 18:00 a potkáme se na [jit.si](https://meet.jit.si/PyvoOstrava).
+    Důvodem pro netradiční termín je pokročilý kurz, který probíhá ve středu.
+
+    Sice to bude bez večeře a piva – to si budete muset zařídit sami –, ale
+    na zajímavost obsahu to nebude mít žádný vliv. O ten se totiž také
+    postaráte vy 😄 Během pokročilého kurzu se nám vyrojila celá řada velmi
+    zajímavých otázek okolo fungování Pythonu a počítačů obecně, takže
+    poslední letošní Pyvo věnujeme hledání odpovědí na tyto otázky. Další
+    otázky můžete přidávat i nadále, případně můžete hlasovat pro ty
+    nejlepší na [poll.ly](https://poll.ly/#/GQvYgOQR).
+
+    Rekapitulace: ptejte se a hlasujte na [poll.ly](https://poll.ly/#/GQvYgOQR) a ve
+    čtvrtek 3. 12. v 18:00 se připojte na [jit.si](https://meet.jit.si/PyvoOstrava).
+
+    Těšíme se!
+
+talks:
+  - title: Q&A — Otázky a odpovědi nejen o Pythonu
+    coverage:
+    - video: https://youtu.be/g3BrcEkWhoo
+urls:
+- https://www.meetup.com/Ostravske-Pyvo/events/274744300/

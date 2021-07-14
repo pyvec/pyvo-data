@@ -1,0 +1,29 @@
+city: olomouc
+start: 2021-02-24 18:00:00
+name: Olomoucké Pyvo
+topic: Vývoj backendu v Pythonu
+description: |
+    Se svými vývojářskými zkušenostmi kolem Python technologií se
+    rozhodl podělit team lead Petr Stehlík ze společnosti Seznam.cz.
+
+    Připojte se na [meet.vpsfree.cz/OloPyvo](https://meet.vpsfree.cz/OloPyvo).
+
+    Lightning talky a jejich registraci najdete na
+    [tinyurl.com/olopyvo-lightning-talky](https://tinyurl.com/olopyvo-lightning-talky).
+    Děkujeme!
+
+    Těšíme se na všechny!
+
+talks:
+  - title: 'Televizeseznam.cz, jak ji neznám, aneb stavíme videoportál, který denně navštíví půl milionu lidí'
+    description: |
+        Televizeseznam.cz je jeden z největších videoportálů v naší kotlině. Jak je navrhnutý, na jakých technologiích
+        je postavený a proč, nám představí Petr Stehlík, tech lead týmu zodpovědného za jeho vývoj.
+        Kromě toho ukáže také den běžného developera v týmu (development lifecycle) a podělí se o pár zajímavostí z vývoje.
+    speakers:
+      - Petr Stehlík
+    coverage:
+      - video: https://youtu.be/JKWTOLeETAY
+  - title: 'Lightning Talky'
+    description: |
+        Lightning talky a jejich registraci najdete na [tinyurl.com/olopyvo-lightning-talky](https://tinyurl.com/olopyvo-lightning-talky).

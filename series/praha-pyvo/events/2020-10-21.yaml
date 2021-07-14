@@ -1,0 +1,36 @@
+city: praha
+start: 2020-10-21 19:00:00
+name: Pražské Pyvo
+number: 115
+topic: Modern APIs ONLINE ONLY
+description: |
+  Modern APIs
+
+   **Pozor, změna místa**: Zoom [https://pantheon.zoom.us/j/94879518091](https://pantheon.zoom.us/j/94879518091)
+
+talks:
+- title: "graphql app"
+  speakers:
+  - Ales Zoulek
+  description: |
+    ales will tell us more soon
+
+- title: "react relay"
+  speakers:
+  - Petr Messner
+  description: |
+    Example of GraphQL server implementation using [Graphene](https://github.com/graphql-python/graphene) and [Aiohttp](https://docs.aiohttp.org/).
+    Example of using [Relay](https://relay.dev/docs/en/quick-start-guide) + React + [Next.js](https://nextjs.org/learn/basics/create-nextjs-app) on the frontend.
+
+    Source code of the demo project: [github.com/messa/pyvo-graphql-demo](https://github.com/messa/pyvo-graphql-demo)
+
+- title: "do you want to have a talk?"
+  description: |
+    let us know! praha@pyvo.cz
+
+- title: "Lightning talks"
+  description: |
+    Určitě dojde i na lightning talky. Můžeš jeden mít i ty,
+    viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+    Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
+

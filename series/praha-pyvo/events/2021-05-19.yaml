@@ -1,0 +1,27 @@
+city: praha
+start: 2021-05-19 19:00:00
+name: Pražské Pyvo
+number: 122
+topic: reactive streams and friends
+description: |
+    **Pozor, změna místa**: Zoom [https://pantheon.zoom.us/j/94879518091](https://pantheon.zoom.us/j/94879518091)
+
+    **Different venue**: Zoom [https://pantheon.zoom.us/j/94879518091](https://pantheon.zoom.us/j/94879518091)
+
+talks:
+- title: "reaktivni streamy, java/kotlin"
+  speakers:
+    - Ondra Malek
+  description: |
+    http://reactivex.io/languages.html
+
+- title: "do you want to have a talk?"
+  description: |
+    let us know! praha@pyvo.cz
+
+- title: "Lightning talks"
+  description: |
+    Určitě dojde i na lightning talky. Můžeš jeden mít i ty,
+    viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+    Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
+

@@ -1,0 +1,75 @@
+city: plzen
+start: 2021-03-10 18:00:00
+name: Plzeňské Pyvo
+number: 19
+topic: Na čem Vám to běží...
+description: |
+  Vážení přátelé a příznivci našich setkání!
+
+  I nadále pokračujeme v neosobním duchu a vzdáleně. Pojďme si tentokrát popovídat něco na téma:
+    "Na čem vám to běží", jaké frameworky / knihovny se používají, co se daří a co ne.
+
+  Setkání proběhne na Zoomu:
+
+  [Link](https://us02web.zoom.us/j/81046449356?pwd=dlowalN4aEUyRkNXTTFuVXMvaVZOQT09)
+  Meeting ID: 810 4644 9356
+  Passcode: 1615397400
+
+talks:
+  - title: Úvodní slovo
+    speakers:
+      - Tomáš Bedřich & Filip Vaculík
+  - title: Jak si najít první práci v IT
+    speakers:
+      - Honza Javorek - Pyvec.org
+    coverage:
+    - video: https://www.youtube.com/watch?v=rl-8h6OcPyw
+  - title: Pattern matching
+    speakers:
+      - Tomáš Zítka - ZČU
+    description: |
+      Představení nové syntaxe v Python 3.10. Zjednoduší pattern matching (porovnávání vzorů) zanořené if, elif.
+    coverage:
+    - video: https://www.youtube.com/watch?v=MCxqheFqlog
+  - title: Televizeseznam.cz
+    speakers:
+      - Petr Stehlík
+    description: |
+      Televizeseznam.cz, jak ji neznám, ekosystém backendu.
+    coverage:
+    - video: https://www.youtube.com/watch?v=ot51_k0PdKA
+  - title: Platby v Heurece
+    speakers:
+      - Jiří Smolík a Honza Jelínek
+    description: |
+      Python a práce s platbami v Heurece - Náhled pod pokličku aplikace pro správu plateb v Heurece. Jaké knihovny využívá a na čem si Plzeňští vývojáři vylámali zuby.
+    coverage:
+    - video: https://www.youtube.com/watch?v=PIdOe1a2Ing&t=4s
+  - title: Python ve službách auto-mat.cz
+    speakers:
+      - Timothy Hobbs
+    coverage:
+    - video: https://www.youtube.com/watch?v=2eJevVIPx9o
+  - title: lenk.solution
+    speakers:
+      - Jakub Lenk
+    description: |
+      Povídání o implementaci SCADA projektu zpracovávajícím data z výrobní linky, jeho budoucnosti a nadcházející implementaci ML v Pythonu nad posbíranými daty.
+    coverage:
+    - video: https://www.youtube.com/watch?v=Kia6_eEChLc
+  - title: Nvias.org v těchto časech
+    speakers:
+      - Pavel Köenig a David Žahour
+    description: |
+      Nvias a jejich aktivity, nejen kolem AI a Pythonu.
+    coverage:
+    - video: https://www.youtube.com/watch?v=-KsDuWk2K08
+  - title: Lightning talks
+    lightning: true
+    description: |
+      Pokud máte zkušenost se zajímavou technologii, projektem, nebo chcete prezentovat sebe, či svou firmu a její aktivity, nebojte se přihlásit o slovo. K dispozici můžete mít plných 5 minut pro své téma.
+
+      Témata možno domluvit mailem na filip.vaculik@jsi.cz, případně u libovolného z organizátorů ve vhodnou chvíli při akci.
+      Také sbíráme náměty na přednášky pro další Pyva, více informací na [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+urls: []
+

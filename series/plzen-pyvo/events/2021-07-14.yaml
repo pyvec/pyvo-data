@@ -1,0 +1,54 @@
+city: plzen
+start: 2021-07-14 18:00:00
+name: Plzeňské Pyvo
+number: 21
+topic: Lehké představení jiných programovacích jazyků
+venue: hub-20
+description: |
+  Vážení přátelé a příznivci našich setkání!
+  
+  Pojďme se opět setkat _osobně_, tentokrát s odlehčenějším prázdninovým tématem – exkurzí do světa jiných jazyků.
+  
+  Pokud nás můžete obohatit vaší zkušeností s dalším z programovacích jazyků, budeme rádi, když si pripravíte několikaminutový vstup. 
+  
+  V HUBu bude k dispozici voda, točená Kofola, pivo a pár drobností k poškádlení chuťových buněk. Pokud máte zájem se na akci najíst, lze využít dovážky, kousek od objektu, v ulici Černická 10, je například provozovna Pizza doma. 
+  
+  Prosíme o dodržování rozumných opatření zabraňujících šíření nakažlivých nemocí. [Link](https://covid.gov.cz/situace/obchod-sluzby/restaurace-bary-kavarny)
+
+  Protože se nekteří mohou zúčastnit jen online, plánujem část našeho setkání streamovat, ale pokud můžete, raději přijděte na živo. 
+  
+  [Link](https://us02web.zoom.us/j/83241542579?pwd=MlVvV3l1cm9zYWVHaUtKN3FFSHNuZz09)
+  Meeting ID: 832 4154 2579
+  Passcode: 1407
+  
+  Děkujeme a na viděnou!
+
+talks:
+  - title: Úvodní slovo
+    speakers:
+      - Tomáš Bedřich & Filip Vaculík
+  - title: Haskell
+    speakers:
+      - Tomáš Zítka
+    description: Čistě funkcionální, staticky typovaný, líný jazyk, co na se tom může Pythoniostovi líbit?
+  - title: Z Pythonu k C#.
+    speakers:
+      - Adéla Kristejnová
+    description: Letem světem C# a .NETem.
+  - title: Programování hrou
+    speakers:
+      - Filip Vaculík
+    description: Jak na výuku programování pro děti, mládež a hravé. Letmá přehlídka technologií, které se osvědčily po Karlovi a Baltíkovi.
+  - title: BASH
+    speakers:
+      - Tomáš Lipenský
+    description: Tomáš je bývalý šéfadmin z IBM, který nyní působí v Oriflame. Dorazí k nám z Brna, aby nás obohatil o jeho zkušenosti s BASHem a drobné srovnání s Pythonem.
+  - title: Lightning talks
+    lightning: true
+    description: |
+      Pokud máte zkušenost se zajímavou technologii, projektem, nebo chcete prezentovat sebe, či svou firmu a její aktivity, nebojte se přihlásit o slovo. K dispozici můžete mít plných 5 minut pro své téma.
+
+      Témata možno domluvit mailem na filip.vaculik@jsi.cz, případně u libovolného z organizátorů ve vhodnou chvíli při akci.
+      Také sbíráme náměty na přednášky pro další Pyva, více informací na [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+urls: []
+

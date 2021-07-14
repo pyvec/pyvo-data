@@ -1,0 +1,26 @@
+city: brno
+start: 2021-05-27 19:00:00
+name: Brněnské Pyvo
+topic: Running buggy code in production
+description: |
+  Vzhledem k stále trvající nepříznivé epidemické situaci se opět potkáme ONLINE.
+
+  -----------------------------------------------
+
+  Because of the ongoing unfavorable epidemic situation, we will meet ONLINE again.
+
+  Join us on Thursday 27. 5. 2021 at 19:00 via
+  <https://meet.google.com/ckd-wutv-qqe>
+  The talk will be in English.
+
+talks:
+  - title: Running buggy code in production. Fault tolerance in Django.
+    speakers:
+      - Timothy Hobbs
+    description: |
+      It's been at least 6 months since we had a green dot next to the test runner for our flagship
+      Do Práce na Kole and in the past 14 days there were 296 731 errors in Sentry, but somehow things keep on running.
+      In this talk, we will examine what happens in Django when an error occurs, when a request is being processed,
+      or while a Celery task is being run. Do database transactions roll back time? What about interactions with external resources?
+    coverage:
+    - video: https://youtu.be/e5WK4wtGlNg

@@ -1,0 +1,26 @@
+city: olomouc
+start: 2021-01-27 18:00:00
+name: Olomoucké Pyvo
+topic: První onlajnovo OloPyvo
+description: |
+    Pokoušíme se oživit tradici Olomouckého Pyva a současně ustálit
+    pravidelné srazy, čímžto spoléháme na Murphyho zákony, že snaha
+    zavedení systému **pravidelných setkání ONLINE** bude korunována
+    nepotřebností takového systému a my se co nejdříve zase budeme
+    scházet naživo!
+
+    Připojte se na [meet.vpsfree.cz/OloPyvo](https://meet.vpsfree.cz/OloPyvo).
+
+    Lightning talky a jejich registraci najdete na
+    [tinyurl.com/olopyvo-lightning-talky](https://tinyurl.com/olopyvo-lightning-talky).
+    Děkujeme!
+
+    Těšíme se na vás! <3
+
+talks:
+  - title: Jak vám Python může šetřit čas
+    speakers:
+      - Kuba Beránek
+  - title: Wagtail, aneb když nevěříte WordPressu
+    speakers:
+      - Dan Nepejchal
