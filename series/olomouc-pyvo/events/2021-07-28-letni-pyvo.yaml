@@ -1,0 +1,25 @@
+city: olomouc
+start: 2021-07-28 17:30:00
+name: Olomoucké Pyvo
+topic: SDR aneb Software-defined radio versus Python
+venue: u-travise
+description: |
+    Letní tématická odbočka "Softwarově definované rádio" a jak si
+    s tím Python ví/neví rady. Je prostor pro lightning
+    talky a samozřejmě volná témata a povídání nejen o Python.
+
+    Lightning talky a jejich registraci najdete na
+    [tinyurl.com/olopyvo-lightning-talky](https://tinyurl.com/olopyvo-lightning-talky).
+    Děkujeme!
+
+    Těšíme se na všechny!
+
+talks:
+  - title: Software-defined radio versus Python
+    description: |
+        Úvod do oblasti, se kterou jsem se seznámil teprve nedávno,
+        ale velice mě nadchla: Softwarově definované rádio. Jelikož
+        jsem sám nováčkem, vezmu to od základů a snad se povede i
+        názorná ukázka.
+    speakers:
+      - Filip Valder

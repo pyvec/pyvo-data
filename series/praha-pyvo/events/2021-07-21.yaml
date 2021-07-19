@@ -1,19 +1,19 @@
-name: Pražské Pyvo
 city: praha
-venue: vila-stvanice   # avu, cafe-lajka, holesovicka-sachta ?
+venue: vila-stvanice
+name: Pražské Pyvo
 start: 2021-07-21 19:00:00
 topic: Volná zábava a tipovací Pub Quiz
 number: 124
 description: |
+   Volná zábava a tipovací Pub Quiz
+   
+   Další letní sraz a zase naživo a to u [Vily Štvanice](https://vilastvanice.cz/),
+   Dostanete se tam z Hlávkova mostu, pešky z Vltavské nebo Těšnova, tramvají číslo 14 (zastávka Štvanice), nebo [přívozem](https://pid.cz/wp-content/uploads/mapy/ostatni/privoz_p7.png) od Holešovický (Pražský) tržnice nebo Rohanskýho ostrova (je třeba ale pak dojít na druhou stranu ostrova). Přesná poloha na [mapě](https://www.google.com/maps/place/Divadlo+VILA+Štvanice/@50.095649,14.4338483,17z/data=!4m12!1m6!3m5!1s0x470b94b8b97b5a25:0xab2e69a11ad1227f!2sDivadlo+VILA+Štvanice!8m2!3d50.0956456!4d14.436037!3m4!1s0x470b94b8b97b5a25:0xab2e69a11ad1227f!8m2!3d50.0956456!4d14.436037). Kvůli nařízením vlády nejde udělat rezervace pro větší počet lidí, takže se shlukneme tak říkajíc "na punk" na public židličkách/ve stoje/jak je komu libo. Ve Vile a přilehlým Bike Jesusu je možný sehnat pití, s jídlem se bohužel nedá počítat. 
 
-  Další velmi neformální a nevirtuální pražské Pyvo. S rychlým tipovacím Pub Quizem. O ceny!
-
-  Vila je na ostrově Štvanice. Dostanete se tam z Hlávkova mostu, pešky z Vltavské nebo Těšnova, tramvají číslo 14 (zastávka Štvanice), nebo [přívozem](https://pid.cz/wp-content/uploads/mapy/ostatni/privoz_p7.png) od Holešovický (Pražský) tržnice nebo Rohanskýho ostrova (je třeba ale pak dojít na druhou stranu ostrova). Přesná poloha na [mapě](https://www.google.com/maps/place/Divadlo+VILA+Štvanice/@50.095649,14.4338483,17z/data=!4m12!1m6!3m5!1s0x470b94b8b97b5a25:0xab2e69a11ad1227f!2sDivadlo+VILA+Štvanice!8m2!3d50.0956456!4d14.436037!3m4!1s0x470b94b8b97b5a25:0xab2e69a11ad1227f!8m2!3d50.0956456!4d14.436037). Kvůli nařízením vlády nejde udělat rezervace pro větší počet lidí, takže se shlukneme tak říkajíc "na punk" na public židličkách/ve stoje/jak je komu libo. Ve Vile a přilehlým Bike Jesusu je možný sehnat pití, s jídlem se bohužel nedá počítat. 
-
-  **Different venue**: Our usual place is closed. We'll meet at [Vila Štvanice](https://vilastvanice.cz/), located on Štvanice island. You can easily walk there from Vltavská metro station or Těšnov tram stop using a bridge called "Hlávkův most". You can also use tram number 14 (Štvanice stop) to get at the bridge. If you feel adventurous, you also use [ferry](https://pid.cz/wp-content/uploads/mapy/ostatni/privoz_p7.png) (the stop is located at the other part of the island) from "Pražská tržnice" or "Rohanský ostrov". Exact location shown on [map here.](https://www.google.com/maps/place/Divadlo+VILA+Štvanice/@50.095649,14.4338483,17z/data=!4m12!1m6!3m5!1s0x470b94b8b97b5a25:0xab2e69a11ad1227f!2sDivadlo+VILA+Štvanice!8m2!3d50.0956456!4d14.436037!3m4!1s0x470b94b8b97b5a25:0xab2e69a11ad1227f!8m2!3d50.0956456!4d14.436037)
+   **Different venue**: Our usual place is closed. We'll meet at [Vila Štvanice](https://vilastvanice.cz/), located on Štvanice island. You can easily walk there from Vltavská metro station or Těšnov tram stop using a bridge called "Hlávkův most". You can also use tram number 14 (Štvanice stop) to get at the bridge. If you feel adventurous, you also use [ferry](https://pid.cz/wp-content/uploads/mapy/ostatni/privoz_p7.png) (the stop is located at the other part of the island) from "Pražská tržnice" or "Rohanský ostrov". Exact location shown on [map here.](https://www.google.com/maps/place/Divadlo+VILA+Štvanice/@50.095649,14.4338483,17z/data=!4m12!1m6!3m5!1s0x470b94b8b97b5a25:0xab2e69a11ad1227f!2sDivadlo+VILA+Štvanice!8m2!3d50.0956456!4d14.436037!3m4!1s0x470b94b8b97b5a25:0xab2e69a11ad1227f!8m2!3d50.0956456!4d14.436037)
   
 talks:
-  - title: Pub Quiz od Pure Storage
+  - title: Pub Quiz
     description: |
         Zkus si zatipovat v rychlém Pub Quizu o drobné ceny. Potřebuješ akorát telefon s internetem a třeba se něco dozvíš anebo vyhraješ!
     speakers:
