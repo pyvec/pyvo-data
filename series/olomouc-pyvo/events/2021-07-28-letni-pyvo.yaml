@@ -23,3 +23,5 @@ talks:
         názorná ukázka.
     speakers:
       - Filip Valder
+    urls:
+      - https://github.com/fivaldi/my-1st-python-sdr-examples
