@@ -1,1 +1,19 @@
+city: praha
+start: 2021-08-18 19:00:00
+name: Pražské Pyvo
+number: 125
+topic: Assorted
+venue: holesovicka-sachta
+description: |
+    Assorted
+  
+    **Pozor, změna místa**: Klub Na Věnečku je ještě pořád zavřený. Setkáme se v [Holešovické šachtě](https://www.holesovickasachta.cz/),
+    Šachtu najdete v Bubenský ulici cca 5m pěšky z Výstaviště nebo Nádraží Holešovice. K dispozici je ohniště a buřty se dají pořídit na baru. Vege pochutiny si klidně doneste s sebou. Mapka [hír](https://www.google.com/maps/place/Holešovická+šachta/@50.1058495,14.4355914,3a,75y,124.11h,93.3t/data=!3m7!1e1!3m5!1syozhkh6nKkh91ll0WrA1Pg!2e0!6s%2F%2Fgeo1.ggpht.com%2Fcbk%3Fpanoid%3Dyozhkh6nKkh91ll0WrA1Pg%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D76.37563%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192!4m16!1m8!3m7!1s0x0:0xda0163c3afefb2c6!2zSG9sZcWhb3ZpY2vDoSDFoWFjaHRh!8m2!3d50.1058323!4d14.4357163!14m1!1BCgIgAQ!3m6!1s0x0:0xda0163c3afefb2c6!8m2!3d50.1058323!4d14.4357163!14m1!1BCgIgARICCAI).
+  
+    **Different venue**: Our usual place is closed. We'll meet at  [Holešovické šachta](https://www.holesovickasachta.cz/), located on Bubenská street, within 5 minute walk from either Výstaviště Holešovice or Nádraží Holešovice. Exact location shown on [map here.](https://www.google.com/maps/place/Holešovická+šachta/@50.1058495,14.4355914,3a,75y,124.11h,93.3t/data=!3m7!1e1!3m5!1syozhkh6nKkh91ll0WrA1Pg!2e0!6s%2F%2Fgeo1.ggpht.com%2Fcbk%3Fpanoid%3Dyozhkh6nKkh91ll0WrA1Pg%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D76.37563%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192!4m16!1m8!3m7!1s0x0:0xda0163c3afefb2c6!2zSG9sZcWhb3ZpY2vDoSDFoWFjaHRh!8m2!3d50.1058323!4d14.4357163!14m1!1BCgIgAQ!3m6!1s0x0:0xda0163c3afefb2c6!8m2!3d50.1058323!4d14.4357163!14m1!1BCgIgARICCAI). We can use a fireplace, non vege sausages available on bar. Don't hesitate to bring you own food.
 
+
+talks:
+- title: "Small talk and gossip"
+  speakers:
+  - you
