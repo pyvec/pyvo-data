@@ -1,0 +1,20 @@
+name: Pražské Pyvo
+city: praha
+#venue: vila-stvanice   # holesovicka-sachta ?
+start: 2021-09-15 19:00:00
+# topic: ...
+number: 126
+description: |
+    Pyvo bude i v září. Konkrétní místo a témata právě řešíme.
+
+talks:
+
+- title: "Do you want to have a talk?"
+  description: |
+    Let us know! praha@pyvo.cz
+
+- title: "Lightning talks"
+  description: |
+    Určitě dojde i na lightning talky. Můžeš jeden mít i ty,
+    viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+    Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
