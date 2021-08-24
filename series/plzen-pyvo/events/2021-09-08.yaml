@@ -2,7 +2,7 @@ city: plzen
 start: 2021-09-08 18:00:00
 name: Plzeňské Pyvo
 number: 22
-topic: Python a vědecké a průmyslové výpočtys
+topic: Python a vědecké a průmyslové výpočty
 venue: hub-20
 description: |
   Vážení přátelé a příznivci našich setkání!
@@ -25,33 +25,43 @@ talks:
   - title: Úvodní slovo
     speakers:
       - Tomáš Bedřich & Filip Vaculík & Tomáš Zítka
+  
   - title: Python a náročné výpočty - jde to?
     speakers:
-      - Tomáš Zítka
+      - Tomáš Zítka, KKY ZČU
     description: Acceleration to the rescue!
-  - title: Sfepy
-    speakers:
-      - Robert Cimrman, NTC
-    description: Představení balíku pro FEM výpočty postaveného na Numpy a C extensions.
+  
   - title: Tensorflow a CUDA
     speakers:
       - David Žahour
-    description: 
-  - title: PyTorch
+    description: ...
+  
+  - title: Řešení inženýrských problému v Pythonu pomocí metody konečných prvků
     speakers:
-      - ????
-    description: 
-    description: 
-  - title: Numba?
+      - Robert Cimrman, NTC ZČU
+    description: |
+        Ukážeme si, jak je možné použít Python např. pro určení deformace pružného
+        objektu nebo rozložení teploty v tělese. Použita a představena bude metoda
+        konečných prvků, resp. její implementace v knihovně SfePy.
+  
+  - title: Pypi balíčky
+    speakers: 
+        - Miroslav Jiřík, KKY ZČU
+    description: | 
+        Jak si organizovat nástroje pomocí pipu.
+        
+  - title: Design výpočetního systému
+    lighthing: true
     speakers:
-      - ????
-    description:
+        - Václav Fiala, ŠKODA Electric
+    description: ...
+  
   - title: Lightning talks
     lightning: true
     description: |
       Pokud máte zkušenost se zajímavou technologii, projektem, nebo chcete prezentovat sebe, či svou firmu a její aktivity, nebojte se přihlásit o slovo. K dispozici můžete mít plných 5 minut pro své téma.
 
-      Témata možno domluvit mailem na filip.vaculik@jsi.cz, případně u libovolného z organizátorů ve vhodnou chvíli při akci.
+      Témata možno domluvit mailem na tozitka@gmail.com, případně u libovolného z organizátorů ve vhodnou chvíli při akci.
       Také sbíráme náměty na přednášky pro další Pyva, více informací na [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
 urls: []
 
