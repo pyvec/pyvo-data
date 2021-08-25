@@ -51,7 +51,7 @@ talks:
         Jak si organizovat nástroje pomocí pipu.
         
   - title: Design výpočetního systému
-    lighthing: true
+    lighthning: true
     speakers:
         - Václav Fiala, ŠKODA Electric
     description: ...
