@@ -7,9 +7,10 @@ venue: moving-station
 description: |
   Vážení přátelé a příznivci našich setkání!
   
-  ...
+  Na začátkek školního roku jsme si pro vás připravili představení Pythonu jako nástroje pro často výkonově náročné aplikace
+  ve vědě a průmyslu.
   
-  V HUBu bude k dispozici voda, točená Kofola, pivo a pár drobností k poškádlení chuťových buněk. Pokud máte zájem se na akci najíst, lze využít dovážky, kousek od objektu, v ulici Černická 10, je například provozovna Pizza doma. 
+  V Moving Station bude v provozu kavárna s typisckým sortimentem.
   
   Prosíme o dodržování rozumných opatření zabraňujících šíření nakažlivých nemocí. [Link](https://covid.gov.cz/situace/obchod-sluzby/restaurace-bary-kavarny)
 
@@ -34,7 +35,7 @@ talks:
   - title: Tensorflow a CUDA
     speakers:
       - David Žahour
-    description: ...
+    description: TBA
   
   - title: Řešení inženýrských problému v Pythonu pomocí metody konečných prvků
     speakers:
@@ -45,6 +46,7 @@ talks:
         konečných prvků, resp. její implementace v knihovně SfePy.
   
   - title: Pypi balíčky
+    lightning: true
     speakers: 
         - Miroslav Jiřík, KKY ZČU
     description: | 
@@ -54,7 +56,7 @@ talks:
     lightning: true
     speakers:
         - Václav Fiala, ŠKODA Electric
-    description: ...
+    description: TBA
   
   - title: Lightning talks
     lightning: true
