@@ -1,4 +1,4 @@
-city: vratimov
+city: ostrava
 start: 2021-08-04 17:00:00
 name: Ostravské Pyvo
 topic: "[ZMĚNA - přesunuto] Pokec na sluníčku a letní kino"
@@ -8,9 +8,6 @@ description: |
     k nim. Uvidíme se tam! Více informací najdete na:
     https://www.meetup.com/TechMeetupOstrava/events/279584671/
 
-    Další venkovní Pyvo letošního roku se uskuteční ve středu 4. srpna od
-    17:00 na tradičním místě ve vratimovské Coolárně.
-
     Kdo bude mít zájem a bude mobilní, může se pak s námi vydat k
     dopravnímu hřišti u ulice Pionýrů v Místku, kde se od 20:30 bude v
     letním kině promítat animovaný film Scoob!.
@@ -19,7 +16,7 @@ description: |
 
     Těšíme se na vás.
 
-venue: coolarna
+venue: acko
 talks: []
 urls:
 - https://www.meetup.com/Ostravske-Pyvo/events/279880790/
