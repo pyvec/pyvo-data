@@ -1,0 +1,69 @@
+city: plzen
+start: 2021-09-08 18:00:00
+name: Plzeňské Pyvo
+number: 22
+topic: Python a vědecké a průmyslové výpočty
+venue: moving-station
+description: |
+  Vážení přátelé a příznivci našich setkání!
+  
+  Na začátkek školního roku jsme si pro vás připravili představení Pythonu jako nástroje pro často výkonově náročné aplikace
+  ve vědě a průmyslu.
+  
+  V Moving Station bude v provozu kavárna s typisckým sortimentem.
+  
+  Prosíme o dodržování rozumných opatření zabraňujících šíření nakažlivých nemocí. [Link](https://covid.gov.cz/situace/obchod-sluzby/restaurace-bary-kavarny)
+
+  Protože se nekteří mohou zúčastnit jen online, plánujem část našeho setkání streamovat, pokud ale můžete, raději přijděte na živo. 
+  
+  [Link](https://us02web.zoom.us/j/83241542579?pwd=MlVvV3l1cm9zYWVHaUtKN3FFSHNuZz09)
+  Meeting ID: 832 4154 2579
+  Passcode: 1407
+  
+  Děkujeme a na viděnou!
+
+talks:
+  - title: Úvodní slovo
+    speakers:
+      - Tomáš Bedřich & Filip Vaculík & Tomáš Zítka
+  
+  - title: Python a náročné výpočty - jde to?
+    speakers:
+      - Tomáš Zítka, KKY ZČU
+    description: Acceleration to the rescue!
+  
+  - title: Tensorflow a CUDA
+    speakers:
+      - David Žahour
+    description: TBA
+  
+  - title: Řešení inženýrských problému v Pythonu pomocí metody konečných prvků
+    speakers:
+      - Robert Cimrman, NTC ZČU
+    description: |
+        Ukážeme si, jak je možné použít Python např. pro určení deformace pružného
+        objektu nebo rozložení teploty v tělese. Použita a představena bude metoda
+        konečných prvků, resp. její implementace v knihovně SfePy.
+  
+  - title: Pypi balíčky
+    lightning: true
+    speakers: 
+        - Miroslav Jiřík, KKY ZČU
+    description: | 
+        Jak si organizovat nástroje pomocí pipu.
+        
+  - title: Design výpočetního systému
+    lightning: true
+    speakers:
+        - Václav Fiala, ŠKODA Electric
+    description: TBA
+  
+  - title: Lightning talks
+    lightning: true
+    description: |
+      Pokud máte zkušenost se zajímavou technologii, projektem, nebo chcete prezentovat sebe, či svou firmu a její aktivity, nebojte se přihlásit o slovo. K dispozici můžete mít plných 5 minut pro své téma.
+
+      Témata možno domluvit mailem na tozitka@gmail.com, případně u libovolného z organizátorů ve vhodnou chvíli při akci.
+      Také sbíráme náměty na přednášky pro další Pyva, více informací na [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+urls: []
+

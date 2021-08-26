@@ -1,0 +1,14 @@
+city: Plzeň
+name: Moving Station
+address: Koperníkova 574/56 (Most Ivana Magora Jirouse), Plzeň 3 Jižní Předměstí 
+notes: |
+  Máme rezervovaný malý sál v 2NP (na úrovni ulice) zrekonstruované nádražní budovy ([web projektu](https://www.johancentrum.cz/moving-station-ag3/o-projektu-a2)).
+  Po vstupu z Mostu Ivana Magora Jirouse projděte vstupní halou a kavárnou do prosklené chodby, která tvoří jednu stěnu sálu. 
+  Kavárna bude k dispozici po celý průběh akce.  
+  
+  Z vlakového nádraží 20 minut pěšky přes ulice Železniční a U Trati. Alternativně trolejbusy 15 nebo 16 ze zastávky Hlavní nádraží do zastávky Jižní předměstí. 
+  Případně staví některé vlakové spoje ve stanici Plzeň-Jižní předměstí, která je hned naproti.
+  Z autobusového nádraží 10 minut pěšky přes ulice Husova a Koperníkova.
+location:
+  latitude: '49.740487182558574'
+  longitude: '13.366438113525017'
