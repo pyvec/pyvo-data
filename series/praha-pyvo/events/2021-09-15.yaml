@@ -1,11 +1,11 @@
 name: Pražské Pyvo
 city: praha
-#venue: vila-stvanice   # holesovicka-sachta ?
+venue: holesovicka-sachta
 start: 2021-09-15 19:00:00
 # topic: ...
 number: 126
 description: |
-    Pyvo bude i v září. Konkrétní místo a témata právě řešíme.
+    Pyvo bude i v září. Konkrétní témata právě řešíme.
 
 talks:
 
