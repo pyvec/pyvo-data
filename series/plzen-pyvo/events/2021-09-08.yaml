@@ -45,12 +45,14 @@ talks:
         objektu nebo rozložení teploty v tělese. Použita a představena bude metoda
         konečných prvků, resp. její implementace v knihovně SfePy.
   
-  - title: Pypi balíčky
+  - title: Pypi a conda balíčky
     lightning: true
     speakers: 
         - Miroslav Jiřík, KKY ZČU
     description: | 
-        Jak si organizovat nástroje pomocí pipu.
+        V příspěvku si ukážeme, jak náš kód přetavit v instalovatelný balíček, jak takový balíček 
+        distribuovat pomocí pypi a condy a jak se přitom nezbláznit. Předvedeme si, jak udržovat 
+        čísla verzí a možná naznačíme, jak to celé automaticky testovat.
         
   - title: Design výpočetního systému
     lightning: true
