@@ -44,6 +44,16 @@ talks:
         Ukážeme si, jak je možné použít Python např. pro určení deformace pružného
         objektu nebo rozložení teploty v tělese. Použita a představena bude metoda
         konečných prvků, resp. její implementace v knihovně SfePy.
+        
+  - title: Artap a Agros Suite - návrh, optimalizace a modelování multifyzikálních problémů v Pythonu
+    speakers:
+      - David Pánek, Pavel Karban, Tamás Orosz, Petr Kropík (FEL ZČU)
+    description: |
+        Ukážeme si vyvíjený výpočetní systém pro řešení metodou konečných
+        prvků [Agros Suite](http://www.agros2d.org), pokročilý řešič PDR, GUI.
+        Artap a OptiLab nástroje pro robustní návrh a optimalizace. Jednotné
+        integrované prostředí pro analýzu vypočtených dat a přístup k moderním
+        optimalizačním algoritmům.
   
   - title: Pypi a conda balíčky
     lightning: true
@@ -53,6 +63,15 @@ talks:
         V příspěvku si ukážeme, jak náš kód přetavit v instalovatelný balíček, jak takový balíček 
         distribuovat pomocí pypi a condy a jak se přitom nezbláznit. Předvedeme si, jak udržovat 
         čísla verzí a možná naznačíme, jak to celé automaticky testovat.
+  
+  - title: Automatické rozpoznávání RZ/SPZ pomocí mikrokontroleru a MicroPythonu
+    lightning: true
+    speakers: 
+        - Petr Kropík, Radek Klesa (FEL ZČU)
+    description: |
+      Ukázka implementace rozpoznávání textů RZ/SPZ v reálném čase,
+      implementované na embedded platformě s HW akcelarací konvolučních
+      neuronových sítí v jazyce MicroPython.
         
   - title: Design výpočetního systému
     lightning: true
