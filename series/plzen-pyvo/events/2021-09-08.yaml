@@ -77,7 +77,15 @@ talks:
     lightning: true
     speakers:
         - Václav Fiala, ŠKODA Electric
-    description: TBA
+    description: |
+      Vývoj návrhového systému v průmyslové praxi se zaměřením na design a optimalizaci elektrických strojů
+  
+  - title: PyLadies Plzeň podzim 2021
+    lightning: true
+    speakers:
+      - team PyLadies Plzeň
+    description: | 
+      Krátké představení přpravovaného kurzu pro začátečníky a navazujících aktivit pro pokročilé.
   
   - title: Lightning talks
     lightning: true
