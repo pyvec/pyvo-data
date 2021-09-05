@@ -32,11 +32,6 @@ talks:
       - Tomáš Zítka, KKY ZČU
     description: Acceleration to the rescue!
   
-  - title: Tensorflow a CUDA
-    speakers:
-      - David Žahour
-    description: TBA
-  
   - title: Řešení inženýrských problémů v Pythonu pomocí metody konečných prvků
     speakers:
       - Robert Cimrman, NTC ZČU
@@ -47,7 +42,7 @@ talks:
         
   - title: Artap a Agros Suite - návrh, optimalizace a modelování multifyzikálních problémů v Pythonu
     speakers:
-      - David Pánek, Pavel Karban, Tamás Orosz, Petr Kropík (FEL ZČU)
+      - David Pánek, Pavel Karban, Tamás Orosz, Petr Kropík - FEL ZČU
     description: |
         Ukážeme si vyvíjený výpočetní systém pro řešení metodou konečných
         prvků [Agros Suite](http://www.agros2d.org), pokročilý řešič PDR, GUI.
@@ -67,10 +62,10 @@ talks:
   - title: Automatické rozpoznávání RZ/SPZ pomocí mikrokontroleru a MicroPythonu
     lightning: true
     speakers: 
-        - Petr Kropík, Radek Klesa (FEL ZČU)
+        - Petr Kropík, Jaroslav Podestát, Radek Klesa - FEL ZČU
     description: |
       Ukázka implementace rozpoznávání textů RZ/SPZ v reálném čase,
-      implementované na embedded platformě s HW akcelarací konvolučních
+      implementované na embedded platformě s HW akcelerací konvolučních
       neuronových sítí v jazyce MicroPython.
         
   - title: Design výpočetního systému
