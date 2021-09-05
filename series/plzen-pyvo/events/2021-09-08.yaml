@@ -14,7 +14,7 @@ description: |
   
   Prosíme o dodržování rozumných opatření zabraňujících šíření nakažlivých nemocí. [Link](https://covid.gov.cz/situace/obchod-sluzby/restaurace-bary-kavarny)
 
-  Protože se nekteří mohou zúčastnit jen online, plánujem část našeho setkání streamovat, pokud ale můžete, raději přijděte na živo. 
+  Protože se nekteří mohou zúčastnit jen online, plánujeme část našeho setkání streamovat, pokud ale můžete, raději přijděte na živo. 
   
   [Link](https://us02web.zoom.us/j/82083383768?pwd=RzhhYWdaTEI4Sm1PSnB2RW5TVVhkdz09)
   Meeting ID: 820 8338 3768
@@ -37,13 +37,13 @@ talks:
       - David Žahour
     description: TBA
   
-  - title: Řešení inženýrských problému v Pythonu pomocí metody konečných prvků
+  - title: Řešení inženýrských problémů v Pythonu pomocí metody konečných prvků
     speakers:
       - Robert Cimrman, NTC ZČU
     description: |
         Ukážeme si, jak je možné použít Python např. pro určení deformace pružného
         objektu nebo rozložení teploty v tělese. Použita a představena bude metoda
-        konečných prvků, resp. její implementace v knihovně SfePy.
+        konečných prvků, resp. její implementace v knihovně [SfePy](https://sfepy.org/).
         
   - title: Artap a Agros Suite - návrh, optimalizace a modelování multifyzikálních problémů v Pythonu
     speakers:
