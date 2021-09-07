@@ -31,7 +31,13 @@ talks:
     speakers:
       - Tomáš Zítka, KKY ZČU
     description: Acceleration to the rescue!
-  
+    
+  - title: Python C a CUDA
+    speakers:
+      - David Žahour, NVIAS
+    description: |
+        Jak vlastně python provede náročné výpočty rychle - propojení světa C a Cuda s python světem.
+      
   - title: Řešení inženýrských problémů v Pythonu pomocí metody konečných prvků
     speakers:
       - Robert Cimrman, NTC ZČU
