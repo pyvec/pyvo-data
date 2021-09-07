@@ -31,7 +31,13 @@ talks:
     speakers:
       - Tomáš Zítka, KKY ZČU
     description: Acceleration to the rescue!
-  
+    
+  - title: Python C a CUDA
+    speakers:
+      - David Žahour, NVIAS
+    description: |
+        Jak vlastně python provede náročné výpočty rychle - propojení světa C a Cuda s python světem.
+      
   - title: Řešení inženýrských problémů v Pythonu pomocí metody konečných prvků
     speakers:
       - Robert Cimrman, NTC ZČU
@@ -58,15 +64,6 @@ talks:
         V příspěvku si ukážeme, jak náš kód přetavit v instalovatelný balíček, jak takový balíček 
         distribuovat pomocí pypi a condy a jak se přitom nezbláznit. Předvedeme si, jak udržovat 
         čísla verzí a možná naznačíme, jak to celé automaticky testovat.
-  
-  - title: Automatické rozpoznávání RZ/SPZ pomocí mikrokontroleru a MicroPythonu
-    lightning: true
-    speakers: 
-        - Petr Kropík, Jaroslav Podestát, Radek Klesa - FEL ZČU
-    description: |
-      Ukázka implementace rozpoznávání textů RZ/SPZ v reálném čase,
-      implementované na embedded platformě s HW akcelerací konvolučních
-      neuronových sítí v jazyce MicroPython.
         
   - title: Design výpočetního systému
     lightning: true
