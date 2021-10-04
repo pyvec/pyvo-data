@@ -1,0 +1,33 @@
+city: ostrava
+start: 2021-10-06 19:00:00
+name: Ostravské Pyvo
+topic: Debugování v Pythonu
+description: |
+    Posledním letním dnům podle meteorologů právě odzvonilo a tak je čas
+    přesunout naše pravidelná setkávání u piva a Pythonu pod střechu.
+    Říjnové Pyvo se tedy uskuteční v prostorách restaurace V.R. Levský a
+    protože ve středu probíhá začátečnický kurz PyLadies, i jeho začátek se
+    posune na 19:00 hod. Po letním oddechu se opět můžete těšit na výlety
+    do světa zajímavostí z IT, které zahájí Lumír prezentací o debugování v
+    Pythonu.
+
+    Debugování je základní schopnost každého programátora, kterou využívá
+    ve chvílích, kdy něco nefunguje. To je skoro vždy. Někdy stačí jen na
+    ta správná místa napsat print, jindy je to složitější a hodil by se
+    mocnější nástroj. Některé z těchto nástrojů si na Pyvu ukážeme.
+
+    Tak doražte, těšíme se na vás!
+
+    -----------------------------------------------------------------------
+    --------------------
+
+    Máš nějaké zajímavé téma ze světa IT o které by ses chtěl/a podělit s
+    ostatními? Pyvo je pro tohle ta správná událost. Dej nám vědět na email
+    [masked] a příští prezentace může být ta Tvoje.
+
+    Přijďte a zapojte se!
+
+venue: vr-levsky
+talks: []
+urls:
+- https://www.meetup.com/Ostravske-Pyvo/events/280823166/
