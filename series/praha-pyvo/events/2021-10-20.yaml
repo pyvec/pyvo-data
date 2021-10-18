@@ -1,0 +1,16 @@
+name: Pražské Pyvo
+city: praha
+venue: the-pub-dejvice
+start: 2021-10-20 19:00:00
+# topic: ...
+number: 127
+description: |
+    Pyvo bude i v říjnu! Budou lightning talky a volná zábava.
+
+talks:
+
+- title: "Lightning talks"
+  description: |
+    Určitě dojde i na lightning talky. Můžeš jeden mít i ty,
+    viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+    Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
