@@ -9,8 +9,15 @@ description: |
 
 talks:
 
-- title: "Lightning talks"
-  description: |
-    Určitě dojde i na lightning talky. Můžeš jeden mít i ty,
-    viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
-    Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
+  - title: Pulumi
+    speakers:
+      - Tomáš Bartek
+    description: |
+        Pulumi je nástroj pro „Infrastructure as Code“ (IaC), který používá programovací jazyk Python.
+        Podobně, jako Terraform (další IaC nástroj), ale v příjemnějším jazyce :)
+
+  - title: Lightning talks
+    description: |
+        Určitě dojde i na lightning talky. Můžeš jeden mít i ty,
+        viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+        Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
