@@ -1,0 +1,90 @@
+city: plzen
+start: 2021-09-08 18:00:00
+name: Plzeňské Pyvo
+number: 22
+topic: Vědecké a průmyslové výpočty s Pythonem
+venue: moving-station
+description: |
+  Vážení přátelé a příznivci našich setkání!
+  
+  Na začátkek školního roku jsme si pro vás připravili představení Pythonu jako nástroje pro často výkonově náročné aplikace
+  ve vědě a průmyslu.
+  
+  V Moving Station bude v provozu kavárna s typisckým sortimentem.
+  
+  Prosíme o dodržování rozumných opatření zabraňujících šíření nakažlivých nemocí. [Link](https://covid.gov.cz/situace/obchod-sluzby/restaurace-bary-kavarny)
+
+  Protože se nekteří mohou zúčastnit jen online, plánujeme část našeho setkání streamovat, pokud ale můžete, raději přijděte na živo. 
+  
+  [Link](https://us02web.zoom.us/j/82083383768?pwd=RzhhYWdaTEI4Sm1PSnB2RW5TVVhkdz09)
+  Meeting ID: 820 8338 3768
+  Passcode: 2244
+  
+  Děkujeme a na viděnou!
+
+talks:
+  - title: Úvodní slovo
+    speakers:
+      - Tomáš Bedřich & Filip Vaculík & Tomáš Zítka
+  
+  - title: Python a náročné výpočty - jde to?
+    speakers:
+      - Tomáš Zítka, KKY ZČU
+    description: Acceleration to the rescue!
+    
+  - title: Python C a CUDA
+    speakers:
+      - David Žahour, NVIAS
+    description: |
+        Jak vlastně python provede náročné výpočty rychle - propojení světa C a Cuda s python světem.
+      
+  - title: Řešení inženýrských problémů v Pythonu pomocí metody konečných prvků
+    speakers:
+      - Robert Cimrman, NTC ZČU
+    description: |
+        Ukážeme si, jak je možné použít Python např. pro určení deformace pružného
+        objektu nebo rozložení teploty v tělese. Použita a představena bude metoda
+        konečných prvků, resp. její implementace v knihovně [SfePy](https://sfepy.org/).
+        
+  - title: Artap a Agros Suite - návrh, optimalizace a modelování multifyzikálních problémů v Pythonu
+    speakers:
+      - David Pánek, Pavel Karban, Tamás Orosz, Petr Kropík - FEL ZČU
+    description: |
+        Ukážeme si vyvíjený výpočetní systém pro řešení metodou konečných
+        prvků [Agros Suite](http://www.agros2d.org), pokročilý řešič PDR, GUI.
+        Artap a OptiLab nástroje pro robustní návrh a optimalizace. Jednotné
+        integrované prostředí pro analýzu vypočtených dat a přístup k moderním
+        optimalizačním algoritmům.
+  
+  - title: Pypi a conda balíčky
+    lightning: true
+    speakers: 
+        - Miroslav Jiřík, KKY ZČU
+    description: | 
+        V příspěvku si ukážeme, jak náš kód přetavit v instalovatelný balíček, jak takový balíček 
+        distribuovat pomocí pypi a condy a jak se přitom nezbláznit. Předvedeme si, jak udržovat 
+        čísla verzí a možná naznačíme, jak to celé automaticky testovat.
+        
+  - title: Design výpočetního systému
+    lightning: true
+    speakers:
+        - Václav Fiala, ŠKODA Electric
+    description: |
+      Vývoj návrhového systému v průmyslové praxi se zaměřením na design a optimalizaci elektrických strojů
+  
+  - title: PyLadies Plzeň podzim 2021
+    lightning: true
+    speakers:
+      - team PyLadies Plzeň
+    description: | 
+      Krátké představení přpravovaného kurzu pro začátečníky a navazujících aktivit pro pokročilé.
+  
+  - title: Lightning talks
+    lightning: true
+    description: |
+      Pokud máte zkušenost se zajímavou technologii, projektem, nebo chcete prezentovat sebe, či svou firmu a její aktivity, nebojte se přihlásit o slovo. K dispozici můžete mít plných 5 minut pro své téma.
+
+      Témata možno domluvit mailem na tozitka@gmail.com, případně u libovolného z organizátorů ve vhodnou chvíli při akci.
+      Také sbíráme náměty na přednášky pro další Pyva, více informací na [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+urls: []
+

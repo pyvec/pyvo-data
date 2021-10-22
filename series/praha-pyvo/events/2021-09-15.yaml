@@ -1,0 +1,58 @@
+name: Pražské Pyvo
+city: praha
+venue: holesovicka-sachta
+start: 2021-09-15 19:00:00
+# topic: ...
+number: 126
+description: |
+    Pyvo bude i v září. Budeme mít dvě přednášky a určitě dojde i na lightning talky.
+
+talks:
+- title: The Transformation Matrix
+  description: |
+      Zkusil/a jsi někdy provést afinní transformaci homogenních souřadnic
+      pomocí matice?
+      Jestli ne, tahle přednáška je pro tebe!
+
+      Podívejme se na to, jak pomocí malé tabulky čísel hýbat, zvětšovat, otáčet a
+      smačkávat obrázky, jak dát 3D modelu perspektivu – a proč to tvoje grafická
+      karta dělá právě takhle.
+
+      ---
+
+      Have you ever applied an augmented affine transformation matrix to a set of
+      homogeneous coordinates?
+      If you have not, don't worry! This talk is for you!
+
+      Let's look how small grids of numbers can move, zoom, turn and squish pictures,
+      put 3D models in perspective -- and why your graphics card actually uses them
+      for these purposes.
+
+  speakers:
+    - Petr Viktorin
+
+- title: Structural Pattern Matching in Python 3.10+
+  description: |
+      The most recent Python version, 3.10, added a pattern matching statement to the language,
+      inspired by similar syntax found in Scala, Erlang, and other languages.
+      In this short talk, we'll have a look at some basic examples like this one:
+
+          match command.split():
+              case ["quit"]:
+                  print("Goodbye!")
+                  quit_game()
+              case ["look"]:
+                  current_room.describe()
+              case ["get", obj]:
+                  character.get(obj, current_room)
+              case ["go", direction]:
+                  current_room = current_room.neighbor(direction)
+
+  speakers:
+    - Miro Hrončok
+
+- title: "Lightning talks"
+  description: |
+    Určitě dojde i na lightning talky. Můžeš jeden mít i ty,
+    viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+    Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
