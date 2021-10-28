@@ -25,7 +25,9 @@ talks:
         How is it possible? Why is this event so important to us and what value does it generate for its organizers and attendees?
     speakers:
       - Lukáš Kubiš
-
+    coverage:
+      - video: https://youtu.be/Nn7dkMcplCE
+      
   - title: "Lightning talky"
     description: |
       Určitě dojde i na lightning talky. Můžeš jeden mít i ty,
