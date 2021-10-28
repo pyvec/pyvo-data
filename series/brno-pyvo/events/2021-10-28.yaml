@@ -1,0 +1,33 @@
+city: brno
+start: 2021-10-28 19:00:00
+name: Brněnské Pyvo
+topic: Kiwi Python weekends
+venue: artbar
+description: |
+  Po delší době se potkáme na Pyvo v ArtBaru! Přijďte si poslechnout přednášku od Kiwi.com, jak organizovat Python víkendy.
+
+  ----
+
+  After a long time we will meet at Pyvo in ArtBar! Come listen to a talk from Kiwi.com on How to organize Python weekends
+
+talks:
+  - title: Kiwi Python weekends
+    description: |
+        Python Weekend je jeden z najdlhšie pôsobiacich komunitných eventov organizovaných code.kiwi.com.
+        V decembri prebehne prvá iterácia po takmer 5 rokoch, kde skúšame nové veci z organizačného hľadiska,
+        inak sa (až na pár výnimiek) formula tohoto eventu prekvapivo za celý ten čas takmer nijako nezmenila.
+        Ako je to možné? Prečo je pre nás tento event tak dôležitý a akú hodnotu generuje organizátorom a zúčastneným?
+
+        -----
+
+        Python Weekend is a community event with one of the longest histories organized by code.kiwi.com.
+        The next iteration in December will be one of the very few, to have introduced any change to the organisation of the event over the last 5 years.
+        How is it possible? Why is this event so important to us and what value does it generate for its organizers and attendees?
+    speakers:
+      - Lukáš Kubiš
+
+  - title: "Lightning talky"
+    description: |
+      Určitě dojde i na lightning talky. Můžeš jeden mít i ty,
+      viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+      Registrace nutná na [Lightning Talk – bit.ly/brpylight](https://bit.ly/brpylight).
