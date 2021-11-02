@@ -1,0 +1,25 @@
+city: ostrava
+start: 2021-11-03 19:00:00
+name: Ostravské Pyvo
+topic: Novinky v Pythonu 3.10
+description: |
+    Ahoj,i když zítřejší pyvo vyhlašujeme na poslední chvíli, máme dobrou
+    zprávu pro všechny, kteří tápali - Pyvo bude. Lumír pro Vás tentokrát
+    připravil přehled novinek, které přinesl říjnový release Pythonu 3.10 a
+    je se na co těšit. Začínáme v 19:00 v restauraci V. R. Levský.
+
+    Tak doražte, těšíme se na vás!
+
+    -----------------------------------------------------------------------
+    --------------------
+
+    Máš nějaké zajímavé téma ze světa IT o které by ses chtěl/a podělit s
+    ostatními? Pyvo je pro tohle ta správná událost. Dej nám vědět na email
+    "[masked]" a příští prezentace může být ta Tvoje.
+
+    Přijďte a zapojte se!
+
+venue: vr-levsky
+talks: []
+urls:
+- https://www.meetup.com/Ostravske-Pyvo/events/281817246/
