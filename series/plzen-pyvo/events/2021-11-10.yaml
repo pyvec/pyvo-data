@@ -18,11 +18,11 @@ talks:
     speakers:
       - Tomáš Bedřich & Filip Vaculík & Tomáš Zítka
     
-  - title: (doplníme)
+  - title: Vývoj platebního systému v Heureka Group s.r.o.
     speakers:
-      - (doplníme)
+      - Honza Jelínek
     description: |
-        (doplníme)
+        Python Sync vs. Async. Jaké jsou mezi těmito technologiemi rozdíly a kdy je využít. Vysvětlení principů knihovny asyncio a jejích jednotlivých funkcí.
   
   - title: Lightning talks
     lightning: true
