@@ -2,34 +2,36 @@ city: plzen
 start: 2021-11-10 18:00:00
 name: Plzeňské Pyvo
 number: 23
-topic: (doplníme)
+topic: Vícevláknové programování
 venue: restaurace-a-penzion-u-salzmannu
 description: |
   Vážení přátelé a příznivci našich setkání!
-  
+
   Uteklo to jako voda a máme tady další Pyvo. Jako tradičně jsme oranizaci nechali na poslední chvíli, takže téma ještě nevíme. :) Jakmile budeme vědět více, doplníme sem.
- 
+
   Každopádně doražte, protože živá diskuze nad pivem je ten nejproduktivnější způsob, jak si sdělit programátorské dojmy z uplynulých dvou měsíců – ty dobré, i ty rozpačitější.
-  
+
   Na viděnou!
 
 talks:
-  - title: Úvodní slovo
+  - title: Úvodní slovo - Pozvolný úvod do světa vícevláknového programování
     speakers:
-      - Tomáš Bedřich & Filip Vaculík & Tomáš Zítka
-    
-  - title: Vývoj platebního systému v Heureka Group s.r.o.
+      - Tomáš Bedřich & Filip Vaculík
+    description: |
+        Když program neběží řádek po řádku, a přesto je vše v pořádku.
+
+  - title: Python Sync vs. Async
     speakers:
       - Honza Jelínek
     description: |
-        Python Sync vs. Async. Jaké jsou mezi těmito technologiemi rozdíly a kdy je využít. Vysvětlení principů knihovny asyncio a jejích jednotlivých funkcí.
+        Jaké jsou mezi těmito technologiemi rozdíly a kdy je využít. Vysvětlení principů knihovny asyncio a jejích jednotlivých funkcí.
 
   - title: Kill GIL
     speakers:
       - Tomáš Zítka, ZČU
     description: |
         Krátký report o snaze S. Grosse zbavit CPython Global Interpreter Locku jednou provždy.
-  
+
   - title: Lightning talks
     lightning: true
     description: |
