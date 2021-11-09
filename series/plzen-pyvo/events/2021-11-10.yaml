@@ -23,6 +23,12 @@ talks:
       - Honza Jelínek
     description: |
         Python Sync vs. Async. Jaké jsou mezi těmito technologiemi rozdíly a kdy je využít. Vysvětlení principů knihovny asyncio a jejích jednotlivých funkcí.
+
+  - title: Kill GIL
+    speakers:
+      - Tomáš Zítka, ZČU
+    description: |
+        Krátký report o snaze S. Grosse zbavit CPython Global Interpreter Locku jednou provždy.
   
   - title: Lightning talks
     lightning: true
