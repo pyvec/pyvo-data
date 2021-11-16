@@ -1,0 +1,15 @@
+name: Pražské Pyvo
+city: praha
+start: 2021-11-17 19:00:00
+# topic: ...
+number: 128
+description: |
+    Sváteční listopadové Pyvo, raději opět online.
+
+talks:
+
+  - title: Lightning talks
+    description: |
+        Určitě dojde i na lightning talky. Můžeš jeden mít i ty,
+        viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+        Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
