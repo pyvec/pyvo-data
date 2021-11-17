@@ -1,0 +1,30 @@
+city: brno
+start: 2021-11-25 19:00:00
+name: Brněnské Pyvo
+topic: Integrating MicroPython and Rust
+description: |
+  Vzhledem ke zhoršující se epidemické situaci se s listopadovým Pyvem vracíme zpět do ONLINE prostředí.
+
+  As the epidemic situation is getting worse again, we are taking the November Pyvo back ONLINE.
+
+  ---------------------------------------------
+
+  Join us on Thursday 25. 11. 2021 at 19:00 via Google Meet: <https://meet.google.com/wsr-rgzy-cow>
+
+  The talk will be in English.
+
+talks:
+  - title: Integrating MicroPython and Rust
+    speakers:
+      - Jan Matějek, Head of Firmware, Trezor Company
+    description: |
+      Co udělá Pythonista, když je jeho kód v MicroPythonu už moc pomalý a žere moc RAM? Přejde na Rust!
+      Dozvíte se něco málo o tom, jak je MicroPython naimplementovaný, jak se z něj volá do Cčka,
+      a jak jeho interním strukturám porozumět v Rustu.
+      A taky proč jsme si pro Trezor T vybrali zrovna MicroPython a Rust, jaká úskalí jsme museli překonat a co nám to přineslo.
+
+      ---
+
+      What does a Pythonista do when their MicroPython code grows too slow and eats too much RAM? Why, they switch to Rust!
+      You’ll find out a little bit about how MicroPython is implemented, how it calls C, and how to understand its internal
+      data structures from Rust. Also why we chose MicroPython and Rust for the Trezor T firmware, what pitfalls we had to face and what it brought us.
