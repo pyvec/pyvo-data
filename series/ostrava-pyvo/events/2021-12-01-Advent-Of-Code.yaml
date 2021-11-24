@@ -1,0 +1,32 @@
+city: ostrava
+start: 2021-12-01 19:00:00
+name: Ostravské Pyvo
+topic: Advent Of Code
+description: |
+    Ahoj,blíží se první prosincová středa v měsíci a s ní dvě super
+    události - ostravské Pyvo a začátek soutěže Advent of code
+    (https://adventofcode.com/), která bude jako každý rok plná zajímavých
+    příkladů k řešení. Na příštím Pyvu bychom Vám rádi tuto soutěž
+    představili, pověděli něco o minulých ročnících a možná vyřešíme i
+    první úkol. Pokud se vám bude soutěž líbit, můžete se přihlásit do
+    kurzu PyLadies, kde budeme jednotlivé příklady společně řešit
+    https://pyladies.cz/ostrava/
+
+    Začínáme jako obvykle v 19:00 v restauraci V. R. Levský,[masked].
+
+    Tak doražte, těšíme se na vás!
+
+    -----------------------------------------------------------------------
+    --------------------
+
+    Máš nějaké zajímavé téma ze světa IT o které by ses chtěl/a podělit s
+    ostatními? Pyvo je pro tohle ta správná událost. Dej nám vědět na email
+    ostrava-pyvo(zavinac)googlegroups.com a příští prezentace může být ta
+    Tvoje.
+
+    Přijďte a zapojte se!
+
+venue: vr-levsky
+talks: []
+urls:
+- https://www.meetup.com/Ostravske-Pyvo/events/282287990/
