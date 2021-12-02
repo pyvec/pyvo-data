@@ -1,0 +1,35 @@
+city: brno
+start: 2021-12-15 19:00:00
+name: Brněnské Pyvo
+topic: Společné
+description: |
+  Praha a Brno spojují síly pro předvánoční Pyvo!
+
+  Loni se organizátoři v Brně rozhodli v prosinci místo jedné přednášky dát
+  v online prostoru příležitost zazářit co největšímu počtu lidí prostřednictvím lightning talků.
+  Letos chceme jít stejnou cestou a ještě navíc jsme se dohodli, že spojíme síly brněšnské
+  a pražské komunity a uspořádáme předvánoční setkání společně. Čím více nás bude, tím lépe!
+
+  A opět se může zapojit každý z vás. Stačí svoje téma zapsate zde: <https://bit.ly/brpylight> a získáte svých pět (až deset) minut slávy. ⭐
+
+  Sejdeme se ve středu 15. 12. 2021 od 19:00 online prostřednictvím Zoom <https://pantheon.zoom.us/j/94879518091>, heslo doplníme sem den před akcí. 🙂
+
+  ----
+
+  Prague and Brno join forces for pre-Christmas Pyvo!
+
+  Last year, instead of one lecture, the Brno Pyvo organizers decided give the opportunity
+  to as many people as possible to shine in the online space via lightning talks.
+  This year we want to go the same way and moreover we have agreed to join forces of Brno
+  and Prague community and organize a pre-Christmas meetup together. The more the merrier.
+
+  And again, each of you has the chance to get involved! Just write your topic here: <https://bit.ly/brpylight> and you will get your five (or up to ten) minutes of fame. ⭐
+
+  We will meet (untraditionally) on Wednesday, December 15, 2021 from 19:00 online via Zoom <https://pantheon.zoom.us/j/94879518091>, we will put the password here one day before the event. 🙂
+
+talks:
+    - title: "Lightning talky"
+      description: |
+        Lightning talky! Můžeš jeden mít i ty,
+        viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+        Registrace nutná na [Lightning Talk – bit.ly/brpylight](https://bit.ly/brpylight).
