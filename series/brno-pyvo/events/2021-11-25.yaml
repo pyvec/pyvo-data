@@ -28,3 +28,5 @@ talks:
       What does a Pythonista do when their MicroPython code grows too slow and eats too much RAM? Why, they switch to Rust!
       You’ll find out a little bit about how MicroPython is implemented, how it calls C, and how to understand its internal
       data structures from Rust. Also why we chose MicroPython and Rust for the Trezor T firmware, what pitfalls we had to face and what it brought us.
+    coverage:
+      - video: https://youtu.be/B-aNB8qrfDE
