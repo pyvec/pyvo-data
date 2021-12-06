@@ -1,7 +1,7 @@
-# When making changes to this file, also update series/praha-pyvo/events/2021-12-15-spolecne.yaml
-city: brno
+# When making changes to this file, also update series/brno-pyvo/events/2021-12-15-spolecne.yaml
+city: praha
 start: 2021-12-15 19:00:00
-name: Brněnské Pyvo
+name: Pražské Pyvo
 topic: Společné
 description: |
   Praha a Brno spojují síly pro předvánoční Pyvo!
@@ -35,4 +35,4 @@ talks:
         viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
         Registrace nutná na [Lightning Talk – bit.ly/brpylight](https://bit.ly/brpylight).
 
-# When making changes to this file, also update series/praha-pyvo/events/2021-12-15-spolecne.yaml
+# When making changes to this file, also update series/brno-pyvo/events/2021-12-15-spolecne.yaml
