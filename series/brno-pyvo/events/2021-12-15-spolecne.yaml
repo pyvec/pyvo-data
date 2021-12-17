@@ -34,5 +34,7 @@ talks:
         Lightning talky! Můžeš jeden mít i ty,
         viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
         Registrace nutná na [Lightning Talk – bit.ly/brpylight](https://bit.ly/brpylight).
+      coverage:
+        - video: https://www.youtube.com/watch?v=vkeRszcSeK8
 
 # When making changes to this file, also update series/praha-pyvo/events/2021-12-15-spolecne.yaml
