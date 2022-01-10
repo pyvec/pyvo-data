@@ -2,16 +2,37 @@ city: plzen
 start: 2022-01-12 18:00:00
 name: Plzeňské Pyvo
 number: 24
-topic: ...
+topic: Logování v Pythonu i mimo něj
 venue: restaurace-a-penzion-u-salzmannu
 description: |
-  ...
+  Vážení přátelé a příznivci našich setkání!
+
+  První Pyvo roku 2022 bude zaměřené na logování, tedy mechanismus, jakým zaznamenat, co se v aplikaci stalo a kdy.
+  Na programu jsou dvě přednášky, jedna úvodní pro začátečníky a druhá, která se zaměří na některé pokročilé techniky.
+
+  Po přednáškách bude následovat prostor pro lightning talks a volná diskuze. Pokud se o problematiku zajímáte,
+  nebo pokud jste si jako novoroční předsevzetí dali naučit se něco nového, určitě přijďte!
+
+  Na setkání máme rezervované prostory v restauraci U Salzmannů, prosíme o dodržování
+  [aktuálně platných protiepidemických opatření a doporučení](https://covid.gov.cz/situace/obchod-sluzby/restaurace-bary-kavarny).
+
 talks:
-  - title: ...
+  - title: Úvodní slovo
     speakers:
-      - ...
+      - Tomáš Bedřich
+  - title: Úvod do základního nástroje pro logování
+    speakers:
+      - Jakub Červinka
     description: |
-        ...
+        Představíme si modul `logging` ze standardní knihovny Pythonu a kdy a proč jej použít místo `print()`.
+
+  - title: Logování pomocí Fluentd/Fluent Bit
+    speakers:
+      - Jan Smitka
+    description: |
+        Na příkladu webové aplikace v Djangu si ukážeme cestu, jakou lze z aplikace sbírat logy a posílat vhodné služby či centrálního úložiště.
+
+        Ukážeme si také, jak lze v logách posílat strukturovaná data vhodná pro další analýzu.
 
   - title: Lightning talks
     lightning: true
@@ -21,4 +42,3 @@ talks:
       Témata možno domluvit mailem na tozitka@gmail.com, případně u libovolného z organizátorů ve vhodnou chvíli při akci.
       Také sbíráme náměty na přednášky pro další Pyva, více informací na [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
 urls: []
-
