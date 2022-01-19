@@ -1,0 +1,43 @@
+city: brno
+start: 2022-01-27 19:00:00
+name: Brněnské Pyvo
+topic: Testovací
+description: |
+  Vzhledem k sílící vlně Omicronu zůstáváme i v lednu ONLINE.
+
+  As the Omicron wave grows stronger, we stay ONLINE even in January.
+
+  ----
+
+  Join us on Thursday 27. 1. 2022 at 19:00 via Google Meet: <https://meet.google.com/uoe-yhno-uje>
+  The talk will be in English.
+
+talks:
+    - title: Automated Network Performance Testing in Python
+      speakers:
+        - Ondrej Lichtner
+      description: |
+        LNST (Linux Network Stack Test) is a Python framework for writing
+        multihost network tests. During the past couple of zears we've redesigned
+        most of the framework so that our tests are now completely written in Python.
+        This allows for a much more dynamic approach to network configuration and design of test procedures.
+        During the presentation we'll show how basic tests can be written and how the same framework is utilized
+        in more complex scenarios where we test the Linux kernel, looking for performance regressions.
+
+        Finally we'll shortly discuss how LNST is used at Red Hat with other tools to create an automated pipeline
+        that tests and reports results for kernel and other package candidate builds.
+
+        ----
+
+        LNST (Linux Network Stack Test) je Python framework pre vývoj distribuovaných sieťových testov. Počas posledných pár rokov projekt
+        presiel veľkým re-designom, vďaka ktorému sú naše testy teraz implementované čisto v Python-e. Toto nám umožňuje veľké množstvo
+        dynamicity a flexibility pri implementácii a návrhu sieťových testov. Prezentácia ukáže základné princípy ako vytvoriť
+        jednoduché testy a ako framework používame pri vytváraní komplexnejších testov zameraných na výkonnostné testovanie sieťového subsystému Linuxu.
+
+        Nakoniec sa pozrieme na to ako je LNST zapojené v Red Hat-e do automatizovanej pipeline-y, na testovanie a vyhodnocovanie kandidátnych kernel balíkov.
+    - title: "Lightning talky"
+      description: |
+        Lightning talky! Můžeš jeden mít i ty,
+        viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+        Registrace nutná na [Lightning Talk – bit.ly/brpylight](https://bit.ly/brpylight).
+      coverage: []
