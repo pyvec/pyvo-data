@@ -35,9 +35,11 @@ talks:
         jednoduché testy a ako framework používame pri vytváraní komplexnejších testov zameraných na výkonnostné testovanie sieťového subsystému Linuxu.
 
         Nakoniec sa pozrieme na to ako je LNST zapojené v Red Hat-e do automatizovanej pipeline-y, na testovanie a vyhodnocovanie kandidátnych kernel balíkov.
+      coverage:
+        - video: https://www.youtube.com/watch?v=uoi7MRV3dGw
+
     - title: "Lightning talky"
       description: |
         Lightning talky! Můžeš jeden mít i ty,
         viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
         Registrace nutná na [Lightning Talk – bit.ly/brpylight](https://bit.ly/brpylight).
-      coverage: []
