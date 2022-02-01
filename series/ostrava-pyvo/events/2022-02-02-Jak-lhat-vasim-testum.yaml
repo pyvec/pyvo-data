@@ -1,0 +1,34 @@
+city: ostrava
+start: 2022-02-02 18:00:00
+name: Ostravské Pyvo
+topic: Jak lhát vašim testům
+description: |
+    Ahoj,
+
+    Opět Vás srdečně zveme na středeční ostravské Pyvo.
+
+    Už jste někdy potřebovali otestovat aplikaci, která odesílá emaily, ale
+    nechtěli jste je pak zbytečně mazat v doručené poště? Nebo simulovat
+    komunikaci s externím API bez toho, abyste se museli přihlásit na
+    internet? Ve středu si ukážeme, jak můžete obelhat automatické testy
+    tak, abyste už nikdy nic z toho dělat nemuseli a pořád měli kvalitně
+    otestováno.
+
+    POZOR ZMĚNA! Tentkokrát v restauraci V. R. Levský začínáme v už 18:00.
+
+    Tak doražte, těšíme se na Vás!
+
+    -----------------------------------------------------------------------
+    --------------------
+
+    Máš nějaké zajímavé téma ze světa IT o které by ses chtěl/a podělit s
+    ostatními? Pyvo je pro tohle ta správná událost. Dej nám vědět na email
+    ostrava-pyvo(zavinac)googlegroups.com a příští prezentace může být ta
+    Tvoje.
+
+    Přijďte a zapojte se!
+
+venue: vr-levsky
+talks: []
+urls:
+- https://www.meetup.com/Ostravske-Pyvo/events/283611641/
