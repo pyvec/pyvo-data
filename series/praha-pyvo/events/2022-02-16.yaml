@@ -1,0 +1,15 @@
+name: Pražské Pyvo
+city: praha
+start: 2022-01-16 19:00:00
+number: 129
+description: |
+  Jsme online
+  https://pantheon.zoom.us/j/94879518091, heslo je pyvopyvo  
+talks:
+- title: Úvod do strojového učení s Tensor Flow | Introduction to machine learning with Tensor Flow
+  description: |
+      Krátký a praktický návod na vytrénování vlastní neuronové sítě a pochopení jejího fungování v Tensor Flow. 
+      Zahrnuje krátký teoretický úvod a praktickou ukázku kódu s jednoduchým datasetem.
+      ---
+      A short and practical look on how you can train your own neural network and understand its performance with Tensor Flow. 
+      Includes a short theoretical introduction and then a hands-on example with a simple dataset.
