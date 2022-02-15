@@ -7,6 +7,8 @@ description: |
   https://pantheon.zoom.us/j/94879518091, heslo je pyvopyvo  
 talks:
 - title: Úvod do strojového učení s Tensor Flow | Introduction to machine learning with Tensor Flow
+  speakers:
+    - Adam Lechovský
   description: |
       Krátký a praktický návod na vytrénování vlastní neuronové sítě a pochopení jejího fungování v Tensor Flow. 
       Zahrnuje krátký teoretický úvod a praktickou ukázku kódu s jednoduchým datasetem.
