@@ -1,0 +1,31 @@
+city: brno
+start: 2022-02-24 19:00:00
+name: Brněnské Pyvo
+topic: February Edition
+description: |
+  Únorové Pyvo pořádáme ještě ONLINE, věříme ale, že se už brzy opět potkáme naživo!
+
+  ----
+
+  We organize February Pyvo ONLINE once again, but we believe we will meet in person soon!
+
+  Join us on Thursday 24. 2. 2022 at 19:00 via Google Meet: <https://meet.google.com/hup-hqgd-zcw>
+
+  The talk will be in English.
+
+talks:
+    - title: Salesman Goes Coding
+      speakers:
+        - Petr Tatanka Přibil
+      description: |
+        My journey to IT alias what to expect from switcher species.
+
+        Based on my fresh experience with IT preparation and onboarding,
+        I am sharing my experience not only with people who are also considering
+        a career switch - but also with those, who are going to interact with this new phenomena.
+
+    - title: "Lightning talky"
+      description: |
+        Lightning talky! Můžeš jeden mít i ty,
+        viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+        Registrace nutná na [Lightning Talk – bit.ly/brpylight](https://bit.ly/brpylight).
