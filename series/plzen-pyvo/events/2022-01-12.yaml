@@ -15,9 +15,9 @@ description: |
 
   Na setkání máme rezervované prostory v restauraci U Salzmannů, prosíme o dodržování
   [aktuálně platných protiepidemických opatření a doporučení](https://covid.gov.cz/situace/obchod-sluzby/restaurace-bary-kavarny).
-  
+
   Pro ty, kteří se opravdu nemohou zúčastnit osobně se pokusíme rozjet stream na Zoomu.
-  
+
   [Link](https://us02web.zoom.us/j/88580339431?pwd=emxiMytXVjRJWkVBK1F0N2o3ZzZaQT09)
   Meeting ID: 885 8033 9431
   Passcode: 242424
@@ -26,11 +26,14 @@ talks:
   - title: Úvodní slovo
     speakers:
       - Tomáš Bedřich
+
   - title: Úvod do základního nástroje pro logování
     speakers:
       - Jakub Červinka
     description: |
         Představíme si modul `logging` ze standardní knihovny Pythonu a kdy a proč jej použít místo `print()`.
+    coverage:
+    - video: https://www.youtube.com/watch?v=fhpia_WTyCI
 
   - title: Logování pomocí Fluentd/Fluent Bit
     speakers:
@@ -39,6 +42,14 @@ talks:
         Na příkladu webové aplikace v Djangu si ukážeme cestu, jakou lze z aplikace sbírat logy a posílat vhodné služby či centrálního úložiště.
 
         Ukážeme si také, jak lze v logách posílat strukturovaná data vhodná pro další analýzu.
+    coverage:
+    - video: https://www.youtube.com/watch?v=Vu3igVnFHNw
+
+  - title: Observability
+    speakers:
+      - Jan Král
+    coverage:
+    - video: https://www.youtube.com/watch?v=pBN4ct7BllA
 
   - title: Lightning talks
     lightning: true
