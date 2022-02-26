@@ -1,0 +1,32 @@
+city: ostrava
+start: 2022-03-02 18:00:00
+name: Ostravské Pyvo
+topic: Pokrytí kódu testy
+description: |
+    Cesta za lepšími testy je trnitá. Minule jsme se testům naučili lhát,
+    na řadě je měření pokrytí kódu testy.
+
+    Pokrytí testy (neboli code coverage) je metrika, která nám řekne, kolik
+    procent naší aplikace se prověří (spustí), když spustíme její testy.
+    Tato metrika má různá úskalí a dosažení sta procent neznamená, že jsou
+    naše testy dokonalé. Nicméně nám může pomoci v pochopení, které části
+    aplikace je ještě třeba testovat a jaké situace je třeba simulovat.Na
+    Pyvu si ukážeme, jak se code coverage měří v Pythonu u jednoduchého i
+    složitějších projektů.
+
+    Uvidíme se opět už v 18:00 v restauraci V. R. Levský vedle Stodolní
+    ulice.
+
+    Těšíme se na Vás.
+
+    Máš nějaké zajímavé téma ze světa IT o které by ses chtěl/a podělit s
+    ostatními? Pyvo je pro tohle ta správná událost. Dej nám vědět na email
+    ostrava-pyvo(zavinac)googlegroups.com a příští prezentace může být ta
+    Tvoje.
+
+    Přijďte a zapojte se!
+
+venue: vr-levsky
+talks: []
+urls:
+- https://www.meetup.com/Ostravske-Pyvo/events/284255377/
