@@ -1,0 +1,12 @@
+city: Plzeň
+name: Beer Factory
+address: Mozartova 1, Plzeň
+notes: |
+
+  Pivovarská hospůdka, přímo v budově pivovaru na adrese Mozartova 1 v Plzni Bolevci. Až 6 druhů piv raven, studená i teplá
+  kuchyně - v létě gril na zahrádce.
+
+location:
+  latitude: '49.769018'
+  longitude: '13.375823'
+
