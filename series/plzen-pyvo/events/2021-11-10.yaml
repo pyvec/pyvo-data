@@ -19,6 +19,8 @@ talks:
       - Tomáš Bedřich & Filip Vaculík
     description: |
         Když program neběží řádek po řádku, a přesto je vše v pořádku.
+    coverage:
+    - video: https://www.youtube.com/watch?v=eVvsULrU2vo
 
   - title: Python Sync vs. Async
     speakers:
@@ -31,6 +33,8 @@ talks:
       - Tomáš Zítka, ZČU
     description: |
         Krátký report o snaze S. Grosse zbavit CPython Global Interpreter Locku jednou provždy.
+    coverage:
+    - video: https://www.youtube.com/watch?v=thaN0pTuH9s
 
   - title: Lightning talks
     lightning: true
