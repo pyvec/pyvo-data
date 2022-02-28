@@ -12,6 +12,7 @@ talks:
   - title: Úvodní slovo
     speakers:
       - Tomáš Bedřich
+      - Filip Vaculík
 
   - title: Lightning talks
     lightning: true
