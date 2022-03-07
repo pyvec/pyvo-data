@@ -1,0 +1,18 @@
+name: Pražské Pyvo
+city: praha
+start: 2022-03-16 19:00:00
+venue: kavarna-liberal
+number: 130
+description: |
+  Potkáme se naživo, a to v kavárně Liberál v Holešovicích. Budou dvě přednášky, lightning talky a volná zábava.
+
+  We meet at the café Liberál in Holešovice. You can look forward to 2 presentations, lightning talks and chit chat. 
+talks:
+- title: "coPylot: Programming 2.0?"
+  speakers:
+    - Libor Mořkovský
+- title: "Salesman Goes Coding"
+  speakers: 
+    - Petr Tatanka Přibil
+  description: |
+    "My journey to IT alias what to expect from switcher species. Based on my fresh experience with IT preparation and onboarding, I am sharing my experience not only with people who are also considering a career switch - but also with those, who are going to interact with this new phenomena."
