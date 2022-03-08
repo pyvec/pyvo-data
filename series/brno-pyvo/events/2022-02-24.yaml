@@ -23,6 +23,8 @@ talks:
         Based on my fresh experience with IT preparation and onboarding,
         I am sharing my experience not only with people who are also considering
         a career switch - but also with those, who are going to interact with this new phenomena.
+      coverage:
+        - video: https://www.youtube.com/watch?v=Ybf_U0Z6EDU
 
     - title: Python as a project
       speakers:
@@ -30,6 +32,8 @@ talks:
       description: |
         How does Python work as a project? Who develops it? How is it organized?
         What's behind abbreviations like PSF, PyPA or SC?
+      coverage:
+        - video: https://www.youtube.com/watch?v=-z58Bou4_m4
 
     - title: "Lightning talky"
       description: |
