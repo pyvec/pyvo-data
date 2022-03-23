@@ -1,0 +1,25 @@
+city: olomouc
+start: 2022-03-30 18:00:00
+name: Olomoucké Pyvo
+topic: Jarní revival
+description: |
+    Po dlouhe době se znova setkámei, abychom trochu podiskutovali o Pythonu a věcích s ním spojených.
+
+    Pokud máte nějakou přednášku či téma na příště, dejte nám vědět v
+    [mailing listu Olomouckého Pyva](https://groups.google.com/forum/#!forum/olomoucke-pyvo).
+    A přidejte se do mailing listu pro aktuální info.
+
+    Těšíme se na vaši účast!
+
+venue: u-ptaka
+talks:
+  - title: Python - Jeden z nástrojů domácí automatizace a meření
+    speakers:
+      - Lubo Přibyla
+    description: ""
+  - title: Ako zabaliť python script do RPM balíčku
+    speakers:
+      - Martin Čurlej
+    description: |
+      Úkážeme si ako zabaliť python skript do RPM balíčku. Nástroje, postupy, metadata atď.
+urls: []
