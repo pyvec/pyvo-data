@@ -1,0 +1,40 @@
+city: brno
+start: 2022-03-31 19:00:00
+name: Brněnské Pyvo
+topic: Mezinárodní
+description: |
+  Březnové ONLINE Pyvo, od dubna už jedeme naživo!
+
+  ----
+
+  March ONLINE Pyvo, starting in April we're going "live"!
+
+  Join us on Thursday 31. 3. 2022 at 19:00 via Google Meet: <https://meet.google.com/pqh-mynt-sjh>
+
+  The talk will be in English.
+
+talks:
+    - title: Why you need (Monty) Python in your life
+      speakers:
+        - Brian Kucich
+      description: |
+        Brief overview of why Python is a good choice for beginner programmers. Lesson on up-selling programming to those who are "bad" at math and logic.
+        Finish with two languages that will be good precursors to python (for kids or those who really want a leg up).
+
+        Brian as a natural STEM candidate, decided to go the hard route and develop my soft skills instead.
+        Been working on my metaphors and storytelling skills since 2000's to be able to more effectively translate my first language "Algebra" into implicit English.
+    - title: Introduction to RMarkdown, creating reports with R & Python
+      speakers:
+        - Andres Renzo Cáceres Rossi
+      description: |
+        Join us in an exploration of R Markdown world where Andres explains how to create powerful reports using RMarkdown.
+        We will discover how to create reports in python and then we publish them online using RPubs and Netlify.
+        If you would like to follow along the talk, please install R programming language, RStudio and Python 3.10
+
+        Renzo Cáceres Rossi is an specialist in R programming language and RMarkdown for the Data Science Research Peru, joining us from beautiful Lima.
+
+    - title: "Lightning talky"
+      description: |
+        Lightning talky! Můžeš jeden mít i ty,
+        viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+        Registrace nutná na [Lightning Talk – bit.ly/brpylight](https://bit.ly/brpylight).
