@@ -9,7 +9,7 @@ description: |
   We meet at the café Liberál in Holešovice. You can look forward to 2 presentations, lightning talks and chit chat.
 
 talks:
-- title: Programování firmwaru Prusa SLA 3D tiskárny v Pythonu | Coding Prusa SLA 3D printer FW in Python
+- title: Firmware v Pythonu pro SLA 3D tiskárny Prusa | Coding Prusa SLA 3D printer FW in Python
   speakers:
     - Vláďa Matěna
   description: |
