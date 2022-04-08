@@ -23,6 +23,10 @@ talks:
 
         Brian as a natural STEM candidate, decided to go the hard route and develop my soft skills instead.
         Been working on my metaphors and storytelling skills since 2000's to be able to more effectively translate my first language "Algebra" into implicit English.
+      coverage:
+        - video: https://www.youtube.com/watch?v=0Cz6cwaJYQ8
+
+
     - title: Introduction to RMarkdown, creating reports with R & Python
       speakers:
         - Andres Renzo Cáceres Rossi
@@ -32,6 +36,8 @@ talks:
         If you would like to follow along the talk, please install R programming language, RStudio and Python 3.10
 
         Renzo Cáceres Rossi is an specialist in R programming language and RMarkdown for the Data Science Research Peru, joining us from beautiful Lima.
+      coverage:
+        - video: https://www.youtube.com/watch?v=FoH0DlBAwKU
 
     - title: "Lightning talky"
       description: |
