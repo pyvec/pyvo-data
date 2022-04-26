@@ -1,0 +1,24 @@
+city: brno
+venue: artbar
+start: 2022-04-28 19:00:00
+name: Brněnské Pyvo
+topic: Bude!
+description: |
+  Po dlouhé době se v dubnu opět potkáme osobně v ArtBaru!
+  Program je zatím v přípravě, nemáme potvrzeného speakera, ale nebojte se, řešíme i náhradní varianty.
+  Pokud má kdokoliv z vás zajímavé téma související s Pythonem, o které byste se chtěli podělit s komunitou, stage může být vaše, dejte vědět!
+  Vidíme se už tento čtvrtek 28. 4. od 19h v ArtBaru Druhý Pád.
+  
+  ----
+
+  After a long time, we will meet in person again in ArtBar in April!
+  The program is still in preparation, we do not have a confirmed speaker, but don't worry, we are also working on alternative variants.
+  If any of you have an interesting Python-related topic that you would like to share with the community, the stage may be yours, let us know!
+  See you this Thursday, April 28, from 19:00 in ArtBar Druhý Pád.
+
+talks:
+    - title: "Lightning talky"
+      description: |
+        Lightning talky! Můžeš jeden mít i ty,
+        viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+        Registrace nutná na [Lightning Talk – bit.ly/brpylight](https://bit.ly/brpylight).
