@@ -1,0 +1,50 @@
+city: plzen
+start: 2022-03-09 18:00:00
+name: Plzeňské Pyvo
+number: 25
+topic: Pyvo
+venue: hub-20
+description: |
+    Vážení přátelé a příznivci našich setkání! Svět se mění, ale naše Pyvo, na vzdory vzdouvajícím se
+    vlnám událostí a ledovým severním vichrům, odolává. Těšit se můžete na představení několika
+    zajímavých technologií a jistě dojde i na aktuální témata, kterými v tento čas žije kybersvět.
+    Za vaše příspěvky budeme rádi.
+    Na viděnou.
+
+    Zoom Meeting
+    https://us02web.zoom.us/j/84017822596?pwd=K2xQNUVLMVF4SmNhLzJrTWg0Wk9tdz09
+    Meeting ID: 840 1782 2596
+    Passcode: 380
+
+talks:
+  - title: Úvodní slovo
+    speakers:
+      - Tomáš Bedřich
+      - Filip Vaculík
+
+  - title: Dusk
+    speakers:
+      - Tomáš Zítka
+    description: |
+        Snadná paralelizace pro náročné výpočty.
+
+  - title: Artap
+    speakers:
+      - Václav Fiala
+    description: |
+        Framework pro designovou optimalizaci.
+
+  - title: Až na železo
+    speakers:
+      - Filip Vaculík
+    description: |
+        Zátěžové "testování" webů, například těch Ruských.
+
+  - title: Lightning talks
+    lightning: true
+    description: |
+      Pokud máte zkušenost se zajímavou technologii, projektem, nebo chcete prezentovat sebe, či svou firmu a její aktivity, nebojte se přihlásit o slovo. K dispozici můžete mít plných 5 minut pro své téma.
+
+      Témata možno domluvit mailem na tozitka@gmail.com, případně u libovolného z organizátorů ve vhodnou chvíli při akci.
+      Také sbíráme náměty na přednášky pro další Pyva, více informací na [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+urls: []
