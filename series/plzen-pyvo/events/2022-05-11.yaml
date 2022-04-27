@@ -1,9 +1,9 @@
 city: plzen
-start: 2022-03-09 18:00:00
+start: 2022-05-11 18:00:00
 name: Plzeňské Pyvo
-number: 25
-topic: Pyvo
-venue: hub-20
+number: 26
+topic: Rust
+venue: restaurace-a-penzion-u-salzmannu
 description: |
     Vážení přátelé a příznivci našich setkání! Svět se mění, ale naše Pyvo, na vzdory vzdouvajícím se
     vlnám událostí a ledovým severním vichrům, odolává. Těšit se můžete na představení několika
@@ -19,26 +19,35 @@ description: |
 talks:
   - title: Úvodní slovo
     speakers:
-      - Tomáš Bedřich
       - Filip Vaculík
+      - Jakub Červinka
+      - Tomáš Zítka
 
-  - title: Dusk
+  - title: Hello, Rust!
+    speakers:
+      - TBA
+    description: |
+        Představení Rustu: rustup, rustc, cargo a "Hello world"
+
+  - title: Rust - zajímavosti
+    speakers:
+      - TBA
+    description: |
+        Rust přichází se zajímavými řešeními tradičních problémů jako je správa paměti a ...
+
+  - title: Rustacean
+    speakers:
+      - TBA
+    description: |
+        Doopravidcký programátor v Rustu.
+
+  - title: Modul pro Python v Rustu
     speakers:
       - Tomáš Zítka
     description: |
-        Snadná paralelizace pro náročné výpočty.
+        C/C++ modules hate him, seven simple steps to writting Python modules in Rust
 
-  - title: Artap
-    speakers:
-      - Václav Fiala
-    description: |
-        Framework pro designovou optimalizaci.
 
-  - title: Až na železo
-    speakers:
-      - Filip Vaculík
-    description: |
-        Zátěžové "testování" webů, například těch Ruských.
 
   - title: Lightning talks
     lightning: true
@@ -47,4 +56,12 @@ talks:
 
       Témata možno domluvit mailem na tozitka@gmail.com, případně u libovolného z organizátorů ve vhodnou chvíli při akci.
       Také sbíráme náměty na přednášky pro další Pyva, více informací na [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+
+
+  - title: memray
+    lightning: true
+    -speakers:
+      - Tomáš Zítka
+    description: |
+      https://github.com/bloomberg/memray
 urls: []
