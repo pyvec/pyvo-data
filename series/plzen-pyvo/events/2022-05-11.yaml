@@ -45,9 +45,7 @@ talks:
     speakers:
       - Tomáš Zítka
     description: |
-        C/C++ modules hate him, seven simple steps to writting Python modules in Rust
-
-
+        C/C++ modules hate him, seven simple steps to writting Python modules in Rust.
 
   - title: Lightning talks
     lightning: true
@@ -57,10 +55,9 @@ talks:
       Témata možno domluvit mailem na tozitka@gmail.com, případně u libovolného z organizátorů ve vhodnou chvíli při akci.
       Také sbíráme náměty na přednášky pro další Pyva, více informací na [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
 
-
   - title: memray
     lightning: true
-    -speakers:
+    speakers:
       - Tomáš Zítka
     description: |
       https://github.com/bloomberg/memray
