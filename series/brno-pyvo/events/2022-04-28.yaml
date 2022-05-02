@@ -17,8 +17,8 @@ description: |
   See you this Thursday, April 28, from 19:00 in ArtBar Druhý Pád.
 
 talks:
-    - title: "Lightning talky"
-      description: |
-        Lightning talky! Můžeš jeden mít i ty,
-        viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
-        Registrace nutná na [Lightning Talk – bit.ly/brpylight](https://bit.ly/brpylight).
+    - title: Mýty v první pomoci
+      speakers:
+        - Lumír Balhar
+      coverage:
+        - video: https://www.youtube.com/watch?v=Nek1G_9-r5g
