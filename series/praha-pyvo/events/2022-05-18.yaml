@@ -1,34 +1,19 @@
 name: Pražské Pyvo
 city: praha
-start: 2022-04-20 19:00:00
-venue: kavarna-liberal
-number: 131
+start: 2022-05-18 19:00:00
+venue: holesovicka-sachta
+number: 132
 description: |
-  Potkáme se naživo, a to v kavárně Liberál v Holešovicích. Budou dvě přednášky, lightning talky a volná zábava.
+  Potkáme se v kavárně Šachta v Holešovicích. Bude jedna přednáška, lightning talky a volná zábava.
 
-  We meet at the café Liberál in Holešovice. You can look forward to 2 presentations, lightning talks and chit chat.
+  We meet at the café Šachta in Holešovice. You can look forward to one presentation, lightning talks and chit chat.
 
 talks:
-- title: Firmware v Pythonu pro SLA 3D tiskárny Prusa | Coding Prusa SLA 3D printer FW in Python
+- title: Observability
   speakers:
-    - Vláďa Matěna
+    - Honza Král
   description: |
-      Potřeba vysokého rozlišení vedla k vývoji SoC s Linuxem pro 3D tiskárnu, kde bychom běžně našli pouze microcontroller.
-      Tato přednáška popisuje, jaké to je vyvíjet firmware pro 3D tiskárnu v Pythonu.
-      ---
-      Necessity to drive a high resolution display brought a SoC capable of running Linux into a 3D printer where one would usually find just a microcontroller.
-      This talk describes what it is like to develop a 3D printer firmware mostly in Python.
-
-- title: Jak a proč dělám junior.guru | How and why I work on junior.guru
-  speakers:
-    - Honza Javorek
-  description: |
-      Dělám junior.guru, projekt pro začátečníky v programování.
-      Začalo to jako nápad, který kdysi dávno padl mezi PyLadies u opékání špekáčků, dnes je to moje fulltime podnikání.
-      Kdo jsou to ti začátečníci a proč pro ně dělám speciální komunitu?
-      Jak celý projekt vytvářím tak, aby šel spravovat i v jednom člověku?
-      ---
-      I work on junior.guru, a project for Czech and Slovak beginners in tech.
-      It had started as a random idea among PyLadies during a campfire BBQ, today it's my fulltime business.
-      Who are these beginners and why do I create a special community for them?
-      How do I develop the project so that it's manageable in a single person?
+      So your code is in production, now what?
+      Do you know, if your application is up? Do you knew if something goes wrong?
+      When it does, how will you debug it?
+      Let's talk observability, the latest buzzword, what it means, and how to get started!
