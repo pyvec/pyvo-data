@@ -1,0 +1,19 @@
+name: Pražské Pyvo
+city: praha
+start: 2022-05-18 19:00:00
+venue: holesovicka-sachta
+number: 132
+description: |
+  Potkáme se v kavárně Šachta v Holešovicích. Bude jedna přednáška, lightning talky a volná zábava.
+
+  We meet at the café Šachta in Holešovice. You can look forward to one presentation, lightning talks and chit chat.
+
+talks:
+- title: Observability
+  speakers:
+    - Honza Král
+  description: |
+      So your code is in production, now what?
+      Do you know, if your application is up? Do you knew if something goes wrong?
+      When it does, how will you debug it?
+      Let's talk observability, the latest buzzword, what it means, and how to get started!
