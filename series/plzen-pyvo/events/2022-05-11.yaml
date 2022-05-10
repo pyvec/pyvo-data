@@ -5,16 +5,16 @@ number: 26
 topic: Rust
 venue: restaurace-a-penzion-u-salzmannu
 description: |
-    Vážení přátelé a příznivci našich setkání! Svět se mění, ale naše Pyvo, na vzdory vzdouvajícím se
-    vlnám událostí a ledovým severním vichrům, odolává. Těšit se můžete na představení několika
-    zajímavých technologií a jistě dojde i na aktuální témata, kterými v tento čas žije kybersvět.
-    Za vaše příspěvky budeme rádi.
+    Vážení přátelé a příznivci našich setkání! Blíží se léto a než se všichni rozletíme do světa, mohli bychom se
+	porozhlédnout po světě programovacích jazyků i mimo náš rybníček plný Pythonů. Připravili jsme pro vás seznámení 
+	s nadějným programovacím jazykem Rust. Abychom udrželi spojení s domovem, ukážeme si integraci Pythonu a Rustu.
+    Pokud máte s Rustem zkušenost neváhejte se podělit, budeme jako vždy rádi i za příspěvky z dalších témat. 
     Na viděnou.
 
     Zoom Meeting
-    https://us02web.zoom.us/j/84017822596?pwd=K2xQNUVLMVF4SmNhLzJrTWg0Wk9tdz09
-    Meeting ID: 840 1782 2596
-    Passcode: 380
+    https://us02web.zoom.us/j/83868129924?pwd=SmE4K2tIVG1IbHJrcEo5ckhFbGRGQT09
+    Meeting ID: 838 6812 9924
+    Passcode: 222444
 
 talks:
   - title: Úvodní slovo
@@ -25,21 +25,16 @@ talks:
 
   - title: Hello, Rust!
     speakers:
-      - TBA
+      - Filip Vaculík
     description: |
         Představení Rustu: rustup, rustc, cargo a "Hello world"
 
   - title: Rust - zajímavosti
     speakers:
-      - TBA
+      - Filip Vaculík
+      - Tomáš Zítka
     description: |
-        Rust přichází se zajímavými řešeními tradičních problémů jako je správa paměti a ...
-
-  - title: Rustacean
-    speakers:
-      - TBA
-    description: |
-        Doopravidcký programátor v Rustu.
+        Rust přichází se zajímavými řešeními tradičních problémů jako je správa paměti.
 
   - title: Modul pro Python v Rustu
     speakers:
