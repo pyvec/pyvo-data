@@ -1,0 +1,59 @@
+city: plzen
+start: 2022-05-11 18:00:00
+name: Plzeňské Pyvo
+number: 26
+topic: Rust
+venue: restaurace-a-penzion-u-salzmannu
+description: |
+    Vážení přátelé a příznivci našich setkání! Blíží se léto a než se všichni rozletíme do světa, mohli bychom se
+    porozhlédnout po světě programovacích jazyků i mimo náš rybníček plný Pythonů. Připravili jsme pro vás seznámení
+    s nadějným programovacím jazykem Rust. Abychom udrželi spojení s domovem, ukážeme si integraci Pythonu a Rustu.
+    Pokud máte s Rustem zkušenost neváhejte se podělit, budeme jako vždy rádi i za příspěvky z dalších témat. 
+    Na viděnou.
+
+    Zoom Meeting
+    https://us02web.zoom.us/j/83868129924?pwd=SmE4K2tIVG1IbHJrcEo5ckhFbGRGQT09
+    Meeting ID: 838 6812 9924
+    Passcode: 222444
+
+talks:
+  - title: Úvodní slovo
+    speakers:
+      - Filip Vaculík
+      - Jakub Červinka
+      - Tomáš Zítka
+
+  - title: Hello, Rust!
+    speakers:
+      - Filip Vaculík
+    description: |
+        Představení Rustu: rustup, rustc, cargo a "Hello world"
+
+  - title: Rust - zajímavosti
+    speakers:
+      - Filip Vaculík
+      - Tomáš Zítka
+    description: |
+        Rust přichází se zajímavými řešeními tradičních problémů jako je správa paměti.
+
+  - title: Modul pro Python v Rustu
+    speakers:
+      - Tomáš Zítka
+    description: |
+        C/C++ modules hate him, seven simple steps to writting Python modules in Rust.
+
+  - title: Lightning talks
+    lightning: true
+    description: |
+      Pokud máte zkušenost se zajímavou technologii, projektem, nebo chcete prezentovat sebe, či svou firmu a její aktivity, nebojte se přihlásit o slovo. K dispozici můžete mít plných 5 minut pro své téma.
+
+      Témata možno domluvit mailem na tozitka@gmail.com, případně u libovolného z organizátorů ve vhodnou chvíli při akci.
+      Také sbíráme náměty na přednášky pro další Pyva, více informací na [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+
+  - title: memray
+    lightning: true
+    speakers:
+      - Tomáš Zítka
+    description: |
+      https://github.com/bloomberg/memray
+urls: []
