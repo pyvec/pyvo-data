@@ -1,0 +1,32 @@
+city: brno
+venue: artbar
+start: 2022-05-26 19:00:00
+name: Brněnské Pyvo
+topic: Asynchronní
+description: |
+  V květnu se na Pyvo opět sejdeme v ArtBaru!
+  
+  ----
+  
+  In May, we will meet again in ArtBar!
+
+talks:
+    - title: Health and monitoring of async Python services
+      speakers:
+        - Max Polezhaev
+      description: |
+        In our company we’ve got lots of Python services developed using asyncio, which helps us to keep them scalable and maintainable.
+        But with all its benefits the asynchronous approach brings some new challenges. I would like to talk about these challenges and common pitfalls,
+        explain some points requiring attention, such as concurrency control, timeouts, task results, and what metrics can be used to monitor health of async services.
+
+        Max is a Senior Software Engineer from the FinTech Tribe at Kiwi.com. See his GitHub: <https://github.com/maxpolezhaev>
+    - title: Running processes from Python using asyncio
+      speakers:
+        - Jakub Ružička
+      description: |
+        I'll talk about my experience with running system processes (commands, scripts) from Python as a packager and automation engineer. Most of the tools I've
+        created, including apkg the cross-distro packaging automation tool, use various system tools through CLI so a robust way to invoke commands is necessary.
+
+        Especially, I'll focus on the latest refactor of the apkg command runner to use asyncio.create_subprocess_exec() and asyncio.create_subprocess_shell()
+        functions which allows previously unthinkable - capturing and printing stdout/stderr at the same timeIndeed, after many years of development, Python can finally
+        perform the equivalent of unix tee command available to mankind since the dawn of time.
