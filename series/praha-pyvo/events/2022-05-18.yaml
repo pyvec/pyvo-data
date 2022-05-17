@@ -4,9 +4,9 @@ start: 2022-05-18 19:00:00
 venue: holesovicka-sachta
 number: 132
 description: |
-  Potkáme se v kavárně Šachta v Holešovicích. Bude jedna přednáška, lightning talky a volná zábava.
+  Potkáme se v Holešovické šachtě. Bude jedna přednáška, lightning talky a volná zábava.
 
-  We meet at the café Šachta in Holešovice. You can look forward to one presentation, lightning talks and chit chat.
+  We meet at the Holešovická šachta. You can look forward to one presentation, lightning talks and chit chat.
 
 talks:
 - title: Observability
