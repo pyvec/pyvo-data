@@ -1,0 +1,20 @@
+name: Pražské Pyvo
+city: praha
+start: 2022-06-15 19:00:00
+venue: holesovicka-sachta
+number: 133
+description: |
+  Potkáme se v Holešovické šachtě. Sraz je v 19, přednáška začne kolem 20.30. Kromě přednášky budou i lightning talky a volná zábava.
+
+  We meet at the Holešovická šachta. We meet up at 19, but the presentation will start around 20.30. You can also look forward to lightning talks and chit chat.
+
+talks:
+- title: Using OpenCV in Python to process videos and read barcodes
+  speakers:
+    - Peter Vanya
+  description: |
+    OpenCV is a standard image processing library for both classical and deep-learning computer vision. Using Python with OpenCV makes for a powerful tool to extract meaning from images and camera streams.
+
+    One can exploit a range of filtering and shape-detecting algorithms to create simple but reliable object detectors or trackers using only a few creative, hard-coded heuristics, without the need for extensive data collection and annotation. Also, the algorithms can achieve a much higher FPS than current state-of-the-art neural networks.
+
+    In this talk, we will first demonstrate the basic tools to capture a camera stream, then showcase filtering capabilities such as thresholding, gradients, edge detection and finally detect and track objects. There will be case studies of how to align documents lying on a desk or read barcodes from any object in real time. By the end of the talk you will have mastered a few pipelines to extract meaning from images and videos.
