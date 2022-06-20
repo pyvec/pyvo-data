@@ -1,0 +1,12 @@
+city: hradec-kralove
+start: 2020-11-19 18:00:00
+name: Hradecké Pyvo
+number: 10
+topic: Desáté
+venue: pivovarske-domy
+description: |
+    Pokud nás Covid neschvátí tak nás (micro)python obohatí! Rozhodli jsme se pokračovat v Micropythonu a návazných projektech i dál, je toho hodně co říct. 
+talks: 
+  - title: Ladění a stabilita kódu na ESP8266
+    speakers:
+    - Václav Rak
