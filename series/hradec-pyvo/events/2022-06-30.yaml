@@ -1,0 +1,11 @@
+city: hradec-kralove
+start: 2022-06-30 18:00:00
+name: Hradecké Pyvo
+number: 11
+topic: Jedenácté
+venue: pivovarske-domy
+description: ""
+talks:
+  - title: Základy strojového učení v scikit-learn
+    speakers:
+    - Martin Žofka
