@@ -5,7 +5,7 @@ number: 10
 topic: Desáté
 venue: pivovarske-domy
 description: |
-    Pokud nás Covid neschvátí tak nás (micro)python obohatí! Rozhodli jsem se pokračovat v Micropythonu a návazných projektech i dál, je toho hodně co říct. 
+    Pokud nás Covid neschvátí tak nás (micro)python obohatí! Rozhodli jsme se pokračovat v Micropythonu a návazných projektech i dál, je toho hodně co říct. 
 talks: 
   - title: Ladění a stabilita kódu na ESP8266
     speakers:
