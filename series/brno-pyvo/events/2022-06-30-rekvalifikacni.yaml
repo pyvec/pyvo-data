@@ -1,0 +1,26 @@
+city: brno
+venue: artbar
+start: 2022-06-30 19:00:00
+name: Brněnské Pyvo
+topic: Rekvalifikační
+description: |
+  V červnu se na Pyvo opět sejdeme v ArtBaru!
+
+  Přednáška bude tentokrát v češtině.
+
+  ----
+
+  In June, we will meet again in ArtBar!
+
+  The talk will be in Czech this time.
+
+talks:
+    - title: Python programátorem pomalou cestou
+      speakers:
+        - Roman Viktor Dvořák
+      description: |
+        Na posledním Pyvu před prázdninami se podíváme znovu na téma rekvalifikace, tentokrát z trochu jiného pohledu,
+        aneb Python programátorem pomalou cestou. Rekvalifikace, která se nakonec podařila aneb na konci poznáš, jak jsi měl začít.
+
+        Roman je původně elektrikář, později prošel řadou relativně krátkých pracovních zkušeností v různých oborech od přímého prodeje služeb až po práci na stavbách.
+        Potom pracoval 5 let v bezpečnostní agentuře a v současnosti je programátorem na volné noze.
