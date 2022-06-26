@@ -8,7 +8,7 @@ description: |
     Vážení přátelé a příznivci našich setkání! Blíží se léto a než se všichni rozletíme do světa, mohli bychom se
     porozhlédnout po světě programovacích jazyků i mimo náš rybníček plný Pythonů. Připravili jsme pro vás seznámení
     s nadějným programovacím jazykem Rust. Abychom udrželi spojení s domovem, ukážeme si integraci Pythonu a Rustu.
-    Pokud máte s Rustem zkušenost neváhejte se podělit, budeme jako vždy rádi i za příspěvky z dalších témat. 
+    Pokud máte s Rustem zkušenost neváhejte se podělit, budeme jako vždy rádi i za příspěvky z dalších témat.
     Na viděnou.
 
     Zoom Meeting
@@ -28,6 +28,8 @@ talks:
       - Filip Vaculík
     description: |
         Představení Rustu: rustup, rustc, cargo a "Hello world"
+    coverage:
+    - video: https://youtu.be/1cCtcZlVkPE
 
   - title: Rust - zajímavosti
     speakers:
@@ -35,12 +37,16 @@ talks:
       - Tomáš Zítka
     description: |
         Rust přichází se zajímavými řešeními tradičních problémů jako je správa paměti.
+    coverage:
+    - video: https://youtu.be/YzyYq0YP1ew
 
   - title: Modul pro Python v Rustu
     speakers:
       - Tomáš Zítka
     description: |
         C/C++ modules hate him, seven simple steps to writting Python modules in Rust.
+    coverage:
+    - video: https://youtu.be/ViyGiO3c454
 
   - title: Lightning talks
     lightning: true
