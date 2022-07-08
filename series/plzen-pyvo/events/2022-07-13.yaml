@@ -1,0 +1,29 @@
+city: plzen
+start: 2022-07-13 18:00:00
+name: Plzeňské Pyvo
+number: 27
+topic: Hloupé chyby a zákysy
+venue: hub-20
+description: |
+    Vážení přátelé a příznivci našich setkání!
+    
+    Na léto odlehčíme. :) Chybějící středník v Pythonu sice nepřehlédneme, ale určitě má každý pár příhod, kdy se koukal do jiného souboru, přehlédl uložení dat do špatné proměnné, nechal se vytrestat časovými zónami, dropnul produkční databázi atd. Přijďe si poslechnout ostatní a sami se podělit o zkušenosti, které byste si za rámeček zrovna nedali.
+
+    **Akce bude spojena s networkingem / grilovačkou pořádanou v prostorách HUB 2.0.** Jídlo a pití bude na místě k dispozici za dobrovolný příspěvek. Kdo by chtěl rozšířit pestrost, může přinést i něco svého.
+
+    Těšíme se na viděnou!
+
+talks:
+  - title: Úvodní slovo
+    speakers:
+      - Filip Vaculík
+      - Jakub Červinka
+      - Tomáš Zítka
+      - Tomáš Bedřich
+
+  - title: Lightning talks na téma Hloupé chyby a zákysy
+    lightning: true
+    description: |
+      Nehlásíme se, neděláme program. Prostě (se) přijďte pobavit.
+
+urls: []
