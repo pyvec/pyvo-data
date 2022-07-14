@@ -1,0 +1,10 @@
+city: Prague
+name: H55
+address: Hloubětínská 1138/5
+notes: |
+  I když je místo netradičně trochu dále od centra, od metra B Hloubětín to je
+  jen kousek, případně můžete jet tramvají na zastávku Kbelská. Cyklisti
+  a další sportovci mohou využít cyklostezku podél Rokytky.
+location:
+  latitude: '50.1041639'
+  longitude: '14.5346086'

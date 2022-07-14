@@ -1,0 +1,24 @@
+name: Pražské Pyvo
+city: praha
+start: 2022-07-20 19:00:00
+venue: h55
+number: 134
+description: |
+  Máme léto a s ním tradičně odlehčený program. Vyzkoušíme, jak by se nám
+  fungovalo v kavárně [volnočasového centra H55](https://www.h55.cz/).
+  K dispozici budeme mít i sál s projektorem, kde si střihneme pár lightning
+  talků. Hlavní náplní bude ale volná zábava a grilování - něco na gril si
+  vemte s sebou!
+  
+  With the ongoing summer, we're traditionally having a lighter programme.
+  We'll try out a new venue in the café of the
+  [H55 Leisure Center](https://www.h55.cz/). We'll also have some lightning
+  talks in the associated projector room. But the main topic would be
+  chit chat and barbecue, so bring something to grill!
+
+talks:
+  - title: Lightning talky
+    description: |
+      Kromě grilovačky budou lightning talky. Můžeš jeden mít i ty,
+      viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+      Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
