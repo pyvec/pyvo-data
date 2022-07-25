@@ -15,7 +15,8 @@ description: |
   At 7 PM starts our traditional meetup. We'll have few lightning talks, but the main aim is to chit-chat & barbecue, so bring something to throw on the grill!
 
 talks:
-  - title: TBA
-    speakers:
-      - TBA
-    description: TBA
+  - title: Lightning talky
+    description: |
+      Kromě grilovačky budou lightning talky. Můžeš jeden mít i ty,
+      viz [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+      Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
