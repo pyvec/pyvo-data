@@ -1,0 +1,21 @@
+name: Pražské Pyvo
+city: praha
+start: 2022-08-17 19:00:00
+venue: h55
+number: 135
+description: |
+  Máme léto a s ním tradičně odlehčený program. Opět se potkáme v kavárně volnočasového centra H55. (https://www.h55.cz/) 
+  Tentokrát bude before-party od 16 hodin pro fanoušky Pythonu s dětmi - je tam pískoviště a spousta místa na hraní.
+  Od 19 hodin je pak sraz v obvyklé podobě. Bude pár lightning talků. Hlavní náplní bude ale volná zábava a grilování - nezapomeňte si tedy vzít nějakou dobrotu na gril sebou!
+
+
+  
+  With the ongoing summer, we're traditionally organizing a barbecue. We'll meet up again at the café of the H55 Leisure Center. (https://www.h55.cz/) 
+  This time we'll have before-party from 4 PM for fans of Python and their kids - there's kids playground at the café and plenty of place to play around!
+  At 7 PM starts our traditional meetup. We'll have few lightning talks, but the main aim is to chit-chat & barbecue, so bring something to throw on the grill!
+
+talks:
+  - title: TBA
+    speakers:
+      - TBA
+    description: TBA
