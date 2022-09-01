@@ -23,7 +23,7 @@ talks:
     description: |
         Pythonní kvíz ve stylu oblíbených pubkvízů. Přijďte si po propařeném létě poměřit znalosti Pythonu, odhalit
         nejrůznější chytáky a zajímavosti z historie Pythonu. Připravili jsme pro vás několik kol otázek, na které 	
-		budete odpovídat v týmech, které vytvoříme na místě.
+        budete odpovídat v týmech, které vytvoříme na místě.
 
   - title: Lightning talks na téma Hloupé chyby a zákysy
     lightning: true
