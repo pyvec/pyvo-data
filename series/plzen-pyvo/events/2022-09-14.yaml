@@ -5,7 +5,7 @@ number: 28
 topic: PyKvíz
 venue: restaurace-a-penzion-u-salzmannu
 description: |
-    Vážení přátelé a příznivci našich setkání!
+    Vážení přátelé a příznivci našich setkání! Těším se na vás po prázdninách se tentokrát se speciálním programem.
 
 
 talks:
@@ -21,11 +21,9 @@ talks:
       - Jakub Červinka
       - Tomáš Zítka
     description: |
-        Pythonní kvíz ve stylu oblíbených pubkvízů. Přijďte si po propařeném létě poměřit znalosti Pythonu, odhalit
-        nejrůznější chytáky a zajímavosti z historie Pythonu. Připravili jsme pro vás několik kol otázek, na které 	
-        budete odpovídat v týmech, které vytvoříme na místě.
+        Pythonní kvíz ve stylu oblíbených pubkvízů. Přijďte si po propařeném létě poměřit znalosti Pythonu, odhalit nejrůznější chytáky a zajímavosti z historie Pythonu. Připravili jsme pro vás několik kol otázek, na které budete odpovídat v týmech, které vytvoříme na místě.
 
-  - title: Lightning talks na téma Hloupé chyby a zákysy
+  - title: Lightning talks
     lightning: true
     description: |
       Pokud máte zkušenost se zajímavou technologii, projektem, nebo chcete prezentovat sebe, či svou firmu a její aktivity, nebojte se přihlásit o slovo. K dispozici můžete mít plných 5 minut pro své téma.
