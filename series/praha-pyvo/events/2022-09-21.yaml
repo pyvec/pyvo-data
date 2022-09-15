@@ -1,0 +1,17 @@
+name: Pražské Pyvo
+city: praha
+start: 2022-09-21 19:00:00
+venue: botic-restaurant
+number: 136
+description: |
+  Pyvo bude i v září! Můžete se těšit na prezentaci na téma Distribuované databáze a určitě dojde i na lightning talky. Potkáme se v restauraci Botič. 
+
+  We meet up in September as well! You can look forward to presentation about distributed databases and lightning talks. The meetup will be at the restaurant Botič.
+talks:
+- title: "Distribuované databáze"
+  speakers:
+    - Filip Sedlák
+  description: |
+    Máte hodně dat. Kam s nimi? Ukážeme si, jak řešit, když přerostete co se vám vejde na jeden server. Jaké jsou možnosti a proč jsme v Monitoře došli k distribuované SQL databázi.
+
+    
