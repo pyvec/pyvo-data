@@ -1,0 +1,23 @@
+city: brno
+venue: artbar
+start: 2022-09-29 19:00:00
+name: Brněnské Pyvo
+topic: Zářijové
+description: |
+  V září se na Pyvo opět sejdeme v ArtBaru!
+
+  ----
+
+  In September, we will meet again in ArtBar!
+  
+  The talk will be in English.
+talks:
+    - title: Easy service to service communication using Pydantic models
+      speakers:
+        - Michal Korbela
+      description: |
+        Microservices architecture requires a high complexity of communication.
+        To solve all the serialization, deserialization and validation without duplicated code,
+        outdated documentation and untyped dicts is often challenging. Let’s look how we did it in a nice way.
+
+        Michal Korbela is Senior Software Engineer @ Kiwi.com (Ancillaries tribe)
