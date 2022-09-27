@@ -1,0 +1,17 @@
+city: hradec-kralove
+start: 2022-10-11 18:00:00
+name: Hradecké Pyvo
+number: 12
+topic: Dvanácté
+venue: pivovarske-domy
+description: ""
+talks:
+  - title: Úvod do Jupyter notebooků
+    speakers:
+    - Dominik Matoulek
+  - title: Průvodce print()ováním
+    speakers:
+    - Robert Richter
+  - title: Jak pást více Pythonů na jednom PC
+    speakers:
+    - Mirek Zvolský
