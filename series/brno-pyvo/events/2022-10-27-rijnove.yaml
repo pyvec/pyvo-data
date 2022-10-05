@@ -1,0 +1,31 @@
+city: brno
+venue: artbar
+start: 2022-10-27 19:00:00
+name: Brněnské Pyvo
+topic: Říjnové
+description: |
+  Říjnové Pyvo tradičně v ArtBaru!
+
+  ----
+
+  October Pyvo in ArtBar, as usual!
+
+  The talk will be in Czech this time.
+talks:
+    - title: Poetry a Conda v Plant.id
+      speakers:
+        - Jiří Řihák
+        - Ondřej Veselý
+      description: |
+        Setuptools, pyenv, requirements.txt, setup.py, virtualenv, poetry, conda, pip, easy_install, PyPi, egg, wheel, pyproject.toml.
+        Taky si nejste jistí co je co a nevíte co chcete používat?
+        Povíme vám proč a jak používáme condu a poetry na správu prostředí a závislosti v našich projektech.
+
+        Jiří Řihák vystudoval matematiku a získal doktorát na Informatice MU, kde se zabýval adaptivními vyukovými systémy.
+        Tam se naučil využívat python, ke zpracování a analýze dat, tvorbě webových systémů a strojovému učení.
+        Tomu se věnoval i několik let v Seznamu ve výzkumném týmu a nyní uplatňuje své zkušenosti v malém startup FlowerChecker,
+        který spoluzaložil a dělá tam technického ředitele.
+
+        Ondřej Veselý se Python naučil v Seznam.cz, později v něm implementoval masivní datové pipelines pro Kiwi.com; pak o tom přednášel v Minsku,
+        Moskvě a Bělehradě aby přitáhl vývojáře do ČR. Na stará kolena zvládne ještě napsat nějaký backend pro mobilní appku,
+        ale v posledních letech se věnuje spíš produktovému designu, bizdev a problematice etiky v AI.
