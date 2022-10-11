@@ -1,0 +1,17 @@
+name: Pražské Pyvo
+city: praha
+start: 2022-10-19 19:00:00
+venue: cafe-lajka
+number: 137
+description: |
+  V říjnu se můžete těšit na prezentaci na téma AI Safety and Stampy, a určitě dojde i na lightning talky. Potkáme se v kavárně Lajka v uzavřeném salonku (nahoře). 
+
+  This month you can look forward to a presentation about AI Safety and Stampy, and few lightning talks. The meetup will be held at café Lajka upstairs inside the closed area.
+talks:
+- title: "AI Safety and Stampy"
+  speakers:
+    - Peter Hozak
+  description: |
+    AI Safety and Stampy - an open effort to build a comprehensive FAQ about artificial intelligence existential safety.
+
+    
