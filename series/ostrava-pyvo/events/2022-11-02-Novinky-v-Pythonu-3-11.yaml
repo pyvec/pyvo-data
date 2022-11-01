@@ -1,0 +1,16 @@
+city: ostrava
+start: 2022-11-02 19:00:00
+name: Ostravské Pyvo
+topic: Novinky v Pythonu 3.11
+description: |
+    Ahoj,zítra se můžete těšit na přehled novinek v Pythonu 3.11. Začneme v
+    **19:00** po kurzu PyLadies a sejdeme se v restauraci **V.R. Levský.**
+    Jako bonus se cestou na Pycon do Polska staví hosté, bude to tedy taky
+    super příležitost získat nové kontakty.
+
+    Tak určitě doražte, těšíme se na vás!
+
+venue: vr-levsky
+talks: []
+urls:
+- https://www.meetup.com/ostravske-pyvo/events/289473704/
