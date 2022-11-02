@@ -1,0 +1,16 @@
+name: Pražské Pyvo
+city: praha
+start: 2022-11-16 19:00:00
+venue: cafe-lajka
+number: 138
+description: |
+  Pyvo bude i v listopadu! Můžete se těšit na přednášku "Do your unit tests cover all edge cases?", a určitě dojde i na lightning talky. Potkáme se v kavárně Lajka v uzavřeném salonku (nahoře). 
+
+  We meet up in November as well! This month you can look forward to the presentation "Do your unit tests cover all edge cases?", and few lightning talks. The meetup will be held at café Lajka upstairs inside the closed area.
+talks:
+- title: "Do your unit tests cover all edge cases?"
+  speakers:
+    - Mia Bajić
+  description: |
+    When writing tests, we have to consider all the ways users could break our code. Is there a way to describe all data inputs instead of manually specifying them? We'll talk about unit tests and explore a library that helps us to find edge cases in our code we wouldn't have thought to look for.
+    
