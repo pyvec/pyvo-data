@@ -24,6 +24,8 @@ talks:
       - Václav Fiala
     description: |
         Kudy vede cesta do světa strojového učení, neuronových sítí, umělé inteligence a dalších podivností? To a jak se následně v tomto světě vyznat zkusíme rozebrat v druhé přednášce tohoto setkání. 
+  
+  - title: Lightning talks
     lightning: true
     description: |
       Pokud máte zkušenost se zajímavou technologii, projektem, nebo chcete prezentovat sebe, či svou firmu a její aktivity, nebojte se přihlásit o slovo. K dispozici můžete mít plných 5 minut pro své téma.
