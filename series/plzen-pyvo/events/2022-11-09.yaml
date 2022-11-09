@@ -29,7 +29,7 @@ talks:
     speakers:
       - Václav Fiala
     description: |
-        Kudy vede cesta do světa strojového učení, neuronových sítí, umělé inteligence a dalších podivností ? To a jak se následně v tomto světě vyznat zkusíme rozebrat v  přednášce tohoto setkání. 
+        Kudy vede cesta do světa strojového učení, neuronových sítí, umělé inteligence a dalších podivností ? To a jak se následně v tomto světě vyznat zkusíme rozebrat v této přednášce. 
   
   - title: Lightning talks
     lightning: true
