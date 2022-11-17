@@ -3,6 +3,8 @@ city: praha
 description:
   cs: |
     Pražské Pyvo bývá každou třetí středu v měsíci.
+    
+    Pokud byste chtěli mít přednášku neváhejte nám napsat na [praha@pyvo.cz](mailto:praha@pyvo.cz).
 
 #     Scházíme se v soukromém klubu Na Věnečku, takže nikde není žádná
 #     (např. pivní) cedule.
@@ -12,7 +14,9 @@ description:
 #     Pro samostatné a nestíhače: Kdyz se Ostrovského ulice změní na chodník,
 #     jděte cca 50 m do kopce. Po pravé straně narazíte na poměrně velkou bránu do dvora.
   en: |
-    Prague Pyvo is traditionally held on the third Wednesday of each month.
+    Prague Pyvo is traditionally held on the third Wednesday of each month."
+    
+    Feel free to drop us and email at [praha@pyvo.cz](mailto:praha@pyvo.cz) if you want to have a talk.
 
 #     We meet in the private club *Na Věnečku*.
 #     There is no sign indicating a restaurant.
@@ -25,14 +29,11 @@ description:
 #     all the way up, about 50 m past the "no cars" sign.
 #     The meetup is through a gate to your right.
 organizer-info:
-  - name: Jakub Vysoký
-    phone: 605 852 377
-    mail: jakub.vysoky@gmail.com
-  - name: Jiří Bartoň
-    mail: whiskybar@gmail.com
-  - name: Aleš Zoulek
-    phone: 604 332 515
-    mail: ales.zoulek@gmail.com
+  - name: Mia Bajić
+    mail: praha@pyvo.cz
+  - name: Daniel Srb
+    mail: praha@pyvo.cz
+    phone: 777 621 900
 recurrence:
   scheme: monthly
   rrule: |
