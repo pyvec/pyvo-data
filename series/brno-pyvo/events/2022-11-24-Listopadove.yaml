@@ -1,0 +1,36 @@
+city: brno
+venue: u-kachnicky
+start: 2022-11-24 19:00:00
+name: Brněnské Pyvo
+topic: Listopadové
+description: |
+  **!!Pozor, změna lokace!!**
+  
+  V listopadu se netradičně potkáme ve studentském klubu U Kachničky!
+  
+  Bar bude otevřený, ale **platba možná pouze hotově**!
+
+  ----
+
+  **!!Attention, location change!!**
+
+  In November, we will meet at the student club U Kachničky!
+  The bar will be open but **payments are cash only**!
+
+  The talk will be in English.
+talks:
+    - title: Introduction to Pandas
+      speakers:
+        - Jiri Podivin
+      description: |
+        Introduction to Pandas library as a data processing and analysis tool.
+        Presentation will cover basics of IO, data manipulation, custom data structures and visualizations.
+        Possibly extended to intermediate topics like pivoting, date time processing and efficiency methods,
+        if time permits, or if the audience is already familiar.
+        Live demo in CLI (hopefully) included.
+
+        *About Jiri Podivin*
+
+        "Openstack developer at Red Hat, working partly on Validations and partly on CI pipelines.
+        In my free time I pursue my interests in AI, electronics and history.
+        I'm also a gamer, with slightly eclectic tastes."
