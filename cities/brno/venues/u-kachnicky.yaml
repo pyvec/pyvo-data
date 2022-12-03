@@ -1,0 +1,10 @@
+city: Brno
+name: U Kachničky
+address: Božetěchova 2/1
+notes: |
+  Studentský klub U Kachničky se nachází v [místnosti R212](https://www.fit.vut.cz/fit/map/2/.cs?show=R212&big=1) přímo na fakultě informatiky VUT.
+  Půjdeš stejně jako do menzy, ale před ní pokračuj dveřmi na schodiště, klub pak najdeš o půl patra výš.
+  Přijít můžeš také vchodem z ulice Metodějova (projdeš brankou a po chvíli uvidíš dveře na ISIC s logem Kachny). 
+location:
+  latitude: '49.2269703'
+  longitude: '16.594949'
