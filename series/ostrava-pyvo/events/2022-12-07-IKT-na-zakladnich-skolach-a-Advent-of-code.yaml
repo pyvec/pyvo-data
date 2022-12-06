@@ -3,6 +3,10 @@ start: 2022-12-07 19:00:00
 name: Ostravské Pyvo
 topic: IKT na základních školách a Advent of code
 description: |
+    Aktualizace 6. 12.: POZOR, změna místa. Protože Levský je kvůli
+    nemocnému personálu uzavřen, přesouváme Pyvo do Vinografu na ulici
+    Nádražní 45.
+
     Ahoj.
 
     Vzpomínáte také ještě na hodiny IKT na základních školách a výuku práce
@@ -19,7 +23,7 @@ description: |
 
     Tak určitě doražte, těšíme se na vás!
 
-venue: vr-levsky
+venue: vinograf
 talks: []
 urls:
 - https://www.meetup.com/ostravske-pyvo/events/290102520/
