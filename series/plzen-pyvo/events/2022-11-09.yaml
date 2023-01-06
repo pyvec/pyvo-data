@@ -17,14 +17,18 @@ talks:
     speakers:
       - Tomáš Zítka
     description: |
-        Jaký je rozdíl mezi strojovým učením a umělou inteligencí? 
-        
+        Jaký je rozdíl mezi strojovým učením a umělou inteligencí?
+    coverage:
+    - video: https://youtu.be/IofqEe9HfAA
+
   - title: Polidštěné strojové učení (AI & ML)
     speakers:
       - Václav Fiala
     description: |
-        Kudy vede cesta do světa strojového učení, neuronových sítí, umělé inteligence a dalších podivností? To a jak se následně v tomto světě vyznat zkusíme rozebrat v druhé přednášce tohoto setkání. 
-  
+        Kudy vede cesta do světa strojového učení, neuronových sítí, umělé inteligence a dalších podivností? To a jak se následně v tomto světě vyznat zkusíme rozebrat v druhé přednášce tohoto setkání.
+    coverage:
+    - video: https://youtu.be/gVt1apn1HhY
+
   - title: Lightning talks
     lightning: true
     description: |
@@ -32,3 +36,4 @@ talks:
       Témata možno domluvit mailem na fialav8@gmail.com případně u libovolného z organizátorů ve vhodnou chvíli při akci.
       Také sbíráme náměty na přednášky pro další Pyva, více informací na [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
 urls: []
+
