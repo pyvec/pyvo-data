@@ -1,0 +1,19 @@
+city: ostrava
+start: 2023-02-01 19:00:00
+name: Ostravské Pyvo
+topic: Pip, pip-tools, poetry, pipenv
+description: |
+    Ahoj.
+
+    V únorovém Pyvu si řekneme něco o tom, jaké existují nástroje k organizaci Pythoních projektů
+    a jejich závislostí. A možná si popovídáme i trochu o Rustu a o tom, jak jeho filozofii přenést
+    do Pythonu :)
+
+    Začínáme po začátečnickém kurzu PyLadies v 19:00 v restauraci Alvi.
+
+    Tak určitě doražte, těšíme se na vás!
+
+venue: alvi
+talks: []
+urls:
+- https://www.meetup.com/ostravske-pyvo/events/291285903/
