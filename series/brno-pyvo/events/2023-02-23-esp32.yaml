@@ -1,0 +1,24 @@
+city: brno
+venue: artbar
+start: 2023-02-23 19:00:00
+name: Brněnské Pyvo
+topic: ESP32
+description: |
+  The good thing about February being so short is that we can meet sooner at ArtBar for some great Pyvo meetup!
+
+  We aim to start the talk shortly after 7PM.
+
+  After the talk we smoothly transition into a sustainable eco-networking while sipping on our favourite beverages.
+
+  The talk will be in English.
+
+talks:
+    - title: "Micropython on Espressif Chips (ESP32): A Practical Introduction"
+      speakers:
+        - Sergei Silnov
+      description: |
+        Let's talk about Micropython and Circuit Python and their support for Espressif chips, such as the ESP32.
+        In this talk, we will provide a practical example that covers the most common parts of a Micropython IoT project,
+        including WiFi, web server/client, and async/await.
+
+        <https://github.com/kumekay>
