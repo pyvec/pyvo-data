@@ -1,0 +1,33 @@
+name: Pražské Pyvo
+city: praha
+start: 2023-03-15 19:00:00
+venue: na-venecku
+number: 142
+description: |
+  V březnu se můžeš těšit na dvě přednášky, lightning talky a volnou zábavu. Sraz je v 19 hodin Na Věnečku, přednášky začínají v 19.30. 
+  Lightning talk můžeš mít i ty! Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
+
+
+  P.S. Nezapomeň s sebou vzít hotovost - neberou karty.
+
+  
+
+  You can look forward to 2 presentations, lightning talks and chit-chat until early morning. We meet up at 19 at the club Na Věnečku, presentations start at 19.30. 
+  You can have a lightning talk as well - please register at [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
+
+
+  P.S. Take cash with yourself - they don't accept cards.
+
+talks:
+- title: "GraalPy & HPy"
+  speakers:
+    - Štěpán Šindelář
+  description: |
+    This talk will give a brief introduction to GraalPy: fast Java-based alternative implementation of Python, and HPy: alternative API for Python extensions.
+
+- title: "Práce se stresem"
+  speakers:
+    - Adam Kulhánek
+  description: |
+    Stay tuned for more info!
+
