@@ -22,3 +22,5 @@ talks:
         including WiFi, web server/client, and async/await.
 
         <https://github.com/kumekay>
+      coverage:
+        - video: https://www.youtube.com/watch?v=eecmh14cFZo
