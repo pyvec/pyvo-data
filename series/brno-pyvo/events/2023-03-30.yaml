@@ -1,0 +1,71 @@
+city: brno
+venue: artbar
+start: 2023-03-30 19:00:00
+name: Brněnské Pyvo
+topic: Test Management Tool
+description: |
+
+  Další Pyvo se blíží! Poslední čtvrtek v měsíci v ArtBaru, jako obvykle 🙂
+
+  ----
+
+  Next Pyvo is coming! Last Thursday of the month in ArtBar, as usual 🙂
+
+  The talk will be in English.
+
+talks:
+    - title: tmt
+      speakers:
+        - Petr Šplíchal
+        - Miloš Prchlík
+      description: |
+        The tmt tool provides a user-friendly way to work with tests. You can comfortably create new tests,
+        safely and easily run tests across different environments, review test results,
+        debug test code and enable tests in the CI using a consistent and concise config.
+
+        The python module and command-line tool implement the Metadata Specification
+        which allows storing all needed test execution data directly within a git repository.
+        Together with the possibility to reference remote repositories it makes it easy to share test coverage across projects and distros.
+        The Flexible Metadata Format fmf is used to store data in both human and machine readable way close to the source code.
+        Thanks to inheritance and elasticity metadata are organized in the structure efficiently, preventing unnecessary duplication.
+
+        ----
+
+        Nástroj tmt umožňuje uživatelsky přívětivý způsob práce s testy. Můžete pohodlně vytvářet nové testy,
+        bezpečně a snadno spouštět testy v různých prostředích, analyzovat výsledky testů, ladit testovací kód
+        a spouštět testy v CI pomocí konzistentní a přehledné konfigurace.
+        Modul Pythonu a nástroj příkazového řádku implementují specifikaci metadat, která umožňuje ukládat všechna data potřebná pro spuštění testů přímo v git repozitáři.
+        Spolu s možností odkazovat na vzdálené repozitáře usnadňuje sdílení testů napříč projekty a distribucemi.
+        Flexibilní formát metadat fmf slouží k ukládání dat v lidsky i strojově čitelné podobě, blízko zdrojového kódu.
+        Díky dědičnosti a elasticitě jsou metadata efektivně uspořádána ve struktuře, která zabraňuje zbytečné duplikaci.
+
+        #### Presenters
+
+        ##### Petr Šplíchal
+
+        Principal Quality Engineer at Red Hat working on improving testing tools and processes. Lately focused on tmt,
+        the Test Management Tool, which aims to provide a comfortable and efficient way to develop tests
+        and enable them easily and consistently all the way from the upstream project, through Fedora and CentOS Stream to the Red Hat Enterprise Linux.
+
+        Petr likes listening, connecting people & interesting ideas, designing elegant solutions and automating tedious tasks. He loves silence, singing, playing the organ and leading the choir.
+
+        ----
+        Principal Quality Engineer ve společnosti Red Hat pracující na zlepšování testovacích nástrojů a procesů.
+        V poslední době se zaměřuje na tmt, Test Management Tool, jehož cílem je poskytnout pohodlný a efektivní způsob vývoje testů
+        a umožnit jejich snadné a konzistentní spouštění od upstreamového projektu, přes Fedoru a CentOS Stream až po Red Hat Enterprise Linux.
+
+        Petr rád naslouchá, spojuje lidi a zajímavé nápady, navrhuje elegantní řešení a automatizuje úmorné úkoly.
+        Má rád ticho, zpěv, hru na varhany a vedení pěveckého sboru.
+
+        ##### Miloš Prchlík
+        Principal Software Quality Engineer at Red Hat sitting on two chairs: during the day working on various CI systems and components,
+        focused mostly on provisioning and tmt development, and at night, he's testing good ol' *nix toolchain tools.
+        He's focusing on improving reliability and stability in the world of infrastructure issues.
+        In his spare time, he likes good company, good food, hiking, or building a custom LLVM backend from time to time.
+
+        ----
+
+        Principal Software Quality Engineer ve společnosti Red Hat, který sedí na dvou židlích: přes den pracuje na různých CI systémech a
+        komponentách, převážně pak na provisioningu a vývoji tmt, a v noci testuje staré dobré *nixové toolchain nástroje.
+        Zaměřuje se hlavně na zlepšování spolehlivosti a stability ve světě plném infrastrukturních problémů.
+        Ve volném čase má rád dobrou společnost, dobré jídlo, turistiku a čas od času postaví vlastní backend pro LLVM.
