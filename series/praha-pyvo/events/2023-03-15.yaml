@@ -2,6 +2,7 @@ name: Pražské Pyvo
 city: praha
 start: 2023-03-15 19:00:00
 venue: na-venecku
+topic: GraalPy & HPy i Práce se stresem a hacky pro sezení u klávesnice
 number: 142
 description: |
 
@@ -41,8 +42,8 @@ talks:
   description: |
     This talk will give a brief introduction to GraalPy: fast Java-based alternative implementation of Python, and HPy: alternative API for Python extensions.
 
-- title: "Práce se stresem"
+- title: "Práce se stresem a hacky pro sezení u klávesnice"
   speakers:
     - Adam Kulhánek
   description: |
-    Stay tuned for more info!
+    Práce developera vyžaduje vysokou míru koncentrace a vytrvalosti. Dlouhodobý pracovní výkon ale není možné udržet bez pravidelného recovery. Na tomto talku se dozvíte, jak včas identifikovat spouštěče stresu a jak se dlouhodobé napětí projevuje na naší psychice a zdraví. Představíme si také techniky, díky kterým budete lépe zvládat náročné emoční situace a pracovní vypětí a udržíte si tak požadovaný výkon.
