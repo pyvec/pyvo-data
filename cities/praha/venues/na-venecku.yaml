@@ -1,11 +1,19 @@
 city: Prague
 name: Na Věnečku
 address: Ostrovského 38a, Praha 5, Czech Republic, 15000
-notes: |
-    Jedná se o soukromý klub.
-    Takže nastražte oči a uši, nikde není žádná (např. pivní) cedule.
-    Když se Ostrovského ulice změni na chodník, jděte cca 50m do kopce.
-    Po pravé straně narazíte na poměrně velkou bránu do dvora.
+notes: | 
+    Jedná se o soukromý klub, takže nikde není žádná cedule. 
+    Když Ostrovského ulice přejde v chodník se zábradlím po obou stranách, jděte 60 metrů do kopce. 
+    První brána po pravé straně je vchod do dvora. 
+    Ujděte ještě 40 metrů a vchod do klubu najdete vlevo.
+    
+    It’s a private club with no public signs. 
+    After Ostrovského street becomes a footpath walk 60 meters uphill. 
+    Club is in the first gate to the right. 
+    Go 40 more meters and entrance to the club will be to your left.
+    
+    [Na Věnečku @ Google Maps](https://goo.gl/maps/upwp7KT1x8xewfuP7)
+    
 location:
   latitude: '50.0678996'
   longitude: '14.3953814'

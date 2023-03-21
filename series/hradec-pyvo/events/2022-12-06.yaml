@@ -1,0 +1,14 @@
+city: hradec-kralove
+start: 2022-12-06 18:00:00
+name: Hradecké Pyvo
+number: 13
+topic: Třinácté
+venue: pivovarske-domy
+description: ""
+talks:
+  - title: Seznámení s objektovými databázemi
+    speakers:
+    - Dominik Matoulek
+  - title: List comprehension vs Lambda
+    speakers:
+    - Robert Richter

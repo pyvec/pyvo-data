@@ -1,0 +1,18 @@
+name: Pražské Pyvo
+city: praha
+start: 2023-01-18 19:00:00
+venue: na-venecku
+number: 140
+description: |
+  Hey Python lovers!
+
+  You're invited to come hang out and show off your Python skills at our Python Pub Quiz we've prepared for you in cooperation with Pure Storage. 
+  We'll be asking all kinds of trivia questions about the coolest programming language around, as well as many other geeky topics.
+
+  Bring your brains, your colleagues, and your love for all things Python. 
+  Stay tuned for more info about presentations from Petr Machek and Patrick Kusebauch, software engineers from Pure Storage.
+
+talks:
+- title: Lightning talks
+  description: | 
+    You can do your Ligtning talk too: add it to https://bit.ly/prpylight.

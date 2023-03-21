@@ -1,0 +1,37 @@
+city: brno
+venue: artbar
+start: 2023-01-26 19:00:00
+name: Brněnské Pyvo
+topic: DevOps
+description: |
+  První letošní Pyvo se vrací do ArtBaru!
+
+  ----
+
+  This year's first Pyvo returns to ArtBar!
+
+  The talk will be in English.
+
+talks:
+    - title: DevOps - The good, the bad and the BUZZWORD
+      speakers:
+        - Pavel Grochal
+      description: |
+        Click-bait title, right?
+
+        But seriously, when you ask what is DevOps, two people won't say the same.
+
+        So what is DevOps? Come to find out.
+
+        * Also with some examples in Python directly cropped from production source code 😃
+
+        **Mgr. Pavel Grochal TLDr;**
+
+        He has loved computers since he was a child, taught programming (at that time C and PHP) as a teacher at the grammar school,
+        and went on to graduate from the Faculty of Informatics of Masaryk University in Brno.
+
+        ’import this’
+
+        Since 2012, when he got to know Python and Django, he loves them and uses them for most of his projects.
+        Then in 2015 he became an OpenSource consultant @inuits.eu
+

@@ -1,0 +1,42 @@
+name: Pražské Pyvo
+city: praha
+start: 2023-02-15 19:00:00
+venue: na-venecku
+number: 141
+description: |
+  Pyvo bude i v únoru! Sraz je v 19 hodin Na Věnečku, přednášky začínají v 19.30. Čekají nás 3 přednášky, lightning talky a volná zábava až do rána.
+  Lightning talk můžeš mít i ty! Registrace nutná na [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
+
+
+  P.S. Nezapomeň s sebou vzít hotovost - neberou karty.
+
+  
+
+  We organize Pyvo in February as well! We meet up at 19 at the club Na Věnečku, presentations start at 19.30. You can look forward to 3 presentations, lightning talks and chit-chat until early morning.
+  You can have a lightning talk as well - please register at [Lightning Talk – bit.ly/prpylight](https://bit.ly/prpylight).
+
+
+  P.S. Take cash with yourself - they don't accept cards.
+
+talks:
+- title: "The Bridge Between Sync and Async World"
+  speakers:
+    - Václav Košař
+  description: |
+    Asyncio, a Python builtin library, provides advantages in heavy IO-bound use cases, but on the other hand, spreads complexity across the synchronous code base like weeds.
+    This talk will give you a quick overview of the AsyncIO library and will demonstrate a utility class AsyncioThreadLoop that can isolate the async method calls from your synchronous code.
+
+- title: "5 essentials to pack on your career climb"
+  speakers:
+    - Šárka Kousalová
+  description: |
+    What are the five things to have always prepared to pass your interview successfully.
+
+
+- title: "Why is lunch break a NP-complete problem"
+  speakers:
+    - Jan Urban
+  description: |
+    Join me for a thought-provoking discussion on the topic of lunch breaks and the challenges they pose in the workplace.
+    This presentation will delve into the transformation of a simple problem written in law into an NP-complete problem, and explore the difficulties and trade-offs involved in finding a solution.
+

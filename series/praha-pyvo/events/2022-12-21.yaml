@@ -1,0 +1,22 @@
+name: Pražské Pyvo
+city: praha
+start: 2022-12-21 19:00:00
+venue: na-venecku
+number: 139
+description: |
+  Hou hou hou Vánoční Pyvo je tu! Také máte doma šuplík plný HW pokladů, udělátek, hejblátek, tlačítek, tišťáků, robotů, her, konzolí, Arduin a jiného zábavného balastu? Roky si říkáte: „to se přeci bude jednou hodit!?" A ono skutečně bude! Přineste vaše hračky na tradiční Vánoční Pyvo. Můžete je ostatním ukázat nebo i vyměnit či prodat za jiné.
+  Dále se můžete těšit na přednášku o obrazovce Dasung Paperlike E-ink a na další kratší talky na hardwarová témata! Svůj Ligtning talk si přihlaste na tradiční adrese https://bit.ly/prpylight.
+  A netradiční výčet tradic nekončí, sejdeme se totiž (skoro) tradičně v klubu Na Venečku od 19 hodin.
+  P.S. kdo má samolepky a nechce je, ať přinese samolepky. Kdo nemá samolepky a chce je, ten si je odnese. A nebo vymění. Burza samolepek bude též!
+
+  Ho Ho Ho Christmas Pyvo is coming! Do you have at home a lot of hardware you've never used and you're telling yourself that maybe one day you could use it for something? That day has arrived! Join us for our tradition Christmas hardware swap. 
+  You can also look forward to a presentation about Dasung Paperlike E-ink monitor and other short talks, where we'll together learn something new. You can do your Ligtning talk too: add it to https://bit.ly/prpylight.
+  We meet up at club Na Venečku from 7 P.M. 
+  P.S. if you have some stickers and you don't want them, bring them! If you don't have any and you want them, you can take them with you! Or swap.
+
+talks:
+- title: Dasung Paperlike E-ink & Lightning talky
+  description: |
+    Svůj Ligtning talk si přihlaste na tradiční adrese https://bit.ly/prpylight.
+    
+    You can do your Ligtning talk too: add it to https://bit.ly/prpylight.

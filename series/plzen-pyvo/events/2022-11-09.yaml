@@ -18,23 +18,28 @@ talks:
       - Tomáš Zítka
     description: |
         Jaký je rozdíl mezi strojovým učením a umělou inteligencí? 
-        
-   - title: Think Julia
+    coverage:
+    - video: https://youtu.be/IofqEe9HfAA
+
+  - title: Think Julia
     speakers:
       - Václav Šmídl
     description: |
         Jak využít nástroje a výhody, které Julia kompilovaná pomocí jit poskytuje oproti dynamickým jazykům na vysoké úrovni, jako je Python, nebo jazykům nižší úrovně, jako je C++.
 
-- title: Polidštěné strojové učení (AI & ML)
+  - title: Polidštěné strojové učení (AI & ML)
     speakers:
       - Václav Fiala
     description: |
         Kudy vede cesta do světa strojového učení, neuronových sítí, umělé inteligence a dalších podivností ? To a jak se následně v tomto světě vyznat zkusíme rozebrat v této přednášce. 
+    coverage:
+      - video: https://youtu.be/gVt1apn1HhY
 
-- title: Lightning talks
+  - title: Lightning talks
     lightning: true
     description: |
       Pokud máte zkušenost se zajímavou technologii, projektem, nebo chcete prezentovat sebe, či svou firmu a její aktivity, nebojte se přihlásit o slovo. K dispozici můžete mít plných 5 minut pro své téma.
       Témata možno domluvit mailem na fialav8@gmail.com případně u libovolného z organizátorů ve vhodnou chvíli při akci.
       Také sbíráme náměty na přednášky pro další Pyva, více informací na [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
 urls: []
+
