@@ -36,8 +36,8 @@ description: |
   - Club closes at midnight.
 
 talks:
-- title: "From Small PyTorch Models to GPT-like Transformers: A Beginner's Guide to Understanding Large Language Models"
+- title: "From Small PyTorch Models to GPT-like Transformers"
   speakers:
     - Peter Hozák
   description: |
-    Stay tuned for more info!
+    A Beginner's Guide to Understanding Large Language Models.
