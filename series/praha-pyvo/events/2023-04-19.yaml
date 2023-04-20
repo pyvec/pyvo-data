@@ -38,14 +38,14 @@ description: |
 talks:
 - title: "From Small PyTorch Models to GPT-like Transformers"
   speakers:
-    - Peter Hozák
+    - [Peter Hozák](https://peter.hozak.info)
   description: |
     A Beginner's Guide to Understanding Large Language Models.
     
-    ### Links from the talk
+    #### Links from the talk
     - [Small model for explaining ML terminology](https://colab.research.google.com/drive/189c-Ze22aD2soEyRFi8fJeoChBdnh1u0)
       (based on [PyTorch tutorial](https://pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html))
     - [Transformer circuits](https://transformer-circuits.pub/2021/framework/index.html) paper
-    - TransofmerLens [repo](https://github.com/neelnanda-io/TransformerLens#readme) and [notebook](https://colab.research.google.com/drive/1_NMW13xh0U3WJxAv8G8Jaob-LWr9nCRb)
+    - TransformerLens [repo](https://github.com/neelnanda-io/TransformerLens#readme) and [notebook](https://colab.research.google.com/drive/1_NMW13xh0U3WJxAv8G8Jaob-LWr9nCRb)
     - [Cyborgism](https://www.lesswrong.com/posts/bxt7uCiHam4QXrQAA/cyborgism) article for details about similators, agents, personalities in the model, mode collapse, ...
     - [aisafety.info](https://aisafety.info/) for many more links and answers
