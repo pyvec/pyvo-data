@@ -1,0 +1,47 @@
+name: Pražské Pyvo
+city: praha
+start: 2023-05-17 19:00:00
+venue: na-venecku
+topic: "Python static analysis tools"
+number: 144
+description: |
+
+  ### Co tě čeká
+  
+  V květnu se můžeš těšit na jednu přednášku, lightning talky a volnou zábavu. 
+  
+  Dveře se otvírají v 19 hodin. První přednáška začíná v 19.30. 
+  
+  Lightning talk můžeš mít i ty! Registrace nutná na [Lightning Talks – bit.ly/prpylight](https://bit.ly/prpylight).
+ 
+
+  ### What to expect
+  
+  You can look forward to one talk, lightning talks and chit-chat after. 
+  
+  Doors open at 19, first talk starts at 19.30.
+  
+  You can have a lightning talk as well – please register at [Lightning Talks – bit.ly/prpylight](https://bit.ly/prpylight).
+
+  ### Obecné 
+  - Na Pyvu jsou přednášky většinou česky, pokud přijde někdo, kdo česky nerozumí, přepneme do angličtiny, pokud se na to přednášející cítí.
+  - Kromě nealko a alko pití je možné se Na Věnečku najíst. Nabídka je proměnlivá a obvykle jde o 4 až 7 jídel od toastu, párků, přes bramborák se zelím, dršťkovou polévku a smažák v housce až po guláš nebo řízek.
+  - **Nezapomeň s sebou vzít hotovost – neberou karty.**
+  - Na Věnečku zavírají o půlnoci.
+  
+  ### General
+  - Talks at Pyvo are mostly in Czech but it there’s somebody who doesn’t understand Czech talks are switched to English if the speaker is able to.
+  - **Cash only payments – club doesn’t accept cards.**
+  - Besides both soft drinks and beer it's possible to eat at the club. Choice is variable and consists of 4 to 7 options ranging from toast, sausages and soup to fried cheese in a bun, goulash or schnitzel.
+  - Club closes at midnight.
+
+talks:
+- title: "Python static analysis tools"
+  speakers:
+    - Tomáš Kala
+  description: |
+      Let's talk about the ecosystem of static analysis tools for Python.
+      We'll take a look at what kinds of problems such tools can and cannot solve,
+      and why using them might be a good idea. We'll focus on a relatively new
+      program called Ruff that brings together many analyses in an efficient and
+      user-friendly implementation.
