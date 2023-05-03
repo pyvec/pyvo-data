@@ -69,3 +69,6 @@ talks:
         komponentách, převážně pak na provisioningu a vývoji tmt, a v noci testuje staré dobré *nixové toolchain nástroje.
         Zaměřuje se hlavně na zlepšování spolehlivosti a stability ve světě plném infrastrukturních problémů.
         Ve volném čase má rád dobrou společnost, dobré jídlo, turistiku a čas od času postaví vlastní backend pro LLVM.
+      coverage:
+        - slides: https://github.com/teemtee/docs/raw/main/slides/test-management-tool--brnenske-pyvo-2023.pdf
+        - video: https://youtu.be/HTlYcav8ACM
