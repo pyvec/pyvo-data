@@ -23,3 +23,5 @@ talks:
       This interactive session will provide attendees with practical insights into building, training, and evaluating deep learning models using the popular Keras library.
       Through real-time examples, Jiri will guide you in understanding the power and simplicity of this high-level neural networks API.
       You can follow the demonstration on your laptop but it is not necessary for the meetup at all.
+    coverage:
+      - video: https://youtu.be/83Bm5p8AJeM
