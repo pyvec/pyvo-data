@@ -1,0 +1,31 @@
+city: brno
+venue: artbar
+start: 2023-05-25 19:00:00
+name: Brněnské Pyvo
+topic: Python Vulnerability Management
+description: |
+
+  Další Pyvo se blíží! Poslední čtvrtek v měsíci v ArtBaru, jako obvykle 🙂
+
+  ----
+
+  May Pyvo is coming! Last Thursday of the month in ArtBar, as usual 🙂
+  The talk will be in English.
+
+talks:
+  - title: Python Vulnerability Management with CVSS
+    speakers:
+      - Tomáš Horáček
+    description: |
+      Do you find it difficult to keep up with the increasing number of reported vulnerabilities?
+      Are you unclear about the severity of a vulnerability in your system? Look no further than the Common Vulnerability Scoring System (CVSS).
+      This standardized framework provides an objective method for scoring security vulnerabilities on a scale from 0 to 10,
+      enabling you to prioritize resources and improve your system's security and resilience. Our talk will demonstrate how to utilize CVSS in Python projects,
+      enabling you to efficiently prioritize efforts and set up automated vulnerability reports.
+      Don't let vulnerabilities go unnoticed - utilize CVSS to enhance your software security today.
+
+      Tomas is a Python software developer at Kiwi.com where he works on integrating partner
+      APIs to automate tens of thousands of flight bookings every day.
+      Tomas has prior experience working with Java and Typescript and also has a keen interest in Rust.
+      Tomas is dedicated to writing secure and easy to maintain code. In his free time, he volunteers with the Scouts
+      and enjoys spending his summers at Scout camps, where he can share his knowledge and expertise with younger members.
