@@ -1,0 +1,19 @@
+city: ostrava
+start: 2023-06-07 18:00:00
+name: Ostravské Pyvo
+topic: Šifrování, certifikáty, autority a řetězec důvěry
+description: |
+    Ahoj,
+
+    Zase tady máme první středu v měsíci a s ní Ostravské Pyvo. Podíváme se
+    společně na to, jak funguje zabezpečení komunikace mezi webovým
+    serverem a prohlížečem a co se vlastně skrývá pod zeleným zámkem v
+    adresním řádku. Tentokrát už od 18:00. Samozřejmě můžete dorazit i
+    později.
+
+    Určitě přijďte! My tam budeme a těšíme se na vás.
+
+venue: vr-levsky
+talks: []
+urls:
+- https://www.meetup.com/ostravske-pyvo/events/294034313/
