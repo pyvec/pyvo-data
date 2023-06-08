@@ -1,0 +1,45 @@
+city: brno
+venue: artbar
+start: 2023-06-29 19:00:00
+name: Brněnské Pyvo
+topic: Language models
+description: |
+
+  Červnové Pyvo se blíží! Poslední čtvrtek v měsíci v ArtBaru, jako obvykle 🙂
+
+  ----
+
+  June Pyvo is coming! Last Thursday of the month in ArtBar, as usual 🙂
+  This time, we have two talks, both will be in English.
+
+talks:
+  - title: Using NLP to Detect Knots in Protein Structures
+    speakers:
+      - Eva Klimentová
+    description: |
+      Proteins are essential components of our bodies, with their function often dependent on their 3D structure.
+      However, uncovering the 3D structure has for a long time been redeemed by months of hard work in the lab.
+      Recent advances in Machine learning and NLP have made it possible to build models (eg. Alphafold)
+      capable of predicting the protein's 3D structure with the same precision as experimental methods.
+
+      In this talk, I will explore an even more specific application of language models for proteins - the detection of a knot in a protein's 3D structure
+      solely from the protein amino acid sequence. Knotting in proteins is a phenomenon that can affect their function and stability.
+      Thanks to NLP and interpretation techniques we can try to uncover why and how proteins tie themself into a knot. In this research,
+      we rely on many Python-based tools starting from Biopython to Pymol and Hugging Face transformer library.
+
+      Eva is a full-time PhD student in Bioinformatics doing research, teaching and being taught. Currently exploring the world of proteins,
+      their 3D structure and function with a focus on proteins with a knot in their structure and combining it with state-of-the-art Machine learning approaches.
+      In the free time doing anything and everything from dancing, reading, and knitting to reconstructing a flat.
+  - title: Taming GPT-3 Beast for Media Monitoring
+    speakers:
+      - Petr Šimeček
+    description: |
+      The emergence of ChatGPT has led to a rapid growth of prospects and implementations in the field of Natural Language Processing (NLP).
+      Various teams were struck with Fear of Missing Out (FOMO) and hastened to incorporate Large Language Models (LLMs) into their products.
+      By using OpenAI models, we successfully integrated LLM into our app on March 2, granting our users the ability to get text summaries of any article.
+      Three weeks later, we trained our own large language model for the same purpose.While heaps of research focus on English texts,
+      this talk will zoom in on using LLMs for smaller languages like Czech or Slovak. I'll share some hair-raising examples from the first days after deployment.
+      I'll also chat about the quirks that come with non-English languages (more tokens, bigger models, ...) and dish about our experiments with various LLMs.
+
+      Petr is a biostatistician by training, time series forecaster at Google, currently, entangling knots on protein backbones
+      at Masaryk University and applying large language models at Monitora Media.
