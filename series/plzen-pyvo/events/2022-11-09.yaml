@@ -12,22 +12,28 @@ talks:
       - Tomáš Zítka
       - Václav Fiala
       - Filip Vaculík
-
+      
   - title: Automatické hledání algoritmů (Úvod do AI)
     speakers:
       - Tomáš Zítka
     description: |
-        Jaký je rozdíl mezi strojovým učením a umělou inteligencí?
+        Jaký je rozdíl mezi strojovým učením a umělou inteligencí? 
     coverage:
     - video: https://youtu.be/IofqEe9HfAA
+
+  - title: Think Julia
+    speakers:
+      - Václav Šmídl
+    description: |
+        Jak využít nástroje a výhody, které Julia kompilovaná pomocí jit poskytuje oproti dynamickým jazykům na vysoké úrovni, jako je Python, nebo jazykům nižší úrovně, jako je C++.
 
   - title: Polidštěné strojové učení (AI & ML)
     speakers:
       - Václav Fiala
     description: |
-        Kudy vede cesta do světa strojového učení, neuronových sítí, umělé inteligence a dalších podivností? To a jak se následně v tomto světě vyznat zkusíme rozebrat v druhé přednášce tohoto setkání.
+        Kudy vede cesta do světa strojového učení, neuronových sítí, umělé inteligence a dalších podivností ? To a jak se následně v tomto světě vyznat zkusíme rozebrat v této přednášce. 
     coverage:
-    - video: https://youtu.be/gVt1apn1HhY
+      - video: https://youtu.be/gVt1apn1HhY
 
   - title: Lightning talks
     lightning: true
