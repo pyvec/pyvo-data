@@ -38,10 +38,11 @@ description: |
 talks:
 - title: "From Small PyTorch Models to GPT-like Transformers"
   speakers:
-    - [Peter Hozák](https://peter.hozak.info)
+    - Peter Hozák
   description: |
+    [Peter Hozák](https://peter.hozak.info) presents:
     A Beginner's Guide to Understanding Large Language Models.
-    
+
     #### Links from the talk
     - [Small model for explaining ML terminology](https://colab.research.google.com/drive/189c-Ze22aD2soEyRFi8fJeoChBdnh1u0)
       (based on [PyTorch tutorial](https://pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html))
