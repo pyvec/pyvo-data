@@ -1,0 +1,41 @@
+name: Pražské Pyvo
+city: praha
+start: 2023-07-19 19:00:00
+venue: na-hradbach
+topic: "Special summer edition in co-operation with EuroPython"
+number: 146
+description: |
+
+  ### Co tě čeká
+  
+  EuroPython, největší evropská a druhá největší Python konference na světě, se brzy bude konat v Praze! Ve spolupráci se spolupořadateli EuroPythonu jsme naplánovali společné Pyvo, abychom dali naší místní komunitě příležitost pokecat s účastníky EuroPythonu.
+
+  Máme rezervaci v hospodě Na Hradbách na Vyšehradě.
+
+  Hospoda nabízí alko i nealko pití. Pokud budeš mít hlad, je k dispozici také výběr lehkých jídel, která lze objednat přímo z grilu (přinášení vlastního jídla není povoleno).
+
+  Naše setkání je především o pokecu a volné zábavě, takže nebudou žádné prezentace.
+
+  Těšíme se na vás všechny!
+
+ 
+
+  ### What to expect
+  
+  EuroPython, Europe's largest and the world's second-largest Python conference, is soon taking place in Prague! In co-operation with co-organizers of EuroPython we've planned a special meetup to give our local tech community a chance to interact with fellow EuroPython enthusiasts.
+
+  We've booked the pub Na Hradbách at Vyšehrad for our meetup.
+
+  The pub offers a wide range of drinks, both alcoholic and non-alcoholic. If you find yourself getting hungry, there's also a selection of light meals available to order straight off the grill (kindly note, bringing your own food isn't allowed).
+
+  Our meetup is all about building relationships and enjoying the summer, so there won't be any presentations.
+
+  Looking forward to seeing you all there!
+
+
+talks:
+- title: "Chit-chat"
+  speakers:
+    - you!
+  description: |
+    - 

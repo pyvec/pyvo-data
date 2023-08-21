@@ -1,0 +1,17 @@
+city: ostrava
+start: 2023-07-05 18:00:00
+name: Ostravské Pyvo
+topic: Pokec v dešti
+description: |
+    Ahoj,Těšili jsme se s letními dny na sluníčko do Coolárny ve Vratimově,
+    ale počasí je proti nám, proto se zítra sejdeme Ve Frankie's pub.
+    Začínáme v 18:00 a nemáme žádné specifické téma, ale jistě přijdou na
+    přetřes novinky z Python světa a zajímavé projekty, na kterých
+    pracujeme nebo které jsme od posledně potkali.
+
+    Tak přijďte, těšíme se na vás!
+
+venue: frankies
+talks: []
+urls:
+- https://www.meetup.com/ostravske-pyvo/events/294593241/

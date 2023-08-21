@@ -34,3 +34,5 @@ talks:
         "Openstack developer at Red Hat, working partly on Validations and partly on CI pipelines.
         In my free time I pursue my interests in AI, electronics and history.
         I'm also a gamer, with slightly eclectic tastes."
+      coverage:
+        - video: https://www.youtube.com/watch?v=zmHxnvDvs2w

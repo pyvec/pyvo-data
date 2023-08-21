@@ -1,0 +1,22 @@
+city: plzen
+start: 2023-07-12 18:00:00
+name: Plzeňské Pyvo
+number: 33
+topic: Prázdninový pokec
+venue: raven-pub-bolevec
+description: |
+  Vážení přátelé a příznivci našich setkání!
+
+  Letní prázdninové Pyvo bude opět odlečené a bez přednášek. Přijďte se s ostatními podělit
+  o své prázdninové projekty a plány, či jen tak popovídat u nějaké bašty, piva či jiné dobroty.
+
+  V září však opět začneme s přednáškami, sledujte průběžně tento web pro více informací.
+talks:
+  - title: Lightning talks
+    lightning: true
+    description: |
+      Pokud máte zkušenost se zajímavou technologii, projektem, nebo chcete prezentovat sebe, či svou firmu a její aktivity, nebojte se přihlásit o slovo.
+      K dispozici můžete mít plných 5 minut pro své téma.
+      Témata možno domluvit mailem na tozitka@gmail.com případně u libovolného z organizátorů ve vhodnou chvíli při akci.
+      Také sbíráme náměty na přednášky pro další Pyva, více informací na [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+urls: []

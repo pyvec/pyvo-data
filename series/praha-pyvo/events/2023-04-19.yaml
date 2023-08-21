@@ -1,0 +1,52 @@
+name: Pražské Pyvo
+city: praha
+start: 2023-04-19 19:00:00
+venue: na-venecku
+topic: "From Small PyTorch Models to GPT-like Transformers: A Beginner's Guide to Understanding Large Language Models"
+number: 143
+description: |
+
+  ### Co tě čeká
+  
+  V dubnu se můžeš těšit na jednu přednášku, lightning talky a volnou zábavu. 
+  
+  Dveře se otvírají v 19 hodin. První přednáška začíná v 19.30. 
+  
+  Lightning talk můžeš mít i ty! Registrace nutná na [Lightning Talks – bit.ly/prpylight](https://bit.ly/prpylight).
+ 
+
+  ### What to expect
+  
+  You can look forward to one talk, lightning talks and chit-chat after. 
+  
+  Doors open at 19, first talk starts at 19.30.
+  
+  You can have a lightning talk as well – please register at [Lightning Talks – bit.ly/prpylight](https://bit.ly/prpylight).
+
+  ### Obecné 
+  - Na Pyvu jsou přednášky většinou česky, pokud přijde někdo, kdo česky nerozumí, přepneme do angličtiny, pokud se na to přednášející cítí.
+  - Kromě nealko a alko pití je možné se Na Věnečku najíst. Nabídka je proměnlivá a obvykle jde o 4 až 7 jídel od toastu, párků, přes bramborák se zelím, dršťkovou polévku a smažák v housce až po guláš nebo řízek.
+  - **Nezapomeň s sebou vzít hotovost – neberou karty.**
+  - Na Věnečku zavírají o půlnoci.
+  
+  ### General
+  - Talks at Pyvo are mostly in Czech but it there’s somebody who doesn’t understand Czech talks are switched to English if the speaker is able to.
+  - **Cash only payments – club doesn’t accept cards.**
+  - Besides both soft drinks and beer it's possible to eat at the club. Choice is variable and consists of 4 to 7 options ranging from toast, sausages and soup to fried cheese in a bun, goulash or schnitzel.
+  - Club closes at midnight.
+
+talks:
+- title: "From Small PyTorch Models to GPT-like Transformers"
+  speakers:
+    - Peter Hozák
+  description: |
+    [Peter Hozák](https://peter.hozak.info) presents:
+    A Beginner's Guide to Understanding Large Language Models.
+
+    #### Links from the talk
+    - [Small model for explaining ML terminology](https://colab.research.google.com/drive/189c-Ze22aD2soEyRFi8fJeoChBdnh1u0)
+      (based on [PyTorch tutorial](https://pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html))
+    - [Transformer circuits](https://transformer-circuits.pub/2021/framework/index.html) paper
+    - TransformerLens [repo](https://github.com/neelnanda-io/TransformerLens#readme) and [notebook](https://colab.research.google.com/drive/1_NMW13xh0U3WJxAv8G8Jaob-LWr9nCRb)
+    - [Cyborgism](https://www.lesswrong.com/posts/bxt7uCiHam4QXrQAA/cyborgism) article for details about similators, agents, personalities in the model, mode collapse, ...
+    - [aisafety.info](https://aisafety.info/) for many more links and answers
