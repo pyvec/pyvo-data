@@ -1,0 +1,32 @@
+city: plzen
+start: 2023-09-13 18:00:00
+name: Plzeňské Pyvo
+number: 34
+topic: Hardware
+venue: raven-pub-bolevec
+description: |
+  Vážení přátelé a příznivci našich setkání!
+
+  Většina vývojářů Pythonu své programy provozuje na běžných počítačíchm, serverech, nebo clusterech v cloudu. Tématem prvního letošního podzimního Pyva ale
+  budou mnohem menší zařízení, na kterch lze Python (resp. jeho varianty) provozovat. To má samozřejmě svá specifika - omezený výkon a paměť, nebo nutnost
+  přímé komunikace s hardware a rozličnými senzory.
+
+  Pokud vás zajímá, jak lze Python využít i mimo běžná PC, nebo pokud máte obecně rádi elektroniku a bastlení, je toto setkání právě pro vás.
+
+  Přednášky začínají v přibližně v 18:30.
+talks:
+  - title: Úvodní slovo
+    speakers:
+      - Filip Vaculík
+      - Jan Smitka
+  - title: Python na mikrokontrolérech
+    speakers:
+      - Vladimír Smitka
+  - title: Lightning talks
+    lightning: true
+    description: |
+      Pokud máte zkušenost se zajímavou technologii, projektem, nebo chcete prezentovat sebe, či svou firmu a její aktivity, nebojte se přihlásit o slovo.
+      K dispozici můžete mít plných 5 minut pro své téma.
+      Témata možno domluvit mailem na tozitka@gmail.com případně u libovolného z organizátorů ve vhodnou chvíli při akci.
+      Také sbíráme náměty na přednášky pro další Pyva, více informací na [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+urls: []
