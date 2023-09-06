@@ -22,6 +22,14 @@ talks:
   - title: Python na mikrokontrolérech
     speakers:
       - Vladimír Smitka
+    description: |
+      Ukážeme si, jak začít programovat mikrokontroléry v Pythonu a je to vůbec dobrý nápad?
+
+      Podíváme se na rozdíly mezi CPythonem, MicroPythonem a CircuitPythonem, kterému se budeme více věnovat.
+
+      Povíme si, jakou desku vybrat, co lze zvládnout, jaká jsou omezení a jak optimalizovat kód.
+
+      Na přednášku přinesu několik zajímavých hraček, ukážeme si, jak je v praxi využít a stát se hvězdným bastlířem. 🌟
   - title: Python v cizím království
     lightning: true
     speakers:
