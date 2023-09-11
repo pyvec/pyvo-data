@@ -36,6 +36,12 @@ talks:
       - Filip Vaculík
     description: |
       Sdílení zkušeností s použitím Pythonu na Arduino UNO a LEGO Mindstorm EV3 alias Texas Instruments Sitara AM1808.
+  - title: Jak ochočit virtuální baterii ČEZu 
+    lightning: true
+    speakers:
+      - Petr Fišer
+    description: |
+      Jak se dostat k strojově zpracovatelným datům o produkci vlastních solárů a stavu virtuální baterie.
   - title: Lightning talks
     lightning: true
     description: |
