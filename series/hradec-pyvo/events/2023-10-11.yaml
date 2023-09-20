@@ -1,0 +1,14 @@
+city: hradec-kralove
+start: 2023-10-11 18:00:00
+name: Hradecké Pyvo
+number: 14
+topic: Čtrnácté
+venue: pivovarske-domy
+description: ""
+talks:
+  - title: Překvapení
+    speakers:
+    - Dominik Matoulek
+  - title: Jak učit děti programovat
+    speakers:
+    - Robert Richter
