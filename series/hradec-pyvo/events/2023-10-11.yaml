@@ -6,9 +6,12 @@ topic: Čtrnácté
 venue: pivovarske-domy
 description: ""
 talks:
-  - title: Překvapení
+  - title: Zkušenosti s učením Pythonu
     speakers:
     - Dominik Matoulek
+  - title: Moje cesta na Pycon
+    speakers:
+    - Miroslav Beran
   - title: Jak učit děti programovat
     speakers:
     - Robert Richter
