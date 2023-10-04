@@ -1,0 +1,46 @@
+name: Pražské Pyvo
+city: praha
+start: 2023-10-18 19:00:00
+venue: na-venecku
+topic: "Engineering Of Structured, Semi-Structured And Unstructured Data & Language Models and the Non-English Languages"
+number: 149
+description: |
+
+  ### Co tě čeká
+  
+  Sraz je v 19 hodin Na Věnečku, přednášky začínají v 19.30. Čekají nás 2 přednášky, lightning talky a volná zábava až do rána.
+  
+  Lightning talk můžeš mít i ty! Registrace nutná na [Lightning Talks – bit.ly/prpylight](https://bit.ly/prpylight).
+ 
+
+  ### What to expect
+  
+  We meet up at 19 at the club Na Věnečku, presentations start at 19.30. You can look forward to 3 presentations, lightning talks and chit-chat until early morning.
+  
+  You can have a lightning talk as well – please register at [Lightning Talks – bit.ly/prpylight](https://bit.ly/prpylight).
+
+  ### Obecné 
+  - Na Pyvu jsou přednášky většinou česky, pokud přijde někdo, kdo česky nerozumí, přepneme do angličtiny, pokud se na to přednášející cítí.
+  - Kromě nealko a alko pití je možné se Na Věnečku najíst. Nabídka je proměnlivá a obvykle jde o 4 až 7 jídel od toastu, párků, přes bramborák se zelím, dršťkovou polévku a smažák v housce až po guláš nebo řízek.
+  - **Nezapomeň s sebou vzít hotovost – neberou karty.**
+  - Na Věnečku zavírají o půlnoci.
+  
+  ### General
+  - Talks at Pyvo are mostly in Czech but it there’s somebody who doesn’t understand Czech talks are switched to English if the speaker is able to.
+  - **Cash only payments – club doesn’t accept cards.**
+  - Besides both soft drinks and beer it's possible to eat at the club. Choice is variable and consists of 4 to 7 options ranging from toast, sausages and soup to fried cheese in a bun, goulash or schnitzel.
+  - Club closes at midnight.
+
+talks:
+- title: "Engineering Of Structured, Semi-Structured And Unstructured Data"
+  speakers:
+    - Sena Şahin
+  description: |
+    - This talk tries giving an insight on various data types in business/academia and what are the clean approaches to be able to work with such data types. (for example, the difference between preprocessing of a csv file and an image) 
+- title: "Language Models and the Non-English Languages"
+  speakers:
+    - Pavel Král
+  description: |
+    - In this presentation, we'll explore the details of language models when handling non-English languages. We'll dive into the token usage across different languages to understand if queries in non-English languages incur higher costs compared to English. Additionally, we'll investigate the nuances of embedding distances for non-English terms, both in their native form and after translation to English, shedding light on potential variations and their implications.
+
+
