@@ -1,0 +1,30 @@
+city: brno
+venue: artbar
+start: 2023-10-26 19:00:00
+name: Brněnské Pyvo
+topic: Říjnové
+description: |
+
+  🍂 Říjnové Pyvo se blíží! 🎃
+
+  Poslední čtvrtek v měsíci, jako obvykle 🙂 A vracíme se do ArtBaru. 🍻
+
+  Přednáška bude anglicky.
+  
+  ----
+  
+  🍂 October Pyvo is coming! 🎃
+
+  Last Thursday of the month, as usual. 🙂 And we are coming back to ArtBar. 🍻
+  
+  The talk will be in English.
+
+talks:
+  - title: FastAPI - Production-grade APIs made EZ
+    speakers:
+      - Patrik Hagara
+    description: |
+      Intro to quickly hacking together type-safe, data validating, self-documenting, scalable and decently fast JSON APIs in modern Python (with asyncio).
+      
+      About Patrik: Reformed "just code it in BASH with a bunch of regexes" programmer. Likes asyncio, mypy, and writing Python code that looks more like Java.
+      Cybersecurity and privacy aficionado.
