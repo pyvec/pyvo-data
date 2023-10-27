@@ -28,3 +28,5 @@ talks:
       
       About Patrik: Reformed "just code it in BASH with a bunch of regexes" programmer. Likes asyncio, mypy, and writing Python code that looks more like Java.
       Cybersecurity and privacy aficionado.
+    coverage:
+      - link: https://github.com/phagara/pyvo-fastapi-demo 
