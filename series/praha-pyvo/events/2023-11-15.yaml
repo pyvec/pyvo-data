@@ -34,11 +34,11 @@ description: |
 talks:
 - title: "Program prepared by organizers"
   speakers:
-    - 
-  description: |
+    - organizers
+  description:
     -
 - title: "Lightning Talks"
   speakers:
-    - 
-  description: |
+    - you!
+  description:
     -
