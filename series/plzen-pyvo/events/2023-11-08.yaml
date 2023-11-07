@@ -1,0 +1,20 @@
+city: plzen
+start: 2023-11-08 18:00:00
+name: Plzeňské Pyvo
+number: 35
+topic: CHANGELOG
+venue: raven-pub-bolevec
+description: |
+  Vážení přátelé a příznivci našich setkání!
+
+  Před koncem roku se pokusíme shrnout, co nového se událo ve světě Pythonu. Krátce si popovídáme o novinkách v posledních verzích Pythonu.
+  Pokud máte nějakou novinku ze své oblíbené knihovny, přijďte se podělit s ostatními!
+talks:
+  - title: Lightning talks
+    lightning: true
+    description: |
+      Pokud máte zkušenost se zajímavou technologii, projektem, nebo chcete prezentovat sebe, či svou firmu a její aktivity, nebojte se přihlásit o slovo.
+      K dispozici můžete mít plných 5 minut pro své téma.
+      Témata možno domluvit mailem na tozitka@gmail.com případně u libovolného z organizátorů ve vhodnou chvíli při akci.
+      Také sbíráme náměty na přednášky pro další Pyva, více informací na [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+urls: []
