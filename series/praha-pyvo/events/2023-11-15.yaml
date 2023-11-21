@@ -35,6 +35,10 @@ talks:
 - title: "Program prepared by organizers"
   speakers:
     - organizers
+  coverage:
+    - video: https://youtu.be/_lniDyISwiM
 - title: "Lightning Talks"
   speakers:
     - you!
+  coverage:
+    - video: https://youtu.be/HQTVdLDpA90
