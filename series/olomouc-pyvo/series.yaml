@@ -2,9 +2,9 @@ name: Olomoucké Pyvo
 city: olomouc
 description:
   cs: |
-    Olomoucké Pyvo bývá každou poslední středu v měsíci.
+    Olomoucké Pyvo bývá každý předposlední čtvrtek v měsíci.
   en: |
-    Olomouc Pyvo is traditionally held on the last Wednesday of each month.
+    Olomouc Pyvo is held on the second-to-last Thursday of each month.
 organizer-info:
   - name: Martin Čurlej
     phone: '739246296'
@@ -15,9 +15,12 @@ organizer-info:
   - name: Jan Bednařík
     phone: '603439481'
     mail: jan.bednarik@gmail.com
+  - name: Kuba Beránek
+    phone: '731902999'
+    mail: berykubik@gmail.com
 recurrence:
   scheme: monthly
-  rrule: RRULE:FREQ=MONTHLY;INTERVAL=1;BYDAY=WE;BYSETPOS=-1;BYHOUR=19;BYMINUTE=0;BYSECOND=0
+  rrule: RRULE:FREQ=MONTHLY;INTERVAL=1;BYDAY=TH;BYSETPOS=-2;BYHOUR=18;BYMINUTE=0;BYSECOND=0
   description:
-    cs: Olomoucké Pyvo bývá každou poslední středu v měsíci.
-    en: Olomouc Pyvo is traditionally held on the last Wednesday of each month.
+    cs: Olomoucké Pyvo bývá každý předposlední čtvrtek v měsíci.
+    en: Olomouc Pyvo is held on the second-to-last Thursday of each month.
