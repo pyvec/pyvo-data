@@ -1,0 +1,21 @@
+city: ostrava
+start: 2023-12-06 18:00:00
+name: Ostravské Pyvo
+topic: Předvánoční PYVO s KODI doplňky v Pythonu
+description: |
+    Ahoj!
+
+    Vladimír Návrat popovídá o **Kodi doplňcích v Pythonu**: Přednáška
+    lehce seznámí posluchače s fascinujícím světem Kodi, oblíbeného open-
+    source multimediálního přehrávače. Pak rovnou přeskočí na implementaci
+    jednoduchého doplňku, na kterém ukáže posluchačům, jak vytvořit vlastní
+    doplněk pomocí programovacího jazyka Python.
+
+    Začneme v 18:00 v restauraci Palouk.
+
+    Určitě doražte, těšíme se na vás!
+
+venue: palouk
+talks: []
+urls:
+- https://www.meetup.com/ostravske-pyvo/events/297397316/
