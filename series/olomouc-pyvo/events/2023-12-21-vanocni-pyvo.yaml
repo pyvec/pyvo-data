@@ -1,0 +1,25 @@
+city: olomouc
+start: 2023-12-21 18:00:00
+name: Olomoucké Pyvo
+topic: Vánoční Pyvo
+description: |
+    Vánoční Olomoucké PyVo! Můžete přijít ve vánočním svetru a přinést cukroví na ochutnání :)
+    Ukážeme si, jak můžeme v Pythonu využít typy, a jak psát API, které nejde jednoduše použít špatně.
+    Jakékoliv další přednášky/lightning talky jsou vítány! Viz níže.
+
+    Pokud máte nějakou přednášku či téma na příště, dejte nám vědět v
+    [mailing listu Olomouckého Pyva](https://groups.google.com/forum/#!forum/olomoucke-pyvo).
+    A přidejte se do mailing listu pro aktuální info.
+
+    Lightning talky a jejich registraci najdete na
+    [tinyurl.com/olopyvo-lightning-talky](https://tinyurl.com/olopyvo-lightning-talky).
+    Děkujeme!
+
+    Těšíme se na vaši účast!
+
+venue: u-ptaka
+talks:
+  - title: Používání typů a psaní bezpečných API v Pythonu
+    speakers:
+      - Kuba Beránek
+urls: []
