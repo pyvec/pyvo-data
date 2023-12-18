@@ -1,0 +1,23 @@
+city: ostrava
+start: 2024-01-03 18:00:00
+name: Ostravské Pyvo
+topic: Novoroční PYVO
+description: |
+    Ahoj!
+
+    **Python není kompilovaný!** Anebo je? V tomto příspěvku nám Lumír
+    ukáže, jakými fázemi projde váš kód od začátku do konce běhu programu.
+    Dozvíte se také, jak je možné, že různé verze Pythonu detekují chyby v
+    různém pořadí.
+
+    Petra poté naváže povídáním o **Advent of code 2023** a o tom, jaké to
+    v roce 2023 bylo s ukázkou některých hádanek.
+
+    Začneme v 18:00 v restauraci Palouk.
+
+    Určitě doražte, těšíme se na vás!
+
+venue: palouk
+talks: []
+urls:
+- https://www.meetup.com/ostravske-pyvo/events/297978749/
