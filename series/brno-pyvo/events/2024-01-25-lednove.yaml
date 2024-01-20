@@ -1,0 +1,29 @@
+city: brno
+venue: artbar
+start: 2024-01-25 19:00:00
+name: Brněnské Pyvo
+topic: Lednové
+description: |
+
+  První Pyvo v roce 2024 se blíží!
+
+  Poslední čtvrtek v měsíci v ArtBaru, jako obvykle. 🙂 🍻
+
+  Přednáška bude tentokrát v češtině.
+  
+  ----
+  First Pyvo in 2024 is coming!
+
+  Last Thursday of the month at ArtBar, as usual. 🙂 🍻
+  
+  The talk will be in Czech this time.
+
+talks:
+  - title: Python nástroje pro embedded vývoj na ESP32
+    speakers:
+      - Radim Karniš
+    description: |
+      Přednáška se zaměří na použití Pythonu v projektech pro správu reálných embedded zařízení.
+
+      Představím Python nástroje pro vývoj na platformě ESP32 a jejich vnitřní fungování s důrazem na popis propojení a komunikace mezi SW a HW.
+      Zároveň se podělím o tipy, triky a své zkušenosti se všemi stupni vývojového cyklu populárního open-source Python projektu.
