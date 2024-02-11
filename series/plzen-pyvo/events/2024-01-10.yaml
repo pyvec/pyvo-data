@@ -1,0 +1,22 @@
+city: plzen
+start: 2024-01-10 18:00:00
+name: Plzeňské Pyvo
+number: 36
+topic: Sdílené obzory
+venue: raven-pub-bolevec
+description: |
+  Vážení přátelé a příznivci našich setkání!
+
+  Vánoční a Novoroční čas je za námi a další rok si nezadržielně razí cestu kalendářem.
+  Pro ty z nás, kteří mají možnost a chuť se, v našem dvouměsíčním rytmu, setkat, je zde další Pyvo.
+  Především to bude příležitost pro sdílení zkušeností a zajímavostí.
+  Každý z nás má svou jedinečnou cestu životem, nejen tím profesním, a o své zkušenosti se můžeme vzájemně obohatit. 
+talks:
+  - title: Lightning talks
+    lightning: true
+    description: |
+      Pokud máte zkušenost se zajímavou technologii, projektem, nebo chcete prezentovat sebe, či svou firmu a její aktivity, nebojte se přihlásit o slovo.
+      K dispozici můžete mít plných 5 minut pro své téma.
+      Témata možno domluvit mailem na tozitka@gmail.com případně u libovolného z organizátorů ve vhodnou chvíli při akci.
+      Také sbíráme náměty na přednášky pro další Pyva, více informací na [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+urls: []

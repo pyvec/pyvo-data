@@ -1,0 +1,31 @@
+city: brno
+venue: artbar
+start: 2023-11-30 19:00:00
+name: Brněnské Pyvo
+topic: Listopadové
+description: |
+
+  🍂 Listopadové Pyvo se blíží! 🎃
+
+  Poslední čtvrtek v měsíci, jako obvykle 🙂 A vracíme se do ArtBaru. 🍻
+
+  Přednáška bude anglicky.
+  
+  ----
+  
+  🍂 November Pyvo is coming!
+
+  Last Thursday of the month, as usual. 🙂 And we are coming back to ArtBar. 🍻
+
+  The talk will be in English.
+
+talks:
+  - title: Intro to langchain
+    speakers:
+      - Jiří Podivín
+    description: |
+      Langchain je všestranným frameworkem pro praxi s jazykovými modely v jazyce Python.
+
+      Ať už chcete postavit frontend pro vektorovou databázi nebo postavit aplikaci volající API OpenAI,
+      langchain vám poskytne nutné nástroje i vhodné návody. Pro programátory uvědomělé bezpečnostních rizik
+      umožňuje i implementaci zcela lokálních aplikaci. Součástí prezentace bude i krátké demo nasazení chatbota.

@@ -1,0 +1,24 @@
+city: olomouc
+start: 2024-02-29 18:00:00
+name: Olomoucké Pyvo
+topic: "Strojové učení #2: pandas"
+description: |
+    Další PyVo v roce 2024, tentokrát posunuto na poslední čtvrtek v měsíci. Budeme pokračovat v povídání
+    o datové analýze, tentokrát si řekneme něco o knihovně [Pandas](https://pandas.pydata.org/), tj.
+    "programovatelný Excel", který umožňuje jednoduše analyzovat tabulková data.
+  
+    Jakékoliv další přednášky či lightning talky jsou vítány! Pokud máte nápad na nějakou přednášku či
+    téma na příště, můžete jej zapsat na [tomto odkazu](https://tinyurl.com/olopyvo-lightning-talky).
+
+    Můžete se také přidat do [mailing listu Olomouckého Pyva](https://groups.google.com/forum/#!forum/olomoucke-pyvo)
+    a/nebo do kanálu [#pyvo-olomouc](https://pyvec.slack.com/archives/C7N6X4L5B) na
+    [PyVec Slacku](https://pyvec.slack.com/), abyste měli vždy aktuální informace.
+
+    Děkujeme a těšíme se na vaši účast!
+
+venue: u-ptaka
+talks:
+  - title: "Strojové učení #2: pandas"
+    speakers:
+      - Kuba Beránek
+urls: []
