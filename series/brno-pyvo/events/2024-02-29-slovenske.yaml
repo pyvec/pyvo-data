@@ -1,0 +1,31 @@
+city: brno
+venue: artbar
+start: 2024-02-29 19:00:00
+name: Brněnské Pyvo
+topic: Slovenské
+description: |
+  Únorové pyvo, poslední čtvrtek v měsíci v ArtBaru, jako obvykle. 🙂 🍻
+
+  Přednáška bude v angličtině.
+
+  ----
+  February Pyvo, last Thursday of the month at ArtBar, as usual. 🙂 🍻
+
+  The talk will be in English.
+
+talks:
+  - title: "PyCon SK sneak peak: How to not get crazy from information overload"
+    speakers:
+      - Veronika Kabátová
+    description: |
+      Still thinking on whether you want to attend PyCon SK? We have the perfect tasting for you in the form of one of the beginners' talks that will be presented there!
+
+      There's too many pieces of advice out there to keep them in mind and actually remember to apply them when it matters.
+      It's tempting to become a genius overnight as the competition is harsh. But trying to become perfect
+      and keep every piece of information in mind is overwhelming and stressful.
+      Where's the line between what's realistic, both as a beginner and as experienced programmer?
+      What are some good habits to adopt right away, and how do they relate to your typical programming memes?
+      We'll take a look at some behaviors even experienced IT folks struggle with and how to do things instead and why, to get you a head start in your new journey.
+
+      Veronika is an Open source enthusiast who enjoys mentoring newbies, building communities around projects
+      and convincing teams to do project management the right way - with documentation, testing, reliability and transparency in mind.
