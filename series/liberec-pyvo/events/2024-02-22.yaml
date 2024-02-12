@@ -1,0 +1,14 @@
+city: liberec
+start: 2024-02-22 16:00:00
+name: Liberecké Pyvo
+number: 6
+topic: šesté, nová série #1
+venue: crosscafe
+description: |
+  Znovuzrození libereckého pyva po pěti letech.
+
+talks:
+  - title: Nezávazné posezení u kávy
+    description: |
+        Výhledy do budoucna, pohledy do minulosti.
+
