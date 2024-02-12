@@ -1,0 +1,9 @@
+city: Liberec
+name: CrossCafe
+address: Pražská 11/13, Liberec
+#notes: |
+#  ...
+
+location:
+  latitude: '50.7682508'
+  longitude: '15.0573092'
