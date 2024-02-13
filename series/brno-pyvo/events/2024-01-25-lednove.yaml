@@ -27,3 +27,12 @@ talks:
 
       Představím Python nástroje pro vývoj na platformě ESP32 a jejich vnitřní fungování s důrazem na popis propojení a komunikace mezi SW a HW.
       Zároveň se podělím o tipy, triky a své zkušenosti se všemi stupni vývojového cyklu populárního open-source Python projektu.
+    coverage:
+      - video: https://www.youtube.com/watch?v=WTPAO3APZII
+
+  - title: Open Interpreter a LM Studio
+    lightning: true
+    speakers:
+      - Miroslav Jaroš
+    coverage:
+      - video: https://www.youtube.com/watch?v=3cgvpn-KfFo
