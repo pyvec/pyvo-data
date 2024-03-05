@@ -1,0 +1,38 @@
+city: plzen
+start: 2024-03-13 18:00:00
+name: Plzeňské Pyvo
+number: 37
+topic: Nástrojové
+venue: raven-pub-bolevec
+description: |
+  Vážení přátelé a příznivci našich setkání!
+
+  Druhé Pyvo roku 2024 bude zaměřené na nástroje. Podíváme se nejen na softwarové nástroje, které dokáží vývoj v Pythonu zrychlit i usnadnit, ale uděláme
+  si i malý vhled do nástrojů fyzických: konkrétně se podíváme na svobodný mobilní telefon.
+
+  Těšíme se na viděnou!
+talks:
+  - title: Úvodní slovo
+    speakers:
+      - Filip Vaculík
+  - title: Zkušenosti s férovým svobodným telefonem Fairphone + /e/OS
+    speakers:
+      - Jiří Fictum, VOŠ Plzeň
+  - title: "Správa a kontrola projektů v Pythonu kosmickou rychlostí: uv, ruff a pre-commit"
+    speakers:
+      - Jan Smitka, Lynt
+    description: |
+      V posledním roce a půl vznikly dva velmi zajímavé open-source projekty: `ruff`, který slouží pro kontrolu (linting) a formátování kódu, a `uv`, který plánuje usnadnit (a hlavně zrychlit) správu závislostí a virtualenvs.
+
+      Oba mají (kromě týmu autorů) společnou zásadní věc: jsou napsané v Rustu a kladou velký důraz na rychlost. V rámci přednášky oba nástroje integrujeme do existujícího projektu a předvedeme si jejich použítí v praxi.
+
+      Spouštění kontrol kódu také zautomatizujeme nástrojem `pre-commit`.
+  - title: Lightning talks
+    lightning: true
+    description: |
+      Pokud máte zkušenost se zajímavou technologii, projektem, nebo chcete prezentovat sebe, či svou firmu a její aktivity, nebojte se přihlásit o slovo.
+      K dispozici můžete mít plných 5 minut pro své téma.
+
+      Témata možno domluvit mailem na tozitka@gmail.com případně u libovolného z organizátorů ve vhodnou chvíli při akci.
+      Také sbíráme náměty na přednášky pro další Pyva, více informací na [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+urls: []
