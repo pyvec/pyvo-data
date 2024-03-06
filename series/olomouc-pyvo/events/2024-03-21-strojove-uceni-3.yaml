@@ -1,0 +1,22 @@
+city: olomouc
+start: 2024-03-21 18:00:00
+name: Olomoucké Pyvo
+topic: "Strojové učení #3: jak funguje AI"
+description: |
+    V březnovém PyVu si vysvětlíme, jak vlastně funguje umělá inteligence a strojové učení.
+  
+    Jakékoliv další přednášky či lightning talky jsou vítány! Pokud máte nápad na nějakou přednášku či
+    téma na příště, můžete jej zapsat na [tomto odkazu](https://tinyurl.com/olopyvo-lightning-talky).
+
+    Můžete se také přidat do [mailing listu Olomouckého Pyva](https://groups.google.com/forum/#!forum/olomoucke-pyvo)
+    a/nebo do kanálu [#pyvo-olomouc](https://pyvec.slack.com/archives/C7N6X4L5B) na
+    [PyVec Slacku](https://pyvec.slack.com/), abyste měli vždy aktuální informace.
+
+    Děkujeme a těšíme se na vaši účast!
+
+venue: u-ptaka
+talks:
+  - title: "Strojové učení #3: jak funguje AI"
+    speakers:
+      - Kuba Beránek
+urls: []
