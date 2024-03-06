@@ -19,4 +19,7 @@ talks:
   - title: "Strojové učení #3: jak funguje AI"
     speakers:
       - Kuba Beránek
+  - title: "Copilots Need Helmets Too: GitHub Copilot Security Case Study"
+    speakers:
+      - Miloslav Homer
 urls: []
