@@ -1,0 +1,33 @@
+city: brno
+venue: artbar
+start: 2024-03-28 19:00:00
+name: Brněnské Pyvo
+topic: Obrazové
+description: |
+  Březnové pyvo, poslední čtvrtek v měsíci v ArtBaru, jako obvykle. 🙂 🍻
+
+  Přednáška bude v angličtině.
+
+  ----
+  March Pyvo, last Thursday of the month at ArtBar, as usual. 🙂 🍻
+
+  The talk will be in English.
+
+talks:
+  - title: Image analysis with OpenCV
+    speakers:
+      - Lukáš Malý
+    description: |
+      We will show several examples of how to use the OpenCV library in Python
+      to analyze an image from a scanning electron microscope for automatic adjustment, so that users always have a sharp image.
+
+      Lukáš Malý leads a team of scientists and developers who use advanced methods of image processing,
+      computer vision and artificial intelligence to increase the automation, image quality and efficiency of scanning electron microscopes.
+
+      ----
+      Ukážeme si několik příkladů, jak pomocí knihovny OpenCV v Pythonu analyzovat obraz ze skenovacího elektronového mikroskopu
+      pro jeho automatické seřizování, tak aby uživatelé měli vždy ostrý obraz.
+      
+      Lukáš Malý vede tým vědců a vývojářů, kteří pomocí pokročilých metod zpracování obrazu,
+      počítačového vidění a umělé inteligence zvyšují automatizaci, kvalitu obrazu a efektivitu skenovacích elektronových mikroskopů.
+
