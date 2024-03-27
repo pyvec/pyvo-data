@@ -19,6 +19,8 @@ organizer-info:
     mail: encukou@gmail.com
   - name: Milan Kubík
     mail: email@kubikmilan.sk
+  - name: Anežka Müller
+    mail: anezka.muller@pyladies.cz
 recurrence:
   scheme: monthly
   rrule: RRULE:FREQ=MONTHLY;INTERVAL=1;BYDAY=-1TH;BYHOUR=19;BYMINUTE=0;BYSECOND=0
