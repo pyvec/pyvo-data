@@ -1,0 +1,59 @@
+city: brno
+venue: artbar
+start: 2024-04-25 19:00:00
+name: Brněnské Pyvo
+topic: Dubnové
+description: |
+  Dubnové pyvo, poslední čtvrtek v měsíci v ArtBaru, jako obvykle. 🙂 🍻
+
+  Přednášky budou v angličtině.
+
+  ----
+  April Pyvo, last Thursday of the month at ArtBar, as usual. 🙂 🍻
+
+  The talks will be in English.
+
+talks:
+  - title: Combining Django ORM & FastAPI
+    speakers:
+      - Mia Bajić
+    description: |
+      Django is the most extensive Python framework, which is also very opinionated and synchronous.
+      In contrast, FastAPI emerges as a more recent, asynchronous framework.
+
+      As a developer and the maintainer of several services, one of which is a data visualization tool
+      deployed in production across various companies, I have had the unique opportunity to use Django ORM with FastAPI.
+      If you take a look through GitHub or other resources, you’ll notice there’s not much out there
+      about combining Django and FastAPI — it’s a bit of an unconventional setup. 
+      The aim of my talk is to share insights from my experience with this setup, highlighting its practical
+      implementation and the lessons learned along the way.
+
+      This talk is aimed at programmers from beginners to more experienced ones familiar with either of these frameworks.
+      You’ll gain insights into combining asynchronous frameworks with synchronous ones,
+      along with understanding the benefits and challenges of this approach.
+
+      About Mia:
+      I'm a software engineer based in Prague, Czech Republic with seven years of experience in the IT industry.
+      I currently work at Ataccama, where I contribute to the development of a business intelligence tool and I maintain several AI microservices.
+      I'm passionate about building tech communities and knowledge sharing.
+      I'm the main organizer of Prague Python meetups & Prague Python Pizza and a co-organizer of PyCon CZ & EuroPython.
+  - title: How to simplify feature delivery with effective API design
+    speakers:
+      - Michal Cyprian
+    description: |
+      In today's fast-paced world, the ability to deliver new features quickly is crucial for product-oriented companies.
+      In this talk, we'll dive into architectural patterns that optimize the delivery of multiple client implementations
+      in complex client-server architectures.
+
+      The advent of the mobile age has dramatically altered the landscape of typical client-server models.
+      After contending with these challenges, we've implemented architectural patterns known as Backend for Frontend (BFF) and Server-driven UI in Python.
+      These patterns have brought significant advantages, but we're also aware of their limitations.
+      We'll explore Python optimizations, caching strategies, and SQLAlchemy preloading techniques, which were crucial to our success.
+
+      This talk aims to provide you with an overview of useful architectural patterns, insights on how to implement and optimize them in Python,
+      and strategies to make your product managers happy by shortening your time to production.
+
+      About Michal:
+      I am a passionate software engineer who is always looking for new ways to solve complex business problems using the latest technologies.
+      I enjoy sharing my knowledge and expertise with other engineers. I am also interested in leadership and creating a positive team culture.
+      I strive to combine my technical skills with effective leadership skills to help individuals reach their full potential. 
