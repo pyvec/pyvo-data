@@ -37,6 +37,9 @@ talks:
       I currently work at Ataccama, where I contribute to the development of a business intelligence tool and I maintain several AI microservices.
       I'm passionate about building tech communities and knowledge sharing.
       I'm the main organizer of Prague Python meetups & Prague Python Pizza and a co-organizer of PyCon CZ & EuroPython.
+
+    # (Mia asked to not share the video)
+
   - title: How to simplify feature delivery with effective API design
     speakers:
       - Michal Cyprian
@@ -57,3 +60,30 @@ talks:
       I am a passionate software engineer who is always looking for new ways to solve complex business problems using the latest technologies.
       I enjoy sharing my knowledge and expertise with other engineers. I am also interested in leadership and creating a positive team culture.
       I strive to combine my technical skills with effective leadership skills to help individuals reach their full potential. 
+    coverage:
+      - video: https://youtu.be/UfZk9teNdI0
+
+  - title: Acoustic Emissions – Part of Greenhouse FarmAI non-profit organization
+    lightning: true
+    speakers:
+      - Miroslav Jaroš
+
+  - title: CyberLadies
+    lightning: true
+    speakers:
+      - Kayla
+    coverage:
+      - video: https://youtu.be/D-qrejah1kE
+
+  - title: Daniel Kopecký
+    lightning: true
+    speakers:
+      - Daniel Kopecký
+    coverage:
+      - video: https://youtu.be/JUdq-wqCvKs
+
+  - title: 3D printing with Python
+    lightning: true
+    speakers:
+      - Vega D
+
