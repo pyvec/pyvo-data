@@ -1,0 +1,36 @@
+city: plzen
+start: 2024-05-08 18:00:00
+name: Plzeňské Pyvo
+number: 38
+topic: Chytrá domácnost a debugging
+venue: raven-pub-bolevec
+description: |
+  Vážení přátelé a příznivci našich setkání!
+
+  Sváteční květnové Pyvo bude kombinovat hned dvě témata. Představíme si hardware i software pro stavbu chytrých domácností. Druhým tématem budou ladící nástroje v Pythonu. Přijďte si poslechnout zkušenosti ostatních a případně se podělit i o své vlastní!
+
+  Těšíme se na viděnou!
+talks:
+  - title: Úvodní slovo
+    speakers:
+      - Filip Vaculík
+  - title: Chytrá domácnost
+    speakers:
+      - Michal Seménka
+  - title: Představení Meshtastic
+    speakers:
+      - Vladimír Smitka
+    lightning: true
+  - title: Python Debuggers
+    speakers:
+      - Tomáš Zítka
+    description: Ukážeme si různé užitečné nástroje a triky pro debugování Pythonu.
+  - title: Lightning talks
+    lightning: true
+    description: |
+      Pokud máte zkušenost se zajímavou technologii, projektem, nebo chcete prezentovat sebe, či svou firmu a její aktivity, nebojte se přihlásit o slovo.
+      K dispozici můžete mít plných 5 minut pro své téma.
+
+      Témata možno domluvit u libovolného z organizátorů ve vhodnou chvíli při akci.
+      Také sbíráme náměty na přednášky pro další Pyva, více informací na [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+urls: []
