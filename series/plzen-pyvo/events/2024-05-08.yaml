@@ -14,7 +14,8 @@ talks:
   - title: Úvodní slovo
     speakers:
       - Filip Vaculík
-  - title: Chytrá domácnost
+  - title: Chytrá domácnost. Lenost, = hybatel pokroku
+    description: Je možné mít díky chytrému domu více volného času a pohodlí? S Home Asssistant na cestě k efektivnosti.
     speakers:
       - Michal Seménka
   - title: Představení Meshtastic
