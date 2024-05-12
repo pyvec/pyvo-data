@@ -1,0 +1,15 @@
+city: hradec-kralove
+start: 2024-05-23 18:00:00
+name: Hradecké Pyvo
+number: 19
+topic: Linux
+venue: pivovarske-domy
+description: |
+    co je Linux, proč ho chceme znát a používat
+    
+    základy Linuxu
+    
+    praktická ukázka
+talks: []
+urls:
+- https://www.facebook.com/groups/pythonhradeckralove
