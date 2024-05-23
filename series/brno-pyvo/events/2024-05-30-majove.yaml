@@ -1,0 +1,28 @@
+city: brno
+venue: artbar
+start: 2024-05-30 19:00:00
+name: Brněnské Pyvo
+topic: Májové
+description: |
+  Májové či chcete-li květnové Pyvo, poslední čtvrtek v měsíci v ArtBaru, jako obvykle. 🙂 🍻
+
+  ----
+  May Pyvo, last Thursday of the month at ArtBar, as usual. 🙂 🍻
+
+talks:
+  - title: "On the Waves of Piracy: Open-Sourcing Traditional Culture, One Song at a Time (Using FastAPI)"
+    speakers:
+      - Samuel Petrovič
+    description: |
+      There are approximately 4,000 Slovak songs, but where can they be found? Historically, these songs were shared through oral tradition.
+      Interestingly, the fields of ethnology and musicoethnology emerged in Slovakia quite early, and early ethnologists began compiling
+      known songs into collections called songbooks and hymnals to preserve them. Unfortunately, the format of these compilations has changed little
+      over the past 200 years. It's time for a modern approach.
+
+      Using FastAPI, Jinja2, Alembic, Bootstrap, and HTMX, I'm developing a website to gather all available songs in one place.
+      The main features of this project include accessibility, easy search and filter options, and organized song collections.
+
+      About me: I work as a quality engineer in Red Hat's Kernel Performance team, focusing on kernel virtual storage and file systems.
+      For the past decade, Python has been my go-to tool for automating tasks like running tests and processing test results.
+      Outside of work, I play a range of traditional instruments, including the violin, viola, bagpipes, and various traditional flutes,
+      and perform with several folklore groups.
