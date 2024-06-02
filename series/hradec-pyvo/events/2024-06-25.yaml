@@ -1,0 +1,15 @@
+city: hradec-kralove
+start: 2024-06-25 18:00:00
+name: Hradecké Pyvo
+number: 20
+topic: GIT
+venue: pivovarske-domy
+description: |
+    co je GIT, proč ho chceme znát a používat
+    
+    základy GITu
+    
+    praktická ukázka
+talks: []
+urls:
+- https://www.facebook.com/groups/pythonhradeckralove
