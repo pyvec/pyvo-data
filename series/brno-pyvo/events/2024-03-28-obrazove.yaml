@@ -27,7 +27,16 @@ talks:
       ----
       Ukážeme si několik příkladů, jak pomocí knihovny OpenCV v Pythonu analyzovat obraz ze skenovacího elektronového mikroskopu
       pro jeho automatické seřizování, tak aby uživatelé měli vždy ostrý obraz.
-      
+
       Lukáš Malý vede tým vědců a vývojářů, kteří pomocí pokročilých metod zpracování obrazu,
       počítačového vidění a umělé inteligence zvyšují automatizaci, kvalitu obrazu a efektivitu skenovacích elektronových mikroskopů.
+    coverage:
+      - video: https://youtu.be/AgJaPupnjP4
+
+  - title: Lightning talk
+    speakers:
+      - Honza Javorek
+    lightning: true
+    coverage:
+      - video: https://youtu.be/Auph1jY2GyA
 
