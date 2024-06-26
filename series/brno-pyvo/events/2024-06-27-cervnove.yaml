@@ -1,0 +1,19 @@
+city: brno
+venue: artbar
+start: 2024-06-27 19:00:00
+name: Brněnské Pyvo
+topic: Červnové
+description: |
+  Červnové Pyvo, poslední čtvrtek v měsíci v ArtBaru, jako obvykle. 🙂 🍻
+
+  ----
+  June Pyvo, last Thursday of the month at ArtBar, as usual. 🙂 🍻
+
+talks:
+  - title: 3D printing in python or python in 3D printing
+    speakers:
+      - Vega
+    description: |
+      Exploring the use of python in every step of 3D printing from model creation to moving the motors.
+
+      About me: Hi, my name is Vega, and I am an electrical engineering undergrad with background of many years in programming.
