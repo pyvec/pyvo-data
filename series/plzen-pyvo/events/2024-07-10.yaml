@@ -1,0 +1,26 @@
+city: plzen
+start: 2024-07-10 18:00:00
+name: Plzeňské Pyvo
+number: 39
+topic: Setkávací
+venue: raven-pub-bolevec
+description: |
+  Vážení přátelé a příznivci našich setkání!
+
+  Ne všichni o prázdninách zmizeli, někteří nemohou a někteří ani nechtějí. Pro všechny, kteří máte chuť se setkat a pobýt s přáteli je tu červencové Pyvo.
+  Lightning talky nebudou na překážku.
+  
+  Těšíme se na viděnou!
+talks:
+  - title: Úvodní slovo
+    speakers:
+      - Smoldoš
+  - title: Lightning talks
+    lightning: true
+    description: |
+      Pokud máte zkušenost se zajímavou technologii, projektem, nebo chcete prezentovat sebe, či svou firmu a její aktivity, nebojte se přihlásit o slovo.
+      K dispozici můžete mít plných 5 minut pro své téma.
+
+      Témata možno domluvit u libovolného z organizátorů ve vhodnou chvíli při akci.
+      Také sbíráme náměty na přednášky pro další Pyva, více informací na [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+urls: []
