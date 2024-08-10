@@ -1,0 +1,44 @@
+name: Pražské Pyvo
+city: praha
+start: 2024-07-21 19:00:00
+venue: na-venecku
+topic: "Summer edition: Grill & Chill"
+number: 159
+description: |
+
+  ### Co tě čeká
+  
+   Máme léto a s ním tradičně odlehčený program. Hlavní náplní bude zábava a grilování. V hospodě nabízejí jídla z venkovního grilu - není třeba přinést vlastní.
+
+  Dveře se otvírají v 19 hodin. Budou jenom lightning talky. 
+  
+  Lightning talk můžeš mít i ty! Registrace nutná na [Lightning Talks – bit.ly/prpylight](https://bit.ly/prpylight).
+ 
+
+  ### What to expect
+  
+  It's summer! That means it's time for our special summer edition - grill & chill. The pub offers grilled food - no need to bring your own food.
+
+  Doors open at 19. There will be only lightning talks.
+
+  You can have a lightning talk as well – please register at [Lightning Talks – bit.ly/prpylight](https://bit.ly/prpylight).
+
+  ### Obecné 
+  - Na Pyvu jsou přednášky většinou česky, pokud přijde někdo, kdo česky nerozumí, přepneme do angličtiny, pokud se na to přednášející cítí.
+  - Kromě nealko a alko pití je možné se Na Věnečku najíst. Nabídka je proměnlivá a obvykle jde o 4 až 7 jídel od toastu, párků, přes bramborák se zelím, dršťkovou polévku a smažák v housce až po guláš nebo řízek.
+  - **Nezapomeň s sebou vzít hotovost – neberou karty.**
+  - Na Věnečku zavírají o půlnoci.
+  
+  ### General
+  - Talks at Pyvo are mostly in Czech but it there’s somebody who doesn’t understand Czech talks are switched to English if the speaker is able to.
+  - **Cash only payments – club doesn’t accept cards.**
+  - Besides both soft drinks and beer it's possible to eat at the club. Choice is variable and consists of 4 to 7 options ranging from toast, sausages and soup to fried cheese in a bun, goulash or schnitzel.
+  - Club closes at midnight.
+
+talks:
+- title: "Lightning talks"
+  speakers:
+    - you!
+  description: |
+    Register at [Lightning Talks – bit.ly/prpylight](https://bit.ly/prpylight).
+
