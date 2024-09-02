@@ -1,0 +1,39 @@
+name: Pražské Pyvo
+city: praha
+start: 2024-09-18 19:00:00
+venue: na-venecku
+topic: "Ario: Actor model meets asyncio"
+number: 160
+description: |
+
+  ### Co tě čeká
+  
+  Sraz je v 19 hodin Na Věnečku, přednášky začínají v 19.30. Čeka nás 1 přednáška, lightning talky a volná zábava až do rána.
+
+  Lightning talk můžeš mít i ty! Registrace nutná na [Lightning Talks – bit.ly/prpylight](https://bit.ly/prpylight).
+ 
+
+  ### What to expect
+  
+  We meet up at 19 at the club Na Věnečku, presentations start at 19.30. You can look forward to 1 presentation, lightning talks and chit-chat until early morning.
+
+  You can have a lightning talk as well – please register at [Lightning Talks – bit.ly/prpylight](https://bit.ly/prpylight).
+
+  ### Obecné 
+  - Na Pyvu jsou přednášky většinou česky, pokud přijde někdo, kdo česky nerozumí, přepneme do angličtiny, pokud se na to přednášející cítí.
+  - Kromě nealko a alko pití je možné se Na Věnečku najíst. Nabídka je proměnlivá a obvykle jde o 4 až 7 jídel od toastu, párků, přes bramborák se zelím, dršťkovou polévku a smažák v housce až po guláš nebo řízek.
+  - **Nezapomeň s sebou vzít hotovost – neberou karty.**
+  - Na Věnečku zavírají o půlnoci.
+  
+  ### General
+  - Talks at Pyvo are mostly in Czech but it there’s somebody who doesn’t understand Czech talks are switched to English if the speaker is able to.
+  - **Cash only payments – club doesn’t accept cards.**
+  - Besides both soft drinks and beer it's possible to eat at the club. Choice is variable and consists of 4 to 7 options ranging from toast, sausages and soup to fried cheese in a bun, goulash or schnitzel.
+  - Club closes at midnight.
+
+talks:
+- title: "Ario: Actor model meets asyncio"
+  speakers:
+    - Tomáš Konečný (Python developer in Ematiq)
+  description: |
+    In this talk, I will introduce Ario, a Python library developed at Ematiq to help us write services that concurrently trade on hundreds of markets in real time. We will explore how Ario simplifies the development of concurrent applications by encapsulating state and behavior within independent actors. PS: Ario is mypy friendly.
