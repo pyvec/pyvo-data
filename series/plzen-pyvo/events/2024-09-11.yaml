@@ -28,6 +28,8 @@ talks:
     description: |
       V březnu jsem krátce představoval nový nástroj uv pro správu závislostí a virtualenvs. Od té doby vyšlo mnoho nových verzí tohoto nástroje, tak se nabízí otázka: můžeme s tím do produkce? A jaká je budoucnost balíčkovačů v Pythonu?
     lightning: true
+    speakers:
+      - Jan Smitka
   - title: Lightning talks
     lightning: true
     description: |
