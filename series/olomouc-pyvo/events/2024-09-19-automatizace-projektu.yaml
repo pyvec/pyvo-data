@@ -1,0 +1,21 @@
+city: olomouc
+start: 2024-09-19 18:00:00
+name: Olomoucké Pyvo
+topic: "Automatizace správy projektů"
+description: |
+    Martin nám povykládá o tom, jak automatizovat správu projektů v systému Jira.
+    Probereme také organizaci Olomoouckých PyLadies, které snad začnou v říjnu!
+    Po prázdninách se sejdeme opět v restauraci U Ptáka, jako dříve.
+
+    Můžete se také přidat do [mailing listu Olomouckého Pyva](https://groups.google.com/forum/#!forum/olomoucke-pyvo)
+    a/nebo do kanálu [#pyvo-olomouc](https://pyvec.slack.com/archives/C7N6X4L5B) na
+    [PyVec Slacku](https://pyvec.slack.com/), abyste měli vždy aktuální informace.
+
+    Děkujeme a těšíme se na vaši účast!
+
+venue: u-ptaka
+talks:
+  - title: "Automatizace Jiry"
+    speakers:
+      - Martin Čurlej
+urls: []
