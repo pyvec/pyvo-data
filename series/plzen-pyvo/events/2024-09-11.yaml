@@ -30,6 +30,12 @@ talks:
     lightning: true
     speakers:
       - Jan Smitka
+  - title: DevOps ve Vodafone 
+    description: |
+      Letmý náhled pod pokličku a dále podle toho, co vás bude zajímat.  
+    lightning: true
+    speakers:
+      - Tomáš Lipenský      
   - title: Lightning talks
     lightning: true
     description: |
