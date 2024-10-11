@@ -19,8 +19,8 @@ talks:
         The focus will be on leveraging the state of art embedding models to handle tasks such as document classification and prediction
         based on publicly available district court rulings.
 
-        A variety of models will be explored, including OpenAI's text- embedding-3-small and text- embedding-3-large,
-        as well as open-source options like avsolatorio/GIST- small-Embedding-v0 and sentence-transformers/all-MiniLM-L12-v2.
+        A variety of models will be explored, including OpenAI's text-embedding-3-small and text-embedding-3-large,
+        as well as open-source options like avsolatorio/GIST-small-Embedding-v0 and sentence-transformers/all-MiniLM-L12-v2.
         The session will also explore the performance of embeddings within Retrieval-Augmented Generation (RAG) over legal text datasets,
         emphasising how these models manage context search and classification in legal corpora and what are their limitations.
 
