@@ -1,0 +1,33 @@
+city: brno
+start: 2024-10-31 19:00:00
+name: Brněnské Pyvo
+topic: Právní
+venue: artbar
+description: |
+    Říjnové Pyvo, poslední čtvrtek v měsíci v ArtBaru, jako obvykle. 🙂 🍻
+    
+    ---
+    
+    October Pyvo, last Thursday of the month at ArtBar, as usual. 🙂 🍻 
+
+talks:
+    - title: Legal Judgment Prediction using Neural Language Processing
+      speakers:
+        - Pavol Travnik
+      description: |
+        The presentation will focus on Legal Judgment Prediction using Neural Language Processing and Machine Learning using PyTorch.
+        The focus will be on leveraging the state of art embedding models to handle tasks such as document classification and prediction
+        based on publicly available district court rulings.
+
+        A variety of models will be explored, including OpenAI's text- embedding-3-small and text- embedding-3-large,
+        as well as open-source options like avsolatorio/GIST- small-Embedding-v0 and sentence-transformers/all-MiniLM-L12-v2.
+        The session will also explore the performance of embeddings within Retrieval-Augmented Generation (RAG) over legal text datasets,
+        emphasising how these models manage context search and classification in legal corpora and what are their limitations.
+
+        About Pavol:
+        
+        Pavol Travnik holds a Master's degree in Law and is currently pursuing a Master's in Software Engineering and Big Data.
+        With a multidisciplinary background, Pavol has gained experience in technology, including machine learning and legal frameworks,
+        and has worked on software engineering and quality assurance in multiple roles.
+        His expertise bridges legal theory and computational approaches, driving innovation in legal research.
+
