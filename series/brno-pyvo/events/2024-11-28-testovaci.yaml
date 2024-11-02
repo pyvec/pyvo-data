@@ -1,0 +1,43 @@
+city: brno
+start: 2024-11-28 19:00:00
+name: Brněnské Pyvo
+topic: Testovací
+venue: artbar
+description: |
+    Listopadové Pyvo, poslední čtvrtek v měsíci v ArtBaru, jako obvykle. 🙂 🍻
+
+    ---
+
+    November Pyvo, last Thursday of the month at ArtBar, as usual. 🙂 🍻 
+
+talks:
+    - title: How is life when your codebase has 96% unit test coverage?
+      speakers:
+        - Robert Batusek
+      description: |
+        Would you like to work with a codebase you are not afraid to touch?
+
+        A codebase that is easy to refactor because you have so many unit tests
+        that immediately tell you when you do something wrong?
+
+        A codebase that contains zero known defects?
+
+        I am going to tell you a story of a team that lives like that,
+        because their unit test coverage is over 96% and growing.
+
+        The magic ingredient is Test-Driven Development (TDD) - writing tests together
+        with the code in micro-increments taking no more than a couple of minutes.
+        I will show you what TDD is (actual coding included) and how is it applied in the mentioned team
+        to a python/django tech stack.
+        I will talk about real-world experiences, benefits that TDD brings and the current challenges.
+
+        About Robert:
+
+        [Robert Batusek](https://batusek.cz) is a software development consultant with 20+ years of experience in the industry,
+        a Certified LeSS Trainer, and a technical coach.
+        
+        He helps companies simplify product development with multiple teams so that it can quickly adapt
+        to ever-changing business priorities and still retain the ability to grow.
+
+        He also coaches technical excellence practices, especially Test-Driven Development,
+        that help increase quality and decrease the number of production defects.
