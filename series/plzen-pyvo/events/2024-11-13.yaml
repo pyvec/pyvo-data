@@ -7,9 +7,13 @@ venue: raven-pub-bolevec
 description: |
   Vážení přátelé a příznivci našich setkání!
 
-  Před Vánoci (raději s rezervou) se opět sejdeme, abychom si popovídali o vzdělávání. Program přednášek zatím stále připravujeme.
+  Před Vánoci (raději s rezervou) se opět sejdeme, abychom si popovídali o vzdělávání.
+  Bez vzdělávání to v naší oblasti nejde a možností jak se vzdělávat je stále více. 
+  Zda a jak se vzdělávání mění s ohledem na nové generativní nástroje?
+  Toto setkání nám dává příležitost posdílet své zkušenosti a podívat se, co se druhým osvědčilo.
 
-  Na programu bude setkání k jarnímu kurz PyLadies. Pokud máte kurz PyLadies za sebou, nebo pokud o jeho absolvování uvažujete, určitě přijďte!
+  Na programu bude také setkání k jarnímu kurz PyLadies.
+  Pokud máte kurz PyLadies za sebou, nebo pokud o jeho absolvování uvažujete, určitě přijďte!
 
   Přednášky začínají v přibližně v 18:30.
 
@@ -17,7 +21,6 @@ description: |
 talks:
   - title: Úvodní slovo
     speakers:
-      - Jan Smitka
       - Filip Vaculík
   - title: Setkání PyLadies a kick-off příprav jarního kurzu
     description: |
@@ -25,12 +28,17 @@ talks:
       o další kurz (klidně   vše v jednom). Přijďte se pozdravit pokecat a domluvit kam s PyLadies Plzeň dál.
     speakers:
       - Tomáš Zítka
+  - title: Výuka Pythonu a IT technologií vůbec 
+    description: |
+      Jaký je pohled na současné vzdělávání v programování od MŠ, ZŠ, VOŠ až po firmy a smrt. A co na to říkají generativní nástroje?
+    speakers:
+      - Filip Vaculík
   - title: Povinná literatura pro programátory
     lightning: true
     description: |
       Představím a ukážu několik knížek, které by podle mého názoru měly patřit na seznam povinné četby pro programátory.
     speakers:
-      - Jan Smitka
+      - Jan Smitka (online, nebo v zastoupení)
   - title: Lightning talks
     lightning: true
     description: |
