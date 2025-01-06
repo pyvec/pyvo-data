@@ -1,0 +1,19 @@
+city: ostrava
+start: 2025-01-08 18:00:00
+name: Ostravské Pyvo
+topic: Náhoda
+description: |
+    Ahoj,
+
+    Rádi bychom tě pozvali na středeční pyvo, na kterém Lumír odprezentuje
+    krátký talk o tom, jestli je náhoda, kterou generuje počítač opravdu
+    náhodná.
+
+    Začneme **v 18:00 v restauraci Palouk.**
+
+    Tak přijď, budeme se těšit!
+
+venue: palouk
+talks: []
+urls:
+- https://www.meetup.com/ostravske-pyvo/events/305462344/
