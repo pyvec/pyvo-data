@@ -2,13 +2,13 @@ name: Pražské Pyvo
 city: praha
 start: 2025-01-15 19:00:00
 venue: na-venecku
-topic: "Realities of Payment Systems & AI Agents for Python"
+topic: "Realities of Payment Systems & AI Agents for Python Programming"
 number: 164
 description: |
 
   ### Co tě čeká
   
-  Budou dvě přednášky, Petra Šimečka a Martina Zemana.
+  Budou dvě přednášky, Martina Zemana a Jiřího Puce.
   
   Lightning talk můžeš mít i ty! Registrace nutná na [Lightning Talks – bit.ly/prpylight](https://bit.ly/prpylight).
  
@@ -41,7 +41,7 @@ talks:
   speakers:
     - Jiří Puc
   description: |
-    - 
+    - I will go over the basics of AI agents, public repositories for coding, frameworks, benchmarks, and the solution I'm working on - [WriteIt.ai](https://writeit.ai/).
 - title: Lightning talks
   description: |
     Svůj Ligtning talk si přihlaste na tradiční adrese https://bit.ly/prpylight.
