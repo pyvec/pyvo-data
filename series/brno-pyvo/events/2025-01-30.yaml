@@ -1,0 +1,25 @@
+city: brno
+start: 2025-01-30 19:00:00
+name: Brněnské Pyvo
+venue: artbar
+description: |
+    Lednové Pyvo, poslední čtvrtek v měsíci v ArtBaru, jako obvykle. 🙂 🍻
+
+    ---
+
+    January Pyvo, last Thursday of the month at ArtBar, as usual. 🙂 🍻
+
+talks:
+    - title: The past and the __future__s of type annotations
+      speakers:
+        - Petr Viktorin
+      description: |
+        Let's look at Python's annotations (a.k.a. type hints) from the language
+        point of view: how Python handles them, rather than what they mean to
+        type checkers like `mypy` or modelling tools like `dataclasses`
+        or `pydantic`.
+
+        We'll cover how it started (function annotations in 3.0, PEP 3107),
+        how it's going (including variable annotations in 3.6, PEP 526),
+        how we thought it would work (`__future__` annotations in 3.7, PEP 563),
+        and how we now think it will work (deferred evaluation, in 3.14, PEP 649).
