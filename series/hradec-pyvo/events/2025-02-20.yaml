@@ -1,0 +1,15 @@
+city: hradec-kralove
+start: 2025-02-20 18:00:00
+name: Hradecké Pyvo
+number: 23
+topic: DATOVÁ ANALÝZA
+venue: pivovarske-domy
+description: |
+    data, data, data...
+    
+    práce s daty v Pythonu
+    
+    praktická ukázka
+talks: []
+urls:
+- https://www.facebook.com/groups/pythonhradeckralove
