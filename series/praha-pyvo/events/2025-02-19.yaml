@@ -1,0 +1,44 @@
+name: Pražské Pyvo
+city: praha
+start: 2025-02-19 19:00:00
+venue: na-venecku
+topic: "Panel discussion: LLM-based Code Assistants"
+number: 165
+description: |
+
+  ### Co tě čeká
+  
+  Panelová diskuse - Asistenti kódu na bázi LLM
+  
+  Lightning talk můžeš mít i ty! Registrace nutná na [Lightning Talks – bit.ly/prpylight](https://bit.ly/prpylight).
+ 
+
+  ### What to expect
+  
+  Panel discussion - LLM-based Code Assistants
+  
+  You can have a lightning talk as well – please register at [Lightning Talks – bit.ly/prpylight](https://bit.ly/prpylight).
+
+  ### Obecné 
+  - Na Pyvu jsou přednášky většinou česky, pokud přijde někdo, kdo česky nerozumí, přepneme do angličtiny, pokud se na to přednášející cítí.
+  - Kromě nealko a alko pití je možné se Na Věnečku najíst. Nabídka je proměnlivá a obvykle jde o 4 až 7 jídel od toastu, párků, přes bramborák se zelím, dršťkovou polévku a smažák v housce až po guláš nebo řízek.
+  - **Nezapomeň s sebou vzít hotovost – neberou karty.**
+  - Na Věnečku zavírají o půlnoci.
+  
+  ### General
+  - Talks at Pyvo are mostly in Czech but it there’s somebody who doesn’t understand Czech talks are switched to English if the speaker is able to.
+  - **Cash only payments – club doesn’t accept cards.**
+  - Besides both soft drinks and beer it's possible to eat at the club. Choice is variable and consists of 4 to 7 options ranging from toast, sausages and soup to fried cheese in a bun, goulash or schnitzel.
+  - Club closes at midnight.
+  
+talks:
+- title: "Panel discussion: LLM-based Code Assistants"
+  speakers:
+    -  Jiri Bajer, Jakub Urban, Peter Hozak, Petr Glaser
+  description: |
+    - During 2024 LLMs grew from an obscure toy into panacea, LLM-based code assistants quickly became a serious tool for SW developers and ChatOps buzzword was born. Let's leave all the hype aside and explore how the code assistants can be actually useful in Python development. We'll have four panelists talking about their first-hand experience and favorite use cases plus plenty of space for questions and contribution from the audience.
+- title: Lightning talks
+  description: |
+    Svůj Ligtning talk si přihlaste na tradiční adrese https://bit.ly/prpylight.
+    
+    You can do your Ligtning talk too: add it to https://bit.ly/prpylight.
