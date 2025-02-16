@@ -1,0 +1,21 @@
+city: olomouc
+start: 2025-02-20 18:00:00
+name: Olomoucké Pyvo
+topic: "Klavír a světýlka"
+description: |
+    Přijďte na další setkání Olomouckého Pyva!
+
+    Můžete se také přidat do [mailing listu Olomouckého Pyva](https://groups.google.com/forum/#!forum/olomoucke-pyvo)
+    a/nebo do kanálu [#pyvo-olomouc](https://pyvec.slack.com/archives/C7N6X4L5B) na
+    [PyVec Slacku](https://pyvec.slack.com/), abyste měli vždy aktuální informace.
+
+    Děkujeme a těšíme se na vaši účast!
+
+venue: u-ptaka
+talks: 
+  - title: 'Klavír - ako spestriť hru a klávesoch pre juniora'
+    description: |
+        Pomôžu svetielka spriemniť hru na klávesoch, prípadne mu pomôcž hrať? Čo k tomu budeme potrebovať? Povieme si na prednáške.
+    speakers:
+      - Marek Karuna
+urls: []
