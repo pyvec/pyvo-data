@@ -1,0 +1,21 @@
+city: brno
+start: 2025-02-27 19:00:00
+name: Brněnské Pyvo - Únorové
+venue: artbar
+description: |
+    Únorové Pyvo, poslední čtvrtek v měsíci v ArtBaru, jako obvykle. 🙂 🍻
+
+    ---
+
+    February Pyvo, last Thursday of the month at ArtBar, as usual. 🙂 🍻
+
+talks:
+    - title: Kubernetes operators in Python
+      speakers:
+        - Daniel Plakinger
+      description: |
+        📚 Description:
+        Have you ever wondered how Kubernetes operators work? What about writing one from scratch? We're gonna write our own operator for decrypting secrets using age.
+
+        🎙 Aboout the Speaker:
+        Daniel is an excited developer and architect doing DevOps and tinkering in free time.
