@@ -19,3 +19,20 @@ talks:
 
         🎙 About the Speaker:
         Daniel is an excited developer and architect doing DevOps and tinkering in free time.
+    - title: More is less
+      speakers:
+        - Yan Yanchii
+      description: |
+        The talk explores how Python optimizes constant expressions at compile time, reducing redundant evaluations during runtime.
+        Previously, these optimizations were performed at the AST processing stage, but due to potential misoptimizations,
+        they have recently been migrated to a different compilation phase. The discussion will cover the differences between these stages,
+        the challenges involved in this transition, and the technical details of the new approach.
+
+        **About Yan**
+
+        I'm a senior software engineer at Kiwi.com, a leading global travel tech company headquartered in the Czech Republic,
+        nd I work on the Search team.
+
+        I particularly enjoy delving into CPython and its internal workings.
+        My preference for creating things from scratch, as opposed to relying on pre-made solutions,
+        has helped me develop a profound grasp of the technical foundations of software development.
