@@ -1,0 +1,11 @@
+city: Plzeň
+name: Raven Pub City
+address: Plachého 10, Plzeň
+notes: |
+
+  Pivovarská hospůdka se nachází v centu Plzně jen kousek od památníku na Americké ulici.
+  Na čepu najdete šest piv Raven, k jídlu nabízí studenou i teplou kuchyni.
+
+location:
+  latitude: '49.7431242'
+  longitude: '13.3705375'
