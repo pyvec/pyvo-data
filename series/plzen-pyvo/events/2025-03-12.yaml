@@ -1,0 +1,36 @@
+city: plzen
+start: 2025-03-12 18:00:00
+name: Plzeňské Pyvo
+number: 43
+topic: Testování a šifrování dat
+venue: raven-pub-city
+description: |
+  Vážení přátelé a příznivci našich setkání!
+
+  Především pozor na změnu místa. Výjimečně budeme naše setkání v centru Plzně, v jiné pobočce pivovaru Raven, než ve které se setkáváme obvykle.
+
+  Sejdeme se od 18:00. Těšit se můžeme na dvě kratší přednášky a následnou společnou diskuzi nad vším, co vás bude zajímat. Na viděnou!
+talks:
+  - title: Úvodní slovo
+    speakers:
+      - Filip Vaculík
+      - Jiří Smolík
+  - title: Testování aplikací praktickým pohledem
+    speakers:
+      - Jiří Prchlík - ZF
+    description: |
+      Letmý přehled o oblasti testování aplikací a praktické zkušenosti s testováním aplikací v ZF.
+  - title: Šifrování blokových zařízení 
+    speakers:
+      - Josef Pluhař - VOŠ Plzeň
+    description: |
+      Od autora absolventské práce zabývající se šifrováním dat. I když nejde o ryze Pythonovské téma, přesto jde o užitečné informace pro všechny, kterým na bezpečnosti jejich dat záleží.      
+  - title: Lightning talks
+    lightning: true
+    description: |
+      Pokud máte zkušenost se zajímavou technologii, projektem, nebo chcete prezentovat sebe, či svou firmu a její aktivity, nebojte se přihlásit o slovo.
+      K dispozici můžete mít plných 5 minut pro své téma. V případě zajímavého tématu i více.
+
+      Témata možno domluvit u libovolného z organizátorů ve vhodnou chvíli při akci.
+      Také sbíráme náměty na přednášky pro další Pyva, více informací na [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+urls: []
