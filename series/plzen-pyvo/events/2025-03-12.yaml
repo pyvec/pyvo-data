@@ -17,7 +17,7 @@ talks:
       - Jiří Smolík
   - title: Testování aplikací praktickým pohledem
     speakers:
-      - Jiří Prchlík - ZF
+      - Jiří Prchlík - ZF Engineering Plzeň s.r.o.
     description: |
       Letmý přehled o oblasti testování aplikací a praktické zkušenosti s testováním aplikací v ZF.
   - title: Šifrování blokových zařízení 
