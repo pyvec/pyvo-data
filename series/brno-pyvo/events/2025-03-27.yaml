@@ -1,0 +1,37 @@
+city: brno
+start: 2025-03-27 19:00:00
+name: Brněnské Pyvo - Březnové
+venue: artbar
+description: |
+    Březnové Pyvo, poslední čtvrtek v měsíci v ArtBaru, jako obvykle. 🙂 🍻
+
+    ---
+
+    March Pyvo, last Thursday of the month at ArtBar, as usual. 🙂 🍻
+
+talks:
+    - title: NuttX and Python
+      speakers:
+        - Eren Terzioğlu
+      description: |
+         Eren Terzioğlu will discuss running Python on NuttX, a POSIX-compliant RTOS, and how it compares to traditional embedded approaches in C.
+
+         Eren Terzioğlu works on bringing modern development workflows to embedded platforms, with a focus on NuttX.
+    - title: MicroPython and Embedded Development
+      speakers:
+        - Juraj Michálek
+      description: |
+        Juraj Michálek will focus on MicroPython, showcasing practical workflows and how it integrates with Rust and C for performance-critical tasks.
+
+        Juraj Michálek specializes in MicroPython and making open-source embedded software accessible for makers and professional users.
+    - title: IoT and Wireless Communication
+      speakers:
+        - Michal Kubaščík
+        - Ján Šumský
+      description: |
+        Michal Kubaščík and Ján Šumský from UNIZA will present their research on ESP-NOW, a low-power wireless communication protocol,
+        and its real-world applications. Their findings, published on the [Espressif Developer Portal](https://developer.espressif.com/blog/reliability-esp-now/),
+        cover ESP-NOW’s reliability in indoor and outdoor environments.
+
+        Michal Kubaščík and Ján Šumský are researchers at the Department of Technical Cybernetics at UNIZA,
+        working on IoT applications, wireless communication, and real-time systems using ESP32.
