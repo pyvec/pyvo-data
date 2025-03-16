@@ -1,0 +1,19 @@
+city: olomouc
+start: 2025-03-20 18:00:00
+name: Olomoucké Pyvo
+topic: "Pyladies a česká Python komunita"
+description: |
+    Začal nám nový semester Pyladies v Olomouci. Přijďte se podívat na talk o české Python komunitě!
+
+    Můžete se také přidat do [mailing listu Olomouckého Pyva](https://groups.google.com/forum/#!forum/olomoucke-pyvo)
+    a/nebo do kanálu [#pyvo-olomouc](https://pyvec.slack.com/archives/C7N6X4L5B) na
+    [PyVec Slacku](https://pyvec.slack.com/), abyste měli vždy aktuální informace.
+
+    Děkujeme a těšíme se na vaši účast!
+
+venue: u-ptaka
+talks:
+  - title: "Česká Python komunita"
+    speakers:
+      - Martin Čurlej
+urls: []
