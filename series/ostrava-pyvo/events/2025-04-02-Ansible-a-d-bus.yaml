@@ -1,0 +1,17 @@
+city: ostrava
+start: 2025-04-02 18:00:00
+name: Ostravské Pyvo
+topic: Ansible a D-Bus
+description: |
+    Ahoj,
+
+    v dubnu se Pyvo vrací zpět do Palouku a těšit se můžete
+    na zajímavá témata! Povídat si budeme o Ansible
+    a o tvorbě aplikací s využitím D-Bus.
+
+    Těšíme se na Vás!
+
+venue: palouk
+talks: []
+urls:
+- https://www.meetup.com/ostravske-pyvo/events/307043882/
