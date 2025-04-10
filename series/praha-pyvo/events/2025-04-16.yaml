@@ -1,0 +1,39 @@
+name: Pražské Pyvo
+city: praha
+start: 2025-04-16 19:00:00
+venue: na-venecku
+topic: "Eavesdropping on monitors via TEMPEST attack with SDR and reconstructing image through KAIR neural network (marekting would definitely push to place "AI" buzzword here)"
+number: 167
+description: |
+
+  ### Co tě čeká
+  
+  Sraz je v 19 hodin Na Věnečku, přednášky začínají v 19.30. Čeka nás 1 přednáška, lightning talky a volná zábava až do rána.
+
+  Lightning talk můžeš mít i ty! Registrace nutná na [Lightning Talks – bit.ly/prpylight](https://bit.ly/prpylight).
+ 
+
+  ### What to expect
+  
+  We meet up at 19 at the club Na Věnečku, presentations start at 19.30. You can look forward to 1 presentation, lightning talks and chit-chat until early morning.
+
+  You can have a lightning talk as well – please register at [Lightning Talks – bit.ly/prpylight](https://bit.ly/prpylight).
+
+  ### Obecné 
+  - Na Pyvu jsou přednášky většinou česky, pokud přijde někdo, kdo česky nerozumí, přepneme do angličtiny, pokud se na to přednášející cítí.
+  - Kromě nealko a alko pití je možné se Na Věnečku najíst. Nabídka je proměnlivá a obvykle jde o 4 až 7 jídel od toastu, párků, přes bramborák se zelím, dršťkovou polévku a smažák v housce až po guláš nebo řízek.
+  - **Nezapomeň s sebou vzít hotovost – neberou karty.**
+  - Na Věnečku zavírají o půlnoci.
+  
+  ### General
+  - Talks at Pyvo are mostly in Czech but it there’s somebody who doesn’t understand Czech talks are switched to English if the speaker is able to.
+  - **Cash only payments – club doesn’t accept cards.**
+  - Besides both soft drinks and beer it's possible to eat at the club. Choice is variable and consists of 4 to 7 options ranging from toast, sausages and soup to fried cheese in a bun, goulash or schnitzel.
+  - Club closes at midnight.
+
+talks:
+- title: "Eavesdropping on monitors via TEMPEST attack with SDR and reconstructing image through KAIR neural network (marekting would definitely push to place "AI" buzzword here)"
+  speakers:
+    - Ondrej Mikle
+  description: |
+    Video interfaces such as monitors emit electromagnetic waves. The attack commonly known as TEMPEST (or Van Eck Phreaking) consists in receiving this signal and inferring the image being displayed on the monitor; that is to say, pointing an antenna to a PC and spying the monitor. This inferred image tends to be noisy, but it can be enhanced by neural network such as KAIR to get readable text if you train it on images of e.g. webpages and PDFs (because usually documents are often the sought target of attacker). It's within realm of off-the-shelf SDRs.
