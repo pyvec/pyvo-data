@@ -1,7 +1,7 @@
 city: olomouc
 start: 2025-04-17 18:00:00
 name: Olomoucké Pyvo
-topic: "Pyladies tooling (nové generace)"
+topic: "Python tooling (nové generace)"
 description: |
     Popovídáme si o tom, co je to "tooling", a jaké novinky se v této oblasti v poslední době
     v Pythonu objevily.
