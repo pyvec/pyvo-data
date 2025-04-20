@@ -1,0 +1,19 @@
+city: brno
+start: 2025-04-24 19:00:00
+name: Brněnské Pyvo - Dubnové
+venue: artbar
+description: |
+    Dubnové Pyvo, poslední čtvrtek v měsíci v ArtBaru, jako obvykle. 🙂 🍻
+
+    ---
+
+    April Pyvo, last Thursday of the month at ArtBar, as usual. 🙂 🍻
+
+talks:
+    - title: Ethical AI training for 3D printing
+      speakers:
+        - Vega
+      description: |
+         A presentation on the start to finish process of training a classification neural network to increase safety in 3D printing.
+
+         Presented by Vega, software engineer at RedHat by day, hardware hacker by night.
