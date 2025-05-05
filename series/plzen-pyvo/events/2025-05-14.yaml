@@ -1,0 +1,34 @@
+city: plzen
+start: 2025-05-14 18:00:00
+name: Plzeňské Pyvo
+number: 44
+topic: Python z jiného úhlu pohledu
+venue: raven-pub-bolevec
+description: |
+  Vážení přátelé a příznivci našich setkání!
+
+  Po drobné odbočce se přesouváme zpět na obvyklé místo, tedy do salonku v Raven Pub na Bolevec.
+talks:
+  - title: Úvodní slovo
+    speakers:
+      - Filip Vaculík
+  - title: Python očima PHP vývojáře
+    speakers:
+      - Bohuslav Šimek - PeoplePath s.r.o.
+    description: |
+      Podivuhodná cesta PHP vývojáře do světa Pythonu, kde proměnné nepotřebují $, všechno je objekt – ať se vám to líbí, nebo ne – a odsazení není jen estetická libůstka.
+  - title: mypy - statická analýza kódu
+    lightning: true
+    speakers:
+      - Jan Smitka
+    description: |
+      V JavaScriptu platí, že `"1" + 1 = 11`. V Pythonu stejný kód skončí chybou, ale až za běhu programu. Podíváme se proto na nástroj `mypy`, který nám pomůže podobné (a mnohé další) chyby odhalit.
+  - title: Lightning talks
+    lightning: true
+    description: |
+      Pokud máte zkušenost se zajímavou technologii, projektem, nebo chcete prezentovat sebe, či svou firmu a její aktivity, nebojte se přihlásit o slovo.
+      K dispozici můžete mít plných 5 minut pro své téma. V případě zajímavého tématu i více.
+
+      Témata možno domluvit u libovolného z organizátorů ve vhodnou chvíli při akci.
+      Také sbíráme náměty na přednášky pro další Pyva, více informací na [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+urls: []
