@@ -1,0 +1,28 @@
+city: olomouc
+start: 2025-05-22 18:00:00
+name: Olomoucké Pyvo
+topic: Májové
+venue: u-ptaka
+description: |
+    Ani v den, kdy se hraje čtvrtfinále hokejového mistrovství světa, nerušíme tradici.
+    Přijďte posedět a pohovořit nejen o Pythonu, ale také třeba o vesmíru.
+    
+    Můžete se také přidat do [mailing listu Olomouckého Pyva](https://groups.google.com/forum/#!forum/olomoucke-pyvo)
+    a/nebo do kanálu [#pyvo-olomouc](https://pyvec.slack.com/archives/C7N6X4L5B) na
+    [PyVec Slacku](https://pyvec.slack.com/), abyste měli vždy aktuální informace.
+
+    Děkujeme a těšíme se na vaši účast!
+
+talks:
+  - title: "Kosmičtí sousedé (update)"
+    speakers:
+      - Vojta Beran
+    description: |
+      Nahlédneme do blízkého okolí Sluneční soustavy. Položíme si jednoduchou
+      otázku a pokusíme se na ni odpovědět pomocí základních knihoven Pythonu.
+      Přednáška je vhodná pro začátečníky a začátečnice (PyLadies),
+      proto se také můžeme pozastavit u některých kroků, např. u generování
+      datové sady do CSV souboru nebo u jednoduché vizualizace dat.
+      Dozvíme se pár základních pojmů z astronomie a bude prostor pro dotazy.
+
+urls: []
