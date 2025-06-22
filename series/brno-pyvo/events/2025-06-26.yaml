@@ -21,7 +21,7 @@ talks:
         and assist maintainers.
 
         Log Detective uses Template Mining and Large Language Models to process your log files.
-        It’s very simple to use, just go to https://logdetective.com/explain, paste a link to your log file,
+        It’s very simple to use, just go to <https://logdetective.com/explain>, paste a link to your log file,
         wait one minute and the service will explain that log to you.
 
         Existing models like granite, llama, or mistral can give good feedback on your logs,
