@@ -1,0 +1,24 @@
+city: olomouc
+start: 2025-07-24 18:00:00
+name: Olomoucké Pyvo
+topic: Big projects and bigger headaches
+venue: u-ptaka
+description: |
+    Přijďte si popovídat s Python komunitou.
+
+    Můžete se také přidat do [mailing listu Olomouckého Pyva](https://groups.google.com/forum/#!forum/olomoucke-pyvo)
+    a/nebo do kanálu [#pyvo-olomouc](https://pyvec.slack.com/archives/C7N6X4L5B) na
+    [PyVec Slacku](https://pyvec.slack.com/), abyste měli vždy aktuální informace.
+
+    Děkujeme a těšíme se na vaši účast!
+
+talks:
+  - title: "Big projects and bigger headaches"
+    speakers:
+      - Miloslav Homer
+    description: |
+      Ako projekty rastú a naberajú logiku, v jednom bode prekročia kapacitu hlavy.
+      Na príklade si ukážeme techniky a postupy, ako pokračovať napriek tomu.
+      Talk cielený na začiatočníkov.
+
+urls: []
