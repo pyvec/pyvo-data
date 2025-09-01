@@ -1,0 +1,17 @@
+city: ostrava
+start: 2025-05-07 18:00:00
+name: Ostravské Pyvo
+topic: Kickstart a PYC soubory
+description: |
+    Ahoj,
+
+    než se přesuneme na letní měsíce ven, čeká nás ještě jedno Pyvo v
+    Palouku. První květnovou středu nám Vladimír poví něco o tom, jak
+    pomocí kickstart souborů zautomatizovat instalaci Linuxu, a Lumír nám
+    objasní, jak Python tvoří .pyc soubory.
+
+    Těšíme se na Vás!
+venue: palouk
+talks: []
+urls:
+- https://www.meetup.com/ostravske-pyvo/events/307443823/

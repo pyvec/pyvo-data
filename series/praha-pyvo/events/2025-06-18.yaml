@@ -1,0 +1,41 @@
+name: Pražské Pyvo
+city: praha
+start: 2025-06-18 19:00:00
+venue: na-venecku
+topic: "Breathing Life into FMCW Radar Data with Python"
+number: 169
+description: |
+
+  ### Co tě čeká
+  
+  Sraz je v 19 hodin Na Věnečku, přednášky začínají v 19.30. Čeka nás 1 přednáška, lightning talky a volná zábava až do rána.
+
+  Lightning talk můžeš mít i ty! Registrace nutná na [Lightning Talks – bit.ly/prpylight](https://bit.ly/prpylight).
+ 
+
+  ### What to expect
+  
+  We meet up at 19 at the club Na Věnečku, presentations start at 19.30. You can look forward to 1 presentation, lightning talks and chit-chat until early morning.
+
+  You can have a lightning talk as well – please register at [Lightning Talks – bit.ly/prpylight](https://bit.ly/prpylight).
+
+  ### Obecné 
+  - Na Pyvu jsou přednášky většinou česky, pokud přijde někdo, kdo česky nerozumí, přepneme do angličtiny, pokud se na to přednášející cítí.
+  - Kromě nealko a alko pití je možné se Na Věnečku najíst. Nabídka je proměnlivá a obvykle jde o 4 až 7 jídel od toastu, párků, přes bramborák se zelím, dršťkovou polévku a smažák v housce až po guláš nebo řízek.
+  - **Nezapomeň s sebou vzít hotovost – neberou karty.**
+  - Na Věnečku zavírají o půlnoci.
+  
+  ### General
+  - Talks at Pyvo are mostly in Czech but it there’s somebody who doesn’t understand Czech talks are switched to English if the speaker is able to.
+  - **Cash only payments – club doesn’t accept cards.**
+  - Besides both soft drinks and beer it's possible to eat at the club. Choice is variable and consists of 4 to 7 options ranging from toast, sausages and soup to fried cheese in a bun, goulash or schnitzel.
+  - Club closes at midnight.
+
+talks:
+- title: "Breathing Life into FMCW Radar Data with Python"
+  speakers:
+    - Jarka Schovancová
+  description: |
+    What if you could help a radar sense whether someone is breathing—without touching them—using Python? In this talk, I'll share insights from an R&D project where I explored using Python (among others) to detect respiratory rate from frequency-modulated continuous-wave (FMCW) radar data. The project was driven by a practical need at CERN: enabling remote rescue teams to assess vital signs in industrial environments where wearable sensors aren't viable. With just the radar's noisy reflections as input, the challenge was to see whether reliable breathing detection was even possible. 
+    
+    I'll take you through the Python pipeline I built—from signal pre-processing and motion isolation to modeling subtle respiratory patterns buried in noise. Along the way, we'll look at how factors like body posture, clothing, distance, and occlusions impact detection. This isn't about delivering a polished product, but about what you can learn and prototype when you mix a radar with Python's scientific stack (NumPy, SciPy, and more). If you're curious about signal processing, sensor data hacking, or turning raw physics and robotics sensing into actionable insights with Python, this talk is for you.

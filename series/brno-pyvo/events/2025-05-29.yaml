@@ -1,0 +1,27 @@
+city: brno
+start: 2025-05-29 19:00:00
+name: Brněnské Pyvo - Květnové
+venue: artbar
+description: |
+    Květnové Pyvo, poslední čtvrtek v měsíci v ArtBaru, jako obvykle. 🙂 🍻
+
+    ---
+
+    May Pyvo, last Thursday of the month at ArtBar, as usual. 🙂 🍻
+
+talks:
+    - title: WhatsApp bot using OpenAI and Meta APIs
+      speakers:
+        - Roman Pavelka
+      description: |
+        Some APIs are a delight to work with, while others are a frustrating challenge.
+
+        In this talk, we will explore APIs for OpenAI’s large language models and Meta’s WhatsApp platform.
+
+        We’ll then build a hands-on Python project that leverages these APIs alongside FastAPI and the requests library.
+
+        Along the way, you’ll see that an HTTPS-enabled web server is required.
+
+        This prompts us to experiment with Oracle Cloud Infrastructure and Certbot, making a truly comprehensive DevOps journey.
+
+        Author's bio: <https://romanpavelka.cz/bio>

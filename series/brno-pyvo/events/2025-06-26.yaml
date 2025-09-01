@@ -1,0 +1,58 @@
+city: brno
+start: 2025-06-26 19:00:00
+name: Brněnské Pyvo - Červnové
+venue: artbar
+description: |
+    Červnové Pyvo, poslední čtvrtek v měsíci v ArtBaru, jako obvykle. 🙂 🍻
+
+    ---
+
+    June Pyvo, last Thursday of the month at ArtBar, as usual. 🙂 🍻
+
+talks:
+    - title: Fighting logs with Log Detective
+      speakers:
+        - Jiri Podivin
+        - Tomas Tomecek
+      description: |
+        The current process of identifying the root cause of a package build failure in Copr or Koji
+        is time-consuming and requires considerable expertise.
+        Log Detective proposes an automated log analysis system to help diagnose such failures
+        and assist maintainers.
+
+        Log Detective uses Template Mining and Large Language Models to process your log files.
+        It’s very simple to use, just go to <https://logdetective.com/explain>, paste a link to your log file,
+        wait one minute and the service will explain that log to you.
+
+        Existing models like granite, llama, or mistral can give good feedback on your logs,
+        but they don't understand our specific ecosystem.
+        We are collecting log annotations to train our own models under the CDLA-Permissive-2.0 license.
+        Our aim is to create a service that provides near-perfect explanations and solutions,
+        as if an experienced maintainer was guiding you.
+
+        In this talk, we’ll give you an overview of Log Detective,
+        explain the technical decisions and finish with a demo. You shouldn’t miss this talk if
+        you are building software as your job.
+
+        ----
+
+        *Jiri Podivin*
+
+        I have been interested in AI for a long time and have worked on language model applications before, although not the "large" ones.
+        I have been working as an engineer at Red Hat on the Openstack project for the last four years,
+        and recently I have joined Log Detective. I also collaborate with Mendel University on projects on agricultural automation
+        and plant diagnostics using acoustic emission.
+
+        In my free time I am a fan of museums, obscure literature and strategy games.
+
+        Dlouho se zajímám o AI a už dříve jsem pracoval na aplikacích jazykových modelů, byť ne těch "velkých".
+        Poslední čtyři roky pracuju jak inženýr v Red Hatu na projektu Openstack,
+        a nedávno jsem přibral Log Detective. Také spolupracuji s Mendelovou univerzitou na projektech automatizace zemědělství
+        a diagnostiky rostlin pomocí akustické emise.
+
+        Ve volné čase jsem příznivcem muzeí, obskurní literatury a strategických her.
+
+        *Tomas Tomecek*
+
+        Tomas Tomecek is a Redhatter and writes programs in Python for 15 years. He focuses on automation,
+        packaging and lately on integrating AI into our infrastructure.

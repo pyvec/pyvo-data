@@ -1,0 +1,27 @@
+city: plzen
+start: 2025-07-09 18:00:00
+name: Plzeňské Pyvo
+number: 45
+topic: Prázdninový pokec
+venue: raven-pub-bolevec
+description: |
+  Vážení přátelé a příznivci našich setkání!
+
+  V létě se opět setkáme bez významných tématických přednášek. Přijďte se podělit o své prázdninové projekty a plány, nebo si jen popovídat u piva či jiné dobroty.
+
+  Na místě se sejdeme v salonku a podle chuti, počasí a počtu účastníků se můžeme přesunout do venkovních prostor.
+talks:
+  - title: Konference a akce související s Pythonem
+    description: |
+      Pozvánka na události související s Pythonem, které se uskuteční ve zbytku roku.
+    lightning: true
+    speakers:
+      - Jan Smitka
+  - title: Lightning talks
+    lightning: true
+    description: |
+      Pokud máte zkušenost se zajímavou technologii, projektem, nebo chcete prezentovat sebe, či svou firmu a její aktivity, nebojte se přihlásit o slovo.
+      K dispozici můžete mít plných 5 minut pro své téma.
+      Témata možno domluvit mailem na tozitka@gmail.com případně u libovolného z organizátorů ve vhodnou chvíli při akci.
+      Také sbíráme náměty na přednášky pro další Pyva, více informací na [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+urls: []
