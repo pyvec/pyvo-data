@@ -1,0 +1,26 @@
+city: plzen
+start: 2025-09-10 18:00:00
+name: Plzeňské Pyvo
+number: 46
+topic: AI - integrace velkých jazykových modelů (LLM) do aplikací
+venue: raven-pub-bolevec
+description: |
+  Vážení přátelé a příznivci našich setkání!
+
+  Tématem zářijového Pyva bude AI, konkrétně LLM. Lukáš Vlček nám poví něco o tom, jak velké jazykové modely integrovat do našich aplikací pomocí frameworku LangChain. Velikou výhodou tohoto frameworku je, že je nezávislý na konkrétním jazykovém modelu či poskytovateli, takže si můžete vybrat takový model, který vyhovuje vašim potřebám.
+
+  Pokud vás zajímá, jak tyto technologie použít v praxi, nenechte si jeho přednášku ujít!
+talks:
+  - title: Framework LangChain
+    speakers:
+      - Lukáš Vlček - Notino, s.r.o.
+    description: |
+      Bude upřesněno.
+  - title: Lightning talks
+    lightning: true
+    description: |
+      Pokud máte zkušenost se zajímavou technologii, projektem, nebo chcete prezentovat sebe, či svou firmu a její aktivity, nebojte se přihlásit o slovo.
+      K dispozici můžete mít plných 5 minut pro své téma.
+      Témata možno domluvit mailem na tozitka@gmail.com případně u libovolného z organizátorů ve vhodnou chvíli při akci.
+      Také sbíráme náměty na přednášky pro další Pyva, více informací na [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+urls: []
