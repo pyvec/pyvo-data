@@ -9,13 +9,13 @@ description: |
 
   Tématem zářijového Pyva bude AI, konkrétně LLM. Lukáš Vlček nám poví něco o tom, jak velké jazykové modely integrovat do našich aplikací pomocí frameworku LangChain. Velikou výhodou tohoto frameworku je, že je nezávislý na konkrétním jazykovém modelu či poskytovateli, takže si můžete vybrat takový model, který vyhovuje vašim potřebám.
 
-  Pokud vás zajímá, jak tyto technologie použít v praxi, nenechte si jeho přednášku ujít!
+  Pokud vás zajímá, jak tyto technologie použít v praxi, jak měřit úspěšnost a jak dosáhnout lepších výsledků, nenechte si jeho přednášku ujít!
 talks:
   - title: Framework LangChain
     speakers:
       - Lukáš Vlček - Notino, s.r.o.
     description: |
-      Bude upřesněno.
+      Reálně využívané techniky zapojení LLM do aplikací, základní koncept RAGu (trocha teorie), ale hlavně jeho implementace v LangChainu (hodně praxe), měření úspěšnosti, tipy a triky pro lepší výsledky…
   - title: Lightning talks
     lightning: true
     description: |
