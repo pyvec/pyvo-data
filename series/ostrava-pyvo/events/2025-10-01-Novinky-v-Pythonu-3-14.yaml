@@ -1,0 +1,23 @@
+city: ostrava
+start: 2025-10-01 18:00:00
+name: Ostravské Pyvo
+topic: Novinky v Pythonu 3.14
+description: |
+    Ahoj!
+
+    Počasí nás vystrnadilo z cyklostezky zpět do tepla Palouku a říjnové
+    Pyvo se tedy bude konat opět v Ostravě.
+
+    A na co se společně podíváme? Finální vydání Pythonu 3.14 se
+    nezadržitelně blíží a po 3 kandidátech na vydání už se žádných novinek
+    nedočkáme a tak se můžeme podívat, co nás v nejnovější verzi Pythonu
+    čeká.
+
+    Chceš-li nějakou zajímavost z nového Pythonu představit ostatním, ozvi
+    se nám a my témata rozdělíme.
+
+    Těšíme se na Vás!
+venue: palouk
+talks: []
+urls:
+- https://www.meetup.com/ostravske-pyvo/events/311251567/
