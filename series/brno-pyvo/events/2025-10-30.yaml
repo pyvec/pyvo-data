@@ -1,0 +1,32 @@
+city: brno
+start: 2025-10-30 19:00:00
+name: Brněnské Pyvo
+topic: Rekurzivní
+venue: artbar
+description: |
+    Říjnové Pyvo, poslední čtvrtek v měsíci v ArtBaru, jako obvykle. 🙂 🍻
+
+    ---
+
+    October Pyvo, last Thursday of the month at ArtBar, as usual. 🙂 🍻
+
+talks:
+    - title: Recursion vs iteration in Python
+      speakers:
+        - Juraj Paluba
+      description: |
+        At school, I was taught to prefer an iterative paradigm over the recursive one.
+        The reasoning was that recursion is memory ineffective and thus does not scale well.
+        Recently, I have come across a recursive implementation in the production code,
+        but I was unable to reason why we should avoid it.
+
+        Hence, I decided to investigate deeper and answer the question: "Is it okay to use recursion in a production-level code?".
+        Together, we will cover the results from profiling specific recursive and iterative implementations.
+        We will compare differences and analyze them.
+
+        About the speaker:
+
+        Hi, I am Juraj Paluba. I have studied computer science at Masaryk University.
+        Besides that I have been professionally working as a (mainly Python) backend developer.
+        I have gained experience working on a small university project (KYPO cyber-range platform),
+        SAP system and lately as a freelancer in Datamole.
