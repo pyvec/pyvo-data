@@ -18,5 +18,10 @@ talks:
       - Kuba Beránek
     description: |
       Povykládáme si o tom, co je to git, a pomocí obrázků si vysvětlíme, jak vlastně funguje.
+  - title: "Ako vznikol počítač?"
+    speakers:
+      - Marek Karuna
+    description: |
+      Od pary až po tiktok.
 
 urls: []
