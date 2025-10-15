@@ -1,0 +1,16 @@
+name: Plzeňské Pyvo
+city: plzen
+venue: raven-pub-bolevec   # raven-pub-city ?
+start: 2025-11-12 18:00:00
+# topic: ...
+number: 47
+description: |
+    ...
+
+talks:
+  - title: Když máš jen 4 GB VRAM: kvantizace jako cheat code pro LLM.
+    description: |
+        Stále častěji se nasazují LLM modely – od shrnutí dokumentů, přes opravy textu až po nové hry, kde NPC s pokročilou inteligencí s vámi smlouvá o ceně lektvaru. Pro produkční systémy je ideální server, ale co když jde jen o MVP nebo proof of concept? Lokální model je skvělá cesta. Jenže co dělat, když máte k dispozici jen 4 GB GPU RAM? Řešením jsou kvantizované modely, které snadno rozběhnete pomocí Ollama serveru.
+    lightning: false
+    speakers:
+        - David Beneš
