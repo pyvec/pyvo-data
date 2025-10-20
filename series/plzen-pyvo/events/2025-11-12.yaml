@@ -1,0 +1,23 @@
+city: plzen
+start: 2025-11-12 18:00:00
+name: Plzeňské Pyvo
+number: 47
+topic: Připravujeme
+venue: raven-pub-bolevec
+description: |
+  *Program připravujeme.*
+talks:
+  - title: "Když máš jen 4 GB VRAM: kvantizace jako cheat code pro LLM"
+    speakers:
+      - David Beneš
+    description: |
+      Stále častěji se nasazují LLM modely – od shrnutí dokumentů, přes opravy textu až po nové hry, kde NPC s pokročilou inteligencí s vámi smlouvá o ceně lektvaru. Pro produkční systémy je ideální server, ale co když jde jen o MVP nebo proof of concept? Lokální model je skvělá cesta. Jenže co dělat, když máte k dispozici jen 4 GB GPU RAM? Řešením jsou kvantizované modely, které snadno rozběhnete pomocí Ollama serveru.
+
+  - title: Lightning talks
+    lightning: true
+    description: |
+      Pokud máte zkušenost se zajímavou technologii, projektem, nebo chcete prezentovat sebe, či svou firmu a její aktivity, nebojte se přihlásit o slovo.
+      K dispozici můžete mít plných 5 minut pro své téma.
+      Témata možno domluvit mailem na tozitka@gmail.com případně u libovolného z organizátorů ve vhodnou chvíli při akci.
+      Také sbíráme náměty na přednášky pro další Pyva, více informací na [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+urls: []
