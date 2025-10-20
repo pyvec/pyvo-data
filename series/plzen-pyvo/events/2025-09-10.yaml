@@ -16,11 +16,21 @@ talks:
       - Lukáš Vlček - Notino, s.r.o.
     description: |
       Reálně využívané techniky zapojení LLM do aplikací, základní koncept RAGu (trocha teorie), ale hlavně jeho implementace v LangChainu (hodně praxe), měření úspěšnosti, tipy a triky pro lepší výsledky…
+    coverage:
+      - video: https://www.youtube.com/watch?v=ZDOS_QfVNUY
   - title: Představení Cloudflare
     speakers:
       - Martin Kubát - Mapotic
     description: |
       Lehké povídání o Cloudflare - jako CDN, jako firewall, jako AI platforma, jako všechno, co potřebujete pro moderní web aplikace.
+    coverage:
+      - video: https://www.youtube.com/watch?v=7Ssx_vWPUek
+  - title: FastMCP
+    speakers:
+      - Tomáš Bedřich
+    lightning: true
+    coverage:
+      - video: https://www.youtube.com/watch?v=689JFekE7xg
   - title: Lightning talks
     lightning: true
     description: |
