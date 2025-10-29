@@ -2,16 +2,29 @@ city: plzen
 start: 2025-11-12 18:00:00
 name: Plzeňské Pyvo
 number: 47
-topic: Připravujeme
+topic: Lokální jazykové modely
 venue: raven-pub-bolevec
 description: |
-  *Program připravujeme.*
+  Vážení přátelé a příznivci našich setkání!
+
+  V listopadu se vrátíme k tématu jazykových modelů. David Beneš nám ukáže, jak některé velké modely spustit lokálně i v případě, že máte omezené prostředky.
+
+  Čeká nás také krátké představení novinek z poslední verze Pythonu.
+
+  Přednášky začínají přibližně v 18:30, po přednáškách bude následovat jistě bohatá diskuze. Na viděnou!
 talks:
   - title: "Když máš jen 4 GB VRAM: kvantizace jako cheat code pro LLM"
     speakers:
       - David Beneš
     description: |
       Stále častěji se nasazují LLM modely – od shrnutí dokumentů, přes opravy textu až po nové hry, kde NPC s pokročilou inteligencí s vámi smlouvá o ceně lektvaru. Pro produkční systémy je ideální server, ale co když jde jen o MVP nebo proof of concept? Lokální model je skvělá cesta. Jenže co dělat, když máte k dispozici jen 4 GB GPU RAM? Řešením jsou kvantizované modely, které snadno rozběhnete pomocí Ollama serveru.
+
+  - title: Python π
+    description: |
+      V říjnu vyšla další "velká" verze Pythonu, tak je ideální čas si představit některé novinky.
+    lightning: true
+    speakers:
+      - Jan Smitka
 
   - title: Lightning talks
     lightning: true
