@@ -9,15 +9,25 @@ description: |
 
   V listopadu se vrátíme k tématu jazykových modelů. David Beneš nám ukáže, jak některé velké modely spustit lokálně i v případě, že máte omezené prostředky.
 
+  Tomáš Smolík nás pak zavede do světa PEP (Python Enhancement Proposals) a zavede nás tak do historie našeho oblíbeného jazyka.
+
   Čeká nás také krátké představení novinek z poslední verze Pythonu.
 
   Přednášky začínají přibližně v 18:30, po přednáškách bude následovat jistě bohatá diskuze. Na viděnou!
 talks:
   - title: "Když máš jen 4 GB VRAM: kvantizace jako cheat code pro LLM"
     speakers:
-      - David Beneš
+      - David Beneš - Siemens Advanta
     description: |
       Stále častěji se nasazují LLM modely – od shrnutí dokumentů, přes opravy textu až po nové hry, kde NPC s pokročilou inteligencí s vámi smlouvá o ceně lektvaru. Pro produkční systémy je ideální server, ale co když jde jen o MVP nebo proof of concept? Lokální model je skvělá cesta. Jenže co dělat, když máte k dispozici jen 4 GB GPU RAM? Řešením jsou kvantizované modely, které snadno rozběhnete pomocí Ollama serveru.
+
+  - title: "Python Fiction: Historky z PEPsvětí"
+    speakers:
+      - Tomáš Smolík - ZF Engineering Plzeň
+    description: |
+      Podíváme na některé legendární PEPy, které změnily svět Pythonu – nebo se o to aspoň pokusily. Jako proč trvalo 21 let, než jsme dostali match-case? Jaký PEP způsobil rezignaci samotného Guida? Které návrhy byly jen (dobře maskovaný) apríl?
+
+      Určeno pro všechny co chtějí se trochu pobavit historií jazyka, který denně používáme.
 
   - title: Python π
     description: |
