@@ -1,0 +1,51 @@
+name: Pražské Pyvo
+city: praha
+start: 2025-11-19 19:00:00
+venue: na-venecku
+topic: "The Need for Speed: Pandas, Polars, and PySpark for Data Analysis & My burnout journey"
+number: 174
+description: |
+
+  ### Co tě čeká
+  
+  Budou dvě přednášky, Dalibora Trapla a Petera Hozaka.
+  
+  Lightning talk můžeš mít i ty! Registrace nutná na [Lightning Talks – bit.ly/prpylight](https://bit.ly/prpylight).
+ 
+
+  ### What to expect
+  
+  There will be two talks, by Dalibor Trapl and by Peter Hozak.
+  
+  You can have a lightning talk as well – please register at [Lightning Talks – bit.ly/prpylight](https://bit.ly/prpylight).
+
+  ### Obecné 
+  - Na Pyvu jsou přednášky většinou česky, pokud přijde někdo, kdo česky nerozumí, přepneme do angličtiny, pokud se na to přednášející cítí.
+  - Kromě nealko a alko pití je možné se Na Věnečku najíst. Nabídka je proměnlivá a obvykle jde o 4 až 7 jídel od toastu, párků, přes bramborák se zelím, dršťkovou polévku a smažák v housce až po guláš nebo řízek.
+  - **Nezapomeň s sebou vzít hotovost – neberou karty.**
+  - Na Věnečku zavírají o půlnoci.
+  
+  ### General
+  - Talks at Pyvo are mostly in Czech but it there’s somebody who doesn’t understand Czech talks are switched to English if the speaker is able to.
+  - **Cash only payments – club doesn’t accept cards.**
+  - Besides both soft drinks and beer it's possible to eat at the club. Choice is variable and consists of 4 to 7 options ranging from toast, sausages and soup to fried cheese in a bun, goulash or schnitzel.
+  - Club closes at midnight.
+  
+talks:
+- title: "The Need for Speed: Pandas, Polars, and PySpark for Data Analysis"
+  speakers:
+    - Dalibor Trapl
+  description: |
+    Are you working with a dataset so large that your notebook running Pandas starts to freeze? 
+    
+    This talk is about modern alternatives for fast and scalable data analysis. Our main focus will be the Polars DataFrame library, which offers a dramatic speed improvement compared to Pandas. We will show when it pays off to use Polars instead of Pandas and discuss the key difference in approach: eager vs. lazy evaluation. We will briefly compare Polars with PySpark and I will share our experience integrating these technologies into our data pipelines. Learn how to speed up your data analysis and modernize your tech stack!
+- title: "My burnout journey"
+  speakers:
+    - Peter Hozak
+  description: |
+    A story of a programmer who loves to solve meaningful user problems and thrives best around competent product managers - a story about distance from customers, corporate management fast fashion, and AI slop. Also about communities and going for a walk.
+- title: Lightning talks
+  description: |
+    Svůj Ligtning talk si přihlaste na tradiční adrese https://bit.ly/prpylight.
+    
+    You can do your Ligtning talk too: add it to https://bit.ly/prpylight.
