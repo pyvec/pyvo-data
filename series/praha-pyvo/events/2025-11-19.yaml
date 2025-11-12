@@ -8,14 +8,14 @@ description: |
 
   ### Co tě čeká
   
-  Budou dvě přednášky, Dalibora Trapla a Petera Hozaka.
+  Budou dvě přednášky, Dalibora Trapla a Petra Hozáka.
   
   Lightning talk můžeš mít i ty! Registrace nutná na [Lightning Talks – bit.ly/prpylight](https://bit.ly/prpylight).
  
 
   ### What to expect
   
-  There will be two talks, by Dalibor Trapl and by Peter Hozak.
+  There will be two talks, by Dalibor Trapl and by Peter Hozák.
   
   You can have a lightning talk as well – please register at [Lightning Talks – bit.ly/prpylight](https://bit.ly/prpylight).
 
@@ -41,7 +41,7 @@ talks:
     This talk is about modern alternatives for fast and scalable data analysis. Our main focus will be the Polars DataFrame library, which offers a dramatic speed improvement compared to Pandas. We will show when it pays off to use Polars instead of Pandas and discuss the key difference in approach: eager vs. lazy evaluation. We will briefly compare Polars with PySpark and I will share our experience integrating these technologies into our data pipelines. Learn how to speed up your data analysis and modernize your tech stack!
 - title: "My burnout journey"
   speakers:
-    - Peter Hozak
+    - Peter Hozák
   description: |
     A story of a programmer who loves to solve meaningful user problems and thrives best around competent product managers - a story about distance from customers, corporate management fast fashion, and AI slop. Also about communities and going for a walk.
 - title: Lightning talks
