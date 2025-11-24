@@ -1,0 +1,24 @@
+city: brno
+start: 2025-11-27 19:00:00
+name: Brněnské Pyvo
+topic: πthonové πvo
+venue: artbar
+description: |
+    Listopadové Pyvo, poslední čtvrtek v měsíci v ArtBaru, jako obvykle.
+
+    ---
+
+    November Pyvo, last Thursday of the month at ArtBar, as usual.
+
+talks:
+    - title: What's New in Python 3.14
+      speakers:
+        - Petr Viktorin
+      description: |
+        Python 3.14.0 is out, with a lot of improvements for you to use.
+        I'll show off the most interesting new features, so you don't need to
+        read the [What's New document](https://docs.python.org/3.14/whatsnew/3.14.html)
+        yourself!
+
+        And maybe we'll also meet an unpleasant bug that slipped through.
+        Or maybe -- since it's almost December -- an easter egg?
