@@ -22,3 +22,13 @@ talks:
 
         And maybe we'll also meet an unpleasant bug that slipped through.
         Or maybe -- since it's almost December -- an easter egg?
+    - title: From Toxic Psychosis to Technical Director
+      speakers:
+        - Roman Viktor Dvořák
+      description: |
+        A talk about mental health, career struggles, burnout, and self-discovery. 
+        A personal story of moving from a difficult start in life through finding 
+        a new professional path, all the way to becoming a technical director 
+        — and what you learn when life forces you to reboot.
+        
+        Roman is a freelance technical manager working across software, hardware, electronics, and mechanics.
