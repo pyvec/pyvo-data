@@ -1,0 +1,23 @@
+city: plzen
+start: 2026-01-14 18:00:00
+name: Plzeňské Pyvo
+number: 48
+topic: Výkon
+venue: raven-pub-bolevec
+description: |
+  *Program připravujeme.*
+talks:
+  - title: "Jak jsem optimalizoval… a všechno zpomalil"
+    speakers:
+      - Bohuslav Šimek - PeoplePath s.r.o.
+    description: |
+      Podíváme se spolu na pár lekcí, které bych si přál znát dřív, než jsem se rozhodl „vylepšovat“ jednu docela složitou aplikaci. Na reálných mini-katastrofách si ukážeme, že sebelepší benchmark nic nezmůže, když ta největší brzda sedí za klávesnicí. A hlavně: jak u toho všeho neztratit nervy a ani smysl pro humor.
+
+  - title: Lightning talks
+    lightning: true
+    description: |
+      Pokud máte zkušenost se zajímavou technologii, projektem, nebo chcete prezentovat sebe, či svou firmu a její aktivity, nebojte se přihlásit o slovo.
+      K dispozici můžete mít plných 5 minut pro své téma.
+      Témata možno domluvit mailem na tozitka@gmail.com případně u libovolného z organizátorů ve vhodnou chvíli při akci.
+      Také sbíráme náměty na přednášky pro další Pyva, více informací na [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+urls: []
