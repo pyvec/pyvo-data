@@ -12,6 +12,16 @@ talks:
       - Bohuslav Šimek - PeoplePath s.r.o.
     description: |
       Podíváme se spolu na pár lekcí, které bych si přál znát dřív, než jsem se rozhodl „vylepšovat“ jednu docela složitou aplikaci. Na reálných mini-katastrofách si ukážeme, že sebelepší benchmark nic nezmůže, když ta největší brzda sedí za klávesnicí. A hlavně: jak u toho všeho neztratit nervy a ani smysl pro humor.
+  - title: "Tenkrát v Brně: Jak jsme hackli hackathon"
+    speakers:
+      - Luboš Smolík - VZÚ Plzeň / Na jedné vlně
+      - Zdeněk Kubín - VZÚ Plzeň / Na jedné vlně
+      - Václav Steinbach - VZÚ Plzeň / Na jedné vlně
+      - Jakub Šulda - VZÚ Plzeň / Na jedné vlně
+    description: |
+      V práci si chtěli uspořádat interní hackathon, jenže to nakonec neklaplo. Tak čtyři energetici a datoví analytici vyrazili na Hack Jak Brno 2025, aby řešili aktuální výzvy ve zdravotnictví, které mohou reálně pomoci pacientům i lékařům. A s pomocí Pythonu (a Matlabu) se jim podařilo vyhrát. Během dvou dnů vyvinuli prototyp AI asistenta, který může pomoci s léčbou obrny lícního nervu. Konkrétně kontroluje správné provedení mimických pohybů a analyzuje asymetrii obličeje.
+
+      Tento příběh, inspirovaný skutečnými událostmi, ukáže, co hackathon obnáší, jak se pracuje pod tlakem a proč má smysl občas vystoupit ze své komfortní zóny.
 
   - title: Lightning talks
     lightning: true
