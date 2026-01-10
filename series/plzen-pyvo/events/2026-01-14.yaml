@@ -5,7 +5,11 @@ number: 48
 topic: Výkon
 venue: raven-pub-bolevec
 description: |
-  *Program připravujeme.*
+  Vážení přátelé a příznivci našich setkání!
+
+  První letošní Pyvo zahájíme dvěma přednáškami s příběhy z praxe: Bohuslav Šimek nám popíše své trable při optimalizaci aplikace. Luboš Smolík a jeho tým z Výzkumného a zkušebního ústavu Plzeň nám pak představí, jak probíhala jejich účast na hackathonu v Brně. Obě přednášky se budou svým způsobem týkat výkonu: první bude o rychlosti aplikace, druhá o tom, jak dosáhnout dobrého výsledku v krátkém čase.
+
+  Přednášky začínají přibližně v 18:30, po přednáškách bude následovat jistě bohatá diskuze. Na viděnou!
 talks:
   - title: "Jak jsem optimalizoval… a všechno zpomalil"
     speakers:
