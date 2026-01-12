@@ -1,0 +1,38 @@
+city: brno
+start: 2026-01-29 19:00:00
+name: Brněnské Pyvo
+topic: Lednové
+venue: artbar
+description: |
+    První Pyvo v novém roce. Podíváme se na dizajn API a Polars, rychlou, škálovatelnou alternativu k Pandas.
+
+    Poslední čtvrtek v měsíci v ArtBaru, jako obvykle.
+
+    ---
+
+    First Pyvo of the new year. We'll take a look at API design and Polars, fast and scalable alternative to Pandas.
+
+    Last Thursday of the month at ArtBar, as usual.
+
+talks:
+    - title: How Beautiful APIs Come to Life
+      speakers:
+        - Ladislav Dobrovský
+      description: |
+        Let's deep dive into popular APIs and see how the authors make them work. Expect to see some import magic,
+        a LOT of decorators, chaining, proxy objects, and introspection.
+
+        Ladislav Dobrovský works as researcher at CEITEC BUT with HPC systems and uses Python since 3.3 (2012). Likes also C++ and GPUs.
+    - title: Are you working with a dataset so large that your notebook running Pandas starts to freeze?
+      speakers:
+        - Dalibor Trapl
+      description: |
+        This talk is about modern alternatives for fast and scalable data analysis.
+        Our main focus will be the Polars DataFrame library, which offers a dramatic speed improvement compared to Pandas.
+        We will show when it pays off to use Polars instead of Pandas and discuss the key difference in approach: eager vs. lazy evaluation.
+        We will briefly compare Polars with PySpark and I will share our experience integrating these technologies into our data pipelines.
+        Learn how to speed up your data analysis and modernize your tech stack!
+
+        Hi, I’m Dalibor. I moved from computational molecular simulation research to a Data Analyst role at Datamole during COVID lockdown.
+        My daily work revolves around time-series analysis.
+        I started out as a Pandas power user and have been adopting the latest tools in the Python data stack in recent years.
