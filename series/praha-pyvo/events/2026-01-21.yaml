@@ -1,0 +1,53 @@
+name: Pražské Pyvo
+city: praha
+venue: na-venecku   # na-hradbach ?
+start: 2026-01-21 18:30:00
+# topic: ...
+number: 176
+description: |
+  _See below for English_
+  
+  ### ⚠ DŮLEŽITÉ! ⚠
+  **Posunuli jsme začátek přednášek na 19:00, klub otevírá v 18:30.**
+  
+  #### Program
+  - 18:30 – Klub otevírá
+  - 19:00 – Přednáška „Advent of Code – CLI & Library“
+  - 19:45 – Lightning talks: přidej svůjna https://bit.ly/prpylight
+  - po 20:00 – Pokec u limonády nebo piva
+  
+  #### Obecné 
+  - Na Pyvu jsou přednášky většinou česky, pokud přijde někdo, kdo česky nerozumí, přepneme do angličtiny, pokud se na to přednášející cítí.
+  - Kromě nealko a alko pití je možné se Na Věnečku najíst. Nabídka je proměnlivá a obvykle jde o 4 až 7 jídel od toastu, párků, přes bramborák se zelím, dršťkovou polévku a smažák v housce až po guláš nebo řízek.
+  - **Nezapomeň s sebou vzít hotovost – neberou karty.**
+  - Na Věnečku zavírají o půlnoci.
+  
+  
+  ### ⚠ IMPORTANT!⚠
+  **We moved the talks start to 19:00, club opens at 18:30.**
+  
+  #### Schedule
+  - 18:30 – Doors open
+  - 19:00 – Talk “Advent of Code - CLI & Library”
+  - 19:45 – Lightning talks: add yours to https://bit.ly/prpylight
+  - after 20:00 – Networking
+  
+  #### General
+  - Talks at Pyvo are mostly in Czech but it there’s somebody who doesn’t understand Czech talks are switched to English if the speaker is able to.
+  - **Cash only payments – club doesn’t accept cards.**
+  - Besides both soft drinks and beer it's possible to eat at the club. Choice is variable and consists of 4 to 7 options ranging from toast, sausages and soup to fried cheese in a bun, goulash or schnitzel.
+  - Club closes at midnight.
+    
+talks:
+  - title: Advent of Code – CLI & Library
+    description: |
+      AoC je takový adventní kalendář. Ráno v 6 se odemkne nový problém, po vyřešení první části se odemkne druhá. Pro maximalizaci požitku (nebo spíš minimalizaci opruzů s vývojem spojených) jsem postupně napsal CLI klienta a sadu nástrojů. Ukážu jak pomocí Jinja a pytest začít den správně, jak se z shellu domluvit se serverem a jak dynamicky importovat modul s řešením. Přibalená je také knihovna funkcí pro řešení jednotlivých problémů (mapy, intervaly, algebra…).
+      AoC is like an advent calendar. At 6 a.m., a new problem is unlocked, and after solving the first part, the second part is unlocked. To maximize enjoyment (or rather minimize the hassles associated with development), I gradually wrote a CLI client and a set of tools. I will show you how to start your day right with Jinja and pytest, how to communicate with the server from the shell, and how to dynamically import the module with the solution. A library of functions for solving individual problems (maps, intervals, algebra…) is also included.
+    speakers:
+        - Miloslav Homer
+  - title: Lightning talks
+    lightning: true
+    description: |
+      Svůj Ligtning talk si přihlaste na tradiční adrese https://bit.ly/prpylight.
+      
+      You can do your Ligtning talk too: add it to https://bit.ly/prpylight....
