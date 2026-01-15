@@ -10,7 +10,7 @@ description: |
   ### ⚠ DŮLEŽITÉ! ⚠
   **Posunuli jsme začátek přednášek na 19:00, klub otevírá v 18:30.**
   
-  #### Program
+  #### Program
   - 18:30 – Klub otevírá
   - 19:00 – Přednáška „Advent of Code – CLI & Library“
   - 19:45 – Lightning talks: přidej svůjna https://bit.ly/prpylight
@@ -47,6 +47,7 @@ talks:
     speakers:
         - Miloslav Homer
   - title: Lightning talks
+    lightning: true
     description: |
       Svůj Ligtning talk si přihlaste na tradiční adrese https://bit.ly/prpylight.
       
