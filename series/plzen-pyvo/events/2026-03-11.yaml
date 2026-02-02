@@ -1,0 +1,35 @@
+city: plzen
+start: 2026-03-11 18:00:00
+name: Plzeňské Pyvo
+number: 49
+topic: Interoperabilita
+venue: raven-pub-bolevec
+description: |
+  Vážení přátelé a příznivci našich setkání!
+
+  Python lze dobře kombinovat s ostatními jazyky - část projektu můžeme mít v Pythonu, část v jiném jazyce. Na interoperabilitě s jazyky C a C++ je postaveno mnoho knihoven pro práci s daty, například Numpy či Pandas. Je to ale vždy nejvýkonnější řešení? O tom nám bude povídat David Beneš, který se zaměří na porovnání klasických knihoven a vlastního modulu v jazyce Rust.
+
+  **Další program připravujeme.**
+
+  Přednášky začínají přibližně v 18:30, po přednáškách bude následovat jistě bohatá diskuze. Na viděnou!
+talks:
+  - title: "Hybridní Python: Když NumPy nestačí"
+    speakers:
+      - David Beneš - Siemens Advanta
+    description: |
+      Co dělat, když potřebujete zpracovat gigabajty dat a každá milisekunda se počítá?
+
+      Ukážeme si "souboj" tří přístupů na úkolu zpracování 100 náhodných 4K obrázků (hledání barev a konvoluce):
+
+      - Čistý Python (pokud máte rádi kávu a chcete více času na YouTube videa).
+      - Klasika v OpenCV/NumPy (To je už jen na to kafe).
+      - Hybridní řešení s vlastním modulem v Rustu. 👌
+
+  - title: Lightning talks
+    lightning: true
+    description: |
+      Pokud máte zkušenost se zajímavou technologii, projektem, nebo chcete prezentovat sebe, či svou firmu a její aktivity, nebojte se přihlásit o slovo.
+      K dispozici můžete mít plných 5 minut pro své téma.
+      Témata možno domluvit mailem na tozitka@gmail.com případně u libovolného z organizátorů ve vhodnou chvíli při akci.
+      Také sbíráme náměty na přednášky pro další Pyva, více informací na [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+urls: []
