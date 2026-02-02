@@ -1,0 +1,19 @@
+city: ostrava
+start: 2026-02-04 18:00:00
+name: Ostravské Pyvo
+topic: Bezpečnostní zranitelnosti nejen v Pythonu
+description: |
+    Ahoj!
+
+    Odhalování bezpečnostních zranitelností v softwaru jde (i díky pokroku
+    v umělé inteligenci) rychlým tempem kupředu a denně se objevují hromady
+    nových nálezů. Pojďme se společně podívat na to, jak se zranitelnosti
+    číslují, jak se hodnotí jejich závažnost a jak snadné je do kódu
+    problém podobného typu přidat. Ve středu 4. února se uvidíme opět v
+    Palouku a začneme klasicky v 18:00
+
+    Tak přijďte, těšíme se na vás!
+venue: palouk
+talks: []
+urls:
+- https://www.meetup.com/ostravske-pyvo/events/313169285/
