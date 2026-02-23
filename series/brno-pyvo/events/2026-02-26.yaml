@@ -1,0 +1,32 @@
+city: brno
+start: 2026-02-26 19:00:00
+name: Brněnské Pyvo
+topic: Únorové
+venue: artbar
+description: |
+    Februárové Pyvo! Povieme si o kariérnom postupe v IT a ako technický skill sám o sebe nemusí stačiť.
+
+    Posledný štvrtok v mesiaci v ArtBare, ako obvykle.
+
+    ---
+
+    February Pyvo! We'll talk about IT careers and how technical skill may not be enough on its own.
+
+    Last Thursday of the month at ArtBar, as usual.
+
+talks:
+    - title: You have a job in IT. What now?
+      speakers:
+        - Veronika Kabátová
+      description: |
+        You did it! You've overcome the first hurdle and feel ready to build a career.
+        You still have a lot to learn - that's life in tech for you. But just having technical knowledge is rarely enough.
+        So, how do you *actually* get a promotion?
+
+        We'll talk about building a stable IT career in a typical corporate-like environment,
+        and what steps you need to take to grow in them.
+
+        The talk can be presented in Slovak or English based on audience's preferences.
+
+        Veronika is a long term Pyvo attendee, working as a Senior Principal Software Engineer in Red Hat.
+        Besides technical work, she also enjoys mentoring others.
