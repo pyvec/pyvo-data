@@ -1,0 +1,17 @@
+city: ostrava
+start: 2026-03-04 18:00:00
+name: Ostravské Pyvo
+topic: Březnový pokec - post Python Pizza
+description: |
+    Ahoj,
+
+    Zítra,4.3. v 18:00 se opět uvidíme v Palouku a tentokrát bude hlavní
+    téma rekapitulace přednášek z Python pizzy. Co Vás nejvíc zaujalo?
+    Dozvěděli jste se něco nového? A napadl Vás po akci nějaký
+    konstruktivní, nebo pozitivní feedback?
+
+    Určitě přijďte, těšíme se na vás!
+venue: palouk
+talks: []
+urls:
+- https://www.meetup.com/ostravske-pyvo/events/313618300/
