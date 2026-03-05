@@ -1,0 +1,42 @@
+name: Pražské Pyvo
+city: praha
+start: 2026-03-18 18:30:00
+venue: na-venecku
+topic: "You’ve Heard of the OWASP Top 10 — Now Meet the Other 90%"
+number: 178
+description: |
+
+  ### Co tě čeká
+  
+  Sraz je v 18:30 hodin Na Věnečku, přednášky začínají v 19.00. Čeka nás 1 přednáška, lightning talky a volná zábava až do rána.
+
+  Lightning talk můžeš mít i ty! Registrace nutná na [Lightning Talks – bit.ly/prpylight](https://bit.ly/prpylight).
+ 
+
+  ### What to expect
+  
+  We meet up at 18:30 at the club Na Věnečku, presentations start at 19.00. You can look forward to 1 presentation, lightning talks and chit-chat until early morning.
+
+  You can have a lightning talk as well – please register at [Lightning Talks – bit.ly/prpylight](https://bit.ly/prpylight).
+
+  ### Obecné 
+  - Na Pyvu jsou přednášky většinou česky, pokud přijde někdo, kdo česky nerozumí, přepneme do angličtiny, pokud se na to přednášející cítí.
+  - Kromě nealko a alko pití je možné se Na Věnečku najíst. Nabídka je proměnlivá a obvykle jde o 4 až 7 jídel od toastu, párků, přes bramborák se zelím, dršťkovou polévku a smažák v housce až po guláš nebo řízek.
+  - **Nezapomeň s sebou vzít hotovost – neberou karty.**
+  - Na Věnečku zavírají o půlnoci.
+  
+  ### General
+  - Talks at Pyvo are mostly in Czech but it there’s somebody who doesn’t understand Czech talks are switched to English if the speaker is able to.
+  - **Cash only payments – club doesn’t accept cards.**
+  - Besides both soft drinks and beer it's possible to eat at the club. Choice is variable and consists of 4 to 7 options ranging from toast, sausages and soup to fried cheese in a bun, goulash or schnitzel.
+  - Club closes at midnight.
+
+talks:
+- title: "You’ve Heard of the OWASP Top 10 — Now Meet the Other 90%"
+  speakers:
+    - Vojtech Snajdr
+  description: |
+    Most developers know OWASP for the famous Top 10 list, but that’s only a small part of what the organization actually does. OWASP is a huge ecosystem of tools, resources, standards, and experimental projects aimed at helping developers build more secure software.
+    In this talk, we’ll take a tour beyond the Top 10 and explore some of the interesting, practical, and sometimes surprising things OWASP has created, with a focus on ideas and tools you can apply in real projects right away.
+    Většina vývojářů si pod pojmem OWASP představí známý seznam Top 10 zranitelností. To je ale jen malá část toho, co tato organizace skutečně nabízí. OWASP je rozsáhlý ekosystém nástrojů, materiálů, standardů a experimentálních projektů, které pomáhají vývojářům vytvářet bezpečnější software.
+    V této přednášce se podíváme za hranice Top 10 a projdeme si zajímavé, praktické a možná i překvapivé projekty, které OWASP nabízí, s důrazem na myšlenky a nástroje, které můžete využít ve svých projektech.
