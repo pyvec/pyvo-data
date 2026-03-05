@@ -37,6 +37,9 @@ talks:
     - Vojtech Snajdr
   description: |
     Most developers know OWASP for the famous Top 10 list, but that’s only a small part of what the organization actually does. OWASP is a huge ecosystem of tools, resources, standards, and experimental projects aimed at helping developers build more secure software.
+    
     In this talk, we’ll take a tour beyond the Top 10 and explore some of the interesting, practical, and sometimes surprising things OWASP has created, with a focus on ideas and tools you can apply in real projects right away.
+    
     Většina vývojářů si pod pojmem OWASP představí známý seznam Top 10 zranitelností. To je ale jen malá část toho, co tato organizace skutečně nabízí. OWASP je rozsáhlý ekosystém nástrojů, materiálů, standardů a experimentálních projektů, které pomáhají vývojářům vytvářet bezpečnější software.
+    
     V této přednášce se podíváme za hranice Top 10 a projdeme si zajímavé, praktické a možná i překvapivé projekty, které OWASP nabízí, s důrazem na myšlenky a nástroje, které můžete využít ve svých projektech.
