@@ -1,0 +1,28 @@
+city: brno
+start: 2026-03-26 19:00:00
+name: Brněnské Pyvo
+topic: Březnové Agentní
+venue: artbar
+description: |
+    Marcové Pyvo! Posledný štvrtok v mesiaci v ArtBare, ako obvykle.
+
+    ---
+
+    March Pyvo! Last Thursday of the month at ArtBar, as usual.
+
+talks:
+    - title: What can A2A do for you and what can you do for it
+      speakers:
+        - Jiří Podivín
+      description: |
+        Proliferation of multiple agentic Al systems has created a need for a common protocol, enabling agents to share information
+        delegate tasks and generally coordinate their behavior.
+
+        The Agent2Agent (A2A) protocol is an emerging industry answer to this issue. The protocol, now under the stewardship of Linux Foundation, is being developed in open source tradition, with implementations in multiple major programming languages.
+
+        In this talk, we will examine:
+
+        - The Protocol Architecture: How are agent communications conducted
+        - Implementation patterns: Adding A2A capabilities to our agents
+        - Governance: How is the future direction of the protocol development decided
+        - Protocol extensions: How can we create new capabilities for A2A
