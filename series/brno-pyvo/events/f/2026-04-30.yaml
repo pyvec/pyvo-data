@@ -1,0 +1,32 @@
+name: Brněnské Pyvo
+city: brno
+venue: artbar   # u-drevaka, luzanky, park-bozetechova ?
+start: 2026-04-30 19:00:00
+topic: Dubnové Python & AI
+
+description: |
+    Dubnové Pyvo! Poslední čtvrtek v měsíci v ArtBaru, jako obvykle.
+
+    Tento večer: jak se učit Python v době, kdy AI umí napsat kód za vás?
+
+    ---
+
+    April Pyvo! Last Thursday of the month at ArtBar, as usual.
+
+    This evening: how do you learn Python in the age of AI-generated code?
+
+talks:
+    - title: "Edge of Developer: Learning Python in the Era of AI"
+      speakers:
+        - "Pavel Grochal"
+      description: |
+        AI can write Python faster than most of us. So what does that mean
+        for learning? Does it still matter to understand what the code does?
+
+        A personal talk about staying curious in an age when the answers are
+        always one prompt away — and why that curiosity is worth protecting.
+
+        We'll look at how AI changes the way we learn and build, where it
+        genuinely helps, and where it quietly creates new problems. Plus a
+        practical tour of Python constructs worth knowing if you want to
+        actually read and own the code that AI writes for you.
