@@ -1,0 +1,30 @@
+city: plzen
+start: 2026-05-13 18:00:00
+name: Plzeňské Pyvo
+number: 50
+topic: Jubilejní
+venue: techmania
+description: |
+  Vážení přátelé a příznivci našich setkání!
+
+  Po více než 8 letech je tady jubilejní 50. Plzeňské Pyvo. Připravujeme, aby bylo trochu jiné, než obvykle, a to i místem konání - přístřeší nám totiž tentokrát poskytne Techmania!
+
+  Program teprve připravujeme, ale už nyní víme, že to bude speciální. Co čekat?
+
+  - 2 až 3 zajímavé přednášky, rychlé lightning talks.
+  - Neotřelé prostory Techmanie.
+  - Občerstvení na místě - bez jídla a pití to nejde.
+  - A především: skvělí lidé!
+
+  Přijďte si pokecat, inspirovat se a pobavit se. Těšíme se na vás!
+
+talks:
+  - title: Program připravujeme.
+  - title: Lightning talks
+    lightning: true
+    description: |
+      Pokud máte zkušenost se zajímavou technologii, projektem, nebo chcete prezentovat sebe, či svou firmu a její aktivity, nebojte se přihlásit o slovo.
+      K dispozici můžete mít plných 5 minut pro své téma.
+      Témata možno domluvit mailem na jan.smitka@lynt.cz, případně u libovolného z organizátorů ve vhodnou chvíli při akci.
+      Také sbíráme náměty na přednášky pro další Pyva, více informací na [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+urls: []
