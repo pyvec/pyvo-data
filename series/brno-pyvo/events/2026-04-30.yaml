@@ -1,0 +1,25 @@
+city: brno
+start: 2026-04-30 19:00:00
+name: Brněnské Pyvo
+topic: Hudební
+venue: artbar
+description: |
+    Dubnové Pyvo, poslední čtvrtek v měsíci v ArtBaru, jako obvykle. 🙂 🍻
+
+    ---
+
+    April Pyvo, last Thursday of the month at ArtBar, as usual. 🙂 🍻
+
+talks:
+    - title: How to make music with Python in 2026
+      speakers:
+        - Moisés Guimarães
+      description: |
+        Exploring the intersection of Python and music, combining live demos, historical context,
+        and practical insights into how Python fits into music production and performance.
+        It draws on my experience using FoxDot - a Python interface to the SuperCollider
+        synthesizer - since 2017 to create interactive and engaging musical demos.
+        Building on that foundation, the talk also examines newer tools and alternatives that have emerged following FoxDot’s retirement.
+
+        Moisés Guimarães is a Brazilian programmer from the easternmost place of Americas with a background on cryptography
+        and information security and an extra room in his heart reserved for photography and music.
