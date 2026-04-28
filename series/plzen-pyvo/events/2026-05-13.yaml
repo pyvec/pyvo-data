@@ -7,26 +7,47 @@ venue: techmania
 description: |
   Vážení přátelé a příznivci našich setkání!
 
-  Po více než 8 letech je tady jubilejní 50. Plzeňské Pyvo. Připravujeme, aby bylo trochu jiné, než obvykle, a to i místem konání - přístřeší nám totiž tentokrát poskytne Techmania!
+  Po více než 8 letech je tady jubilejní 50. Plzeňské Pyvo. Připravujeme, aby bylo trochu jiné než obvykle, a to i místem konání - přístřeší nám totiž tentokrát poskytne Techmania!
 
-  Program teprve připravujeme, ale už nyní víme, že to bude speciální. Co čekat?
+  Čekají nás dvě zajímavé přednášky. Mia Bajić nám poví, jak jsou implementovány slovníky v jádře Pythonu a jak bylo možné znalost implementace použít k DoS útokům.
+  Jan Pipek nám pak ukáže, jak lze zpracovávat a vykreslovat data v moderních terminálech, i jak připravit živé dashboardy.
 
-  - 2 až 3 zajímavé přednášky, rychlé lightning talks.
-  - Neotřelé prostory Techmanie.
-  - Občerstvení na místě - bez jídla a pití to nejde.
-  - A především: skvělí lidé!
+  A co vás dále čeká?
+
+  - **Soutěž** o licenci na PyCharm či libovolné IDE od firmy JetBrains.
+  - Neotřelé prostory **Techmanie**.
+  - **Občerstvení** na místě - bez jídla a pití to nejde.
+  - A především: **skvělí lidé!**
 
   **Prosíme o [potvrzení účasti na Meetup.com](https://www.meetup.com/pyvo-pilsen/events/314301729/), abychom mohli zajistit dostatek jídla a pití.**
 
   Přijďte si pokecat, inspirovat se a pobavit se. Těšíme se na vás!
 
 talks:
-  - title: Program připravujeme.
+  - title: "Hash me if you can: pojďme si promluvit o slovnících!"
+    speakers:
+      - Mia Bajić
+    description: |
+      Slovníky všichni používáme neustále, ale většina z nás je bere jako černou skříňku. V této přednášce tuto skříňku otevřeme. Projdeme si, jak hash tabulky skutečně fungují
+      a co nás naučila zranitelnost „hash flooding" z roku 2011 o útocích na algoritmickou složitost. Podíváme se také na několik velmi podivných případů (`hash(-1) == hash(-2)`),
+      na narozeninový paradox a na to, proč se hash seed randomizuje. Na závěr se rychle podíváme na další struktury postavené na hashování - Bloom filtry a consistent hashing.
+  - title: Data v moderním terminálu
+    speakers:
+      - Jan Pipek
+    description: |
+      Skrze černou (či jinak barevnou) obrazovku s obdélníkovou sítí písmenek a jiných znaků vypadá svět úplně jinak. Při jeho zkoumání (tedy "datové analýze") budete potřebovat
+      vhodné nástroje - ať už v podobě samostatných utilit, nebo v podobě balíčků pro váš oblíbený programovací jazyk. Pojďme si tedy ukázat, co moderní terminál dovede,
+      jak v něm můžete zkoumat, prezentovat či dokonce vykreslovat (nejen) číselná data. S trochou odvahy se můžeme dostat i k živým dashboardům (ponechme stranou otázku,
+      je-li to dobrý nápad).
+  - title: Soutěž o licenci na PyCharm či libovolné IDE od firmy JetBrains
+    lightning: true
+    description: |
+      Otestujte si své znalosti Pythonu v rychlém kvízu a vyhrajte poukaz na předplatné na PyCharm či jiné IDE dle vlastního výběru od firmy JetBrains na 1 rok.
   - title: Lightning talks
     lightning: true
     description: |
-      Pokud máte zkušenost se zajímavou technologii, projektem, nebo chcete prezentovat sebe, či svou firmu a její aktivity, nebojte se přihlásit o slovo.
+      Pokud máte zkušenost se zajímavou technologií, projektem, nebo chcete prezentovat sebe či svou firmu a její aktivity, nebojte se přihlásit o slovo.
       K dispozici můžete mít plných 5 minut pro své téma.
-      Témata možno domluvit mailem na jan.smitka@lynt.cz, případně u libovolného z organizátorů ve vhodnou chvíli při akci.
+      Téma je možné domluvit mailem na jan.smitka@lynt.cz, případně u libovolného z organizátorů ve vhodnou chvíli při akci.
       Také sbíráme náměty na přednášky pro další Pyva, více informací na [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
 urls: []
