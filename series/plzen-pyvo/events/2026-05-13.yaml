@@ -61,6 +61,11 @@ talks:
       vhodné nástroje - ať už v podobě samostatných utilit, nebo v podobě balíčků pro váš oblíbený programovací jazyk. Pojďme si tedy ukázat, co moderní terminál dovede,
       jak v něm můžete zkoumat, prezentovat či dokonce vykreslovat (nejen) číselná data. S trochou odvahy se můžeme dostat i k živým dashboardům (ponechme stranou otázku,
       je-li to dobrý nápad).
+  - title: Python's self-discovery
+    speakers:
+      - Honza Král
+    description: |
+      Zajímalo tě někdy, jak přesně v Pythonu fungují objekty? Jaký je rozdíl mezi metodou a funkcí? Kde se bere to `self` nebo jak funguje `super`? Jo?! Tak SUPER, pojďme si to projít, ukázat, a naimplementovat přímo v Pythonu!
   - title: Soutěž o licenci na PyCharm či libovolné IDE od firmy JetBrains
     lightning: true
     description: |
