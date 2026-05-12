@@ -70,6 +70,14 @@ talks:
     lightning: true
     description: |
       Otestujte si své znalosti Pythonu v rychlém kvízu a vyhrajte poukaz na předplatné na PyCharm či jiné IDE dle vlastního výběru od firmy JetBrains na 1 rok.
+  - title: "Malvertising: když skrz Google reklamu instalujeme malware"
+    lightning: true
+    speakers:
+      - Luboš Smolík
+    description: |
+      V tomto lightning talku si ukážeme reálný případ útoku na uživatele, kteří chtějí využít Claude Code,
+      Codex nebo jiné AI coding platformy. Cílem může být krádež osobních údajů, session tokenů nebo
+      převzetí kontroly nad počítačem. Naučíme se rozpoznat varovné signály dříve, než spustíme příkaz.
   - title: Lightning talks
     lightning: true
     description: |
