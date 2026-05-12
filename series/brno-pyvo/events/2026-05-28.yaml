@@ -1,0 +1,26 @@
+city: brno
+start: 2026-05-28 19:00:00
+name: Brněnské Pyvo
+topic: Květnové
+venue: artbar
+description: |
+    Květnové Pyvo, poslední čtvrtek v měsíci v ArtBaru, jako obvykle. 🙂 🍻
+
+    ---
+
+    May Pyvo, last Thursday of the month at ArtBar, as usual. 🙂 🍻
+
+talks:
+    - title: "Orchesty 2.0: Integrační platforma navržená vývojáři pro vývojáře"
+      speakers:
+        - Jan Karel
+      description: |
+        Přednáška vám představí architekturuintegrační platformy Orchesty 2.0,
+        která staví na open-source základech a dává vývojářům absolutní kontrolu nad kódem i škálováním komplexních datových toků.
+        Ukážeme si, jak efektivně vyvíjet vlastní konektory, spravovat robustní workflow a využít platformu tam,
+        kde běžná automatizace naráží na své limity.
+
+        Jan se přes role architekta a CTO vypracoval v CEO dvou technologických firem, přičemž si zachoval inženýrské myšlení a selský rozum.
+        Od roku 2013 vede vývoj integrační platformy Orchesty, která se zaměřuje na robustní byznysovou logiku a škálovatelnost tam,
+        kde běžné „klikací" integrační nástroje končí. Jeho misí je poskytovat vývojářům svobodu a nástroje pro komplexní automatizaci
+        bez vendor lock-inu.
