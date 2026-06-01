@@ -1,0 +1,25 @@
+city: ostrava
+start: 2026-06-03 18:00:00
+name: Ostravské Pyvo
+topic: Vývoj transformer modelů ve velkém - výhody, problémy a účet za AWS
+description: |
+    Ahoj,
+
+    Ve středu 3.6. od 18:00 v restauraci Palouk nás opět čeká ostravské
+    Pyvo, tentokrát s Radkem Svobodou a jeho přednáškou Vývoj vlastních
+    transformer modelů ve velkém: výhody, problémy a účet za AWS.
+
+    Vybudovat vlastní transformer model s desítkami milionů parametrů je
+    technická výzva. Natrénovat ho na 100 TB proprietárních dat z Counter-
+    Strike 2 je logistická noční můra. Ve společnosti Rankacy jsme přešli z
+    pohodlného on-premise R&D prostředí na plnohodnotnou produkční pipeline
+    v AWS, abychom mohli analyzovat komplexní chování hráčů. Neproběhlo to
+    úplně hladce. Tato přednáška vynechává hype typu „AI je magie“ a místo
+    toho se zaměřuje na tvrdou realitu vývoje a nasazování vlastních modelů
+    v takovém měřítku.
+
+    Tak přijďte, těšíme se na Vás!
+venue: palouk
+talks: []
+urls:
+- https://www.meetup.com/ostravske-pyvo/events/314980396/
