@@ -1,0 +1,28 @@
+city: olomouc
+start: 2026-06-18 18:00:00
+name: Olomoucké Pyvo
+topic: Křemíkové
+venue: u-ptaka
+description: |
+    Nenechte se odradit mistrovstvím světa ve fotbalu a přijďte posedět a pohovořit nejen o Pythonu, ale také třeba o polovodičích.
+
+    Můžete se také přidat do [mailing listu Olomouckého Pyva](https://groups.google.com/forum/#!forum/olomoucke-pyvo)
+    a/nebo do kanálu [#pyvo-olomouc](https://pyvec.slack.com/archives/C7N6X4L5B) na
+    [PyVec Slacku](https://pyvec.slack.com/), abyste měli vždy aktuální informace.
+
+    Děkujeme a těšíme se na vaši účast!
+
+talks:
+
+    - title: "Polovodiče, křemík od diody po mikroprocesor"
+      speakers:
+        - Lubomír Přibyla
+      description: |
+        Přednáška s ukázkami komponent pro výrobu.
+
+    - title: "Moduly standardní knihovny Pythonu #1"
+      description: |
+        Pilotní díl série krátkých přednášek o modulech standardní knihovny.
+        Vhodné nejen začátečníky. Kdokoliv může představit svůj oblíbený modul.
+
+urls: []
