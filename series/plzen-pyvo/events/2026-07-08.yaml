@@ -1,0 +1,29 @@
+city: plzen
+start: 2026-07-08 18:00:00
+name: Plzeňské Pyvo
+number: 51
+topic: Pub kvíz & Networking
+venue: raven-pub-bolevec
+description: |
+  Červencové setkání plzeňské technologické komunity se ponese v duchu soutěžení a zábavy. Opět se potkáme na Lochotíně v Ravenu a prověříme své znalosti (nejen) z IT světa.
+
+  **Na co se těšit?**
+  Pub kvíz: Týmy sestavíme až na místě z přítomných účastníků. Ceny pro výherce jsou aktuálně v jednání!
+  Networking a zábava: Žádné formální přednášky, jen pokec s lidmi z oboru u dobrého piva.
+
+  💡 Vzkaz pro introverty: Nemusíš mít strach, že zůstaneš v koutě. Na místě tě do týmu adoptuje nějaký extrovert! 😎
+
+  Dorazte včas, ideálně před oficiálním začátkem, ať stihnete sestavování týmů!
+
+talks:
+  - title: "Pub Kvíz"
+    speakers:
+      - Tomáš Smolík
+  - title: Lightning talks
+    lightning: true
+    description: |
+      Pokud máte zkušenost se zajímavou technologií, projektem, nebo chcete prezentovat sebe či svou firmu a její aktivity, nebojte se přihlásit o slovo.
+      K dispozici můžete mít plných 5 minut pro své téma.
+      Téma je možné domluvit mailem na jan.smitka@lynt.cz, případně u libovolného z organizátorů ve vhodnou chvíli při akci.
+      Také sbíráme náměty na přednášky pro další Pyva, více informací na [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+urls: []
