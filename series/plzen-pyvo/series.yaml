@@ -13,6 +13,8 @@ organizer-info:
     mail: ja@tbedrich.cz
   - name: Jan Smitka
     mail: jan.smitka@lynt.cz
+  - name: Barbora Hůlová
+    mail: hulovaba@seznam.cz
 recurrence:
   description:
     cs: Pro Plzeňské Pyvo si rezervujte druhou středu každý lichý měsíc.
