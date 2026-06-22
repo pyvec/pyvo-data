@@ -1,0 +1,26 @@
+city: brno
+start: 2026-06-25 19:00:00
+name: Brněnské Pyvo - Červnové
+venue: artbar
+description: |
+    Červnové Pyvo, poslední čtvrtek v měsíci v ArtBaru, jako obvykle. 🙂 🍻
+
+    ---
+
+    June Pyvo, last Thursday of the month at ArtBar, as usual. 🙂 🍻
+
+talks:
+    - title: Python ve fabrice
+      speakers:
+        - Jaroslav Dvořák
+      description: |
+        Máte pocit, že Python patří jen do cloudu, webovek nebo k datovým vědcům?
+        Přijďte se podívat, jak reálně pomáhá v těžkém průmyslu a výrobě!
+
+        O čem to bude? Jaroslav Dvořák nám ukáže, k čemu všemu se dá Python využít z pohledu procesního technika,
+        elektrikáře a PLC programátora. V druhé části se detailněji zaměří na svůj aktuální projekt – monitoring strojů.
+        Upozornění: Přednáška nebude nahrávána z důvodu ochrany firemních dat, tak dorazte osobně!
+
+        O řečníkovi: Jaroslav Dvořák pracuje jako procesní technik, elektrikář a PLC programátor.
+        Ve své každodenní praxi kombinuje svět průmyslové automatizace s Pythonem,
+        kde ho využívá k efektivnější správě dat, automatizaci úkolů a monitoringu výroby.
