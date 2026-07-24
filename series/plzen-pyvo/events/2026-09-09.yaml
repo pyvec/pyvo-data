@@ -1,0 +1,29 @@
+city: plzen
+start: 2026-09-09 18:00:00
+name: Plzeňské Pyvo
+number: 52
+topic: Integrace a datové toky
+venue: raven-pub-bolevec
+description: |
+  Západočeští Pythonisté a Pythonistky!
+
+  Tématem zářijového Pyva budou datové integrace. Jan Karel z Orchesty Solutions nám přijde popovídat o jejich open-source integrační platformě. V rámci diskuze pak budou rádi za jakékoliv nápady k Python SDK.
+
+  Přednášky začínají přibližně v 18:30, po přednáškách bude následovat jistě bohatá diskuze. Na viděnou!
+
+talks:
+  - title: "Orchesty 2.0: Integrační platforma navržená vývojáři pro vývojáře"
+    speakers:
+      - Jan Karel - Orchesty Solutions
+    description: |
+      Přednáška vám představí architekturu integrační platformy Orchesty 2.0, která staví na open-source základech a dává vývojářům absolutní kontrolu nad kódem i škálováním komplexních datových toků. Ukážeme si, jak efektivně vyvíjet vlastní konektory, spravovat robustní workflow a využít platformu tam, kde běžná automatizace naráží na své limity.
+
+      Jan Karel se přes role architekta a CTO vypracoval v CEO dvou technologických firem, přičemž si zachoval inženýrské myšlení a selský rozum. Od roku 2013 vede vývoj integrační platformy Orchesty, která se zaměřuje na robustní byznysovou logiku a škálovatelnost tam, kde běžné „klikací“ integrační nástroje končí. Jeho misí je poskytovat vývojářům svobodu a nástroje pro komplexní automatizaci bez vendor lock-inu.
+  - title: Lightning talks
+    lightning: true
+    description: |
+      Pokud máte zkušenost se zajímavou technologií, projektem, nebo chcete prezentovat sebe či svou firmu a její aktivity, nebojte se přihlásit o slovo.
+      K dispozici můžete mít plných 5 minut pro své téma.
+      Téma je možné domluvit mailem na jan.smitka@lynt.cz, případně u libovolného z organizátorů ve vhodnou chvíli při akci.
+      Také sbíráme náměty na přednášky pro další Pyva, více informací na [pyvo.cz#info-for-speakers](https://pyvo.cz/#info-for-speakers).
+urls: []
