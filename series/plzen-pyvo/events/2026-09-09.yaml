@@ -7,7 +7,7 @@ venue: raven-pub-bolevec
 description: |
   Západočeští Pythonisté a Pythonistky!
 
-  Tématem zářijového Pyva budou datové integrace. Jan Karel z Orchesty Solutions nám přijde popovídat o jejich open-source integrační platformě. V rámci diskuze pak budou rádi za jakékoliv nápady k Python SDK.
+  Tématem zářijového Pyva budou datové integrace. Jan Karel z Orchesty Solutions nám přijde popovídat o jejich open-source integrační platformě. V rámci diskuze pak budou rádi za jakékoliv nápady k Python SDK. Jan Smitka nám pak v krátké přednášce odprezentuje tipy, které se mu osvědčily při práci s Claude Code.
 
   Přednášky začínají přibližně v 18:30, po přednáškách bude následovat jistě bohatá diskuze. Na viděnou!
 
@@ -19,6 +19,13 @@ talks:
       Přednáška vám představí architekturu integrační platformy Orchesty 2.0, která staví na open-source základech a dává vývojářům absolutní kontrolu nad kódem i škálováním komplexních datových toků. Ukážeme si, jak efektivně vyvíjet vlastní konektory, spravovat robustní workflow a využít platformu tam, kde běžná automatizace naráží na své limity.
 
       Jan Karel se přes role architekta a CTO vypracoval v CEO dvou technologických firem, přičemž si zachoval inženýrské myšlení a selský rozum. Od roku 2013 vede vývoj integrační platformy Orchesty, která se zaměřuje na robustní byznysovou logiku a škálovatelnost tam, kde běžné „klikací“ integrační nástroje končí. Jeho misí je poskytovat vývojářům svobodu a nástroje pro komplexní automatizaci bez vendor lock-inu.
+  - title: Mých 10 tipů pro Claude Code (a vývoj s AI)
+    speakers:
+      - Jan Smitka
+    description: |
+      Na minulých setkáních se objevovaly různé tipy a střípky týkající se vývoje s AI, ať už ve formě lightning talků či příspěvků v diskuzích. Inspirovalo mě to ke shrnutí poznatků a tipů, které se mi v praxi osvědčily.
+
+      Tipy se budou týkat různých oblastí: zlepšení bezpečnosti, rozhraní pro práci s více paralelními agenty, prompting, pomocné skilly, pracovní postupy a další. Naprostou většinu využijete i s jinými modely a nástroji!
   - title: Lightning talks
     lightning: true
     description: |
