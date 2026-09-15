@@ -26,6 +26,8 @@ talks:
       Na minulých setkáních se objevovaly různé tipy a střípky týkající se vývoje s AI, ať už ve formě lightning talků či příspěvků v diskuzích. Inspirovalo mě to ke shrnutí poznatků a tipů, které se mi v praxi osvědčily.
 
       Tipy se budou týkat různých oblastí: zlepšení bezpečnosti, rozhraní pro práci s více paralelními agenty, prompting, pomocné skilly, pracovní postupy a další. Naprostou většinu využijete i s jinými modely a nástroji!
+    coverage:
+      - slides: https://speakerdeck.com/jsmitka/mych-10-tipu-pro-claude-code-a-vyvoj-s-ai
   - title: Slosování o roční licenci na libovolné IDE od JetBrains
     lightning: true
     description: |
