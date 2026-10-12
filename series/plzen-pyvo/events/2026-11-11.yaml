@@ -7,7 +7,7 @@ venue: raven-pub-bolevec
 description: |
   Západočeští Pythonisté a Pythonistky!
 
-  Tématem posledního Pyva v roce 2026 bude hardware. Vladimír Smitka nám představí svůj herní engine Picogame, který se stal oficiální součástí projektu CircuitPython. Pokud máte doma nějaký zajímavý hardware, budeme rádi pokud jej představíte ostatním!
+  Tématem posledního Pyva v roce 2026 bude hardware. Vladimír Smitka nám představí svůj herní engine Picogame, který se stal oficiální součástí projektu CircuitPython. Petr Hodina nám pak poví, jak díky Python nástrojům můžete dostat Linux (či jiný alternativní OS) na svůj mobilní telefon. Pokud máte doma nějaký zajímavý hardware, budeme rádi pokud jej představíte ostatním!
 
   Přednášky začínají přibližně v 18:30, po přednáškách bude následovat jistě bohatá diskuze. Na viděnou!
 
@@ -17,6 +17,13 @@ talks:
       - Vladimír Smitka
     description: |
       Anotace bude doplněna.
+  - title: "Mobilní Linux na androidím telefonu, aneb automatizuj instalaci pomocí Pythonu"
+    speakers:
+      - Petr Hodina
+    description: |
+      BangleOS nebo NixOS na telefonu s Androidem zní skvěle, dokud nenarazíte na fastboot, heimdall, roztodivné partition layouty a bootloadery. V talku ukážu DryDock, open-source Python nástroj, který flashování mobilního Linuxu (i alternativních ROMů typu LineageOS) proměňuje v jeden příkaz: detekce zařízení, kontrola kompatibility, zálohování partition a bezpečný návrat ke stock ROMu. Celý proces si ukážeme na reálném hardwaru.
+
+      Pokud máte nějaký telefon/tablet (s ARM CPU) doma v šuplíku, tak jej přineste. Po přednášce se o něm u piva můžeme pobavit.
   - title: Slosování o roční licenci na libovolné IDE od JetBrains
     lightning: true
     description: |
