@@ -1,0 +1,19 @@
+city: brno
+start: 2026-10-29 19:00:00
+name: Brněnské Pyvo
+topic: Říjnové
+venue: artbar
+description: |
+    Říjnové Pyvo, poslední čtvrtek v měsíci v ArtBaru, jako obvykle. 🙂 🍻
+
+    ---
+
+    October Pyvo, last Thursday of the month at ArtBar, as usual. 🙂 🍻
+
+talks:
+    - title: Jak se Python brání zrychlení?
+      speakers:
+        - Ladislav Dobrovský
+      description: |
+        Ukázky krás dynamičnosti Pythonu a jak některé vlastnosti hází klacky pod nohy snahám Python zrychlit.
+        Pokroky free threading implementace CPythonu a nahlédnutí pod pokličku projektů jako jsou PyPy, SPy, Cython a Numba.
