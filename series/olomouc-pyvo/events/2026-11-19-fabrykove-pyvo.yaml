@@ -1,0 +1,27 @@
+city: olomouc
+start: 2026-11-19 18:00:00
+name: Olomoucké Pyvo
+topic: Python ve fabryce
+venue: u-ptaka
+description: |
+    Jarda nám řekne o tom, jak používá Python ve fabryce. Kuba povykládá o bezpečnostních zranitelnostech.
+
+    Můžete se také přidat do [mailing listu Olomouckého Pyva](https://groups.google.com/forum/#!forum/olomoucke-pyvo)
+    a/nebo do kanálu [#pyvo-olomouc](https://pyvec.slack.com/archives/C7N6X4L5B) na
+    [PyVec Slacku](https://pyvec.slack.com/), abyste měli vždy aktuální informace.
+
+    Děkujeme a těšíme se na vaši účast!
+
+talks:
+    - title: "Python ve fabryce"
+      speakers:
+          - Jarda Dvořák
+      description: |
+          Jak mi Python pomáhá při práci ve fabryce.
+
+    - title: "Bezpečnostní zranitelnosti"
+      speakers:
+          - Kuba Beránek
+      description: |
+          Vysvětlím, co jsou bezpečnostní zranitelnosti, zejména ty vznikající paměťovými chybami, a ukážeme si několik nedávných případů.
+urls: []
