@@ -16,7 +16,9 @@ talks:
     speakers:
       - Vladimír Smitka
     description: |
-      Anotace bude doplněna.
+      Jak udělat v Pythonu plynulou hru na mikrokontroléru za 100Kč, do jehož paměti se nevejde ani jeden snímek obrazovky? Ukáži, jak a proč jsem tvořil vlastní herní engine picogame, jaká omezení jsem musel překonat, jakou roli v tom hrálo AI (velkou), kde pomohlo a kde to drhlo. Proberu rozdělení funkcí mezi C a Python, ekosystém, který jsem k tomu vybudoval, i cestu do upstreamu CircuitPython. A když se poštěstí, tak i krátkou live ukázku, co lze v picogame udělat.
+
+      Po přednášce zvládne být herním vývojářem opravdu každý ;-)
   - title: "Mobilní Linux na androidím telefonu, aneb automatizuj instalaci pomocí Pythonu"
     speakers:
       - Petr Hodina
