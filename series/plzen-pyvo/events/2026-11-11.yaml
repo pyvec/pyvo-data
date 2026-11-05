@@ -26,6 +26,11 @@ talks:
       BangleOS nebo NixOS na telefonu s Androidem zní skvěle, dokud nenarazíte na fastboot, heimdall, roztodivné partition layouty a bootloadery. V talku ukážu DryDock, open-source Python nástroj, který flashování mobilního Linuxu (i alternativních ROMů typu LineageOS) proměňuje v jeden příkaz: detekce zařízení, kontrola kompatibility, zálohování partition a bezpečný návrat ke stock ROMu. Celý proces si ukážeme na reálném hardwaru.
 
       Pokud máte nějaký telefon/tablet (s ARM CPU) doma v šuplíku, tak jej přineste. Po přednášce se o něm u piva můžeme pobavit.
+  - title: "Python 3.15: deset zajímavých novinek s praktickými ukázkami"
+    speakers:
+      - Jiří Prchlík
+    lightning: true
+
   - title: Slosování o roční licenci na libovolné IDE od JetBrains
     lightning: true
     description: |
