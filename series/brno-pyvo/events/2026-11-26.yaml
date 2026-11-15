@@ -1,0 +1,26 @@
+city: brno
+start: 2026-11-26 19:00:00
+name: Brněnské Pyvo
+topic: Listopadové
+venue: artbar
+description: |
+    Listopadové Pyvo, poslední čtvrtek v měsíci v ArtBaru, jako obvykle. 🙂 🍻
+
+    ---
+
+    November Pyvo, last Thursday of the month at ArtBar, as usual. 🙂 🍻
+
+talks:
+    - title: "URLs Are Harder Than You Think: WHATWG URL and Python"
+      speakers:
+        - Oleksandr Pavliuk
+      description: |
+        In this talk, we'll explore URL standards, from RFCs to the WHATWG URL Standard, and why WHATWG matters beyond web browsers.
+        We'll look at what Python's standard library offers, where WHATWG URL comes into play in Python's own standards,
+        and some real-world examples of why URL parsing differences matter.
+
+        About the speaker:
+
+        With all the hype around AI these days, I'm a software engineer who's still fascinated by good old Python,
+        open source, network programming, and web standards.
+        I'm also the author of pywhatwgurl, an open-source Python implementation of the WHATWG URL Standard.
