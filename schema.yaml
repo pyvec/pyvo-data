@@ -20,6 +20,9 @@ properties:
                 $ref: '#/definitions/location'
               _source:
                 type: string
+            required:
+              - name
+              - location
           venues:
             type: object
             additionalProperties: false
@@ -104,6 +107,8 @@ properties:
             required:
               - name
               - city
+              - description
+              - organizer-info
           events:
             type: object
             additionalProperties: false
@@ -193,8 +198,11 @@ properties:
                     type: string
                 required:
                   - name
+                  - start
                   - city
                   - talks
+        required:
+          - series
   meta:
     type: object
     additionalProperties: false
@@ -228,6 +236,9 @@ definitions:
         $ref: '#/definitions/geo-coordinate'
       longitude:
         $ref: '#/definitions/geo-coordinate'
+    required:
+      - latitude
+      - longitude
   string-translations:
     type: object
     additionalProperties: false
