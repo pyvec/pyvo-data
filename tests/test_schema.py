@@ -4,7 +4,7 @@ import datetime
 import jsonschema
 import yaml
 
-from pyvodb.load import dict_from_directory
+from loader import dict_from_directory
 
 data_dir = Path(__file__).parent.parent
 

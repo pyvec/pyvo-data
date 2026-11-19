@@ -3,4 +3,6 @@ ignored_files:
   - 'README'
   - 'README.md'
   - 'tests'
-  - 'test-requirements.txt'
+  - 'pyproject.toml'
+  - 'uv.lock'
+  - '.python-version'
