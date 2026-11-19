@@ -1,6 +1,6 @@
 This repo contains all the info about Pyvo meetups in the Czech Republic.
 
-[![Build Status](https://travis-ci.org/pyvec/pyvo-data.svg?branch=master)](https://travis-ci.org/pyvec/pyvo-data)
+[![Build Status](https://github.com/pyvec/pyvo-data/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/pyvec/pyvo-data/actions/workflows/main.yml)
 
 How to add an event
 -------------------
